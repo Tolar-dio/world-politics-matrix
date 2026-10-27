@@ -40,6 +40,10 @@ KIR:
   baseline: >-
     Taneti Maamau won a third term in 2024. He switched recognition from Taiwan to China in 2019, and China has funded infrastructure and police cooperation. A plan to restart a WWII-era airstrip on Kanton Island with Chinese help has worried the US and Australia.
   leaders: {state: "President Taneti Maamau, since 2016", gov: "The president heads the government"}
+  power: >-
+    A presidential republic in which parliament nominates the candidates and voters elect the
+    president directly for four years, at most three terms.
+  story: steady
 
 MHL:
   pop: 0.04
@@ -56,6 +60,10 @@ MHL:
   baseline: >-
     Hilda Heine was elected president again by parliament in January 2024. The Marshall Islands recognises Taiwan, and its renewed US compact secured new funding over 20 years.
   leaders: {state: "President Hilda Heine, since January 2024", gov: "The president heads the government"}
+  power: >-
+    A parliamentary system: the 33-seat Nitijela elects the president, who is both head of state and
+    head of government.
+  story: steady
 
 FSM:
   pop: 0.11
@@ -72,6 +80,10 @@ FSM:
   baseline: >-
     Wesley Simina was chosen president by Congress in 2023. The Federated States of Micronesia renewed its Compact of Free Association with the US in 2024.
   leaders: {state: "President Wesley Simina, since 2023", gov: "The president heads the government"}
+  power: >-
+    A federation of four island states. Congress elects the president from among its at-large
+    senators, and the states hold much of the power.
+  story: steady
 
 NRU:
   pop: 0.012
@@ -88,6 +100,10 @@ NRU:
   baseline: >-
     David Adeang was elected president in 2023. Nauru switched recognition from Taiwan to China in January 2024 and signed a security and banking treaty with Australia in 2024 that gives Canberra a say over its security deals.
   leaders: {state: "President David Adeang, since 2023", gov: "The president heads the government"}
+  power: >-
+    A parliamentary republic. The 19-member parliament elects the president, who heads both state
+    and government.
+  story: steady
 
 NZL:
   pop: 5.3
@@ -116,6 +132,11 @@ PLW:
   baseline: >-
     Surangel Whipps Jr. won re-election in November 2024. He has urged a stronger US military presence and agreed in 2025 to take some third-country migrants deported from the US.
   leaders: {state: "President Surangel Whipps Jr., since 2021", gov: "The president heads the government"}
+  power: >-
+    A presidential republic modelled on the US. The president is directly elected for four years,
+    the legislature has a Senate and a House of Delegates, and a Council of Chiefs advises on
+    custom.
+  story: steady
 
 PNG:
   pop: 10.8
@@ -144,6 +165,11 @@ WSM:
   baseline: >-
     La'auli Leuatea Schmidt, who split from Prime Minister Fiamē Naomi Mata'afa, led FAST to victory in an August 2025 snap election and became prime minister.
   leaders: {state: "Head of State Tuimalealiʻifano Vaʻaletoʻa Sualauvi II", gov: "Prime Minister La'auli Leuatea Schmidt, since 2025"}
+  power: >-
+    A parliamentary democracy. The prime minister leads the majority in the Legislative Assembly,
+    where almost all candidates must hold a matai chiefly title; parliament elects the head of state
+    for five years.
+  story: steady
 
 SLB:
   pop: 0.83
@@ -159,6 +185,12 @@ SLB:
   baseline: >-
     Manele, foreign minister under Manasseh Sogavare, became prime minister in 2024. After coalition splits, he lost a no-confidence vote on 7 May 2026 by 26 votes to 22, and parliament elected Matthew Wale as prime minister on 15 May.
   leaders: {state: "King Charles III, represented by a governor-general", gov: "Prime Minister Matthew Wale, since May 2026"}
+  power: >-
+    A parliamentary democracy and Commonwealth realm. Parliament elects the prime minister, and
+    shifting coalitions make no-confidence votes common.
+  story: election
+  sources:
+    - {label: "International IDEA: Solomon Islands, May 2026", url: "https://www.idea.int/democracytracker/report/solomon-islands/may-2026"}
 
 TON:
   pop: 0.10
@@ -174,6 +206,12 @@ TON:
   baseline: >-
     After the November 2025 election, the Legislative Assembly chose Lord Fakafānua, a noble and former speaker, as prime minister in December 2025, replacing ʻAisake Eke.
   leaders: {state: "King Tupou VI, since 2012", gov: "Prime Minister Lord Fakafānua, since December 2025"}
+  power: >-
+    A constitutional monarchy. The Legislative Assembly, with 17 seats elected by commoners and 9 by
+    nobles, elects the prime minister; the king keeps significant powers.
+  story: steady
+  sources:
+    - {label: "Wikipedia: Prime Minister of Tonga", url: "https://en.wikipedia.org/wiki/Prime_Minister_of_Tonga"}
 
 TUV:
   pop: 0.0096
@@ -189,6 +227,10 @@ TUV:
   baseline: >-
     Feleti Teo became prime minister in 2024. Tuvalu remains one of the few countries to recognise Taiwan.
   leaders: {state: "King Charles III, represented by a governor-general", gov: "Prime Minister Feleti Teo, since 2024"}
+  power: >-
+    A parliamentary democracy and Commonwealth realm with no political parties: the 16 members of
+    parliament elect the prime minister.
+  story: steady
 
 VUT:
   pop: 0.34
@@ -204,3 +246,8 @@ VUT:
   baseline: >-
     After a snap election in January 2025, Jotham Napat became prime minister at the head of a coalition, ending a period of frequent no-confidence votes.
   leaders: {state: "President Nikenike Vurobaravu", gov: "Prime Minister Jotham Napat, since February 2025"}
+  power: >-
+    A parliamentary republic. Parliament elects the prime minister, and an electoral college chooses
+    a largely ceremonial president; frequent no-confidence votes prompted reforms to curb party-
+    switching.
+  story: steady

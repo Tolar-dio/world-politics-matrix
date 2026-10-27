@@ -236,9 +236,28 @@ button { font: inherit; color: inherit; }
   margin: 30px 0 10px; padding-top: 16px; border-top: 1px solid var(--rule);
 }
 .intro p { margin: 0 0 12px; }
-.parts-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
-.parts-list li { display: grid; grid-template-columns: 74px 1fr; gap: 8px; font-family: var(--sans); font-size: 14px; color: var(--ink-2); align-items: baseline; }
-.parts-list b { color: var(--ink); font-weight: 700; }
+.glance { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
+.glance-row {
+  display: grid; grid-template-columns: 14px 1fr auto; gap: 10px; align-items: center; width: 100%;
+  border: 0; background: none; padding: 0; cursor: pointer; text-align: left;
+  font-family: var(--sans); font-size: 15px; font-weight: 600; color: var(--ink);
+}
+.glance-row:hover .glance-label { text-decoration: underline; text-decoration-color: var(--brass); }
+.glance-row .swatch { width: 14px; height: 14px; }
+.glance-n { font-variant-numeric: tabular-nums; color: var(--ink-2); font-weight: 500; }
+.glance-eg { margin: 2px 0 0 24px !important; font-family: var(--sans); font-size: 13.5px; color: var(--ink-2); line-height: 1.45; }
+.link { border: 0; background: none; padding: 0; font: inherit; color: var(--link); cursor: pointer; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 2px; }
+.link:hover { text-decoration-color: var(--brass); }
+.longest { list-style: none; padding: 0; margin: 0; display: grid; gap: 2px; }
+.longest button {
+  display: grid; grid-template-columns: 52px 1fr; gap: 10px; align-items: baseline; width: 100%;
+  border: 0; background: none; padding: 7px 0; cursor: pointer; text-align: left; border-bottom: 1px solid var(--rule);
+}
+.longest li:last-child button { border-bottom: 0; }
+.lp-year { font-family: var(--sans); font-stretch: 112%; font-weight: 800; font-size: 18px; color: var(--brass-deep); font-variant-numeric: tabular-nums; }
+.lp-who { display: flex; flex-direction: column; font-family: var(--sans); font-size: 14px; color: var(--ink-2); line-height: 1.35; }
+.lp-who b { color: var(--ink); font-weight: 600; font-size: 15px; }
+.longest button:hover b { text-decoration: underline; text-decoration-color: var(--brass); }
 .browse details { border-bottom: 1px solid var(--rule); }
 .browse summary {
   cursor: pointer; padding: 9px 0; font-family: var(--sans); font-weight: 600; font-size: 15px;
@@ -253,8 +272,7 @@ button { font: inherit; color: inherit; }
   font-family: var(--sans); font-size: 14px; color: var(--ink); display: flex; gap: 6px; align-items: baseline;
 }
 .browse button:hover { color: var(--link); text-decoration: underline; }
-.browse .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--brass); flex: none; transform: translateY(-1px); }
-.browse .dot.off { background: transparent; box-shadow: inset 0 0 0 1px var(--ink-3); }
+.browse .dot { width: 8px; height: 8px; border-radius: 2px; flex: none; transform: translateY(-1px); box-shadow: inset 0 0 0 1px rgba(31, 42, 51, 0.2); }
 .intro-foot { font-family: var(--sans); font-size: 12.5px; color: var(--ink-3); margin-top: 28px !important; line-height: 1.5; }
 .intro-foot a { color: inherit; }
 
@@ -273,13 +291,15 @@ button { font: inherit; color: inherit; }
 }
 .close:hover { border-color: var(--ink); }
 .close svg { width: 14px; height: 14px; }
-.coverage {
-  margin: 16px 0 0; padding: 8px 12px; border-radius: 6px;
-  font-family: var(--sans); font-size: 13.5px; line-height: 1.4;
-  background: color-mix(in srgb, var(--brass) 14%, transparent); color: var(--ink);
-  border-left: 3px solid var(--brass);
+.status {
+  margin: 12px 0 0; font-family: var(--sans); font-size: 13px; line-height: 1.4; color: var(--ink-2);
+  display: flex; align-items: center; gap: 8px;
 }
-.coverage.pending { background: var(--chip); border-left-color: var(--ink-3); color: var(--ink-2); }
+.status::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: var(--brass); flex: none; }
+.status.short::before { background: transparent; box-shadow: inset 0 0 0 1.5px var(--ink-3); }
+.tenure { display: flex; align-items: center; gap: 7px; font-family: var(--sans); font-size: 13.5px; color: var(--ink-2); margin-top: 4px !important; }
+.update { margin: 0 0 14px; padding: 10px 14px; border-radius: 6px; background: color-mix(in srgb, var(--brass) 14%, transparent); border-left: 3px solid var(--brass); }
+.update p { margin: 0 !important; font-size: 16px; }
 .snapshot { font-size: 21px; line-height: 1.4; margin: 18px 0 0; }
 .facts {
   display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px 18px;

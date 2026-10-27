@@ -164,6 +164,9 @@ def alias_table(base: dict[str, dict], ids: set[str]) -> dict[str, str]:
         "Saint Kitts and Nevis": "KNA", "Saint Lucia": "LCA",
         "Saint Vincent and the Grenadines": "VCT", "Myanmar": "MMR",
         "Netherlands": "NLD", "Philippines": "PHL",
+        "DRC": "COD", "Congo Kinshasa": "COD", "Congo Brazzaville": "COG", "Britain": "GBR",
+        "Vatican City": "VAT", "Swaziland": "SWZ", "Macedonia": "MKD", "Burma": "MMR",
+        "Ivory Coast": "CIV", "Persia": "IRN", "Holland": "NLD",
     }
     for k, v in manual.items():
         table[norm(k)] = v
@@ -284,6 +287,40 @@ def paras(text: str | None) -> list[str]:
     return [md_inline(" ".join(p.split()))[0] for p in re.split(r"\n\s*\n", text.strip())]
 
 
+# ---------- tenure ----------
+TENURE_BUCKETS = [  # (key, first year inclusive)
+    ("new", 2026), ("y1-3", 2023), ("y4-10", 2016), ("y11-20", 2006), ("y20plus", 0),
+]
+
+
+def tenure_bucket(since):
+    if since is None:
+        return "collective"
+    for key, first in TENURE_BUCKETS:
+        if since >= first:
+            return key
+    return "y20plus"
+
+
+def load_tenure(ids: set[str]) -> dict[str, dict]:
+    path = CONTENT / "tenure.yaml"
+    data = yaml.safe_load(path.read_text()) or {}
+    missing = sorted(ids - set(data))
+    if missing:
+        fail(f"tenure.yaml: no entry for {' '.join(missing)}")
+    return data
+
+
+def merge_sources(*lists):
+    seen, out = set(), []
+    for lst in lists:
+        for src in lst or []:
+            if src["url"] not in seen:
+                seen.add(src["url"])
+                out.append({"label": src["label"], "url": src["url"]})
+    return out
+
+
 # ---------- main ----------
 def main() -> None:
     base = load_base()
@@ -291,6 +328,8 @@ def main() -> None:
     aliases = alias_table(base, ids)
     parts_meta, narratives = parse_parts(aliases)
     profiles = load_profiles(ids)
+    tenure = load_tenure(ids)
+    checked = f"{MONTHS[date.today().month - 1]} {date.today().year}"
 
     topo = json.loads((SOURCE / "world-ne50.topo.json").read_text())
     geoms = topo["objects"]["countries"]["geometries"]
@@ -336,8 +375,11 @@ def main() -> None:
         entities.append({
             "id": cid, "name": name, "flag": c.get("flag", ""), "region": c.get("region"),
             "subregion": c.get("subregion"), "lat": lat, "lng": lng, "tiny": tiny,
-            "system": prof.get("system"), "story": prof.get("story") if nar else None,
-            "part": nar["part"] if nar else None, "snapshot": prof.get("snapshot"),
+            "system": prof.get("system"), "story": prof.get("story"),
+            "depth": "full" if nar else "short", "snapshot": prof.get("snapshot"),
+            "leader": tenure[cid].get("leader"), "since": tenure[cid].get("since"),
+            "tenure": tenure_bucket(tenure[cid].get("since")),
+            "pop": prof.get("pop"),
             "kind": "country", "area": round(c.get("area") or 0),
             "group": browse_group(cid, c.get("region")),
             "aka": sorted({a for a in aka.get(cid, []) if a != norm(name)}, key=len)[:6],
@@ -354,21 +396,23 @@ def main() -> None:
                 "currency": ", ".join(currs) if currs else None,
             },
             "system": prof.get("system"), "system_note": prof.get("system_note"),
-            "story": prof.get("story") if nar else None,
+            "story": prof.get("story"),
             "snapshot": prof.get("snapshot"),
             "tags": prof.get("tags") or [],
+            "leader": tenure[cid].get("leader"), "since": tenure[cid].get("since"),
             "culture": paras(prof.get("culture")),
             "society": paras(prof.get("society")),
-            "baseline": paras(prof.get("baseline")),
-            "leaders": prof.get("leaders"),
-            "briefing": None,
+            "depth": "full" if nar else "short",
+            "current_to": pretty_date(nar["as_of"]) if nar else checked,
+            "situation": nar["story"] if nar else paras(prof.get("baseline")),
+            "power": (nar["power"] if nar and nar.get("power") else None)
+                     or (paras(prof.get("power")) or [None])[0],
+            "holders": (paras(prof.get("holders")) or [None])[0] or (nar["holders"] if nar else None),
+            "leaders": None if nar or prof.get("holders") else prof.get("leaders"),
+            "update": {"date": pretty_date(str(prof["update_date"])), "html": paras(prof["update"])[0]}
+                      if prof.get("update") else None,
+            "sources": merge_sources(prof.get("sources_extra"), nar["sources"] if nar else [], prof.get("sources")),
         }
-        if nar:
-            detail["briefing"] = {
-                "part": nar["part"], "as_of": pretty_date(nar["as_of"]),
-                "story": nar["story"], "power": nar["power"], "holders": nar["holders"],
-                "sources": nar["sources"],
-            }
         (out_dir / f"{cid}.json").write_text(json.dumps(detail, ensure_ascii=False, separators=(",", ":")))
 
     for tid, t in sorted(territories.items()):
@@ -377,8 +421,8 @@ def main() -> None:
         if sov in ("NLD", "GBR", "USA"):
             sov_name = "the " + sov_name
         note = TERRITORY_NOTES.get(tid) or (
-            f"{t['name']} is a territory of {sov_name}. It doesn't get its own write-up; "
-            f"its politics run through the entry for {sov_name}." if sov_name else ""
+            f"{t['name']} is a territory of {sov_name}, so its politics are covered "
+            f"in the profile for {sov_name}." if sov_name else ""
         )
         entities.append({
             "id": tid, "name": base[tid]["name"] if tid in base else t["name"],
@@ -389,12 +433,14 @@ def main() -> None:
             "lng": (base.get(tid) or {}).get("latlng", [0, 0])[1],
         })
 
-    covered = sum(1 for e in entities if e.get("part"))
+    covered = sum(1 for e in entities if e.get("depth") == "full")
     profiled = sum(1 for cid in ids if profiles.get(cid, {}).get("culture"))
+    latest = max((p["as_of"] for p in parts_meta), default=None)
     index = {
         "built": date.today().isoformat(),
-        "parts": parts_meta,
-        "counts": {"countries": len(ids), "briefed": covered, "profiled": profiled},
+        "current_to": pretty_date(latest) if latest else checked,
+        "checked": checked,
+        "counts": {"countries": len(ids), "full": covered, "profiled": profiled},
         "entities": entities,
     }
     (DATA / "index.json").write_text(json.dumps(index, ensure_ascii=False, separators=(",", ":")))
@@ -403,9 +449,12 @@ def main() -> None:
     print(f"build: {len(ids)} countries, {covered} with 2026 briefings, {profiled} with profiles, {len(territories)} territories")
     if missing_prof:
         print(f"build: no profile yet for {len(missing_prof)}: {' '.join(missing_prof)}")
-    no_story = sorted(cid for cid in narratives if not profiles.get(cid, {}).get("story"))
+    no_story = sorted(cid for cid in ids if not profiles.get(cid, {}).get("story"))
     if no_story:
-        print(f"build: briefed but no storyline tag: {' '.join(no_story)}")
+        print(f"build: no storyline tag: {' '.join(no_story)}")
+    no_power = sorted(cid for cid in ids if cid not in narratives and not profiles.get(cid, {}).get("power"))
+    if no_power:
+        print(f"build: no 'How power works' text: {' '.join(no_power)}")
 
 
 if __name__ == "__main__":

@@ -5,15 +5,25 @@ ATG:
   religion: Christian, mostly Anglican and other Protestant
   system: const-monarchy
   snapshot: >-
-    A twin-island Caribbean state built on tourism, led by Gaston Browne, who is pushing for reparations for slavery and has floated becoming a republic.
+    A twin-island Caribbean state built on tourism, where Gaston Browne won a landslide fourth term
+    in April 2026.
   tags: [Tourism economy, Commonwealth realm, Reparations campaign, Cricket]
   culture: >-
     Antigua claims a beach for every day of the year. Carnival, held in late July and early August to mark emancipation from slavery in 1834, is the biggest event of the year, with calypso and steel pan competitions. Cricket is a passion; Sir Viv Richards, one of the game's greatest batsmen, is Antiguan, and the national stadium bears his name.
   society: >-
     Tourism, especially cruise ships and luxury resorts, accounts for most of the economy. Barbuda, the sister island, was devastated by Hurricane Irma in 2017, and a dispute over land rights there has pitted Barbudans against the government. A citizenship-by-investment programme is a big source of revenue.
   baseline: >-
-    Gaston Browne's Antigua and Barbuda Labour Party won a third term in 2023 with a reduced majority. Browne has been a prominent voice for climate finance and slavery reparations, and has said a referendum on becoming a republic could follow.
-  leaders: {state: "King Charles III, represented by a governor-general", gov: "Prime Minister Gaston Browne, since 2014"}
+    Gaston Browne's Antigua and Barbuda Labour Party won the 30 April 2026 general election by a
+    landslide, giving him a fourth term after a narrower win in 2023. Browne has been a prominent
+    voice for climate finance and slavery reparations and has said a referendum on becoming a
+    republic could follow.
+  leaders: {state: "King Charles III, represented by a governor-general", gov: "Prime Minister Gaston Browne, since 2014, re-elected April 2026"}
+  power: >-
+    A parliamentary democracy and Commonwealth realm. The prime minister leads the majority in the
+    17-seat House of Representatives; a governor-general represents the king.
+  story: election
+  sources:
+    - {label: "One News St Vincent: Browne's fourth term", url: "https://onenewsstvincent.com/2026/05/01/gaston-browne-secures-4th-term-with-landslide-election-victory-in-antigua/"}
 
 ARG:
   pop: 45.9
@@ -42,6 +52,12 @@ BHS:
   baseline: >-
     Philip "Brave" Davis of the Progressive Liberal Party became prime minister in 2021. He called an early election for May 2026 and won a second term, the first time in three decades that a Bahamian government had been re-elected.
   leaders: {state: "King Charles III, represented by a governor-general", gov: "Prime Minister Philip Davis, since 2021"}
+  power: >-
+    A parliamentary democracy and Commonwealth realm. The prime minister leads the majority in the
+    41-seat House of Assembly, elected by first past the post.
+  story: election
+  sources:
+    - {label: "CBC Barbados: Davis guides his party to victory", url: "https://www.cbc.bb/news/caribbean-news/bahamas-prime-minister-davis-guides-ruling-party-to-victory-in-general-elections/"}
 
 BRB:
   pop: 0.28
@@ -57,6 +73,12 @@ BRB:
   baseline: >-
     Mia Mottley's Barbados Labour Party won all 30 seats in the February 2026 election, as it had in 2018 and 2022, giving her a third term. President Jeffrey Bostic took over as ceremonial head of state in 2025.
   leaders: {state: "President Jeffrey Bostic, since 2025", gov: "Prime Minister Mia Mottley, since 2018"}
+  power: >-
+    A parliamentary republic since 2021. The prime minister leads the majority in the 30-seat House
+    of Assembly; the president, elected by parliament, is ceremonial.
+  story: election
+  sources:
+    - {label: "AP via WTOP: Mottley's third term", url: "https://wtop.com/world/2026/02/barbados-prime-minister-clinches-a-third-term-in-office-after-a-clean-sweep-at-the-polls/"}
 
 BLZ:
   pop: 0.42
@@ -72,6 +94,10 @@ BLZ:
   baseline: >-
     Johnny Briceño's People's United Party won 26 of 31 seats in the March 2025 election, a second big win. The government has been negotiating a debt-for-nature swap and expanding protections for the reef.
   leaders: {state: "King Charles III, represented by a governor-general", gov: "Prime Minister Johnny Briceño, since 2020"}
+  power: >-
+    A parliamentary democracy and Commonwealth realm. The prime minister leads the majority in the
+    31-seat House of Representatives; the Senate is appointed.
+  story: steady
 
 BOL:
   pop: 12.6
@@ -93,12 +119,25 @@ BRA:
   system: presidential
   story: election
   snapshot: >-
-    Flávio Bolsonaro beat the polls to top the October 2026 first round against Lula, setting up a runoff on 25 October between the two camps that have defined Brazil.
+    Lula came from behind to beat Flávio Bolsonaro in the 25 October 2026 runoff and win a record
+    fourth term, and Bolsonaro says he will not recognise the result.
   tags: [Lula vs Bolsonaro, Amazon, Agribusiness giant, Football and carnival, Evangelical surge]
   culture: >-
     Brazil is the world's largest Portuguese-speaking country and its culture is a fusion of Indigenous, African and European roots, from samba and bossa nova to funk carioca and sertanejo. Carnival in Rio and Salvador is the world's biggest street party. Football, with five World Cup wins, is a national religion, and telenovelas shape national conversation.
   society: >-
     Brazil is a farm superpower in soy, beef, coffee and sugar, and home to most of the Amazon rainforest, whose deforestation has slowed and sped up with politics. Inequality is among the world's highest. Evangelical churches have grown fast and become a major political force on the right. Gangs like the PCC and Comando Vermelho control parts of major cities.
+  update: >-
+    On 25 October Lula won the runoff with just over 51 percent to about 48 percent for Flávio
+    Bolsonaro, overturning his first-round deficit for a record fourth, non-consecutive term.
+    Bolsonaro refused to concede, citing a last-minute extension of voting hours, and is expected to
+    challenge the result in court.
+  update_date: 2026-10-26
+  holders: >-
+    President Luiz Inácio Lula da Silva (PT), re-elected on 25 October 2026 for a fourth term
+    starting in January 2027.
+  sources_extra:
+    - {label: "Al Jazeera: takeaways from Lula's win", url: "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win"}
+    - {label: "CNBC: Lula wins a fourth term", url: "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html"}
 
 CAN:
   pop: 40.1
@@ -179,6 +218,10 @@ DMA:
   baseline: >-
     Roosevelt Skerrit won a sixth term in a 2022 snap election boycotted by the main opposition party. Sylvanie Burton, the first Kalinago head of state, became president in 2023.
   leaders: {state: "President Sylvanie Burton, since 2023", gov: "Prime Minister Roosevelt Skerrit, since 2004"}
+  power: >-
+    A parliamentary republic. The prime minister leads the majority in the House of Assembly; the
+    president is elected by parliament and largely ceremonial.
+  story: steady
 
 DOM:
   pop: 11.5
@@ -192,8 +235,17 @@ DOM:
   society: >-
     Tourism, free trade zones, remittances and mining have driven decades of strong growth. The country shares Hispaniola with Haiti, and Haitian workers are crucial to construction and farming, but mass deportations of Haitians rose sharply under Abinader. A 2025 nightclub roof collapse in Santo Domingo killed over 200 people.
   baseline: >-
-    Luis Abinader won re-election in 2024 with 57 percent and cannot run again in 2028. He has built a border wall with Haiti and stepped up deportations, while promoting a constitutional reform to block future presidents from changing term limits.
+    Luis Abinader won re-election in 2024 with 57 percent and cannot run again in 2028. He has built
+    a border wall with Haiti and stepped up deportations, which reached nearly 68,000 in the first
+    two months of 2026 alone, and promoted a constitutional reform to stop future presidents from
+    changing term limits.
   leaders: {state: "President Luis Abinader, since 2020", gov: "The president heads the government"}
+  power: >-
+    A presidential republic. The president is directly elected for four years, at most two
+    consecutive terms, and heads the government; Congress has a Senate and a Chamber of Deputies.
+  story: steady
+  sources:
+    - {label: "Zol FM: deportations in early 2026", url: "https://zolfm.com/noticia/rd-deporta-casi-68000-haitianos-en-los-primeros-dos-meses-de-2026"}
 
 ECU:
   pop: 18.3
@@ -236,6 +288,10 @@ GRD:
   baseline: >-
     Dickon Mitchell, a lawyer, led the National Democratic Congress to victory in 2022, ending Keith Mitchell's long tenure. His government has focused on recovery and climate adaptation.
   leaders: {state: "King Charles III, represented by a governor-general", gov: "Prime Minister Dickon Mitchell, since 2022"}
+  power: >-
+    A parliamentary democracy and Commonwealth realm. The prime minister leads the majority in the
+    15-seat House of Representatives.
+  story: steady
 
 GTM:
   pop: 18.7
@@ -263,8 +319,18 @@ GUY:
   society: >-
     ExxonMobil's offshore discoveries since 2015 turned a poor country into a petro-state, with GDP growth above 30 percent some years. Politics has long split along ethnic lines between the PPP, backed mainly by Indo-Guyanese, and the PNC. Venezuela claims the Essequibo region and held a referendum in 2023 on annexing it.
   baseline: >-
-    Irfaan Ali's People's Progressive Party won the September 2025 election. A new party led by Azruddin Mohamed, a businessman sanctioned by the US, came second, displacing the PNC-led opposition. Ali has pledged to spend oil revenue on housing, health and cash grants.
+    Irfaan Ali's People's Progressive Party won the September 2025 election, and a new party led by
+    Azruddin Mohamed, a businessman sanctioned by the US, came second, displacing the PNC-led
+    opposition. Ali has pledged to spend oil revenue on housing, health and cash grants. Even with
+    Maduro gone from Caracas, the government says Venezuela's claim to the Essequibo region remains
+    a threat.
   leaders: {state: "President Irfaan Ali, since 2020", gov: "Prime Minister Mark Phillips"}
+  power: >-
+    A presidential republic in which the leader of the winning party list becomes executive
+    president for five years, at most two terms, and appoints a prime minister from parliament.
+  story: steady
+  sources:
+    - {label: "AFP via NAMPA: Guyana wary of Venezuela", url: "https://www.nampa.org/text/22852191"}
 
 HTI:
   pop: 11.9
@@ -358,8 +424,18 @@ PRY:
   society: >-
     Paraguay is a top exporter of soy and beef, and the Itaipú and Yacyretá dams produce more electricity than it uses. Land is very unequally distributed. It is one of the few countries still recognising Taiwan instead of China. Smuggling and money laundering in the tri-border area with Brazil and Argentina are a concern.
   baseline: >-
-    Santiago Peña, a former IMF economist, was elected in 2023 with the backing of former president Horacio Cartes, who has been sanctioned by the US for corruption. Peña has aligned closely with Washington and Israel.
+    Santiago Peña, a former IMF economist, was elected in 2023 with the backing of former president
+    Horacio Cartes, who has been sanctioned by the US for corruption. Peña has aligned closely with
+    Washington, Israel and Argentina's Javier Milei. In 2026 he campaigned hard for the Colorado
+    Party ahead of nationwide municipal elections, a test of the party's grip after decades in
+    power.
   leaders: {state: "President Santiago Peña, since 2023", gov: "The president heads the government"}
+  power: >-
+    A presidential republic. The president is directly elected for a single five-year term; Congress
+    has a Senate and a Chamber of Deputies, both dominated by the Colorado Party.
+  story: election
+  sources:
+    - {label: "Última Hora: Peña joins the municipal campaign", url: "https://www.ultimahora.com/pena-entra-en-campana-municipal-para-asegurarse-de-que-todos-los-municipios-sean-de-la-anr"}
 
 PER:
   pop: 34.6
@@ -389,6 +465,10 @@ KNA:
   baseline: >-
     Terrance Drew, a doctor, led the St Kitts and Nevis Labour Party to victory in 2022.
   leaders: {state: "King Charles III, represented by a governor-general", gov: "Prime Minister Terrance Drew, since 2022"}
+  power: >-
+    A federal parliamentary democracy and Commonwealth realm. The prime minister leads the majority
+    in the National Assembly; Nevis has its own assembly and premier.
+  story: steady
 
 LCA:
   pop: 0.18
@@ -404,6 +484,10 @@ LCA:
   baseline: >-
     Philip J. Pierre's Saint Lucia Labour Party won a second term in the December 2025 election.
   leaders: {state: "King Charles III, represented by a governor-general", gov: "Prime Minister Philip J. Pierre, since 2021"}
+  power: >-
+    A parliamentary democracy and Commonwealth realm. The prime minister leads the majority in the
+    17-seat House of Assembly.
+  story: steady
 
 VCT:
   pop: 0.10
@@ -419,6 +503,12 @@ VCT:
   baseline: >-
     In November 2025 the New Democratic Party, led by Godwin Friday, won a large majority, ending the Unity Labour Party government of Ralph Gonsalves, one of the world's longest-serving elected leaders.
   leaders: {state: "King Charles III, represented by a governor-general", gov: "Prime Minister Godwin Friday, since November 2025"}
+  power: >-
+    A parliamentary democracy and Commonwealth realm. The prime minister leads the majority among
+    the 15 elected members of the House of Assembly, which also has appointed senators.
+  story: steady
+  sources:
+    - {label: "One News St Vincent: Friday sworn in", url: "https://onenewsstvincent.com/2025/11/29/dr-godwin-friday-sworn-in-as-prime-minister/"}
 
 SUR:
   pop: 0.64
@@ -433,23 +523,46 @@ SUR:
   society: >-
     More than 90 percent of the country is covered in rainforest. Gold and oil drive exports, and TotalEnergies' offshore field is due to start producing in 2028. The country went through a debt default and high inflation earlier this decade.
   baseline: >-
-    Jennifer Geerlings-Simons, a doctor and long-time speaker of parliament from the National Democratic Party founded by the late dictator Dési Bouterse, was elected president by parliament in July 2025 after her party narrowly won the May election.
+    Jennifer Geerlings-Simons, a doctor and long-time speaker of parliament from the National
+    Democratic Party founded by the late dictator Dési Bouterse, was elected president by parliament
+    in July 2025 after her party narrowly won the May election. Production from TotalEnergies'
+    offshore field is due in 2028, and her government is preparing for a sudden flood of revenue in
+    one of South America's poorer countries.
   leaders: {state: "President Jennifer Geerlings-Simons, since July 2025", gov: "The president heads the government"}
+  power: >-
+    An executive presidency chosen by parliament: the 51-seat National Assembly elects the
+    president, who heads the government with a vice-president.
+  story: steady
+  sources:
+    - {label: "Americas Quarterly: preparing for an oil boom", url: "https://www.americasquarterly.org/article/surinames-president-prepares-for-an-oil-boom/"}
 
 TTO:
   pop: 1.5
   religion: Christian about 55%, Hindu about 18%, Muslim about 5%
   system: parliamentary
   snapshot: >-
-    The Caribbean's energy powerhouse, where Kamla Persad-Bissessar returned as prime minister in 2025 and backed US strikes on Venezuelan boats nearby.
+    The Caribbean's energy powerhouse, under a state of emergency over gang violence since March
+    2026, led by a prime minister closely aligned with Washington on Venezuela.
   tags: [Oil and gas, Carnival, Steelpan, Gang violence]
   culture: >-
     Trinidad's Carnival is one of the world's great festivals, with calypso, soca and masquerade bands. The steelpan, made from oil drums in the 1930s, is the national instrument. Indo-Trinidadians, descended from indentured labourers, have made chutney music, Diwali and Phagwah part of national life. Cricket and Brian Lara are sources of pride.
   society: >-
     Oil, gas and petrochemicals have made the country relatively wealthy, though output is declining. Gang violence has driven murders to record highs, prompting states of emergency. Politics largely splits between the Afro-Trinidadian-backed PNM and the Indo-Trinidadian-backed UNC.
   baseline: >-
-    Kamla Persad-Bissessar's United National Congress won the April 2025 election, returning her to the job she held from 2010 to 2015. She has aligned closely with the Trump administration's campaign against Venezuela's former government.
+    Kamla Persad-Bissessar's United National Congress won the April 2025 election, returning her to
+    the job she held from 2010 to 2015. She has aligned closely with the Trump administration on
+    Venezuela, though she said Trinidad took no part in the January 2026 raid that seized Maduro. In
+    March 2026 her government declared a new state of emergency over persistent violent crime and
+    later extended it.
   leaders: {state: "President Christine Kangaloo", gov: "Prime Minister Kamla Persad-Bissessar, since May 2025"}
+  power: >-
+    A parliamentary republic. The prime minister leads the majority in the 41-seat House of
+    Representatives; the president is elected by parliament and largely ceremonial. Tobago has its
+    own House of Assembly.
+  story: unrest
+  sources:
+    - {label: "Al Jazeera: state of emergency extended", url: "https://www.aljazeera.com/news/2026/3/14/trinidad-and-tobago-extends-state-of-emergency-for-another-three-months"}
+    - {label: "Gleaner: not part of the US operation", url: "https://jamaica-gleaner.com/article/news/20260103/pm-says-trinidad-not-part-us-military-operation-against-venezuela"}
 
 USA:
   pop: 347
@@ -476,8 +589,17 @@ URY:
   society: >-
     Uruguay has the lowest poverty and inequality in Latin America, a large middle class and one of the highest shares of renewable electricity anywhere. It was the first country to legalise cannabis, in 2013, and was early on same-sex marriage. Rising crime linked to drug trafficking is the main public worry.
   baseline: >-
-    Yamandú Orsi of the left-wing Frente Amplio, a protégé of former president José Mujica, won the November 2024 runoff and took office in March 2025. Mujica died in May 2025.
+    Yamandú Orsi of the left-wing Frente Amplio, a protégé of former president José Mujica, won the
+    November 2024 runoff and took office in March 2025. Mujica died in May 2025. By August 2026, one
+    pollster found 57 percent of Uruguayans disapproved of Orsi's government.
   leaders: {state: "President Yamandú Orsi, since March 2025", gov: "The president heads the government"}
+  power: >-
+    A presidential republic. The president is directly elected for five years with no immediate re-
+    election; the General Assembly has a Senate and a Chamber of Representatives. Its parties are
+    among the most institutionalised in Latin America.
+  story: steady
+  sources:
+    - {label: "MercoPress: disapproval climbs to 57 percent", url: "https://en.mercopress.com/2026/08/13/disapproval-of-orsi-s-government-climbs-to-57-in-the-third-quarter-opcion-finds"}
 
 VEN:
   pop: 28.5

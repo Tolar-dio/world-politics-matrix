@@ -41,6 +41,11 @@ BTN:
   baseline: >-
     King Jigme Khesar Namgyel Wangchuck has reigned since 2006, after his father introduced democracy from above. Tshering Tobgay's People's Democratic Party won the 2024 election.
   leaders: {state: "King Jigme Khesar Namgyel Wangchuck, since 2006", gov: "Prime Minister Tshering Tobgay, since 2024"}
+  power: >-
+    A constitutional monarchy since 2008. The prime minister leads the majority in the National
+    Assembly, elected in two rounds that narrow the field to two parties; the king retains wide
+    influence and appoints key officials.
+  story: steady
 
 BRN:
   pop: 0.47
@@ -56,6 +61,10 @@ BRN:
   baseline: >-
     Sultan Hassanal Bolkiah has reigned since 1967 and also serves as prime minister, defence minister, finance minister and foreign minister. His son, Crown Prince Al-Muhtadee Billah, is senior minister and heir.
   leaders: {state: "Sultan Hassanal Bolkiah, since 1967", gov: "The sultan also serves as prime minister"}
+  power: >-
+    An absolute monarchy. The sultan is head of state and prime minister and rules by decree under a
+    state of emergency in place since 1962; the Legislative Council is appointed and advisory.
+  story: steady
 
 KHM:
   pop: 17.8
@@ -148,8 +157,19 @@ KGZ:
   society: >-
     Remittances from Kyrgyz workers in Russia are a large share of GDP. Trade with Russia has boomed, some of it re-exports of goods under Western sanctions. Kyrgyzstan was once Central Asia's most open political system, with three presidents toppled by protests, but has turned authoritarian since 2020.
   baseline: >-
-    Sadyr Japarov rose to power after 2020 protests, then expanded presidential powers through a 2021 constitution. In February 2026 he dismissed Kamchybek Tashiev, the security chief seen as his partner and potential successor, after an open letter called for early elections; in July a court convicted Tashiev of attempting to seize power and gave him a suspended sentence. A presidential election is due in early 2027.
+    Sadyr Japarov rose to power after 2020 protests, then expanded presidential powers through a
+    2021 constitution. In February 2026 he dismissed Kamchybek Tashiev, the security chief seen as
+    his partner and possible successor, after an open letter called for early elections; in July a
+    court convicted Tashiev of trying to seize power and gave him a suspended sentence. The next
+    presidential election is set for late January 2027, and Japarov intends to run.
   leaders: {state: "President Sadyr Japarov, since 2021", gov: "Chairman of the Cabinet Adylbek Kasymaliev"}
+  power: >-
+    A presidential republic under the 2021 constitution: the president heads the executive and
+    appoints the chairman of the cabinet, and parliament has lost much of its former power.
+  story: unrest
+  sources:
+    - {label: "International IDEA: Kyrgyzstan, July 2026", url: "https://www.idea.int/democracytracker/report/kyrgyzstan/july-2026"}
+    - {label: "24.kg: presidential election date", url: "https://24.kg/english/326112__Next_presidential_elections_in_Kyrgyzstan_to_be_held_on_January_24_2027/"}
 
 LAO:
   pop: 7.9
@@ -165,6 +185,13 @@ LAO:
   baseline: >-
     The ruling Lao People's Revolutionary Party held its 12th congress in January 2026, and the new National Assembly re-elected Thongloun Sisoulith as president in March, along with Prime Minister Sonexay Siphandone.
   leaders: {state: "President Thongloun Sisoulith, also party general secretary", gov: "Prime Minister Sonexay Siphandone"}
+  power: >-
+    A one-party communist state. The Lao People's Revolutionary Party's Politburo makes the key
+    decisions; the National Assembly elects the president, who also leads the party, and approves
+    the prime minister.
+  story: steady
+  sources:
+    - {label: "Asia News Network: assembly re-elects Thongloun", url: "https://asianews.network/lao-na-re-elects-president-thongloun-sisoulith-confirms-key-officials/"}
 
 MYS:
   pop: 36.0
@@ -194,6 +221,10 @@ MDV:
   baseline: >-
     Mohamed Muizzu won in 2023 on an "India Out" campaign and asked Indian military personnel to leave, then mended ties with New Delhi in 2024 amid a debt squeeze. His party won a supermajority in 2024 parliamentary elections, and media and judicial independence have come under pressure.
   leaders: {state: "President Mohamed Muizzu, since 2023", gov: "The president heads the government"}
+  power: >-
+    A presidential republic. The president is directly elected for five years, at most two terms,
+    and heads the government; parliament, the People's Majlis, is dominated by Muizzu's party.
+  story: steady
 
 MNG:
   pop: 3.5
@@ -339,8 +370,19 @@ TJK:
   society: >-
     Tajikistan is Central Asia's poorest country, and remittances from migrant workers in Russia equal around a third of GDP. A 1992 to 1997 civil war killed tens of thousands. The government has banned the hijab and restricted religious practice. The Rogun dam, when complete, will be the world's tallest.
   baseline: >-
-    Emomali Rahmon has ruled since 1992; a 2016 referendum lifted term limits for him and lowered the minimum age for presidents, opening the way for his son Rustam Emomali, now speaker of the upper house. Opposition parties have been banned and critics jailed, even abroad.
+    Emomali Rahmon has ruled since 1992; a 2016 referendum lifted term limits for him and lowered
+    the minimum age for presidents, opening the way for his son Rustam Emomali, now speaker of the
+    upper house. Opposition parties have been banned and critics jailed, even abroad. Since late
+    2025, attacks from Afghan territory have killed several Chinese workers near the border, and
+    Beijing has demanded better protection.
   leaders: {state: "President Emomali Rahmon, since 1992", gov: "Prime Minister Kokhir Rasulzoda"}
+  power: >-
+    A presidential republic in form and an autocracy in practice. Rahmon rules through the
+    presidency and his People's Democratic Party, and constitutional changes exempt him from term
+    limits.
+  story: steady
+  sources:
+    - {label: "Dawn: Chinese nationals killed in cross-border attacks", url: "https://www.dawn.com/news/1958559/tajikistan-says-5-chinese-nationals-killed-in-cross-border-attacks-from-afghanistan-in-past-week"}
 
 THA:
   pop: 71.6
@@ -369,6 +411,12 @@ TLS:
   baseline: >-
     Xanana Gusmão returned as prime minister after his party won the 2023 election. José Ramos-Horta, a Nobel Peace laureate, has been president since 2022. The country formally joined ASEAN in October 2025. Student protests in 2025 forced lawmakers to drop plans to buy themselves new cars.
   leaders: {state: "President José Ramos-Horta, since 2022", gov: "Prime Minister Xanana Gusmão, since 2023"}
+  power: >-
+    A semi-presidential republic. The prime minister leads the government with the confidence of the
+    National Parliament; the directly elected president can veto laws and dissolve parliament.
+  story: steady
+  sources:
+    - {label: "Tatoli: preparing to chair ASEAN in 2029", url: "https://en.tatoli.tl/2026/02/23/timor-leste-begins-formal-preparations-to-chair-asean-in-2029/16/"}
 
 TKM:
   pop: 7.6
@@ -385,6 +433,10 @@ TKM:
   baseline: >-
     Gurbanguly Berdimuhamedov handed the presidency to his son Serdar in 2022 but remains "National Leader" and chairman of the upper house of parliament, and is widely seen as the real power. There are no independent parties or media.
   leaders: {state: "President Serdar Berdimuhamedov, since 2022", gov: "Gurbanguly Berdimuhamedov, National Leader and chairman of the People's Council"}
+  power: >-
+    A presidential republic in form and a personalist autocracy in practice. The People's Council,
+    chaired by the former president, sits above parliament, and no opposition is allowed.
+  story: steady
 
 UZB:
   pop: 37.1

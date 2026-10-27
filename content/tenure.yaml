@@ -1,0 +1,214 @@
+# Who runs each country and since when (continuous current tenure).
+# "leader" is the head of the executive: the president in presidential systems,
+# the prime minister in parliamentary ones, the monarch where the monarch rules,
+# and the de facto ruler where that differs and is well established.
+# "since" is the year the current continuous stint began. null = collective leadership.
+
+# Africa
+DZA: {leader: "Abdelmadjid Tebboune", since: 2019}
+AGO: {leader: "João Lourenço", since: 2017}
+BEN: {leader: "Romuald Wadagni", since: 2026}
+BWA: {leader: "Duma Boko", since: 2024}
+BFA: {leader: "Captain Ibrahim Traoré", since: 2022}
+BDI: {leader: "Évariste Ndayishimiye", since: 2020}
+CPV: {leader: "Francisco Carvalho", since: 2026}
+CMR: {leader: "Paul Biya", since: 1982}
+CAF: {leader: "Faustin-Archange Touadéra", since: 2016}
+TCD: {leader: "Mahamat Idriss Déby", since: 2021}
+COM: {leader: "Azali Assoumani", since: 2016}
+COD: {leader: "Félix Tshisekedi", since: 2019}
+COG: {leader: "Denis Sassou Nguesso", since: 1997}
+CIV: {leader: "Alassane Ouattara", since: 2011}
+DJI: {leader: "Ismaïl Omar Guelleh", since: 1999}
+EGY: {leader: "Abdel Fattah el-Sisi", since: 2013}
+GNQ: {leader: "Teodoro Obiang Nguema Mbasogo", since: 1979}
+ERI: {leader: "Isaias Afwerki", since: 1993}
+SWZ: {leader: "King Mswati III", since: 1986}
+ETH: {leader: "Abiy Ahmed", since: 2018}
+GAB: {leader: "Brice Clotaire Oligui Nguema", since: 2023}
+GMB: {leader: "Adama Barrow", since: 2017}
+GHA: {leader: "John Dramani Mahama", since: 2025}
+GIN: {leader: "Mamadi Doumbouya", since: 2021}
+GNB: {leader: "General Horta Inta-A", since: 2025}
+KEN: {leader: "William Ruto", since: 2022}
+LSO: {leader: "Sam Matekane", since: 2022}
+LBR: {leader: "Joseph Boakai", since: 2024}
+LBY: {leader: "Abdul Hamid Dbeibah (Tripoli government)", since: 2021}
+MDG: {leader: "Colonel Michael Randrianirina", since: 2025}
+MWI: {leader: "Peter Mutharika", since: 2025}
+MLI: {leader: "General Assimi Goïta", since: 2021}
+MRT: {leader: "Mohamed Ould Ghazouani", since: 2019}
+MUS: {leader: "Navin Ramgoolam", since: 2024}
+MAR: {leader: "King Mohammed VI", since: 1999}
+MOZ: {leader: "Daniel Chapo", since: 2025}
+NAM: {leader: "Netumbo Nandi-Ndaitwah", since: 2025}
+NER: {leader: "General Abdourahamane Tiani", since: 2023}
+NGA: {leader: "Bola Tinubu", since: 2023}
+RWA: {leader: "Paul Kagame", since: 2000}
+STP: {leader: "Carlos Vila Nova", since: 2021}
+SEN: {leader: "Bassirou Diomaye Faye", since: 2024}
+SYC: {leader: "Patrick Herminie", since: 2025}
+SLE: {leader: "Julius Maada Bio", since: 2018}
+SOM: {leader: "Hassan Sheikh Mohamud", since: 2022}
+ZAF: {leader: "Cyril Ramaphosa", since: 2018}
+SSD: {leader: "Salva Kiir", since: 2011}
+SDN: {leader: "General Abdel Fattah al-Burhan", since: 2019}
+TZA: {leader: "Samia Suluhu Hassan", since: 2021}
+TGO: {leader: "Faure Gnassingbé", since: 2005}
+TUN: {leader: "Kais Saied", since: 2019}
+UGA: {leader: "Yoweri Museveni", since: 1986}
+ZMB: {leader: "Hakainde Hichilema", since: 2021}
+ZWE: {leader: "Emmerson Mnangagwa", since: 2017}
+
+# Americas
+ATG: {leader: "Gaston Browne", since: 2014}
+ARG: {leader: "Javier Milei", since: 2023}
+BHS: {leader: "Philip Davis", since: 2021}
+BRB: {leader: "Mia Mottley", since: 2018}
+BLZ: {leader: "Johnny Briceño", since: 2020}
+BOL: {leader: "Rodrigo Paz", since: 2025}
+BRA: {leader: "Luiz Inácio Lula da Silva", since: 2023}
+CAN: {leader: "Mark Carney", since: 2025}
+CHL: {leader: "José Antonio Kast", since: 2026}
+COL: {leader: "Abelardo de la Espriella", since: 2026}
+CRI: {leader: "Laura Fernández", since: 2026}
+CUB: {leader: "Miguel Díaz-Canel", since: 2018}
+DMA: {leader: "Roosevelt Skerrit", since: 2004}
+DOM: {leader: "Luis Abinader", since: 2020}
+ECU: {leader: "Daniel Noboa", since: 2023}
+SLV: {leader: "Nayib Bukele", since: 2019}
+GRD: {leader: "Dickon Mitchell", since: 2022}
+GTM: {leader: "Bernardo Arévalo", since: 2024}
+GUY: {leader: "Irfaan Ali", since: 2020}
+HTI: {leader: "Alix Didier Fils-Aimé", since: 2024}
+HND: {leader: "Nasry Asfura", since: 2026}
+JAM: {leader: "Andrew Holness", since: 2016}
+MEX: {leader: "Claudia Sheinbaum", since: 2024}
+NIC: {leader: "Daniel Ortega and Rosario Murillo", since: 2007}
+PAN: {leader: "José Raúl Mulino", since: 2024}
+PRY: {leader: "Santiago Peña", since: 2023}
+PER: {leader: "Keiko Fujimori", since: 2026}
+KNA: {leader: "Terrance Drew", since: 2022}
+LCA: {leader: "Philip J. Pierre", since: 2021}
+VCT: {leader: "Godwin Friday", since: 2025}
+SUR: {leader: "Jennifer Geerlings-Simons", since: 2025}
+TTO: {leader: "Kamla Persad-Bissessar", since: 2025}
+USA: {leader: "Donald Trump", since: 2025}
+URY: {leader: "Yamandú Orsi", since: 2025}
+VEN: {leader: "Delcy Rodríguez (acting)", since: 2026}
+
+# Asia
+AFG: {leader: "Hibatullah Akhundzada", since: 2021}
+BGD: {leader: "Tarique Rahman", since: 2026}
+BTN: {leader: "Tshering Tobgay", since: 2024}
+BRN: {leader: "Sultan Hassanal Bolkiah", since: 1967}
+KHM: {leader: "Hun Manet", since: 2023}
+CHN: {leader: "Xi Jinping", since: 2012}
+IND: {leader: "Narendra Modi", since: 2014}
+IDN: {leader: "Prabowo Subianto", since: 2024}
+JPN: {leader: "Sanae Takaichi", since: 2025}
+KAZ: {leader: "Kassym-Jomart Tokayev", since: 2019}
+PRK: {leader: "Kim Jong Un", since: 2011}
+KOR: {leader: "Lee Jae-myung", since: 2025}
+KGZ: {leader: "Sadyr Japarov", since: 2021}
+LAO: {leader: "Thongloun Sisoulith", since: 2021}
+MYS: {leader: "Anwar Ibrahim", since: 2022}
+MDV: {leader: "Mohamed Muizzu", since: 2023}
+MNG: {leader: "Uchral Nyam-Osor", since: 2026}
+MMR: {leader: "Min Aung Hlaing", since: 2021}
+NPL: {leader: "Balendra Shah", since: 2026}
+PAK: {leader: "Field Marshal Asim Munir (army chief)", since: 2022}
+PHL: {leader: "Ferdinand Marcos Jr.", since: 2022}
+SGP: {leader: "Lawrence Wong", since: 2024}
+LKA: {leader: "Anura Kumara Dissanayake", since: 2024}
+TWN: {leader: "Lai Ching-te", since: 2024}
+TJK: {leader: "Emomali Rahmon", since: 1992}
+THA: {leader: "Anutin Charnvirakul", since: 2025}
+TLS: {leader: "Xanana Gusmão", since: 2023}
+TKM: {leader: "The Berdimuhamedov family (Gurbanguly, then his son Serdar)", since: 2007}
+UZB: {leader: "Shavkat Mirziyoyev", since: 2016}
+VNM: {leader: "To Lam", since: 2024}
+
+# Middle East
+BHR: {leader: "King Hamad bin Isa Al Khalifa", since: 1999}
+IRN: {leader: "Mojtaba Khamenei", since: 2026}
+IRQ: {leader: "Ali al-Zaidi", since: 2026}
+ISR: {leader: "Benjamin Netanyahu", since: 2022}
+JOR: {leader: "King Abdullah II", since: 1999}
+KWT: {leader: "Emir Mishal al-Ahmad al-Jaber Al Sabah", since: 2023}
+LBN: {leader: "Nawaf Salam", since: 2025}
+OMN: {leader: "Sultan Haitham bin Tarik", since: 2020}
+PSE: {leader: "Mahmoud Abbas", since: 2005}
+QAT: {leader: "Emir Tamim bin Hamad Al Thani", since: 2013}
+SAU: {leader: "Crown Prince Mohammed bin Salman", since: 2017}
+SYR: {leader: "Ahmed al-Sharaa", since: 2025}
+TUR: {leader: "Recep Tayyip Erdoğan", since: 2003}
+ARE: {leader: "Mohammed bin Zayed Al Nahyan", since: 2022}
+YEM: {leader: "Rashad al-Alimi (recognised government)", since: 2022}
+
+# Europe
+ALB: {leader: "Edi Rama", since: 2013}
+AND: {leader: "Xavier Espot Zamora", since: 2019}
+ARM: {leader: "Nikol Pashinyan", since: 2018}
+AUT: {leader: "Christian Stocker", since: 2025}
+AZE: {leader: "Ilham Aliyev", since: 2003}
+BLR: {leader: "Alexander Lukashenko", since: 1994}
+BEL: {leader: "Bart De Wever", since: 2025}
+BIH: {leader: "A three-member presidency", since: null}
+BGR: {leader: "Rumen Radev", since: 2026}
+HRV: {leader: "Andrej Plenković", since: 2016}
+CYP: {leader: "Nikos Christodoulides", since: 2023}
+CZE: {leader: "Andrej Babiš", since: 2025}
+DNK: {leader: "Mette Frederiksen", since: 2019}
+EST: {leader: "Kristen Michal", since: 2024}
+FIN: {leader: "Petteri Orpo", since: 2023}
+FRA: {leader: "Emmanuel Macron", since: 2017}
+GEO: {leader: "Irakli Kobakhidze", since: 2024}
+DEU: {leader: "Friedrich Merz", since: 2025}
+GRC: {leader: "Kyriakos Mitsotakis", since: 2019}
+VAT: {leader: "Pope Leo XIV", since: 2025}
+HUN: {leader: "Péter Magyar", since: 2026}
+ISL: {leader: "Kristrún Frostadóttir", since: 2024}
+IRL: {leader: "Micheál Martin", since: 2025}
+ITA: {leader: "Giorgia Meloni", since: 2022}
+XKX: {leader: "Albin Kurti", since: 2021}
+LVA: {leader: "Andris Kulbergs", since: 2026}
+LIE: {leader: "Brigitte Haas", since: 2025}
+LTU: {leader: "Mindaugas Sinkevičius", since: 2026}
+LUX: {leader: "Luc Frieden", since: 2023}
+MLT: {leader: "Robert Abela", since: 2020}
+MDA: {leader: "Maia Sandu", since: 2020}
+MCO: {leader: "Prince Albert II", since: 2005}
+MNE: {leader: "Milojko Spajić", since: 2023}
+NLD: {leader: "Rob Jetten", since: 2026}
+MKD: {leader: "Hristijan Mickoski", since: 2024}
+NOR: {leader: "Jonas Gahr Støre", since: 2021}
+POL: {leader: "Donald Tusk", since: 2023}
+PRT: {leader: "Luís Montenegro", since: 2024}
+ROU: {leader: "Nicușor Dan", since: 2025}
+RUS: {leader: "Vladimir Putin", since: 1999}
+SMR: {leader: "Two Captains Regent, replaced every six months", since: null}
+SRB: {leader: "Incoming Student List government", since: 2026}
+SVK: {leader: "Robert Fico", since: 2023}
+SVN: {leader: "Janez Janša", since: 2026}
+ESP: {leader: "Pedro Sánchez", since: 2018}
+SWE: {leader: "Ulf Kristersson (caretaker)", since: 2022}
+CHE: {leader: "The seven-member Federal Council", since: null}
+UKR: {leader: "Volodymyr Zelensky", since: 2019}
+GBR: {leader: "Andy Burnham", since: 2026}
+
+# Oceania
+AUS: {leader: "Anthony Albanese", since: 2022}
+FJI: {leader: "Sitiveni Rabuka", since: 2022}
+KIR: {leader: "Taneti Maamau", since: 2016}
+MHL: {leader: "Hilda Heine", since: 2024}
+FSM: {leader: "Wesley Simina", since: 2023}
+NRU: {leader: "David Adeang", since: 2023}
+NZL: {leader: "Christopher Luxon", since: 2023}
+PLW: {leader: "Surangel Whipps Jr.", since: 2021}
+PNG: {leader: "James Marape", since: 2019}
+WSM: {leader: "La'auli Leuatea Schmidt", since: 2025}
+SLB: {leader: "Matthew Wale", since: 2026}
+TON: {leader: "Lord Fakafānua", since: 2025}
+TUV: {leader: "Feleti Teo", since: 2024}
+VUT: {leader: "Jotham Napat", since: 2025}

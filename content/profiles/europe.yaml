@@ -5,15 +5,28 @@ ALB:
   religion: Muslim about 50% (Sunni and Bektashi), Catholic and Orthodox Christian, many non-practising
   system: parliamentary
   snapshot: >-
-    Edi Rama won a fourth term in 2025 and is racing to join the EU by 2030, in a country that emptied out through emigration after communism.
-  tags: [EU candidate, Tourism boom, Emigration, Religious harmony]
+    Edi Rama won a fourth term in 2025, but in October 2026 student-led protests over corruption
+    turned violent and spread from Tirana to other cities.
+  tags: ["Student protests", "EU candidate", "Tourism boom", "Emigration", "Religious harmony"]
   culture: >-
     Under Enver Hoxha, Albania became the world's first officially atheist state and the most isolated country in Europe, leaving hundreds of thousands of concrete bunkers. Today Muslims, Catholics and Orthodox Christians live side by side with little friction. Iso-polyphony, a form of folk singing, is UNESCO-listed, and the besa, a code of honour, is part of national identity.
   society: >-
     Around a third of Albanians live abroad, mainly in Italy, Greece and Britain. Tourism along the Riviera has boomed, as have property and cannabis-linked money laundering. Rama has appointed an AI-generated "minister" to oversee public procurement as an anti-corruption gimmick. Organised crime groups have reach across Europe.
   baseline: >-
-    Edi Rama's Socialist Party won a fourth consecutive term in May 2025 with a large majority. Albania has opened all negotiating clusters with the EU and aims to finish talks by 2027. The opposition Democratic Party, led by former prime minister Sali Berisha, who faces corruption charges, disputes the results.
+    Edi Rama's Socialist Party won a fourth consecutive term in May 2025 with a large majority, and
+    Albania aims to finish EU accession talks by 2027. In 2026 the mood soured: summer protests
+    against a luxury coastal development backed by Jared Kushner gave way in October to student-led
+    demonstrations over corruption, jobs and schools, in which government buildings and banks were
+    set on fire and hundreds of people were charged. Rama refused to resign, calling the protests a
+    threat to EU membership rather than to his government.
   leaders: {state: "President Bajram Begaj, since 2022", gov: "Prime Minister Edi Rama, since 2013"}
+  power: >-
+    A parliamentary republic. The prime minister leads the majority in the 140-seat Assembly; the
+    president is elected by parliament and largely ceremonial.
+  story: unrest
+  sources:
+    - {label: "Reuters via The Star: Rama on the protests", url: "https://www.thestar.com.my/news/world/2026/10/18/albanian-pm-says-mass-protests-a-threat-to-eu-membership-not-government"}
+    - {label: "Brussels Signal: government refuses to resign", url: "https://brusselssignal.eu/2026/10/albanian-government-refuses-to-resign-and-says-eu-accession-depends-on-it/"}
 
 AND:
   pop: 0.083
@@ -28,8 +41,18 @@ AND:
   society: >-
     Low taxes have attracted wealthy residents, including YouTubers and athletes, pushing up housing costs and prompting limits on foreign investment. Most residents are not Andorran citizens; Spaniards and Portuguese are the largest groups. An EU association agreement has been negotiated but faces a referendum.
   baseline: >-
-    Xavier Espot Zamora of the Democrats for Andorra has been head of government since 2019 and won re-election in 2023. Andorra's next general election is due in 2027.
+    Xavier Espot Zamora of the Democrats for Andorra has led the government since 2019. In 2026 an
+    association agreement giving Andorra deeper access to the EU single market moved through its
+    final EU approvals; under Andorran law it needs a binding referendum and a two-thirds vote in
+    parliament before ratification. The next general election is due in 2027.
   leaders: {state: "Co-princes Emmanuel Macron and Bishop Josep-Lluís Serrano Pentinat", gov: "Head of Government Xavier Espot Zamora, since 2019"}
+  power: >-
+    A parliamentary co-principality. The head of government is elected by the 28-seat General
+    Council; the two co-princes, the French president and the Bishop of Urgell, are largely
+    ceremonial.
+  story: steady
+  sources:
+    - {label: "Alto.ad: referendum plans", url: "https://www.alto.ad/politics/andorra-eu-association-agreement-referendum-260414"}
 
 ARM:
   pop: 3.0
@@ -114,6 +137,13 @@ BIH:
   baseline: >-
     Milorad Dodik was stripped of the Republika Srpska presidency in 2025 after a conviction for defying the High Representative; his party's candidate won a snap election to replace him. In the 4 October 2026 general election, preliminary results showed Denis Bećirović and Željka Cvijanović holding the Bosniak and Serb presidency seats and Darijana Filipović of HDZ taking the Croat seat, with Dodik's SNSD again winning Republika Srpska's presidency.
   leaders: {state: "Three-member Presidency (preliminary October 2026 results: Denis Bećirović, Željka Cvijanović, Darijana Filipović)", gov: "Chair of the Council of Ministers Borjana Krišto"}
+  power: >-
+    A federal state under the Dayton constitution: a three-member presidency, a Council of Ministers
+    and a two-chamber parliament, with the Federation and Republika Srpska holding most powers. An
+    international High Representative can impose laws and dismiss officials.
+  story: election
+  sources:
+    - {label: "European Western Balkans: preliminary results", url: "https://europeanwesternbalkans.com/2026/10/05/what-are-the-preliminary-results-of-bihs-general-elections/"}
 
 BGR:
   pop: 6.4
@@ -142,6 +172,11 @@ HRV:
   baseline: >-
     Andrej Plenković's HDZ formed a coalition with the nationalist Homeland Movement after the 2024 election. Zoran Milanović, a former Social Democrat prime minister, won re-election as president in January 2025 by a landslide and has clashed with the government over Ukraine and NATO.
   leaders: {state: "President Zoran Milanović, since 2020", gov: "Prime Minister Andrej Plenković, since 2016"}
+  power: >-
+    A parliamentary republic. The prime minister leads the majority in the 151-seat Sabor; the
+    directly elected president commands the armed forces and shares responsibility for foreign
+    policy.
+  story: steady
 
 CYP:
   pop: 1.4
@@ -196,6 +231,12 @@ EST:
   baseline: >-
     Kristen Michal of the Reform Party became prime minister in 2024 after Kaja Kallas left to become the EU's foreign policy chief. In September 2026, parliament elected Ülle Madise, the chancellor of justice, as president, succeeding Alar Karis. A parliamentary election is due in March 2027.
   leaders: {state: "President Ülle Madise, since October 2026", gov: "Prime Minister Kristen Michal, since 2024"}
+  power: >-
+    A parliamentary republic. The prime minister leads the majority in the 101-seat Riigikogu; the
+    president is elected by parliament or an electoral college and is largely ceremonial.
+  story: election
+  sources:
+    - {label: "ERR: Estonia elects a new president", url: "https://news.err.ee/1610126071/estonia-elects-new-president"}
 
 FIN:
   pop: 5.6
@@ -211,6 +252,11 @@ FIN:
   baseline: >-
     Petteri Orpo's National Coalition leads a coalition with the nationalist Finns Party that has cut benefits and spending. Alexander Stubb, a former prime minister, won the presidency in 2024 and has become a prominent voice on Ukraine and a golf partner of Trump. The next parliamentary election is due in April 2027.
   leaders: {state: "President Alexander Stubb, since 2024", gov: "Prime Minister Petteri Orpo, since 2023"}
+  power: >-
+    A parliamentary republic. The prime minister leads a majority coalition in the 200-seat
+    Eduskunta; the directly elected president leads foreign and security policy together with the
+    government.
+  story: steady
 
 FRA:
   pop: 68.6
@@ -318,8 +364,16 @@ IRL:
   society: >-
     Ireland went from one of Western Europe's poorest countries to one of its richest, thanks largely to US multinationals drawn by low corporate tax; Apple, Google and Pfizer have European hubs there. Housing shortages and homelessness are acute. Voters legalised same-sex marriage and abortion in landmark referendums in 2015 and 2018.
   baseline: >-
-    Micheál Martin of Fianna Fáil became Taoiseach again in January 2025 in a coalition with Fine Gael and independents. Catherine Connolly, a left-wing independent, won the presidential election in October 2025 by a landslide.
+    Micheál Martin of Fianna Fáil became Taoiseach again in January 2025 in a coalition with Fine
+    Gael and independents. Catherine Connolly, a left-wing independent, won the presidential
+    election in October 2025 by a landslide. Ireland holds the rotating presidency of the Council of
+    the EU in the second half of 2026, while its economy, built on US multinationals, watches
+    Washington's tariff threats against pharmaceuticals closely.
   leaders: {state: "President Catherine Connolly, since November 2025", gov: "Taoiseach Micheál Martin, since January 2025"}
+  power: >-
+    A parliamentary republic. The Taoiseach leads the majority in the Dáil, elected by single
+    transferable vote; the directly elected president is largely ceremonial.
+  story: steady
 
 ITA:
   pop: 59.0
@@ -361,6 +415,12 @@ LVA:
   baseline: >-
     Andris Kulbergs of the centre-right United List became prime minister in May 2026. In the 3 October 2026 election, his party won 42 of 100 seats with about 35 percent, the best result for any party since independence. He is expected to form a new coalition that excludes Sovereign Power, a party opposed to military aid to Ukraine.
   leaders: {state: "President Edgars Rinkēvičs, since 2023", gov: "Prime Minister Andris Kulbergs (United List), since May 2026"}
+  power: >-
+    A parliamentary republic. The prime minister leads the majority in the 100-seat Saeima; the
+    president is elected by parliament.
+  story: election
+  sources:
+    - {label: "Euronews: United List wins", url: "https://www.euronews.com/2026/10/04/latvias-pro-european-ruling-party-wins-election-as-populists-gain-ground"}
 
 LIE:
   pop: 0.040
@@ -377,21 +437,37 @@ LIE:
   baseline: >-
     Brigitte Haas of the Patriotic Union became head of government in 2025, the first woman in the post. Prince Hans-Adam II remains head of state, with day-to-day duties delegated to his son, Hereditary Prince Alois.
   leaders: {state: "Prince Hans-Adam II, with Hereditary Prince Alois as regent", gov: "Prime Minister Brigitte Haas, since 2025"}
+  power: >-
+    A constitutional monarchy with strong direct democracy. The prince appoints the government on
+    parliament's proposal and can veto laws, and citizens can force referendums.
+  story: steady
 
 LTU:
   pop: 2.9
   religion: Catholic about 74%
   system: semi-presidential
   snapshot: >-
-    A NATO frontline state hosting a permanent German brigade, governed by a Social Democrat-led coalition whose inclusion of a populist party has caused repeated rows.
+    A NATO frontline state whose Social Democrat-led government fell in June 2026 when it dropped
+    its populist partner, making party leader Mindaugas Sinkevičius prime minister.
   tags: [NATO frontline, German brigade, Basketball, Fintech hub]
   culture: >-
     Lithuania was the last pagan country in Europe to convert to Christianity, in 1387, and once ruled a vast commonwealth with Poland. Basketball is close to a religion. The Hill of Crosses, covered with more than 100,000 crosses, symbolised resistance to Soviet rule. Lithuanian is one of the oldest living Indo-European languages.
   society: >-
     Lithuania was the first Soviet republic to declare independence, in 1990. It has become a fintech hub, has stood up to China over Taiwan, and spends heavily on defence. Emigration has shrunk the population. Belarus has sent balloons carrying contraband across the border, forcing Vilnius airport to close repeatedly.
   baseline: >-
-    The Social Democrats won the 2024 election. Prime Minister Gintautas Paluckas resigned in 2025 over business dealings and was succeeded by Inga Ruginienė. The coalition's inclusion of Nemunas Dawn, led by a politician on trial for antisemitic remarks, has drawn protests.
-  leaders: {state: "President Gitanas Nausėda, since 2019", gov: "Prime Minister Inga Ruginienė, since 2025"}
+    The Social Democrats won the 2024 election. Prime Minister Gintautas Paluckas resigned in 2025
+    over business dealings and was succeeded by Inga Ruginienė, whose coalition included Nemunas
+    Dawn, led by a politician on trial for antisemitic remarks. In June 2026 the Social Democrats
+    ended that partnership, Ruginienė's cabinet resigned, and party leader Mindaugas Sinkevičius
+    became prime minister on 14 July with the Union of Democrats "For Lithuania" as his partner.
+  leaders: {state: "President Gitanas Nausėda, since 2019", gov: "Prime Minister Mindaugas Sinkevičius, since July 2026"}
+  power: >-
+    A semi-presidential republic. The directly elected president leads foreign and defence policy;
+    the prime minister leads the government with the confidence of the 141-seat Seimas.
+  story: election
+  sources:
+    - {label: "Euronews: Ruginienė resigns", url: "https://www.euronews.com/2026/06/23/lithuania-pm-ruginiene-resigns-after-less-than-a-year-in-office"}
+    - {label: "Wikipedia: Inga Ruginienė", url: "https://en.wikipedia.org/wiki/Inga_Ruginien%C4%97"}
 
 LUX:
   pop: 0.68
@@ -407,6 +483,10 @@ LUX:
   baseline: >-
     Luc Frieden of the Christian Social People's Party has led a coalition with the Democratic Party since 2023. Grand Duke Henri abdicated in October 2025 in favour of his son Guillaume.
   leaders: {state: "Grand Duke Guillaume, since October 2025", gov: "Prime Minister Luc Frieden, since 2023"}
+  power: >-
+    A constitutional monarchy with a parliamentary system. The prime minister leads the majority in
+    the 60-seat Chamber of Deputies; the grand duke is ceremonial.
+  story: steady
 
 MLT:
   pop: 0.57
@@ -422,6 +502,12 @@ MLT:
   baseline: >-
     Robert Abela, prime minister since 2020, called an election for May 2026 and won a fourth consecutive term for Labour, a record. The Nationalist Party remains in opposition.
   leaders: {state: "President Myriam Spiteri Debono, since 2024", gov: "Prime Minister Robert Abela, since 2020"}
+  power: >-
+    A parliamentary republic. The prime minister leads the majority in the House of Representatives,
+    elected by single transferable vote in a near two-party system; the president is ceremonial.
+  story: election
+  sources:
+    - {label: "Al Jazeera: Labour triumphs", url: "https://www.aljazeera.com/amp/news/2026/5/31/labour-triumphs-in-malta-election-preliminary-results-show"}
 
 MDA:
   pop: 2.4
@@ -451,6 +537,10 @@ MCO:
   baseline: >-
     Prince Albert II has reigned since 2005. Christophe Mirmand, a French official, became Minister of State, the head of government, in 2025.
   leaders: {state: "Prince Albert II, since 2005", gov: "Minister of State Christophe Mirmand, since 2025"}
+  power: >-
+    A constitutional monarchy in which the prince holds executive power and appoints the Minister of
+    State to run the government; the elected National Council passes laws and the budget.
+  story: steady
 
 MNE:
   pop: 0.62
@@ -464,8 +554,16 @@ MNE:
   society: >-
     Montenegro split from Serbia in a 2006 referendum and joined NATO in 2017. Tourism dominates the economy. A Chinese loan for a motorway has weighed on public finances. A mass shooting in Cetinje on New Year's Day 2025 led to calls for tighter gun laws.
   baseline: >-
-    Milojko Spajić of Europe Now became prime minister in 2023 at the head of a broad coalition. Montenegro has closed several negotiating chapters with the EU and hopes to finish talks by the end of 2026.
+    Milojko Spajić of Europe Now became prime minister in 2023 at the head of a broad coalition.
+    Montenegro is the EU's accession frontrunner: by July 2026 it had closed 18 of 33 negotiating
+    chapters, and it aims to finish talks by the end of the year.
   leaders: {state: "President Jakov Milatović, since 2023", gov: "Prime Minister Milojko Spajić, since 2023"}
+  power: >-
+    A parliamentary republic. The prime minister leads the majority in the 81-seat Parliament; the
+    directly elected president is largely ceremonial.
+  story: steady
+  sources:
+    - {label: "European Western Balkans: 18 of 33 chapters closed", url: "https://europeanwesternbalkans.com/2026/07/14/montenegro-closes-two-more-chapters-with-eu-reaches-18-out-of-33/"}
 
 NLD:
   pop: 18.0
@@ -492,8 +590,18 @@ MKD:
   society: >-
     North Macedonia joined NATO in 2020. Emigration and a shrinking population are pressing problems. A 2025 nightclub fire in Kočani that killed 62 people sparked protests over corruption in licensing. Relations between ethnic Macedonians and Albanians, which turned violent in 2001, are managed through power-sharing.
   baseline: >-
-    Hristijan Mickoski's VMRO-DPMNE won the 2024 election, and Gordana Siljanovska-Davkova became the first woman president. Bulgaria has blocked the opening of accession talks until the constitution is amended to recognise Bulgarians.
+    Hristijan Mickoski's VMRO-DPMNE won the 2024 election, and Gordana Siljanovska-Davkova became
+    the first woman president. Bulgaria blocks the opening of accession talks until the constitution
+    is amended to recognise a Bulgarian minority, and in 2026 Mickoski repeated that there would be
+    no change in the form currently demanded, leaving the process stuck.
   leaders: {state: "President Gordana Siljanovska-Davkova, since 2024", gov: "Prime Minister Hristijan Mickoski, since 2024"}
+  power: >-
+    A parliamentary republic. The prime minister leads the majority in the 120-seat Assembly; the
+    directly elected president is largely ceremonial. Power-sharing rules give the Albanian minority
+    a guaranteed role.
+  story: steady
+  sources:
+    - {label: "BTA: no constitutional changes in the current form", url: "https://www.bta.bg/en/news/1174711-north-macedonia-s-pm-says-there-will-be-no-constitutional-changes-in-form-curre"}
 
 NOR:
   pop: 5.6
@@ -577,6 +685,10 @@ SMR:
   baseline: >-
     San Marino is governed by a coalition led by the Christian Democrats. The Great and General Council elects the two Captains Regent every six months.
   leaders: {state: "Two Captains Regent, elected every six months", gov: "Secretary of State for Foreign Affairs Luca Beccari"}
+  power: >-
+    A parliamentary republic. The 60-member Great and General Council elects the government, the
+    Congress of State, and every six months two Captains Regent who serve jointly as heads of state.
+  story: steady
 
 SRB:
   pop: 6.6
@@ -584,12 +696,25 @@ SRB:
   system: parliamentary
   story: election
   snapshot: >-
-    Facing student-led protests, Aleksandar Vučić resigned the presidency in September 2026 to run for prime minister in a snap election on 25 October.
-  tags: [Student protests, Vučić's manoeuvre, Between EU and Russia, Kosovo dispute]
+    Vučić quit the presidency to run for prime minister and lost: the student-led movement born from
+    the Novi Sad protests won an outright majority on 25 October 2026.
+  tags: [Student List victory, Protest movement, Between EU and Russia, Kosovo dispute]
   culture: >-
     Serbian Orthodox monasteries, the Cyrillic and Latin alphabets used side by side, and slava, the family patron saint's day, define Serbian tradition. Belgrade's nightlife is famous, as are its kafanas, taverns with live folk music. Novak Đoković is a national hero. Guča's trumpet festival draws hundreds of thousands.
   society: >-
     Serbia balances between the EU, which it hopes to join, and Russia and China, which back it on Kosovo and invest in its economy. The 2024 collapse of a railway station canopy in Novi Sad, which killed 16 people, set off the biggest protest movement in decades, led by students. Media freedom has declined under Vučić.
+  update: >-
+    On 25 October the Student List won about 52.5 percent and a projected 140 of 250 seats on a
+    record turnout of nearly 69 percent, against 39 percent for Vučić's United Serbia list, and
+    Vučić conceded defeat. The new parliament must be formed within 30 days of final results, and a
+    presidential election must be held by 27 December.
+  update_date: 2026-10-26
+  holders: >-
+    Acting President Ana Brnabić; a Student List government is expected after its October 2026
+    majority, with Ilija Srdanović, a Novi Sad cardiologist, seen as the likeliest prime minister.
+  sources_extra:
+    - {label: "Al Jazeera: Serbia after Vučić", url: "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed"}
+    - {label: "Euronews: Student List wins", url: "https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won"}
 
 SVK:
   pop: 5.4
@@ -656,8 +781,20 @@ CHE:
   society: >-
     Switzerland is among the world's richest countries, with pharma giants like Roche and Novartis, banking and precision industry. It remains outside the EU but tied to it by bilateral treaties. Neutrality has been tested by sanctions on Russia. Glacier loss from climate change is visible across the Alps.
   baseline: >-
-    The seven-member Federal Council is shared among the four largest parties. Guy Parmelin of the Swiss People's Party holds the rotating presidency in 2026. In 2025 the US imposed a 39 percent tariff on Swiss goods before a deal lowered it.
+    The seven-member Federal Council is shared among the four largest parties, and Guy Parmelin of
+    the Swiss People's Party holds the rotating presidency in 2026. In 2025 the US imposed a 39
+    percent tariff on Swiss goods before a deal lowered it. On 14 June 2026 voters rejected, by
+    about 55 percent, the Swiss People's Party's initiative to cap the population at 10 million,
+    which would have endangered free movement with the EU as a new package of EU treaties heads
+    toward a national vote.
   leaders: {state: "Federal Council, with Guy Parmelin as President of the Confederation for 2026", gov: "Federal Council of seven members"}
+  power: >-
+    A federal directorial republic. Parliament elects a seven-member Federal Council that governs
+    collectively; the cantons are powerful, and citizens can force national referendums on almost
+    any law.
+  story: election
+  sources:
+    - {label: "Anadolu: voters reject the population cap", url: "https://www.aa.com.tr/en/politics/nearly-55-swiss-voters-reject-10m-population-cap-initiative/3966646"}
 
 UKR:
   pop: 38

@@ -41,6 +41,12 @@ IRQ:
     Iraq is ancient Mesopotamia, where writing, cities and law codes began, and Baghdad was the cultural capital of the Islamic world under the Abbasids. Najaf and Karbala are the holiest Shia cities, drawing millions of pilgrims for Arbaeen. Iraqi maqam music and poetry, and a love of football, unite a divided country. The Kurdistan Region has its own language, parliament and flag.
   society: >-
     Oil provides almost all government revenue and pays millions of public salaries. Decades of war, sanctions, the 2003 US invasion and the fight against ISIS have left infrastructure battered. Summer power cuts and water shortages, worsened by dams upstream in Turkey and Iran, spark protests. Iran-aligned militias are formally part of the state through the Popular Mobilisation Forces.
+  holders: >-
+    President Nizar Amedi (PUK), since April 2026; Prime Minister Ali al-Zaidi, whose government
+    parliament approved in May 2026 and completed in October.
+  sources_extra:
+    - {label: "Al Jazeera: parliament approves al-Zaidi government", url: "https://www.aljazeera.com/news/2026/5/14/iraqs-parliament-approves-new-ali-al-zaidi-government"}
+    - {label: "Al Jazeera: al-Zaidi's cabinet completed", url: "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns"}
 
 ISR:
   pop: 10.0
@@ -102,15 +108,29 @@ OMN:
   religion: Ibadi and Sunni Islam about 86%, Hindu and Christian expatriate minorities
   system: exec-monarchy
   snapshot: >-
-    The Gulf's quiet mediator, an absolute monarchy that has hosted US-Iran talks and stayed out of regional wars while diversifying away from oil.
-  tags: [Neutral mediator, Absolute monarchy, Ibadi Islam, Oil diversification]
+    The Gulf's quiet mediator was hit by Iranian drones in 2026, then threatened by Trump over its
+    talks with Tehran on managing the Strait of Hormuz.
+  tags: ["Hormuz diplomacy", "Absolute monarchy", "Ibadi Islam", "Ports boom", "Oil diversification"]
   culture: >-
     Oman is the only country where most Muslims follow Ibadism, a tolerant school distinct from Sunni and Shia Islam. Its forts, frankincense trade and a seafaring history that once stretched to Zanzibar shape identity. Omani men wear the dishdasha and khanjar dagger, which is on the flag. Ancient falaj irrigation channels still water oases.
   society: >-
     Oil and gas provide most revenue, but reserves are smaller than its neighbours', so Oman introduced VAT and plans the Gulf's first income tax on high earners from 2028. Omanisation policies push citizens into private jobs held by foreigners. It has a tradition of quiet diplomacy, hosting secret US-Iran talks.
   baseline: >-
-    Sultan Haitham bin Tarik succeeded his cousin Qaboos in 2020 and has focused on fiscal reform and an orderly succession, naming his son crown prince. Oman mediated rounds of US-Iran nuclear talks in 2025 before the war.
+    Sultan Haitham bin Tarik succeeded his cousin Qaboos in 2020 and hosted US-Iran nuclear talks in
+    2025. When the war began on 28 February 2026, Iranian drones hit the ports of Duqm and Salalah,
+    which US forces use, and other sites, reportedly killing 18 people; Tehran blamed rogue units.
+    Oman kept talking to Iran, and in June the two agreed to work on a joint model for managing the
+    Strait of Hormuz, prompting Trump to threaten to blow up Oman if it charged tolls. Its ports
+    outside the strait have meanwhile boomed as alternatives to blocked Gulf hubs.
   leaders: {state: "Sultan Haitham bin Tarik, since 2020", gov: "The sultan also serves as prime minister"}
+  power: >-
+    An absolute monarchy. The sultan is head of state, prime minister and commander of the armed
+    forces; an elected consultative council and an appointed state council advise but cannot
+    overrule him.
+  story: war
+  sources:
+    - {label: "Wikipedia: 2026 Iranian strikes on Oman", url: "https://en.wikipedia.org/wiki/2026_Iranian_strikes_on_Oman"}
+    - {label: "PISM: the impact of the Iran war on Oman", url: "https://pism.pl/publications/the-impact-of-the-iran-war-on-oman"}
 
 PSE:
   pop: 5.6

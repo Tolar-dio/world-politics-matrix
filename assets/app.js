@@ -39,16 +39,23 @@
         ['shock', 'Economic or outside shock', '#9C8DB8'],
         ['steady', 'Steadier than most', '#A9BFA0'],
       ],
-      none: ['No 2026 write-up yet', '#E4DED0'],
+      none: ['Not tagged', '#E4DED0'],
     },
-    coverage: {
-      title: 'Which part of the series',
-      key: (e) => (e.part ? `p${e.part}` : null),
-      items: [],
-      none: ['Not covered yet', '#E4DED0'],
+    tenure: {
+      title: 'How long the leader has held power',
+      key: (e) => e.tenure,
+      items: [
+        ['new', 'Took power in 2026', '#F2E3B6'],
+        ['y1-3', 'Took power 2023 to 2025', '#E7BE72'],
+        ['y4-10', 'Took power 2016 to 2022', '#D28C4B'],
+        ['y11-20', 'Took power 2006 to 2015', '#A5533A'],
+        ['y20plus', 'Took power before 2006', '#6B2D38'],
+        ['collective', 'Collective leadership', '#AEB7BC'],
+      ],
+      none: ['Not recorded', '#E4DED0'],
     },
   };
-  const PART_COLORS = ['#E3A86B', '#8FB98B', '#B7A3CF', '#E8C76A', '#7FB0C4', '#C77D8E', '#A9BFA0', '#9C8DB8'];
+  const YEAR = 2026;
 
   const state = {
     lens: 'system',
@@ -276,10 +283,16 @@
     const snap = e.kind === 'territory' ? e.note : e.snapshot;
     tip.innerHTML = `
       <div class="tip-name">${esc(e.flag)} ${esc(e.name)}</div>
-      <div class="tip-key"><span class="swatch" style="background:${color}"></span>${esc(lensLabel(e))}</div>
+      <div class="tip-key"><span class="swatch" style="background:${color}"></span>${esc(state.lens === 'tenure' && e.kind === 'country' ? tenureLine(e) : lensLabel(e))}</div>
       ${snap ? `<div class="tip-snap">${esc(snap)}</div>` : ''}`;
     tip.hidden = false;
     placeTip();
+  }
+
+  function tenureLine(e) {
+    if (e.since == null) return e.leader || 'Collective leadership';
+    const yrs = YEAR - e.since;
+    return `${e.leader}, since ${e.since}${yrs >= 2 ? ` (${yrs} years)` : ''}`;
   }
 
   function placeTip() {
@@ -319,6 +332,7 @@
     document.querySelectorAll('.lens-switch button').forEach((b) => b.setAttribute('aria-checked', String(b.dataset.lens === name)));
     renderLegend();
     refreshPolygons();
+    refreshBrowseDots();
     renderTip();
     try { localStorage.setItem('wpm-lens', name); } catch (_) { /* storage unavailable */ }
   }
@@ -352,7 +366,7 @@
       results.innerHTML = `<li class="empty" role="option" aria-disabled="true">No country matches “${esc(input.value.trim())}”</li>`;
     } else {
       results.innerHTML = matches.map((e, i) => {
-        const meta = e.kind === 'territory' ? 'Territory' : (e.part ? `Part ${e.part}` : 'Profile');
+        const meta = e.kind === 'territory' ? 'Territory' : esc(e.subregion || e.region || '');
         return `<li role="option" id="opt-${e.id}" data-id="${e.id}" aria-selected="${i === active}"><span class="flag">${esc(e.flag)}</span><span>${esc(e.name)}</span><span class="meta">${meta}</span></li>`;
       }).join('');
     }
@@ -385,24 +399,42 @@
 
   function renderIntro() {
     const c = index.counts;
-    const latest = index.parts.map((p) => p.as_of).sort().pop();
-    const latestText = latest ? new Date(latest + 'T12:00:00Z').toLocaleDateString('en-GB', { day: 'numeric', month: 'long', timeZone: 'UTC' }) : '';
-    $('#intro-count').textContent = `${c.briefed} of ${c.countries} countries have a full 2026 write-up so far${latestText ? `, current to ${latestText}` : ''}. The other ${c.countries - c.briefed} are next in line.`;
-    $('#parts-list').innerHTML = index.parts.map((p, i) => {
-      const d = new Date(p.as_of + 'T12:00:00Z').toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
-      return `<li><b><span class="swatch" style="display:inline-block;vertical-align:-1px;margin-right:6px;background:${PART_COLORS[i % PART_COLORS.length]}"></span>Part ${p.part}</b><span>${p.count} countries, current to ${d}</span></li>`;
+    const countries = index.entities.filter((e) => e.kind === 'country');
+    $('#intro-count').textContent = `All ${c.countries} countries, from China to Tuvalu, updated ${index.checked}.`;
+
+    // The year at a glance: storyline counts with the biggest examples
+    const byPop = (a, b) => (b.pop || 0) - (a.pop || 0);
+    $('#glance').innerHTML = LENSES.story.items.map(([key, label, color]) => {
+      const list = countries.filter((e) => e.story === key).sort(byPop);
+      if (!list.length) return '';
+      const eg = list.slice(0, 3).map((e) => `<button type="button" class="link" data-id="${e.id}">${esc(e.name)}</button>`).join(', ');
+      return `<li><button type="button" class="glance-row" data-lens="story"><span class="swatch" style="background:${color}"></span><span class="glance-label">${esc(label)}</span><span class="glance-n">${list.length}</span></button><p class="glance-eg">Including ${eg}</p></li>`;
     }).join('');
+
+    // Longest in power
+    const longest = countries.filter((e) => e.since != null).sort((a, b) => a.since - b.since || a.name.localeCompare(b.name)).slice(0, 8);
+    $('#longest').innerHTML = longest.map((e) =>
+      `<li><button type="button" data-id="${e.id}"><span class="lp-year">${e.since}</span><span class="lp-who"><b>${esc(e.leader)}</b><span>${esc(e.flag)} ${esc(e.name)}</span></span></button></li>`).join('');
+
     const groups = new Map(BROWSE_GROUPS.map((g) => [g, []]));
-    for (const e of index.entities) if (e.kind === 'country') (groups.get(e.group) || groups.get('Asia')).push(e);
+    for (const e of countries) (groups.get(e.group) || groups.get('Asia')).push(e);
     $('#browse').innerHTML = BROWSE_GROUPS.map((g) => {
       const list = groups.get(g).sort((a, b) => a.name.localeCompare(b.name));
-      const covered = list.filter((e) => e.part).length;
-      return `<details><summary>${g} <span>${covered} of ${list.length} written up</span></summary><ul>${list.map((e) =>
-        `<li><button type="button" data-id="${e.id}"><span class="dot${e.part ? '' : ' off'}" aria-hidden="true"></span>${esc(e.name)}</button></li>`).join('')}</ul></details>`;
+      return `<details><summary>${g} <span>${list.length} countries</span></summary><ul>${list.map((e) =>
+        `<li><button type="button" data-id="${e.id}"><span class="dot" style="background:${lensColor(e)}" aria-hidden="true"></span>${esc(e.name)}</button></li>`).join('')}</ul></details>`;
     }).join('');
-    $('#browse').addEventListener('click', (ev) => {
-      const b = ev.target.closest('button[data-id]');
-      if (b) select(b.dataset.id);
+
+    $('#intro').addEventListener('click', (ev) => {
+      const pick = ev.target.closest('button[data-id]');
+      if (pick) { select(pick.dataset.id); return; }
+      const row = ev.target.closest('button[data-lens]');
+      if (row) setLens(row.dataset.lens);
+    });
+  }
+
+  function refreshBrowseDots() {
+    document.querySelectorAll('#browse button[data-id] .dot').forEach((dot) => {
+      dot.style.background = lensColor(byId.get(dot.parentElement.dataset.id));
     });
   }
 
@@ -423,34 +455,48 @@
     return item ? { label: item[1], color: item[2] } : null;
   }
 
+  function tenureLabel(since) {
+    const item = LENSES.tenure.items.find(([k]) => k === bucketFor(since));
+    return item ? item[2] : '#AEB7BC';
+  }
+
+  function bucketFor(since) {
+    if (since == null) return 'collective';
+    if (since >= 2026) return 'new';
+    if (since >= 2023) return 'y1-3';
+    if (since >= 2016) return 'y4-10';
+    if (since >= 2006) return 'y11-20';
+    return 'y20plus';
+  }
+
   function renderProfile(d) {
-    const b = d.briefing;
     const f = d.facts || {};
     const sys = systemLabel(d.system);
     const where = [d.subregion || d.region, d.official && d.official !== d.name ? d.official : null].filter(Boolean).join('. ');
     const fact = (label, val, wide) => (val ? `<div${wide ? ' class="wide"' : ''}><dt>${label}</dt><dd>${val}</dd></div>` : '');
-
-    let holders = '';
-    if (b && b.holders) {
-      holders = `<div class="holders"><p>${b.holders}</p></div>`;
-    } else if (d.leaders) {
-      const L = d.leaders;
-      holders = `<div class="holders">${L.state ? `<p>${esc(L.state)}</p>` : ''}${L.gov && L.gov !== L.state ? `<p>${esc(L.gov)}</p>` : ''}<p class="caveat">Checked for this site, but this country has no full 2026 write-up yet, so recent changes may be missing.</p></div>`;
-    }
-
     const sec = (title, inner, extra = '') => (inner ? `<section><h2>${title}</h2>${extra}${inner}</section>` : '');
     const paras = (list) => (list && list.length ? list.map((p) => `<p>${p}</p>`).join('') : '');
 
-    const coverage = b
-      ? `<p class="coverage">Full 2026 write-up from Part ${b.part} of the series, current to ${esc(b.as_of)}.</p>`
-      : `<p class="coverage pending">No full 2026 write-up yet. The background below is a shorter sketch and may miss this year's latest turns.</p>`;
+    let holders = '';
+    if (d.holders) holders = `<p>${d.holders}</p>`;
+    else if (d.leaders) {
+      const L = d.leaders;
+      holders = `${L.state ? `<p>${esc(L.state)}</p>` : ''}${L.gov && L.gov !== L.state ? `<p>${esc(L.gov)}</p>` : ''}`;
+    }
+    const yrs = d.since != null ? YEAR - d.since : null;
+    const span = yrs == null ? 'Collective leadership' : yrs < 1 ? 'New in 2026' : yrs === 1 ? `One year in power, since ${d.since}` : `${yrs} years in power, since ${d.since}`;
+    const tenure = `<p class="tenure"><span class="swatch" style="background:${tenureLabel(d.since)}"></span>${span}</p>`;
+    holders = `<div class="holders">${holders}${tenure}</div>`;
 
-    const sources = b && b.sources && b.sources.length
-      ? `<ol class="sources">${b.sources.map((s) => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a></li>`).join('')}</ol>`
+    const status = d.depth === 'full'
+      ? `<p class="status">Current to ${esc(d.current_to)}${d.update ? `, updated ${esc(d.update.date)}` : ''}</p>`
+      : `<p class="status short">Short profile, checked ${esc(d.current_to)}</p>`;
+
+    const update = d.update ? `<div class="update"><p><b>Update, ${esc(d.update.date)}.</b> ${d.update.html}</p></div>` : '';
+
+    const sources = d.sources && d.sources.length
+      ? `<ol class="sources">${d.sources.map((s) => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a></li>`).join('')}</ol>`
       : '';
-
-    const noProfile = !d.culture.length && !d.society.length
-      ? '<p class="lead-in">The culture and society portrait for this country is still being written.</p>' : '';
 
     $('#profile').innerHTML = `
       <div class="profile-top">
@@ -461,8 +507,8 @@
         </div>
         <button class="close" type="button" id="close-btn" aria-label="Close profile">${CLOSE_ICON}</button>
       </div>
-      ${coverage}
       ${d.snapshot ? `<p class="snapshot">${esc(d.snapshot)}</p>` : ''}
+      ${status}
       <dl class="facts">
         ${fact('Capital', esc(f.capital))}
         ${fact('Population', esc(f.population))}
@@ -474,11 +520,10 @@
         ${fact('Who holds power', holders, true)}
       </dl>
       ${d.tags && d.tags.length ? `<ul class="tags" aria-label="Descriptors">${d.tags.map((t) => `<li>${esc(t)}</li>`).join('')}</ul>` : ''}
-      ${b ? sec('2026', paras(b.story)) : sec('Background', paras(d.baseline), '<p class="lead-in">A short sketch until this country gets its 2026 write-up.</p>')}
-      ${b && b.power ? sec('How power works', `<p class="power">${b.power}</p>`) : ''}
+      ${sec('Where things stand', update + paras(d.situation))}
+      ${d.power ? sec('How power works', `<p class="power">${d.power}</p>`) : ''}
       ${sec('Culture', paras(d.culture))}
       ${sec('Society', paras(d.society))}
-      ${noProfile}
       ${sec('Sources', sources)}`;
 
     $('#profile').querySelectorAll('section a[href^="http"]').forEach((a) => { a.target = '_blank'; a.rel = 'noopener'; });
@@ -604,7 +649,6 @@
     ]);
     index = idx;
     byId = new Map(index.entities.map((e) => [e.id, e]));
-    LENSES.coverage.items = index.parts.map((p, i) => [`p${p.part}`, `Part ${p.part}`, PART_COLORS[i % PART_COLORS.length]]);
     lensColor = buildLensColor();
     features = topojson.feature(topo, topo.objects.countries).features;
 
@@ -618,7 +662,7 @@
 
     document.querySelectorAll('.lens-switch button').forEach((b) => b.addEventListener('click', () => setLens(b.dataset.lens)));
     $('#random-btn').addEventListener('click', () => {
-      const pool = index.entities.filter((e) => e.kind === 'country' && e.part);
+      const pool = index.entities.filter((e) => e.kind === 'country');
       select(pool[Math.floor(Math.random() * pool.length)].id);
     });
     $('#home-link').addEventListener('click', (ev) => { ev.preventDefault(); closeProfile(); });

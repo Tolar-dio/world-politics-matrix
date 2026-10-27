@@ -7,15 +7,30 @@ DZA:
   system: presidential
   system_note: The army remains the power behind the presidency.
   snapshot: >-
-    Africa's largest country by area, run by an army-backed presidency that outlasted the 2019 Hirak protests and pays for social peace with gas money.
+    Africa's largest country by area, run by an army-backed presidency that held parliamentary
+    elections in July 2026 on a turnout of barely one in five voters.
   tags: [Gas exporter, Army-backed presidency, Post-Hirak, Arab and Amazigh, Former French colony]
   culture: >-
     Algerian identity was forged in the 1954 to 1962 war of independence against France, which still shapes politics, school curricula and relations with Paris. Arabic and Tamazight are both official, and Kabylie in the north-east is the heartland of Amazigh language and activism. Raï music came out of Oran's port bars, and football is close to a civic religion: the national team's matches double as political gatherings.
   society: >-
     Most Algerians live on the narrow Mediterranean strip; the Sahara covers more than four-fifths of the land. Oil and gas provide most export earnings and fund subsidised bread, fuel and housing. Youth unemployment is high, and many young people try to emigrate, often by boat to Spain. Women make up a majority of university graduates but a small share of the workforce.
   baseline: >-
-    President Abdelmadjid Tebboune won a second term in September 2024 with an officially reported 84 percent, on low turnout. Since the Hirak protest movement forced Abdelaziz Bouteflika out in 2019, the authorities have jailed activists and journalists and narrowed space for dissent. Algeria has used higher gas revenues from Europe's search for alternatives to Russia to raise wages and subsidies, while relations with France and Morocco have repeatedly broken down over Western Sahara.
+    President Abdelmadjid Tebboune won a second term in September 2024 with an officially reported
+    84 percent on low turnout. In July 2026 Algerians elected a new parliament: the old ruling
+    party, the FLN, came first with 90 seats, but official turnout was just 21 percent, a measure of
+    how little most people expect from elected institutions since the Hirak protest movement was
+    suppressed. Gas sales to a Europe weaning itself off Russian supplies fund higher wages and
+    subsidies, while relations with France and Morocco remain frozen over Western Sahara and jailed
+    critics.
   leaders: {state: "President Abdelmadjid Tebboune, re-elected in 2024", gov: "Prime Minister Sifi Ghrieb"}
+  power: >-
+    A presidential republic. The directly elected president appoints the prime minister and
+    dominates policy, while the army command remains the most powerful institution behind the
+    scenes. Parliament has an elected lower house and a partly appointed upper house.
+  story: election
+  sources:
+    - {label: "Algérie Eco: legislative results", url: "https://algerie-eco.com/2026/07/06/legislatives-en-algerie-un-taux-de-participation-de-2124-le-fln-arrive-en-tete-avec-90-sieges/"}
+    - {label: "International IDEA: Algeria, July 2026", url: "https://www.idea.int/democracytracker/report/algeria/july-2026"}
 
 AGO:
   pop: 39.0
@@ -29,8 +44,21 @@ AGO:
   society: >-
     Oil makes up most exports, but wealth has been concentrated in a small elite; the daughter of former president José Eduardo dos Santos was once Africa's richest woman. Around half the population is under 16. Many Luandans live in informal settlements without reliable water. The US-backed Lobito rail corridor to the Congo and Zambia copper belt is the government's big bet on diversification.
   baseline: >-
-    João Lourenço, president since 2017, won a second term in 2022 in the closest election in Angola's history, with the opposition UNITA taking the capital. His anti-corruption drive targeted the dos Santos family, though critics said it was selective. Fuel subsidy cuts in July 2025 set off deadly protests and riots in Luanda. Lourenço cannot run again, and the MPLA's choice of successor before the 2027 election is the main political question.
+    João Lourenço, president since 2017, won a second term in 2022 in the closest election in
+    Angola's history, with the opposition UNITA taking the capital. Fuel subsidy cuts in July 2025
+    set off deadly protests and riots in Luanda. With Lourenço barred from running again in 2027,
+    2026 has been dominated by the MPLA's succession question: the president has dropped hints
+    without naming an heir, and critics accuse the courts of sidelining would-be rivals. The US-
+    backed Lobito rail corridor to the Congo and Zambia copper belt is his flagship project.
   leaders: {state: "President João Lourenço, since 2017", gov: "The president heads the government"}
+  power: >-
+    A presidential republic in which the head of the winning party list in the National Assembly
+    election becomes president, for at most two five-year terms. The president heads the government.
+    The MPLA has ruled since independence in 1975.
+  story: steady
+  sources:
+    - {label: "Africa.com: Lourenço teases succession plans", url: "https://africa.com/top-10-news/angolas-president-teases-succession-plans-ahead-of-2027-exit"}
+    - {label: "The EastAfrican: succession debate", url: "https://www.theeastafrican.co.ke/tea/news/southern-africa/angola-louren%C3%A7o-keeps-people-guessing-succession-debate-5152698"}
 
 BEN:
   pop: 14.8
@@ -58,23 +86,49 @@ BWA:
   society: >-
     At independence in 1966 Botswana was among the poorest countries on Earth; diamond revenue, managed through a joint venture with De Beers, built roads, schools and clinics. The country fought one of the world's worst HIV epidemics and now has high treatment coverage. Unemployment, especially among young people, is stubbornly high, and the slump in natural diamond prices has hit state finances hard.
   baseline: >-
-    In October 2024 voters ended 58 years of rule by the Botswana Democratic Party, which fell to fourth place. Duma Boko, a Harvard-trained lawyer leading the Umbrella for Democratic Change, became president. His government inherited a recession driven by collapsing diamond sales as lab-grown stones undercut the market, and has sought a bigger stake in the De Beers partnership and new investment in other sectors.
+    In October 2024 voters ended 58 years of Botswana Democratic Party rule, and Duma Boko of the
+    Umbrella for Democratic Change became president. He inherited a recession driven by collapsing
+    diamond sales as lab-grown stones undercut the market. In 2026 his government finalised a new
+    ten-year deal with De Beers giving Botswana a bigger share of the gems, and Debswana planned to
+    raise output by a fifth as demand showed signs of recovering, though the government ruled out
+    reckless spending to prop up the partnership.
   leaders: {state: "President Duma Boko (UDC), since November 2024", gov: "The president heads the government"}
+  power: >-
+    A parliamentary republic with an executive presidency: the National Assembly elects the
+    president, who heads the government, for up to two five-year terms. A House of Chiefs advises on
+    customary matters.
+  story: shock
+  sources:
+    - {label: "Mining.com: Debswana output plans", url: "https://www.mining.com/web/botswanas-debswana-plans-20-diamond-output-hike-in-2026/"}
+    - {label: "Miningmx: no reckless De Beers spending", url: "https://miningmx.com/news/diamonds/2026-09-18-botswana-rules-out-reckless-de-beers-spending/"}
 
 BFA:
   pop: 24.1
   religion: Muslim about 64%, Christian about 26%, traditional faiths
   system: military
   snapshot: >-
-    A junta led by Captain Ibrahim Traoré, Africa's youngest leader, which has turned to Russia and stretched its rule to 2029 while jihadists control large parts of the country.
+    A junta led by Captain Ibrahim Traoré, which says it foiled two more coup plots in 2026, while
+    jihadists control large parts of the countryside.
   tags: [Military junta, Sahel insurgency, Alliance of Sahel States, Gold exporter]
   culture: >-
     Burkina Faso means "land of upright people", a name chosen by the revolutionary leader Thomas Sankara, whose image remains everywhere. Ouagadougou hosts FESPACO, Africa's biggest film festival, every two years, and the Mossi kingdom's Mogho Naba still holds a weekly ceremony at his palace. Bobo-Dioulasso's mud mosque and the country's masked dances reflect a deep mix of Islamic and older traditions.
   society: >-
     Most people farm or herd, and gold has become the main export. The jihadist insurgency since 2015 has displaced more than two million people and closed thousands of schools. Civilian volunteer militias recruited by the junta have been accused of massacres, especially against Fulani communities. Independent media have been suspended and critics conscripted to the front.
   baseline: >-
-    Captain Ibrahim Traoré seized power in September 2022, eight months after an earlier coup. He expelled French troops, brought in Russian security support and, with Mali and Niger, formed the Alliance of Sahel States and left ECOWAS. In 2024 the junta extended its rule by five years. Traoré has a large online following across Africa as an anti-colonial figure, while human rights groups document killings of civilians by both jihadists and the army.
+    Captain Ibrahim Traoré seized power in September 2022, expelled French troops, brought in
+    Russian security support and, with Mali and Niger, formed the Alliance of Sahel States and left
+    ECOWAS. In January 2026 the junta said it had foiled a coup and a plot to assassinate Traoré,
+    blaming Côte d'Ivoire, and in October it announced another failed attempt. The jihadist
+    insurgency keeps killing soldiers and civilians, and rights groups document abuses by both
+    sides. Traoré keeps a large online following across Africa as an anti-colonial figure.
   leaders: {state: "Captain Ibrahim Traoré, since 2022", gov: "Prime Minister Rimtalba Jean Emmanuel Ouédraogo"}
+  power: >-
+    Military rule. Traoré is head of state under a transition charter the junta extended in 2024 to
+    run until 2029; an appointed assembly and a prime minister serve at his pleasure.
+  story: war
+  sources:
+    - {label: "The Star: plot to kill Traoré foiled", url: "https://www.the-star.co.ke/news/world/2026-01-07-plot-to-kill-burkina-fasos-traore-foiled-says-junta"}
+    - {label: "Citizen Digital: October coup attempt foiled", url: "https://www.citizen.digital/news/burkina-faso-foiled-coup-attempt-in-early-october-minister-says-146288"}
 
 BDI:
   pop: 14.4
@@ -88,8 +142,20 @@ BDI:
   society: >-
     Most Burundians are subsistence farmers on tiny plots, in one of Africa's most densely populated countries. Coffee and tea are the main exports, and fuel and foreign currency shortages are chronic. The 1993 to 2005 civil war between Hutu rebels and the Tutsi-dominated army killed some 300,000; the peace deal built ethnic quotas into government and the army.
   baseline: >-
-    President Évariste Ndayishimiye succeeded Pierre Nkurunziza in 2020. The ruling CNDD-FDD won all seats in the 2025 legislative election after the main opposition figure, Agathon Rwasa, was sidelined. Burundian troops are deployed in eastern Congo against the Rwanda-backed M23, deepening hostility with Rwanda, and the fall of Bukavu in 2025 sent refugees across the border.
+    President Évariste Ndayishimiye succeeded Pierre Nkurunziza in 2020, and the ruling CNDD-FDD won
+    every elected seat in 2025 after the main opposition figure was sidelined. Burundian troops
+    fight alongside Congo's army against the Rwanda-backed M23, and when M23 pushed into the
+    lakeside city of Uvira in December 2025, hundreds of Burundian soldiers were reported captured
+    and refugees crossed the border. Burundi accuses Rwanda of planning to attack it; Rwanda denies
+    it.
   leaders: {state: "President Évariste Ndayishimiye, since 2020", gov: "Prime Minister Nestor Ntahontuye, since August 2025"}
+  power: >-
+    A presidential republic. The president is directly elected for seven years and appoints a prime
+    minister; the 2005 peace settlement still guarantees ethnic quotas in parliament, government and
+    the army.
+  story: war
+  sources:
+    - {label: "The EastAfrican: M23's capture of Uvira", url: "https://theeastafrican.co.ke/tea/news/east-africa/regional-conflict-m23-s-capture-of-uvira-makes-burundi-fidget-5296732"}
 
 CPV:
   pop: 0.53
@@ -105,6 +171,13 @@ CPV:
   baseline: >-
     Cabo Verde has alternated power peacefully between its two main parties since 1991. Ulisses Correia e Silva of the centre-right MpD governed from 2016, while President José Maria Neves comes from the PAICV, the party of independence. In the 17 May 2026 legislative election the PAICV won 37 of 72 seats, and its leader, Francisco Carvalho, a former mayor of the capital, Praia, became prime minister.
   leaders: {state: "President José Maria Neves, since 2021", gov: "Prime Minister Francisco Carvalho (PAICV), since 2026"}
+  power: >-
+    A semi-presidential republic. The prime minister, backed by a majority in the 72-seat National
+    Assembly, runs the government; the directly elected president has limited powers, including a
+    veto. Power has alternated peacefully between the PAICV and MpD since 1991.
+  story: election
+  sources:
+    - {label: "Wikipedia: 2026 parliamentary election", url: "https://en.wikipedia.org/wiki/2026_Cape_Verdean_parliamentary_election"}
 
 CMR:
   pop: 29.9
@@ -118,8 +191,21 @@ CMR:
   society: >-
     A former German colony split between France and Britain after the First World War, Cameroon is officially bilingual, but the English-speaking minority has long complained of marginalisation. Oil, timber, cocoa and coffee are key exports. Corruption is pervasive, and power has been concentrated in the presidency for decades, with Biya often governing from long stays abroad.
   baseline: >-
-    Paul Biya, 92, was declared winner of the October 2025 election with about 54 percent; his former minister Issa Tchiroma Bakary claimed victory, and protests were put down with deadly force. Since 2017 a conflict between separatists and the army in the two English-speaking regions has killed thousands and shut schools. Boko Haram and its offshoot still attack in the Far North.
+    Paul Biya, now 93, was sworn in for an eighth term after the October 2025 election, which
+    officials said he won with about 54 percent; his former minister Issa Tchiroma Bakary claimed
+    victory, and protests were put down with deadly force. Tchiroma has since campaigned from
+    abroad, including a complaint against Biya under universal jurisdiction in Switzerland, where
+    the president spends long stays. The Anglophone conflict in the west and Boko Haram attacks in
+    the Far North continue.
   leaders: {state: "President Paul Biya, since 1982", gov: "Prime Minister Joseph Dion Ngute"}
+  power: >-
+    A presidential republic in which power is concentrated in the presidency. Biya governs largely
+    by decree and appoints the prime minister and regional officials. Term limits were abolished in
+    2008.
+  story: unrest
+  sources:
+    - {label: "Hespress: Biya sworn in for an eighth term", url: "https://en.hespress.com/124973-124973.html"}
+    - {label: "Camer.be: Tchiroma's case in Switzerland", url: "https://www.camer.be/93933/40:1/cameroun-competence-universelle-tchiroma-attaque-biya-en-suisse-cameroon.html"}
 
 CAF:
   pop: 5.5
@@ -133,8 +219,20 @@ CAF:
   society: >-
     Despite diamonds, gold, timber and uranium, the Central African Republic ranks near the bottom of the UN's human development index. Armed groups have controlled large areas since the 2013 civil war, which pitted the mostly Muslim Séléka against Christian anti-balaka militias. Russian Wagner fighters, now under Moscow's Africa Corps, protect the government and have been accused of abuses.
   baseline: >-
-    Faustin-Archange Touadéra, president since 2016, pushed through a 2023 referendum that removed term limits. He won a third term in the December 2025 election, confirmed by the Constitutional Court in January 2026, after main opposition figures boycotted or were excluded. A UN peacekeeping mission remains, and the government's reliance on Russian forces for security has drawn Western criticism.
+    Faustin-Archange Touadéra, president since 2016, pushed through a 2023 referendum that removed
+    term limits and won a third term in the December 2025 election, confirmed by the Constitutional
+    Court in January 2026, after leading opponents boycotted or were excluded. In March 2026 he went
+    to Moscow to finalise a security deal under which Russia's state-run Africa Corps replaces
+    Wagner, with Moscow reportedly wanting payment in cash. A UN peacekeeping mission remains.
   leaders: {state: "President Faustin-Archange Touadéra, since 2016", gov: "Prime Minister Félix Moloua"}
+  power: >-
+    A presidential republic. Since 2023 the president can serve unlimited seven-year terms and
+    appoints the prime minister. State control outside Bangui depends on Russian forces and UN
+    peacekeepers.
+  story: election
+  sources:
+    - {label: "Al Jazeera: Touadéra wins third term", url: "https://www.aljazeera.com/news/2026/1/5/central-african-republics-touadera-wins-third-presidential-term"}
+    - {label: "Connection Ivoirienne: Moscow security accord", url: "https://connectionivoirienne.net/2026/03/09/centrafrique-touadera-a-moscou-pour-finaliser-laccord-securitaire-avec-la-russie/"}
 
 TCD:
   pop: 21.0
@@ -151,6 +249,11 @@ TCD:
   baseline: >-
     After Idriss Déby was killed fighting rebels in 2021, the army installed his son Mahamat. He won a 2024 election that the opposition called rigged and ended the defence pact with France, whose last troops left in January 2025. Opposition leader and former prime minister Succès Masra was sentenced in 2025 to 20 years in prison. A 2025 constitutional change lengthened presidential terms and removed limits.
   leaders: {state: "President Mahamat Idriss Déby, since 2021", gov: "Prime Minister Allamaye Halina"}
+  power: >-
+    A presidential republic. A 2025 constitutional change lengthened presidential terms to seven
+    years with no limit; the president appoints the prime minister, and the army, built around the
+    Déby family's Zaghawa clan, is the backbone of power.
+  story: steady
 
 COM:
   pop: 0.88
@@ -164,8 +267,19 @@ COM:
   society: >-
     The islands produce much of the world's ylang-ylang, used in perfumes, plus vanilla and cloves. Many Comorians risk dangerous boat crossings to Mayotte, the fourth island of the archipelago, which stayed French and is claimed by the Comoros. Remittances from France are a big share of income.
   baseline: >-
-    Azali Assoumani, who first took power in a 1999 coup, won a fourth term in January 2024 amid opposition boycotts and deadly protests. In 2025 he gave his son, Nour El Fath Azali, wide powers to coordinate government, widely seen as preparation for succession. The rotating presidency between the three islands, created to end separatist crises, was weakened by a 2018 referendum.
+    Azali Assoumani, who first took power in a 1999 coup, won a fourth term in January 2024 amid
+    opposition boycotts and deadly protests. In 2025 he gave his son, Nour El Fath Azali, wide
+    powers to coordinate government, widely read as preparation for succession; the move drew
+    opposition outrage, and Azali has since denied planning to hand over power. The rotating
+    presidency between the three islands, created to end separatist crises, was weakened by a 2018
+    referendum.
   leaders: {state: "President Azali Assoumani, since 2016 (earlier 1999 to 2006)", gov: "The president heads the government"}
+  power: >-
+    A federal presidential republic of three islands. The directly elected president heads the
+    government; the governors of each island have their own administrations.
+  story: steady
+  sources:
+    - {label: "Daily Monitor: Azali denies succession plan", url: "https://www.monitor.co.ug/uganda/news/comoros-president-assoumani-denies-he-intends-to-hand-power-to-son-4901522"}
 
 COD:
   pop: 112
@@ -242,30 +356,57 @@ GNQ:
   system: presidential
   system_note: In practice a family dictatorship.
   snapshot: >-
-    Ruled since 1979 by Teodoro Obiang, the world's longest-serving president, whose family controls an oil economy that has left most citizens poor.
+    Ruled since 1979 by Teodoro Obiang, the world's longest-serving president, whose son and heir
+    announced in June 2026 that the whole cabinet had resigned for missing its targets.
   tags: [Longest-serving ruler, Oil wealth, Spanish-speaking Africa, Family rule]
   culture: >-
     Equatorial Guinea is the only African country where Spanish is an official language, alongside French and Portuguese. The capital, Malabo, is on Bioko island, home to the Bubi people, while most of the population lives on the mainland, where the Fang are the largest group. Catholic festivals and traditional balélé dances mark the calendar.
   society: >-
     Oil discovered in the 1990s made the country briefly one of the richest per head in Africa, but wealth was concentrated in the ruling family; the vice-president, Obiang's son, has been convicted in France of embezzlement. Output has declined. Basic services remain poor and press freedom is among the world's lowest.
   baseline: >-
-    Obiang won a sixth term in 2022 with an officially reported 95 percent. His son, Teodoro Nguema Obiang Mangue, known as Teodorín, is vice-president and the presumed successor. In 2025 a scandal involving a senior official secretly filmed with hundreds of women led to arrests and public debate rarely seen in the country.
-  leaders: {state: "President Teodoro Obiang Nguema Mbasogo, since 1979", gov: "Prime Minister Manuela Roka Botey"}
+    Obiang won a sixth term in 2022 with an officially reported 95 percent, and his son Teodoro
+    Nguema Obiang Mangue, known as Teodorín, is vice-president and presumed successor. In 2026 the
+    government announced the capital will move from Malabo to Ciudad de la Paz on the mainland, Pope
+    Leo XIV visited in April, and in June Teodorín announced that the entire cabinet had resigned
+    after meeting only a tenth of its goals. Rights groups have challenged the forced return of
+    migrants deported to the country by the United States.
+  leaders: {state: "President Teodoro Obiang Nguema Mbasogo, since 1979", gov: "Vice-President Teodoro Nguema Obiang Mangue; Prime Minister Manuel Osa Nsue Nsua's cabinet resigned in June 2026"}
+  power: >-
+    A presidential republic in form and a family dictatorship in practice. The president appoints
+    the government and controls the security forces; the ruling PDGE holds nearly every seat in
+    parliament.
+  story: unrest
+  sources:
+    - {label: "AP via Citrus County Chronicle: cabinet resigns", url: "https://www.chronicleonline.com/news/world/equatorial-guinea-government-resigns-after-missing-targets-vice-president-says/article_c7b759b4-2728-5a14-bbe6-8237c24b44ce.html"}
+    - {label: "Wikipedia: 2026 in Equatorial Guinea", url: "https://en.wikipedia.org/wiki/2026_in_Equatorial_Guinea"}
 
 ERI:
   pop: 3.6
   religion: Christian about half (Orthodox, Catholic, Protestant), Sunni Muslim about half
   system: one-party
   snapshot: >-
-    One of the world's most closed states, ruled since independence in 1993 by Isaias Afwerki with no elections, no constitution in force and indefinite military service.
+    One of the world's most closed states, ruled since 1993 by Isaias Afwerki, where open talk of
+    war with Ethiopia over access to the Red Sea grew through 2026.
   tags: [No elections since independence, Indefinite conscription, Mass emigration, Red Sea coast]
   culture: >-
     Eritrea's nine ethnic groups include Tigrinya-speaking highlanders and Tigre, Afar and other lowland peoples, with roughly equal Christian and Muslim populations. Asmara, built largely under Italian rule in the 1930s, is a UNESCO-listed showcase of modernist architecture, with Art Deco cinemas and cafés where espresso culture survives. Cycling is hugely popular, and Eritrean riders have competed in the Tour de France.
   society: >-
     National service, meant to last 18 months, is in practice open-ended, and it drives a steady exodus of young people across deserts and the Mediterranean. There is no independent press. Mining, mainly gold and copper, is the main export earner. Families depend on remittances, and the diaspora is taxed by the state.
   baseline: >-
-    Isaias Afwerki has ruled since independence from Ethiopia after a 30-year war. Eritrean troops fought alongside Ethiopia's army in Tigray in 2020 to 2022, but relations with Addis Ababa have since soured, with Ethiopia's prime minister talking about access to the Red Sea, raising fears of a new war. The ruling PFDJ is the only legal party.
+    Isaias Afwerki has ruled since independence from Ethiopia after a 30-year war. Eritrean troops
+    fought alongside Ethiopia's army in Tigray in 2020 to 2022, but the alliance has collapsed.
+    Since Ethiopia's prime minister began insisting his landlocked country needs a Red Sea port, the
+    Eritrean port of Assab has become a flashpoint, and through 2026 analysts warned of a growing
+    risk of war, with forces massing on both sides. The ruling PFDJ is the only legal party.
   leaders: {state: "President Isaias Afwerki, since 1993", gov: "The president heads the government"}
+  power: >-
+    A one-party state with no national elections, no functioning legislature and a 1997 constitution
+    that was never implemented. The president rules by decree with a small circle of party and
+    military officials.
+  story: steady
+  sources:
+    - {label: "Africanews: fears of armed confrontation", url: "https://www.africanews.com/amp/2026/02/09/ethiopia-eritrea-tensions-fears-of-armed-confontation-grow/"}
+    - {label: "News24: Assab becomes a flashpoint", url: "https://news24.com/world/africa/port-assab-becomes-flashpoint-for-ethiopiaeritrea-relations-20260116-0415"}
 
 SWZ:
   pop: 1.2
@@ -279,8 +420,18 @@ SWZ:
   society: >-
     The economy is tied to South Africa, which surrounds it on three sides and buys most of its exports, especially sugar and soft-drink concentrate. Eswatini has one of the world's highest HIV rates, though treatment has sharply cut deaths. Pro-democracy protests in 2021 were crushed, with dozens killed.
   baseline: >-
-    Mswati III has reigned since 1986. Parliament has elected members but parties are barred from elections, and the king appoints the prime minister and cabinet. In 2025 Eswatini agreed to accept people deported from the United States who were not its own citizens, a deal criticised by local rights groups.
+    Mswati III has reigned since 1986. Parliament has elected members but parties are barred from
+    elections, and the king appoints the prime minister and cabinet. Since 2025 Eswatini has
+    accepted people deported from the United States who are not its citizens; a fourth group arrived
+    in July 2026, and local lawyers have challenged the arrangement in court.
   leaders: {state: "King Mswati III, since 1986", gov: "Prime Minister Russell Dlamini"}
+  power: >-
+    An absolute monarchy. The king appoints the prime minister, the cabinet and part of parliament
+    and can veto laws; candidates stand as individuals under the tinkhundla system, with political
+    parties excluded.
+  story: steady
+  sources:
+    - {label: "Africanews: fourth group of US deportees", url: "https://www.africanews.com/2026/07/08/fourth-group-of-deportees-from-us-arrive-in-eswatini/"}
 
 ETH:
   pop: 135
@@ -309,8 +460,20 @@ GAB:
   society: >-
     Nearly 90 percent of the country is rainforest, and Gabon has won international payments for protecting it. Oil, manganese and timber earn most export income, but a third of people live in poverty. Most of the population lives in Libreville and Port-Gentil.
   baseline: >-
-    General Brice Clotaire Oligui Nguema, head of the Republican Guard, seized power in August 2023 after Ali Bongo was declared winner of a disputed election. A new constitution approved in 2024 created a strong presidency without a prime minister. Oligui won the April 2025 election with about 90 percent.
+    General Brice Clotaire Oligui Nguema, head of the Republican Guard, seized power in August 2023
+    after Ali Bongo was declared winner of a disputed election. A new constitution approved in 2024
+    created a strong presidency without a prime minister, and Oligui won the April 2025 election
+    with about 90 percent. His party then won the most seats in the first legislative elections
+    since the coup, held in two rounds in late 2025 amid complaints of irregularities. Oligui has
+    billed 2026 as a year of delivery on roads, power and jobs.
   leaders: {state: "President Brice Clotaire Oligui Nguema, since 2023", gov: "The president heads the government"}
+  power: >-
+    A presidential republic under the 2024 constitution: the president is head of state and
+    government, elected for seven years and renewable once, and governs with a vice-president of the
+    government instead of a prime minister.
+  story: steady
+  sources:
+    - {label: "Club of Mozambique: first post-coup legislative elections", url: "https://clubofmozambique.com/news/gabons-presidents-party-wins-most-seats-in-first-legislative-elections-since-2023-coup/"}
 
 GMB:
   pop: 2.8
@@ -326,6 +489,13 @@ GMB:
   baseline: >-
     Adama Barrow defeated the dictator Yahya Jammeh in 2016; Jammeh left for exile only after a regional military intervention. Barrow won again in 2021 after breaking with the coalition that had backed him on a promise to serve three years. He is running for a third term in December 2026, and several opposition parties have united behind a single challenger.
   leaders: {state: "President Adama Barrow, since 2017", gov: "The president heads the government"}
+  power: >-
+    A presidential republic. The president is directly elected by simple plurality for five-year
+    terms and heads the government; attempts to adopt a new constitution with term limits failed in
+    2020 and 2024.
+  story: election
+  sources:
+    - {label: "Dakaractu: election date and Barrow's candidacy", url: "https://www.dakaractu.com/%E2%80%8BGambie-presidentielle-le-5-decembre-2026-le-president-Barrow-candidat-a-un-3e-mandat_a265765.html"}
 
 GHA:
   pop: 35.1
@@ -355,6 +525,13 @@ GIN:
   baseline: >-
     Doumbouya, a former French Foreign Legion soldier, overthrew Alpha Condé in 2021. A referendum in September 2025 approved a constitution that let junta members run for office, and he won the December presidential election with about 87 percent while key opponents were in exile or barred. He was sworn in in January 2026.
   leaders: {state: "President Mamadi Doumbouya, since 2021", gov: "Prime Minister Amadou Oury Bah"}
+  power: >-
+    A presidential republic under the 2025 constitution, which lengthened the presidential term to
+    seven years, renewable once, and let junta members stand for office. The president appoints the
+    prime minister.
+  story: election
+  sources:
+    - {label: "EWN: Doumbouya to be sworn in", url: "https://www.ewn.co.za/2026/01/06/guineas-doumbouya-to-be-sworn-in-as-president-jan-17"}
 
 GNB:
   pop: 2.2
@@ -370,6 +547,13 @@ GNB:
   baseline: >-
     On 26 November 2025, the day before provisional results of presidential and legislative elections, officers seized power and named General Horta Inta-A, known as N'Tam, as transitional president for one year. President Umaro Sissoco Embaló left for Senegal. The junta has scheduled new elections for 6 December 2026.
   leaders: {state: "Transitional President General Horta Inta-A, since November 2025", gov: "Prime Minister Ilídio Vieira Té"}
+  power: >-
+    A military transition. The junta's transitional president governs by decree with an appointed
+    prime minister until the promised elections; under the constitution the country is semi-
+    presidential, with a directly elected president and a prime minister answerable to parliament.
+  story: unrest
+  sources:
+    - {label: "Wikipedia: Horta Inta-A", url: "https://en.wikipedia.org/wiki/Horta_Inta-A_Na_Man"}
 
 KEN:
   pop: 57.5
@@ -396,8 +580,17 @@ LSO:
   society: >-
     Generations of Basotho men worked in South African mines. Today textiles for US brands and water sold to South Africa through the Lesotho Highlands Water Project are key earners. Lesotho has one of the world's highest HIV rates. Politics has been unstable, with frequent coalition collapses and army interventions.
   baseline: >-
-    Sam Matekane, a mining tycoon, became prime minister in 2022 at the head of his new Revolution for Prosperity party. Lesotho was briefly singled out with a 50 percent tariff in Trump's April 2025 announcements, threatening the textile industry; the rate was later cut, but factory orders and jobs fell. King Letsie III is the ceremonial head of state.
+    Sam Matekane, a mining tycoon, became prime minister in 2022 at the head of his new Revolution
+    for Prosperity party. Lesotho was singled out for a 50 percent tariff in Trump's April 2025
+    announcements; the rate was later cut, but factory orders and thousands of textile jobs had
+    already been lost, and duty-free access to the US market remains uncertain. King Letsie III is
+    the ceremonial head of state.
   leaders: {state: "King Letsie III", gov: "Prime Minister Sam Matekane, since 2022"}
+  power: >-
+    A constitutional monarchy with a parliamentary system. The prime minister leads the majority in
+    the 120-seat National Assembly, elected by mixed-member proportional representation; the Senate
+    includes the principal chiefs. The army has intervened in politics several times.
+  story: shock
 
 LBR:
   pop: 5.7
@@ -413,6 +606,10 @@ LBR:
   baseline: >-
     Joseph Boakai, a veteran politician and former vice-president, narrowly beat President George Weah, the former footballer, in 2023, and Weah conceded quickly. Boakai's government has pledged to fight corruption and to establish a court for wartime crimes, with a 2024 executive order starting the process.
   leaders: {state: "President Joseph Boakai, since January 2024", gov: "The president heads the government"}
+  power: >-
+    A presidential republic modelled on the United States: the president is directly elected for
+    six-year terms, at most two, and the legislature has a House and a Senate.
+  story: steady
 
 LBY:
   pop: 7.4
@@ -447,15 +644,28 @@ MWI:
   religion: Christian about 77%, Muslim about 14%
   system: presidential
   snapshot: >-
-    Peter Mutharika returned to the presidency after beating Lazarus Chakwera in the September 2025 election, inheriting fuel shortages and very high inflation.
+    Peter Mutharika returned to power in 2025 promising to fix the economy, but in 2026 fuel prices
+    jumped 40 percent and drivers were again sleeping at empty pumps.
   tags: [Warm heart of Africa, Lake Malawi, Tobacco exports, Peaceful handovers]
   culture: >-
     Malawi calls itself "the warm heart of Africa". Lake Malawi, which runs along much of the country, holds more fish species than any other lake. The Gule Wamkulu masked dances of the Chewa people are UNESCO-listed. Chichewa is the national language alongside English.
   society: >-
     Most Malawians farm small plots, and tobacco is the main export. Chronic shortages of fuel and foreign exchange, and cyclones like Freddy in 2023, have hit the economy. A 2020 court ruling that annulled a flawed election and ordered a rerun was hailed as a landmark for judicial independence in Africa.
   baseline: >-
-    In September 2025 voters returned former president Peter Mutharika, 85, who had lost the 2020 rerun to Lazarus Chakwera, amid anger over inflation and shortages. Chakwera conceded. Mutharika has promised to stabilise the currency and revive farming.
+    In September 2025 voters returned former president Peter Mutharika, 85, who had lost the 2020
+    rerun to Lazarus Chakwera, amid anger over inflation and shortages. Relief has been slow. His
+    government raised fuel prices by more than 40 percent in January 2026 and aims to bring
+    inflation below 21 percent, but shortages of fuel and foreign currency persisted, and by October
+    motorists were queuing overnight at dry filling stations. Chakwera's MCP accuses the government
+    of ignoring the hardship.
   leaders: {state: "President Peter Mutharika, since October 2025", gov: "The president heads the government"}
+  power: >-
+    A presidential republic. The president is directly elected for five years and, since a 2020
+    court ruling, needs more than half the vote; parliament is unicameral.
+  story: shock
+  sources:
+    - {label: "The Star: fuel prices up more than 40 percent", url: "https://www.the-star.co.ke/news/world/2026-01-20-malawi-raises-fuel-prices-by-more-than-40"}
+    - {label: "TimesLIVE: motorists sleep at stations", url: "https://www.timeslive.co.za/news/africa/2026-10-13-malawi-motorists-sleep-at-stations-as-fuel-runs-dry/"}
 
 MLI:
   pop: 25.2
@@ -484,6 +694,11 @@ MRT:
   baseline: >-
     Mohamed Ould Ghazouani, a former general, won a second term in 2024. Mauritania has avoided the jihadist attacks and coups that hit Mali and Burkina Faso, credited partly to a mix of military reforms and dialogue with former militants. It signed a migration partnership with the EU in 2024 as Atlantic crossings to the Canary Islands surged.
   leaders: {state: "President Mohamed Ould Ghazouani, since 2019", gov: "Prime Minister Mokhtar Ould Djay"}
+  power: >-
+    A presidential republic. The president is directly elected for five years, at most two terms,
+    and appoints the prime minister; the army has been the decisive force in politics since
+    independence, and Ghazouani is a former general.
+  story: steady
 
 MUS:
   pop: 1.27
@@ -499,6 +714,11 @@ MUS:
   baseline: >-
     Navin Ramgoolam's Alliance du Changement won all 60 directly elected seats in November 2024, ending Pravind Jugnauth's government after a wiretapping scandal. Ramgoolam, prime minister for a third time, revisited the terms of the Chagos deal before it was signed in 2025.
   leaders: {state: "President Dharam Gokhool", gov: "Prime Minister Navin Ramgoolam, since November 2024"}
+  power: >-
+    A parliamentary republic. The prime minister leads the majority in the National Assembly,
+    elected in multi-member constituencies with extra seats to balance communities; the president is
+    chosen by parliament and largely ceremonial.
+  story: steady
 
 MAR:
   pop: 38.4
@@ -526,8 +746,20 @@ MOZ:
   society: >-
     A civil war from 1977 to 1992 killed around a million people. Huge offshore gas finds in Cabo Delgado drew TotalEnergies and ExxonMobil, but an Islamic State-linked insurgency since 2017 has displaced over a million people. A "hidden debts" scandal in 2016 tipped the country into crisis. Most people are poor farmers.
   baseline: >-
-    Daniel Chapo of Frelimo was declared winner of the October 2024 election; challenger Venâncio Mondlane called it fraud and led months of protests in which hundreds were killed, the worst unrest since the civil war. Chapo took office in January 2025 and later signed a political accord with opposition parties. Rwandan troops help fight the northern insurgency.
+    Daniel Chapo of Frelimo was declared winner of the October 2024 election; challenger Venâncio
+    Mondlane called it fraud and led months of protests in which hundreds were killed, the worst
+    unrest since the civil war. Chapo took office in January 2025 and later signed a political
+    accord with opposition parties. In January 2026 TotalEnergies restarted its $20 billion LNG
+    project in Cabo Delgado, frozen since insurgents overran the nearby town of Palma in 2021, a bet
+    that Rwandan-backed security operations have contained the Islamic State-linked insurgency.
   leaders: {state: "President Daniel Chapo, since January 2025", gov: "Prime Minister Maria Benvinda Levi"}
+  power: >-
+    A presidential republic. The president is directly elected for five years, at most two terms,
+    and appoints the prime minister; Frelimo has controlled the presidency and parliament since
+    independence.
+  story: steady
+  sources:
+    - {label: "Business Wire: Mozambique LNG restart", url: "https://www.businesswire.com/news/home/20260129408643/en/TotalEnergies-SE-UK-Regulatory-Announcement-Mozambique-LNG-Announces-the-Full-Restart-of-All-Its-Activities-Onshore-and-Offshore-in-Mozambique"}
 
 NAM:
   pop: 3.1
@@ -543,6 +775,13 @@ NAM:
   baseline: >-
     Netumbo Nandi-Ndaitwah of SWAPO, the liberation movement in power since independence in 1990, won the November 2024 election with 58 percent and became Namibia's first woman president in March 2025. Big offshore oil discoveries by Shell and TotalEnergies have raised hopes of new wealth.
   leaders: {state: "President Netumbo Nandi-Ndaitwah, since March 2025", gov: "Prime Minister Elijah Ngurare"}
+  power: >-
+    A presidential republic. The president is directly elected for five years, at most two terms,
+    and heads the government alongside a prime minister; SWAPO has won every election since
+    independence in 1990.
+  story: steady
+  sources:
+    - {label: "The Brief: named in TIME's 100 most influential", url: "https://thebrief.com.na/2026/04/president-nandi-ndaitwah-named-among-the-worlds-100-most-influential-people/"}
 
 NER:
   pop: 27.9
@@ -575,30 +814,57 @@ RWA:
   religion: Christian about 93%, Muslim about 2%
   system: presidential
   snapshot: >-
-    A tightly controlled, fast-modernising state under Paul Kagame, rebuilt after the 1994 genocide and accused by the UN of backing M23 rebels in Congo.
+    A tightly controlled, fast-modernising state under Paul Kagame, put under US sanctions in 2026
+    for its army's role alongside the M23 rebels in Congo.
   tags: [Post-genocide state, Kagame rule, Tech and conference hub, Gorilla tourism]
   culture: >-
     Rwanda's people share one language, Kinyarwanda, and the government has erased official ethnic labels since the 1994 genocide, in which some 800,000 Tutsi and moderate Hutu were killed in 100 days. Remembrance, kwibuka, is observed each April. Umuganda, a monthly morning of compulsory community work, reflects a strongly organised society. Intore warrior dances are a national art.
   society: >-
     Kigali is famously clean and orderly, and the government has invested in conference tourism, gorilla trekking and sponsorship of football clubs like Arsenal and PSG. Growth has been strong and health outcomes have improved sharply. But critics are jailed or killed abroad, and the press is tightly controlled.
   baseline: >-
-    Paul Kagame, effectively in charge since 1994, won a fourth term in 2024 with 99 percent. UN experts say Rwandan troops fought alongside M23 in Congo; Rwanda says it acts against Hutu militias tied to the genocide. A US-brokered peace deal with Congo was signed in 2025, while Western donors imposed some sanctions.
+    Paul Kagame, effectively in charge since 1994, won a fourth term in 2024 with 99 percent. UN
+    experts say Rwandan troops fight alongside M23 in eastern Congo; Rwanda says it acts against
+    Hutu militias tied to the genocide. A US-brokered peace deal with Congo was signed in 2025, but
+    in early 2026 Washington sanctioned Rwanda's military and senior officials for violating it.
+    Kagame called the sanctions insults and accused the US of bias toward Kinshasa.
   leaders: {state: "President Paul Kagame, since 2000", gov: "Prime Minister Justin Nsengiyumva, since July 2025"}
+  power: >-
+    A presidential republic dominated by the Rwandan Patriotic Front. The president is directly
+    elected for five-year terms, and a 2015 referendum allows Kagame to stay until 2034; opposition
+    parties operate under tight limits.
+  story: war
+  sources:
+    - {label: "Africanews: Kagame blasts US sanctions", url: "https://www.africanews.com/2026/04/03/rwandas-kagame-blasts-us-sanctions-cites-bias-toward-dr-congo/"}
+    - {label: "The Standard: US sanctions Rwanda's military", url: "https://www.thestandard.ke/business/amp/africa/article/2001542117/us-slaps-sanctions-on-rwanda-military-over-dr-congo-violation"}
 
 STP:
   pop: 0.24
   religion: Catholic about 55%, Protestant and other Christian
   system: semi-presidential
   snapshot: >-
-    Africa's second-smallest country, two cocoa islands in the Gulf of Guinea, where governments often fall but power changes without bloodshed.
+    Two cocoa islands in the Gulf of Guinea that voted twice in 2026: President Carlos Vila Nova won
+    a second term in July, and the opposition MLSTP topped September's parliamentary election
+    without a majority.
   tags: [Island microstate, Cocoa heritage, Lusophone, Political churn]
   culture: >-
     The uninhabited islands were settled by the Portuguese with enslaved Africans to grow sugar, and later cocoa on vast plantations called roças, many now crumbling or turned into hotels. Forro and other creoles are spoken alongside Portuguese. The Tchiloli, a 16th-century European drama performed in masks and costume, has become a uniquely São Toméan art form.
   society: >-
     Cocoa remains the main export, and tourism is growing slowly. The state relies heavily on foreign aid. Hopes of offshore oil have repeatedly faded. Political rivalry is intense: President Carlos Vila Nova sacked Prime Minister Patrice Trovoada in January 2025.
   baseline: >-
-    After dismissing Trovoada's government, Vila Nova appointed Américo Ramos as prime minister. A 2022 attack on the army headquarters, in which detainees were killed in custody, remains a source of political tension.
-  leaders: {state: "President Carlos Vila Nova, since 2021", gov: "Prime Minister Américo Ramos, since January 2025"}
+    After President Carlos Vila Nova dismissed Prime Minister Patrice Trovoada in January 2025, he
+    appointed Américo Ramos. In July 2026 Vila Nova won re-election in a peaceful vote with
+    historically low turnout. In the 27 September parliamentary election the MLSTP came first with
+    24 of 55 seats, short of a majority, setting up coalition talks to choose the next government. A
+    2022 attack on the army headquarters, in which detainees were killed in custody, still shapes
+    politics.
+  leaders: {state: "President Carlos Vila Nova, re-elected July 2026", gov: "Prime Minister Américo Ramos, pending a new government after the September 2026 election"}
+  power: >-
+    A semi-presidential republic. The president is directly elected for five years and appoints the
+    prime minister, who must hold the confidence of the 55-seat National Assembly.
+  story: election
+  sources:
+    - {label: "The Star: Vila Nova wins second term", url: "https://www.thestar.com.my/news/world/2026/07/20/sao-tome-and-principe-president-vila-nova-wins-second-term-preliminary-results-show"}
+    - {label: "Africa24: MLSTP leads with 24 of 55 seats", url: "https://africa24tv.com/sao-tome-and-principe-mlstp-leads-parliamentary-elections-with-24-of-55-seats/"}
 
 SEN:
   pop: 18.9
@@ -627,6 +893,10 @@ SYC:
   baseline: >-
     Patrick Herminie, leader of United Seychelles, the party that ruled from 1977 to 2020, defeated President Wavel Ramkalawan in an October 2025 runoff. It was the second peaceful change of power in five years.
   leaders: {state: "President Patrick Herminie, since October 2025", gov: "The president heads the government"}
+  power: >-
+    A presidential republic. The president is directly elected for five years, at most two terms,
+    and heads the government; the National Assembly is unicameral.
+  story: steady
 
 SLE:
   pop: 8.8
@@ -640,8 +910,17 @@ SLE:
   society: >-
     The 1991 to 2002 civil war, fuelled by "blood diamonds" and notorious for amputations, killed some 50,000 people. Ebola killed nearly 4,000 in 2014 to 2015. Mining of iron ore, diamonds and rutile is key. A synthetic drug called kush has become a public health emergency among young people.
   baseline: >-
-    Bio won a second term in 2023 with just over 56 percent in an election international observers criticised. A failed coup attempt followed in November 2023. In 2025 Bio became chair of ECOWAS, as the West African bloc tried to cope with the departure of the military-ruled Sahel states.
+    Bio won a second term in 2023 with just over 56 percent in an election international observers
+    criticised, and a failed coup attempt followed in November 2023. He chaired ECOWAS from 2025,
+    steering the bloc through the departure of the military-ruled Sahel states, and handed the chair
+    to Senegal's president in 2026.
   leaders: {state: "President Julius Maada Bio, since 2018", gov: "Chief Minister David Moinina Sengeh"}
+  power: >-
+    A presidential republic. The president is directly elected for five years, at most two terms,
+    and needs 55 percent to win outright; a chief minister coordinates the government.
+  story: steady
+  sources:
+    - {label: "NAMPA: Bio passes the ECOWAS chair to Faye", url: "https://www.nampa.org/text/22971974"}
 
 SOM:
   pop: 19.7
@@ -728,6 +1007,11 @@ TGO:
   baseline: >-
     A new constitution adopted in 2024 made the president largely ceremonial and created the post of President of the Council of Ministers, chosen by the majority party. Gnassingbé took that post in May 2025. Protests in June 2025 against the change and against rising prices were met with force.
   leaders: {state: "President of the Council Faure Gnassingbé, in power since 2005", gov: "Ceremonial President Jean-Lucien Savi de Tové"}
+  power: >-
+    A parliamentary system under the 2024 constitution: the majority party in parliament chooses the
+    President of the Council of Ministers, who holds executive power with no term limit, and the
+    president is ceremonial. Gnassingbé's UNIR party dominates parliament.
+  story: unrest
 
 TUN:
   pop: 12.3
@@ -741,8 +1025,20 @@ TUN:
   society: >-
     Tunisia's 2011 revolution toppled Zine El Abidine Ben Ali and began the Arab Spring. Economic stagnation, high youth unemployment and shortages of basic goods have followed. Sfax is a key departure point for migrants to Italy, and Saied's remarks about sub-Saharan migrants in 2023 set off attacks against them.
   baseline: >-
-    Kais Saied, a law professor elected in 2019, suspended parliament in 2021 and rewrote the constitution to give himself sweeping power. He won a second term in October 2024 with 91 percent after rivals were jailed or disqualified. Opposition leaders, journalists and lawyers have received long prison sentences.
+    Kais Saied, a law professor elected in 2019, suspended parliament in 2021 and rewrote the
+    constitution to give himself sweeping power. He won a second term in October 2024 with 91
+    percent after rivals were jailed or disqualified. In 2026 the courts went further: in February
+    an appeals court upheld and increased prison terms for opposition leaders and former security
+    officials in the mass conspiracy case, and in September the top court confirmed the convictions.
   leaders: {state: "President Kais Saied, since 2019", gov: "Prime Minister Sara Zaafrani Zenzri, since March 2025"}
+  power: >-
+    A presidential republic under the 2022 constitution, which concentrates power in the president,
+    who appoints and dismisses the government and can rule by decree. Parliament is weak and the
+    judiciary has been brought under presidential control.
+  story: unrest
+  sources:
+    - {label: "Al-Monitor: jail terms upheld and increased", url: "https://www.al-monitor.com/originals/2026/02/tunisia-upholds-and-increases-jail-terms-opponents-and-security-officials"}
+    - {label: "Al Jazeera: top court upholds convictions", url: "https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists"}
 
 UGA:
   pop: 51.4
@@ -784,3 +1080,11 @@ ZWE:
   baseline: >-
     Mnangagwa took over after the 2017 military coup against Robert Mugabe. ZANU-PF pushed through a bill in mid-2026 to extend presidential and parliamentary terms, keeping him in office until 2030, despite objections that the constitution requires a referendum for such a change. Some in the party have since floated keeping him until 2037. War veterans and Vice President Constantino Chiwenga's allies have opposed the move.
   leaders: {state: "President Emmerson Mnangagwa, since 2017", gov: "The president heads the government"}
+  power: >-
+    A presidential republic dominated by ZANU-PF since independence in 1980. The president is head
+    of state and government, and the security services and war veterans are central to who holds
+    power.
+  story: unrest
+  sources:
+    - {label: "Al Jazeera: lawmakers back term extension", url: "https://aljazeera.com/news/2026/6/18/zimbabwe-lawmakers-back-bill-to-extend-presidents-term-in-office"}
+    - {label: "Citizen Digital: extension signed into law", url: "https://citizen.digital/article/zimbabwe-president-signs-into-law-constitutional-change-extending-term-n386022"}
