@@ -127,17 +127,20 @@ BRA:
   society: >-
     Brazil is a farm superpower in soy, beef, coffee and sugar, and home to most of the Amazon rainforest, whose deforestation has slowed and sped up with politics. Inequality is among the world's highest. Evangelical churches have grown fast and become a major political force on the right. Gangs like the PCC and Comando Vermelho control parts of major cities.
   update: >-
-    On 25 October Lula won the runoff with just over 51 percent to about 48 percent for Flávio
-    Bolsonaro, overturning his first-round deficit for a record fourth, non-consecutive term.
-    Bolsonaro refused to concede, citing a last-minute extension of voting hours, and is expected to
-    challenge the result in court.
+    On 25 October Lula won the runoff with 51.8 percent to 48.2 percent for Flávio Bolsonaro, on
+    80.8 percent turnout, overturning his first-round deficit for a record fourth, non-consecutive
+    term that begins on 5 January 2027. Bolsonaro refused to concede, citing a last-minute extension
+    of voting hours; the next day the Supreme Court barred him from leaving the country, and media
+    reported he flew to the United States anyway.
   update_date: 2026-10-26
   holders: >-
     President Luiz Inácio Lula da Silva (PT), re-elected on 25 October 2026 for a fourth term
-    starting in January 2027.
+    starting on 5 January 2027.
   sources_extra:
     - {label: "Al Jazeera: takeaways from Lula's win", url: "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win"}
     - {label: "CNBC: Lula wins a fourth term", url: "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html"}
+    - {label: "AP via PBS: Lula beats Bolsonaro in runoff", url: "https://www.pbs.org/newshour/world/brazil-votes-in-a-tense-lula-vs-bolsonaro-runoff-with-u-s-influence-over-latin-america-at-stake"}
+    - {label: "Reuters: Flávio Bolsonaro leaves Brazil for US", url: "https://www.reuters.com/world/americas/flavio-bolsonaro-leaves-brazil-us-after-election-defeat-source-media-say-2026-10-27/"}
 
 CAN:
   pop: 40.1

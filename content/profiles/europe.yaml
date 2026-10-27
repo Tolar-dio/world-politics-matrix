@@ -655,6 +655,16 @@ ROU:
     Romanian is a Romance language surrounded by Slavic and Hungarian neighbours, a source of national pride. The painted monasteries of Bucovina, the castles of Transylvania and the Danube Delta draw visitors. Brâncuși transformed modern sculpture. Doinas, lyrical folk songs, are UNESCO-listed. A large Hungarian minority lives in Transylvania.
   society: >-
     Romania has grown fast since joining the EU in 2007, with a strong IT sector, but millions have emigrated. In 2024 the Constitutional Court annulled a presidential election after a far-right outsider, Călin Georgescu, surged amid alleged Russian interference on TikTok. Nicușor Dan, Bucharest's centrist mayor, won the 2025 rerun.
+  holders: >-
+    President Nicușor Dan, since May 2025; Prime Minister Luca Niculescu, confirmed by parliament on
+    20 October 2026 after months of deadlock.
+  update: >-
+    On 20 October parliament confirmed Luca Niculescu as prime minister, ending months of political
+    deadlock over the coalition and its austerity programme.
+  update_date: 2026-10-20
+  sources_extra:
+    - {label: "Reuters: Romanian parliament confirms new prime minister", url: "https://www.reuters.com/world/europe/romanian-parliament-confirms-new-prime-minister-after-months-deadlock-2026-10-20/"}
+    - {label: "Wikipedia: 2026 Romanian political crisis", url: "https://en.wikipedia.org/wiki/2026_Romanian_political_crisis"}
 
 RUS:
   pop: 144
@@ -704,10 +714,10 @@ SRB:
   society: >-
     Serbia balances between the EU, which it hopes to join, and Russia and China, which back it on Kosovo and invest in its economy. The 2024 collapse of a railway station canopy in Novi Sad, which killed 16 people, set off the biggest protest movement in decades, led by students. Media freedom has declined under Vučić.
   update: >-
-    On 25 October the Student List won about 52.5 percent and a projected 140 of 250 seats on a
-    record turnout of nearly 69 percent, against 39 percent for Vučić's United Serbia list, and
-    Vučić conceded defeat. The new parliament must be formed within 30 days of final results, and a
-    presidential election must be held by 27 December.
+    On 25 October the Student List won 53 percent to 38.8 percent for Vučić's United Serbia list in
+    official preliminary results, on a record turnout of 68.9 percent, a projected majority of about
+    141 of 250 seats, and Vučić conceded defeat. The new parliament must be formed within 30 days of
+    final results, and a presidential election must be held by 27 December.
   update_date: 2026-10-26
   holders: >-
     Acting President Ana Brnabić; a Student List government is expected after its October 2026
@@ -715,6 +725,7 @@ SRB:
   sources_extra:
     - {label: "Al Jazeera: Serbia after Vučić", url: "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed"}
     - {label: "Euronews: Student List wins", url: "https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won"}
+    - {label: "Al Jazeera: Vučić concedes", url: "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader"}
 
 SVK:
   pop: 5.4
