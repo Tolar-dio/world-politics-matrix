@@ -29,7 +29,7 @@
     --ink-3: #82909A;
     --rule: #2B3842;
     --ocean: #29506A;
-    --land: #8F8776;
+    --land: #6E7880;
     --brass: #D6A646;
     --brass-deep: #E4BD6C;
     --link: #9CC5DE;
@@ -46,7 +46,7 @@
   --ink-3: #82909A;
   --rule: #2B3842;
   --ocean: #29506A;
-  --land: #8F8776;
+  --land: #6E7880;
   --brass: #D6A646;
   --brass-deep: #E4BD6C;
   --link: #9CC5DE;
@@ -110,6 +110,7 @@ button { font: inherit; color: inherit; }
   letter-spacing: -0.012em;
 }
 .wordmark a { color: var(--ink); text-decoration: none; }
+.wordmark { text-shadow: 0 0 2px var(--fog), 0 0 8px var(--fog), 0 0 14px var(--fog); }
 
 .search { position: relative; width: min(340px, 100%); }
 .search input {
@@ -195,7 +196,7 @@ button { font: inherit; color: inherit; }
   transform: translate(-50%, -50%);
   box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.55);
 }
-.micro.is-selected { border-color: var(--brass); box-shadow: 0 0 0 3px var(--brass); }
+.micro.is-selected { background: #1F2A33 !important; border-color: var(--brass); box-shadow: 0 0 0 3px var(--brass); }
 
 /* ---------- tooltip ---------- */
 .tip {

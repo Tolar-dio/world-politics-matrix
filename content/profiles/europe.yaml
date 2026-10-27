@@ -1,0 +1,688 @@
+# Culture, society and fact profiles: Europe (including the South Caucasus)
+
+ALB:
+  pop: 2.4
+  religion: Muslim about 50% (Sunni and Bektashi), Catholic and Orthodox Christian, many non-practising
+  system: parliamentary
+  snapshot: >-
+    Edi Rama won a fourth term in 2025 and is racing to join the EU by 2030, in a country that emptied out through emigration after communism.
+  tags: [EU candidate, Tourism boom, Emigration, Religious harmony]
+  culture: >-
+    Under Enver Hoxha, Albania became the world's first officially atheist state and the most isolated country in Europe, leaving hundreds of thousands of concrete bunkers. Today Muslims, Catholics and Orthodox Christians live side by side with little friction. Iso-polyphony, a form of folk singing, is UNESCO-listed, and the besa, a code of honour, is part of national identity.
+  society: >-
+    Around a third of Albanians live abroad, mainly in Italy, Greece and Britain. Tourism along the Riviera has boomed, as have property and cannabis-linked money laundering. Rama has appointed an AI-generated "minister" to oversee public procurement as an anti-corruption gimmick. Organised crime groups have reach across Europe.
+  baseline: >-
+    Edi Rama's Socialist Party won a fourth consecutive term in May 2025 with a large majority. Albania has opened all negotiating clusters with the EU and aims to finish talks by 2027. The opposition Democratic Party, led by former prime minister Sali Berisha, who faces corruption charges, disputes the results.
+  leaders: {state: "President Bajram Begaj, since 2022", gov: "Prime Minister Edi Rama, since 2013"}
+
+AND:
+  pop: 0.083
+  religion: Catholic about 85%
+  system: const-monarchy
+  system_note: A co-principality whose co-princes are the French president and a Spanish bishop.
+  snapshot: >-
+    A Pyrenean microstate with two princes, France's president and the Bishop of Urgell, that is negotiating closer ties with the EU while managing a housing squeeze.
+  tags: [Co-principality, Ski and shopping, Low taxes, EU association talks]
+  culture: >-
+    Andorra is the only country where Catalan is the sole official language. Romanesque churches dot its valleys, and its co-princes reflect a feudal arrangement dating to 1278. Skiing, hiking and duty-free shopping draw millions of visitors a year, many times the resident population.
+  society: >-
+    Low taxes have attracted wealthy residents, including YouTubers and athletes, pushing up housing costs and prompting limits on foreign investment. Most residents are not Andorran citizens; Spaniards and Portuguese are the largest groups. An EU association agreement has been negotiated but faces a referendum.
+  baseline: >-
+    Xavier Espot Zamora of the Democrats for Andorra has been head of government since 2019 and won re-election in 2023. Andorra's next general election is due in 2027.
+  leaders: {state: "Co-princes Emmanuel Macron and Bishop Josep-Lluís Serrano Pentinat", gov: "Head of Government Xavier Espot Zamora, since 2019"}
+
+ARM:
+  pop: 3.0
+  religion: Armenian Apostolic Church about 93%
+  system: parliamentary
+  story: election
+  snapshot: >-
+    Nikol Pashinyan won a third term outright in June 2026 on the promise of peace with Azerbaijan, after clashing with the Armenian Church.
+  tags: [Peace with Azerbaijan, Pivot from Russia, Church clash, Ancient Christian nation]
+  culture: >-
+    Armenia was the first country to adopt Christianity as a state religion, in 301, and its monasteries and unique alphabet, created in 405, are pillars of identity. Mount Ararat, now in Turkey, dominates the view from Yerevan and the national imagination. Duduk music, lavash bread and a huge global diaspora connect Armenians everywhere. The 1915 genocide is commemorated every 24 April.
+  society: >-
+    Armenia lost Nagorno-Karabakh to Azerbaijan in 2023, and more than 100,000 Armenians fled. Pashinyan has moved away from Russia, freezing membership of its military alliance. Remittances, IT and re-exports to Russia have powered growth. His feud with the Church's leadership led to arrests of senior clergy.
+
+AUT:
+  pop: 9.1
+  religion: Catholic about 52%, Muslim about 8%, no religion about 22%
+  system: parliamentary
+  story: shock
+  snapshot: >-
+    Austerity in a recession left the centrist coalition deeply unpopular, with the far-right FPÖ polling near 34 percent and its leader Herbert Kickl far ahead as preferred chancellor.
+  tags: [FPÖ surge, Three-party coalition, Recession, Classical music, Neutral]
+  culture: >-
+    Vienna was the capital of the Habsburg empire and of classical music: Mozart, Haydn, Beethoven, Schubert and Strauss all worked there, and the New Year's Concert is watched worldwide. Coffee house culture is UNESCO-listed. Alpine skiing is a national passion. Austria remains militarily neutral, a status it adopted in 1955.
+  society: >-
+    Austria is wealthy with a strong welfare state and social partnership between unions and employers. Its economy is closely tied to Germany's and has suffered from the industrial slump. Migration and asylum are central political issues. Vienna is consistently rated one of the world's most liveable cities, partly thanks to its huge social housing stock.
+
+AZE:
+  pop: 10.4
+  religion: Shia Islam about 65%, Sunni about 30%, largely secular
+  system: presidential
+  system_note: A hereditary autocracy in practice.
+  story: steady
+  snapshot: >-
+    Three years after retaking Karabakh, Ilham Aliyev is finalising a US-brokered peace with Armenia that includes a US-run transit route across Armenian territory.
+  tags: [Oil and gas, Aliyev dynasty, Peace with Armenia, Caspian Sea]
+  culture: >-
+    Azerbaijan is a secular, majority Shia country with Turkic language and close ties to Turkey. Mugham, an improvised classical music, is UNESCO-listed. Baku mixes a medieval walled city with oil-boom architecture like the Flame Towers. Novruz, the spring new year, is the major holiday, with bonfires and sweet pastries.
+  society: >-
+    Oil and gas exports, including a pipeline to Europe, fund the state. Aliyev succeeded his father Heydar in 2003, and his wife is first vice-president. Independent journalists and activists are routinely jailed. The 2020 war and 2023 offensive returned Nagorno-Karabakh to Azerbaijan, and its ethnic Armenian population fled.
+
+BLR:
+  pop: 8.9
+  religion: Orthodox Christian about 80%, Catholic about 7%
+  system: presidential
+  system_note: A personalist dictatorship.
+  story: steady
+  snapshot: >-
+    Alexander Lukashenko has been trading political prisoners for US sanctions relief, while staying firmly in Russia's camp and hosting its nuclear weapons.
+  tags: [Lukashenko since 1994, Russian ally, Political prisoners, Prisoner releases]
+  culture: >-
+    Belarusian culture has long been overshadowed by Russian, and most people speak Russian day to day, though the white-red-white flag and the Belarusian language became symbols of the 2020 protest movement. The country lost about a quarter of its population in the Second World War, which remains central to state identity. Ice hockey is the president's favourite sport and a national passion.
+  society: >-
+    Lukashenko crushed the 2020 protests after a stolen election, and hundreds of thousands left. More than a thousand political prisoners remained in 2025, though releases have since continued in deals with Washington. The economy relies heavily on Russian subsidies and markets. Belarus served as a launchpad for Russia's 2022 invasion of Ukraine.
+
+BEL:
+  pop: 11.8
+  religion: Catholic about 50%, Muslim about 7%, no religion about 30%
+  system: const-monarchy
+  system_note: A federal state divided between Dutch-speaking Flanders and French-speaking Wallonia.
+  story: unrest
+  snapshot: >-
+    Wave after wave of general strikes hit Belgium in 2026 against pension cuts and limits on wage indexation by Bart De Wever's five-party coalition.
+  tags: [General strikes, Language divide, EU and NATO capital, Comics and chocolate]
+  culture: >-
+    Belgium is split between Dutch-speaking Flanders, French-speaking Wallonia and bilingual Brussels, with a small German-speaking community. It gave the world Tintin, the Smurfs, René Magritte, Art Nouveau architecture, and a beer culture that is UNESCO-listed. Cycling, especially the Tour of Flanders, is a religion in Flanders.
+  society: >-
+    Brussels hosts the EU institutions and NATO. Politics is fragmented along language lines, and forming governments can take more than a year. The economy is rich but carries high public debt, which De Wever's coalition is trying to cut. Flemish nationalism has grown, and Wallonia has struggled since its heavy industry declined.
+
+BIH:
+  pop: 3.1
+  religion: Muslim about 51%, Orthodox Christian about 31%, Catholic about 15%
+  system: parliamentary
+  system_note: A three-member presidency and two semi-autonomous entities under the Dayton peace accords.
+  snapshot: >-
+    Bosnia's October 2026 election largely kept the same nationalist-led balance, while the Serb entity's former leader Milorad Dodik still pulls strings after being barred from office.
+  tags: [Dayton system, Ethnic power-sharing, EU candidate, Secessionist pressure]
+  culture: >-
+    Bosnia sits where Ottoman and Austro-Hungarian worlds met: Sarajevo's old bazaar, with its coffee and ćevapi, sits a short walk from Habsburg facades. Sevdalinka, melancholy love songs, are shared across communities. The Stari Most bridge in Mostar, destroyed in 1993 and rebuilt, is a symbol of reconciliation. The Sarajevo Film Festival is the region's biggest.
+  society: >-
+    The 1992 to 1995 war killed about 100,000 people, including 8,000 Bosniak men and boys at Srebrenica. The Dayton accords ended it but created a complex state of two entities, the Federation and Republika Srpska, overseen by an international High Representative. Emigration of young people is high, and politics is dominated by ethnic parties.
+  baseline: >-
+    Milorad Dodik was stripped of the Republika Srpska presidency in 2025 after a conviction for defying the High Representative; his party's candidate won a snap election to replace him. In the 4 October 2026 general election, preliminary results showed Denis Bećirović and Željka Cvijanović holding the Bosniak and Serb presidency seats and Darijana Filipović of HDZ taking the Croat seat, with Dodik's SNSD again winning Republika Srpska's presidency.
+  leaders: {state: "Three-member Presidency (preliminary October 2026 results: Denis Bećirović, Željka Cvijanović, Darijana Filipović)", gov: "Chair of the Council of Ministers Borjana Krišto"}
+
+BGR:
+  pop: 6.4
+  religion: Orthodox Christian about 70%, Muslim about 10%
+  system: parliamentary
+  story: election
+  snapshot: >-
+    Former president Rumen Radev won Bulgaria's first single-party majority since 1997 in April 2026, promising to dismantle the "mafia state" after seven elections in four years.
+  tags: [End of election cycle, New euro member, Anti-corruption pledge, Black Sea]
+  culture: >-
+    Bulgaria invented the Cyrillic alphabet, celebrated every 24 May. Its Orthodox monasteries, like Rila, and the rose oil of the Valley of Roses are national treasures. Bulgarian polyphonic choirs and complex folk rhythms are internationally acclaimed. Martenitsi, red and white threads, are worn every March to welcome spring.
+  society: >-
+    Bulgaria is the EU's poorest member per head and has lost a fifth of its population since 1989 through emigration and low birth rates. It joined Schengen in 2025 and adopted the euro on 1 January 2026. Corruption and oligarchic influence over the courts and media are long-standing grievances that fuelled mass protests.
+
+HRV:
+  pop: 3.8
+  religion: Catholic about 79%, Orthodox about 3%
+  system: parliamentary
+  snapshot: >-
+    A tourism-driven euro member where the conservative HDZ governs with nationalist partners, while the president, Zoran Milanović, plays a combative opposition role.
+  tags: [Adriatic tourism, Euro and Schengen member, Emigration, Football]
+  culture: >-
+    Croatia's Adriatic coast, Dubrovnik's walls and Split's Roman palace draw millions of visitors. Catholicism and the memory of the 1991 to 1995 independence war shape national identity. The national football team's run to the 2018 World Cup final and third place in 2022 are huge sources of pride. Klapa a cappella singing is UNESCO-listed.
+  society: >-
+    Tourism is about a fifth of the economy. Croatia joined the euro and Schengen in 2023. Emigration of young people to Germany and Ireland has shrunk the population, and labour shortages are filled by workers from Asia. Debates over the legacy of the Ustaša wartime regime still flare.
+  baseline: >-
+    Andrej Plenković's HDZ formed a coalition with the nationalist Homeland Movement after the 2024 election. Zoran Milanović, a former Social Democrat prime minister, won re-election as president in January 2025 by a landslide and has clashed with the government over Ukraine and NATO.
+  leaders: {state: "President Zoran Milanović, since 2020", gov: "Prime Minister Andrej Plenković, since 2016"}
+
+CYP:
+  pop: 1.4
+  religion: Greek Orthodox about 75% in the south, Sunni Muslim in the north
+  system: presidential
+  story: election
+  snapshot: >-
+    The far-right ELAM doubled its seats in May 2026's parliamentary election, and a YouTuber's new party got in too, as Cyprus held the EU presidency.
+  tags: [Divided island, EU presidency 2026, Far-right rise, Banking and shipping]
+  culture: >-
+    Cyprus is said to be Aphrodite's birthplace, and its culture blends Greek, Turkish, Venetian and British influences. Halloumi cheese, meze and village festivals are central. The island has been divided since 1974, when Turkey invaded after a Greek-backed coup, and the Green Line runs through Nicosia, the last divided capital in Europe.
+  society: >-
+    The Republic of Cyprus, in the south, is an EU member with an economy built on tourism, shipping and finance, including a history of hosting Russian money. The north, recognised only by Turkey, depends on Ankara. Reunification talks have been stalled since 2017. Migration across the Green Line has become a political issue.
+
+CZE:
+  pop: 10.9
+  religion: No religion about 70%, Catholic about 9%
+  system: parliamentary
+  story: steady
+  snapshot: >-
+    Billionaire Andrej Babiš returned as prime minister with the hard right, promising "not a crown" of Czech money for Ukraine, while President Petr Pavel acts as a check.
+  tags: [Babiš returns, Industrial economy, Beer culture, Least religious in Europe]
+  culture: >-
+    Prague's medieval centre and Charles Bridge are among Europe's most visited sights. The Czechs are among the world's least religious people and its biggest beer drinkers per head, with Pilsner born in Plzeň. Kafka, Kundera and Havel, the dissident playwright who became president, are literary icons. Ice hockey is the top sport.
+  society: >-
+    The Czech Republic has one of the EU's lowest unemployment rates and a strong car industry led by Škoda. The 1989 Velvet Revolution and the 1993 peaceful split from Slovakia are points of pride. Babiš, whose companies have faced EU conflict of interest rulings, leads a populist coalition with the SPD and the Motorists.
+
+DNK:
+  pop: 6.0
+  religion: Lutheran about 72% (church members), largely secular
+  system: const-monarchy
+  story: election
+  snapshot: >-
+    Mette Frederiksen's snap election backfired with her party's worst result in 120 years, but she clung on in a third government with Lars Løkke Rasmussen as kingmaker.
+  tags: [Greenland pressure, Welfare state, Hygge, Strict immigration policy]
+  culture: >-
+    Denmark exported hygge, the idea of cosy togetherness, as well as Lego, Danish design and Nordic noir TV. Cycling dominates Copenhagen. The monarchy is Europe's oldest, and King Frederik X succeeded his mother Margrethe in 2024. Hans Christian Andersen and Søren Kierkegaard are national icons.
+  society: >-
+    Danes pay high taxes for a generous welfare state and are often ranked among the world's happiest people. Novo Nordisk, maker of Ozempic, became Europe's most valuable company. The Social Democrats adopted one of Europe's strictest immigration policies. Trump's demands to take over Greenland, part of the Danish realm, have dominated foreign policy.
+
+EST:
+  pop: 1.37
+  religion: No religion about 58%, Orthodox about 16%, Lutheran about 8%
+  system: parliamentary
+  snapshot: >-
+    The digital republic on NATO's eastern edge elected a new president, constitutional watchdog Ülle Madise, in 2026, while its governing coalition struggles in the polls.
+  tags: [E-government pioneer, NATO frontline, Russian minority, Startups]
+  culture: >-
+    Estonia's Song Festival, where some 30,000 singers perform together, helped drive the "Singing Revolution" that won independence from the Soviet Union in 1991. Saunas, especially the smoke sauna of the south, are UNESCO-listed. Estonian is related to Finnish, not to its Baltic neighbours' languages. Tallinn's medieval old town is one of Europe's best preserved.
+  society: >-
+    Estonia runs almost all public services online, including voting, and produced Skype and many startups. About a quarter of the population is ethnic Russian, concentrated in Narva and Tallinn. Defence spending is among NATO's highest, reflecting fear of Russia. Tax rises to fund defence have hurt the government's popularity.
+  baseline: >-
+    Kristen Michal of the Reform Party became prime minister in 2024 after Kaja Kallas left to become the EU's foreign policy chief. In September 2026, parliament elected Ülle Madise, the chancellor of justice, as president, succeeding Alar Karis. A parliamentary election is due in March 2027.
+  leaders: {state: "President Ülle Madise, since October 2026", gov: "Prime Minister Kristen Michal, since 2024"}
+
+FIN:
+  pop: 5.6
+  religion: Lutheran about 63% (church members), no religion about 33%
+  system: parliamentary
+  snapshot: >-
+    NATO's newest frontline state, which joined in 2023 after decades of neutrality, now led by a right-wing coalition cutting spending as unemployment rises.
+  tags: [NATO frontline, Sauna culture, Education model, Happiest country rankings]
+  culture: >-
+    Finland has more saunas than cars, and sauna culture is UNESCO-listed. Its design heritage, from Marimekko and Alvar Aalto to Nokia and Angry Birds, is famous. The Sámi people of Lapland have their own languages and reindeer herding traditions. Finns prize sisu, a stubborn perseverance, and silence is socially comfortable.
+  society: >-
+    Finland regularly tops world happiness rankings and has a celebrated school system. Its 1,340-kilometre border with Russia, now closed, shapes security policy, and it maintains large reserves through conscription. The economy has stagnated since Nokia's phone business collapsed, and unemployment is among the EU's highest.
+  baseline: >-
+    Petteri Orpo's National Coalition leads a coalition with the nationalist Finns Party that has cut benefits and spending. Alexander Stubb, a former prime minister, won the presidency in 2024 and has become a prominent voice on Ukraine and a golf partner of Trump. The next parliamentary election is due in April 2027.
+  leaders: {state: "President Alexander Stubb, since 2024", gov: "Prime Minister Petteri Orpo, since 2023"}
+
+FRA:
+  pop: 68.6
+  religion: Catholic about 45%, Muslim about 8%, no religion about 35%
+  system: semi-presidential
+  story: steady
+  snapshot: >-
+    Sébastien Lecornu survived as prime minister and passed a budget, as the race to succeed Macron in 2027 opened with the far right in its strongest position ever.
+  tags: [Hung parliament, 2027 race, Far-right rise, Nuclear power, Laïcité]
+  culture: >-
+    France has long been a global reference for food, wine, fashion, philosophy and cinema, and it is the world's most visited country. Laïcité, a strict separation of religion and state, shapes debates over headscarves in schools. The Tour de France, Cannes and the restored Notre-Dame, reopened in 2024, are national rituals.
+  society: >-
+    France has a large welfare state funded by Europe's highest tax burden, and a deficit and debt that markets watch nervously. Pension reform triggered huge protests in 2023. Tensions over immigration, Islam and the banlieues fuel support for the National Rally. It is the EU's only nuclear-armed state and gets most of its power from nuclear reactors.
+
+GEO:
+  pop: 3.7
+  religion: Georgian Orthodox about 84%, Muslim about 10%
+  system: parliamentary
+  system_note: Billionaire Bidzina Ivanishvili, the ruling party's founder, is widely seen as the real power.
+  story: unrest
+  snapshot: >-
+    Georgian Dream moved to ban the three biggest opposition parties and jailed protesters, as the country's EU dream receded and it drifted toward Moscow.
+  tags: [Democratic backsliding, Frozen EU path, Wine birthplace, Protest movement]
+  culture: >-
+    Georgia claims to be the birthplace of wine, made for 8,000 years in clay vessels called qvevri, a UNESCO-listed method. The supra, a feast led by a toastmaster called the tamada, is the heart of social life. Polyphonic singing, a unique alphabet and the Orthodox Church shape identity. Khachapuri, cheese bread, is a national dish.
+  society: >-
+    Georgia fought a short war with Russia in 2008, and Russia occupies about a fifth of its territory in Abkhazia and South Ossetia. Most Georgians support joining the EU, and nightly protests followed the government's 2024 decision to suspend accession talks. Laws on "foreign agents" and LGBT rights mirror Russia's.
+
+DEU:
+  pop: 83.5
+  religion: Catholic about 24%, Protestant about 22%, Muslim about 6%, no religion about 45%
+  system: parliamentary
+  story: election
+  snapshot: >-
+    The far-right AfD won nearly 44 percent in Saxony-Anhalt in September 2026, three seats short of a majority, a heavy blow to Chancellor Friedrich Merz.
+  tags: [AfD surge, Economic stagnation, Defence build-up, East-west divide]
+  culture: >-
+    Germany's culture spans Goethe and Beethoven, the Bauhaus, Berlin's techno clubs and a beer and sausage tradition with regional variations. Football, especially the Bundesliga, is the top sport. Remembrance of the Holocaust is built into schooling and public life. Christmas markets and Oktoberfest are global exports.
+  society: >-
+    Germany is Europe's largest economy, built on cars, machinery and chemicals, but it barely grew from 2023 to 2025 as cheap Russian gas vanished and Chinese competition rose. It took in more than a million refugees in 2015 to 2016 and again from Ukraine. The east, once communist, is poorer and older, and the AfD is strongest there.
+
+GRC:
+  pop: 10.4
+  religion: Greek Orthodox about 90%
+  system: parliamentary
+  story: unrest
+  snapshot: >-
+    A fraud scandal over EU farm subsidies, centred on Crete, led to indictments of lawmakers from Mitsotakis's own party and dented his government.
+  tags: [Subsidy scandal, Tourism economy, Post-crisis recovery, Ancient heritage]
+  culture: >-
+    Greece is the cradle of Western philosophy, democracy and theatre, and the Acropolis remains its emblem. The Orthodox Church shapes holidays, with Easter the biggest. Islands like Santorini and Mykonos draw millions of visitors. Rebetiko, the "Greek blues" born in refugee communities, and bouzouki music fill tavernas.
+  society: >-
+    The 2010s debt crisis cost Greece a quarter of its economy and sent hundreds of thousands of young people abroad. Growth has returned and debt is falling. Tourism is about a fifth of GDP. The 2023 Tempi rail crash, which killed 57, sparked the largest protests in years over corruption and state failure.
+
+VAT:
+  pop: 0.0008
+  name: Holy See (Vatican City)
+  religion: Catholic
+  system: religious
+  system_note: An elective monarchy in which the pope holds full legislative, executive and judicial power.
+  story: steady
+  snapshot: >-
+    The first American pope, Leo XIV, made artificial intelligence the theme of his first encyclical and declared the traditionalist Society of St Pius X in schism.
+  tags: [First American pope, AI encyclical, 1.4 billion Catholics, Smallest state]
+  culture: >-
+    The Vatican, the world's smallest state, holds St Peter's Basilica, the Sistine Chapel and one of the greatest art collections ever assembled. Latin remains its official language. The Swiss Guard, in uniforms said to have been designed in the Renaissance, has protected the pope since 1506.
+  society: >-
+    The Holy See leads a church of about 1.4 billion people, growing fastest in Africa and Asia while shrinking in Europe. Pope Francis's reforms of Vatican finances and the curia, and the abuse scandals that shook the Church, framed the inheritance of Leo XIV, elected in May 2025, who spent much of his career in Peru.
+
+HUN:
+  pop: 9.6
+  religion: Catholic about 30%, Calvinist about 10%, many unaffiliated
+  system: parliamentary
+  story: election
+  snapshot: >-
+    Péter Magyar's Tisza party ended Viktor Orbán's 16-year rule in April 2026 with the biggest majority in Hungary's post-communist history.
+  tags: [Orbán defeated, New government, EU funds, Thermal baths]
+  culture: >-
+    Hungarian is not related to its neighbours' languages, and that isolation has shaped a strong national identity. Budapest's thermal baths, Liszt and Bartók, goulash and paprika are famous exports. The memory of the 1920 Treaty of Trianon, which cost Hungary two-thirds of its territory, still resonates, as does the 1956 uprising against Soviet rule.
+  society: >-
+    Under Orbán, Hungary became the EU's model of "illiberal democracy", with friendly oligarchs owning most media and billions in EU funds frozen over rule-of-law concerns. Magyar, a former Fidesz insider, has promised to unlock those funds and fight corruption. Hungary has an ageing population and low wages by EU standards.
+
+ISL:
+  pop: 0.40
+  religion: Lutheran about 58% (church members), no religion growing
+  system: parliamentary
+  story: election
+  snapshot: >-
+    Icelanders narrowly voted against reopening EU membership talks in August 2026, even as Trump's Greenland threats made them question their security.
+  tags: [EU referendum, Fishing nation, Geothermal power, Sagas]
+  culture: >-
+    Iceland's sagas, written in the 13th century, are still readable by modern Icelanders, whose language has changed remarkably little. Icelanders use patronymic surnames and a public genealogy database. Björk, Sigur Rós and a remarkable crime-writing tradition are global exports. Christmas brings 13 mischievous Yule Lads.
+  society: >-
+    Fishing and geothermal energy, which heats nearly all homes, underpin the economy, along with tourism and aluminium smelting. Iceland's banks collapsed in 2008, and it jailed bankers. It has no army and relies on NATO and a US defence pact. It regularly tops gender equality rankings.
+
+IRL:
+  pop: 5.4
+  religion: Catholic about 69%, no religion about 14%
+  system: parliamentary
+  snapshot: >-
+    A rich, fast-growing country dependent on US tech and pharma giants, where a housing crisis dominates politics and a left-wing independent won the presidency in 2025.
+  tags: [US multinationals, Housing crisis, Irish language revival, Northern Ireland]
+  culture: >-
+    Ireland's literary tradition, from Joyce and Yeats to Sally Rooney, and its music, from trad sessions to U2, punch far above its size. Gaelic games, hurling and Gaelic football, draw huge crowds. Irish is the first official language, and Gaeltacht areas keep it alive. St Patrick's Day is celebrated worldwide by a vast diaspora.
+  society: >-
+    Ireland went from one of Western Europe's poorest countries to one of its richest, thanks largely to US multinationals drawn by low corporate tax; Apple, Google and Pfizer have European hubs there. Housing shortages and homelessness are acute. Voters legalised same-sex marriage and abortion in landmark referendums in 2015 and 2018.
+  baseline: >-
+    Micheál Martin of Fianna Fáil became Taoiseach again in January 2025 in a coalition with Fine Gael and independents. Catherine Connolly, a left-wing independent, won the presidential election in October 2025 by a landslide.
+  leaders: {state: "President Catherine Connolly, since November 2025", gov: "Taoiseach Micheál Martin, since January 2025"}
+
+ITA:
+  pop: 59.0
+  religion: Catholic about 75%, no religion about 15%
+  system: parliamentary
+  story: election
+  snapshot: >-
+    Giorgia Meloni lost her first big vote when Italians rejected her judicial reform in a March 2026 referendum, setting up a tense run to the 2027 election.
+  tags: [Meloni government, Referendum defeat, Ageing population, Art and food]
+  culture: >-
+    Italy holds more UNESCO World Heritage sites than almost any other country, from Rome and Florence to Venice and Pompeii. Its food, opera, fashion and design are global benchmarks. Regional identity is strong, with dialects and cuisines changing from town to town. Football, especially Serie A, and the Catholic Church shape national life.
+  society: >-
+    Italy has one of the world's oldest populations and one of the lowest birth rates, and many young people emigrate. The north is industrial and rich, the south poorer. Public debt is around 135 percent of GDP. Migration across the Mediterranean is a political flashpoint, and Meloni's government has tried to process asylum seekers in Albania.
+
+XKX:
+  pop: 1.6
+  religion: Sunni Islam about 95%, Serbian Orthodox and Catholic minorities
+  system: parliamentary
+  story: election
+  snapshot: >-
+    After repeated elections and deadlock, Kosovo finally chose a president in October 2026, weeks after a court convicted its wartime leader Hashim Thaçi.
+  tags: [Partially recognised, Serbia dispute, Very young population, Political deadlock]
+  culture: >-
+    Kosovo's ethnic Albanian majority shares language and culture with Albania, while Serbian Orthodox monasteries, like Visoki Dečani, are sacred to Serbs. It has one of Europe's youngest populations. Athletes like judoka Majlinda Kelmendi, its first Olympic gold medallist, are national heroes.
+  society: >-
+    Kosovo declared independence from Serbia in 2008, nine years after a NATO bombing campaign ended a Serbian crackdown. About 100 countries recognise it; Serbia, Russia, China and five EU members do not. Remittances from the diaspora are vital. A Serb minority in the north resists Pristina's authority.
+
+LVA:
+  pop: 1.85
+  religion: Lutheran about 20%, Catholic about 20%, Orthodox about 18%, many unaffiliated
+  system: parliamentary
+  snapshot: >-
+    Prime Minister Andris Kulbergs's United List won a record 42 of 100 seats in the October 2026 election, as a party opposed to aiding Ukraine also gained.
+  tags: [NATO frontline, Russian-speaking minority, Song and dance festival, Record election win]
+  culture: >-
+    Latvia's Song and Dance Festival, held every five years, is a huge national event and, along with the dainas, short folk songs, was key to the "Singing Revolution". Midsummer, Jāņi, is the most important holiday, with bonfires and wreaths. Riga has Europe's largest collection of Art Nouveau buildings.
+  society: >-
+    About a quarter of the population is ethnic Russian, and the government has phased out Russian-language schooling. Latvia spends heavily on defence and has reintroduced conscription. Emigration has shrunk the population since 1991. Forestry, logistics and IT are key sectors.
+  baseline: >-
+    Andris Kulbergs of the centre-right United List became prime minister in May 2026. In the 3 October 2026 election, his party won 42 of 100 seats with about 35 percent, the best result for any party since independence. He is expected to form a new coalition that excludes Sovereign Power, a party opposed to military aid to Ukraine.
+  leaders: {state: "President Edgars Rinkēvičs, since 2023", gov: "Prime Minister Andris Kulbergs (United List), since May 2026"}
+
+LIE:
+  pop: 0.040
+  religion: Catholic about 73%
+  system: const-monarchy
+  system_note: The prince holds unusually strong powers, including a veto over laws.
+  snapshot: >-
+    An Alpine principality where the prince retains real power, the economy runs on finance and industry, and the head of government has been a woman since 2025.
+  tags: [Powerful prince, Finance and industry, Alpine microstate, Customs union with Switzerland]
+  culture: >-
+    Liechtenstein's princely family, among Europe's richest, owns one of the world's great private art collections. German is the official language. Vaduz, the capital, is small enough to walk across. Liechtenstein uses the Swiss franc and shares an open border with Switzerland.
+  society: >-
+    Liechtenstein has one of the highest incomes per head in the world, with more jobs than residents; many workers commute from Switzerland and Austria. Once a notorious tax haven, it has adopted international transparency rules. Industrial firms like Hilti are major employers. Women only won the vote in 1984.
+  baseline: >-
+    Brigitte Haas of the Patriotic Union became head of government in 2025, the first woman in the post. Prince Hans-Adam II remains head of state, with day-to-day duties delegated to his son, Hereditary Prince Alois.
+  leaders: {state: "Prince Hans-Adam II, with Hereditary Prince Alois as regent", gov: "Prime Minister Brigitte Haas, since 2025"}
+
+LTU:
+  pop: 2.9
+  religion: Catholic about 74%
+  system: semi-presidential
+  snapshot: >-
+    A NATO frontline state hosting a permanent German brigade, governed by a Social Democrat-led coalition whose inclusion of a populist party has caused repeated rows.
+  tags: [NATO frontline, German brigade, Basketball, Fintech hub]
+  culture: >-
+    Lithuania was the last pagan country in Europe to convert to Christianity, in 1387, and once ruled a vast commonwealth with Poland. Basketball is close to a religion. The Hill of Crosses, covered with more than 100,000 crosses, symbolised resistance to Soviet rule. Lithuanian is one of the oldest living Indo-European languages.
+  society: >-
+    Lithuania was the first Soviet republic to declare independence, in 1990. It has become a fintech hub, has stood up to China over Taiwan, and spends heavily on defence. Emigration has shrunk the population. Belarus has sent balloons carrying contraband across the border, forcing Vilnius airport to close repeatedly.
+  baseline: >-
+    The Social Democrats won the 2024 election. Prime Minister Gintautas Paluckas resigned in 2025 over business dealings and was succeeded by Inga Ruginienė. The coalition's inclusion of Nemunas Dawn, led by a politician on trial for antisemitic remarks, has drawn protests.
+  leaders: {state: "President Gitanas Nausėda, since 2019", gov: "Prime Minister Inga Ruginienė, since 2025"}
+
+LUX:
+  pop: 0.68
+  religion: Catholic about 60%, many unaffiliated
+  system: const-monarchy
+  snapshot: >-
+    Europe's richest country per head, a Grand Duchy that welcomed a new monarch, Grand Duke Guillaume, in October 2025.
+  tags: [Richest per head, EU institutions, Finance centre, Cross-border workers]
+  culture: >-
+    Luxembourgers speak Luxembourgish, French and German, and most also speak English; nearly half the residents are foreigners, with a large Portuguese community. The Grand Duchy is the world's last. Schueberfouer, a fair dating to 1340, is a highlight of the year.
+  society: >-
+    Luxembourg's finance industry, investment funds and EU institutions make it the richest country per head in the EU. More than 200,000 people cross the border from France, Belgium and Germany to work each day. It made all public transport free in 2020. Housing costs are very high.
+  baseline: >-
+    Luc Frieden of the Christian Social People's Party has led a coalition with the Democratic Party since 2023. Grand Duke Henri abdicated in October 2025 in favour of his son Guillaume.
+  leaders: {state: "Grand Duke Guillaume, since October 2025", gov: "Prime Minister Luc Frieden, since 2023"}
+
+MLT:
+  pop: 0.57
+  religion: Catholic about 83%
+  system: parliamentary
+  snapshot: >-
+    Robert Abela's Labour Party won a record fourth straight term in May 2026 in the EU's smallest member state, where rapid growth has strained housing and infrastructure.
+  tags: [Labour dominance, EU's smallest member, Gaming and finance, Fast growth]
+  culture: >-
+    Maltese is the only Semitic language that is an official EU language, written in Latin script, reflecting Arab, Italian and British influences. The Knights of St John built Valletta, now UNESCO-listed. Village festas, with fireworks and processions for patron saints, fill summer weekends.
+  society: >-
+    Malta's economy has boomed on online gaming, finance, tourism and, controversially, selling passports to rich foreigners, a scheme struck down by the EU's top court in 2025. Foreign workers now make up a quarter of the population. The 2017 murder of journalist Daphne Caruana Galizia exposed corruption and links to politics.
+  baseline: >-
+    Robert Abela, prime minister since 2020, called an election for May 2026 and won a fourth consecutive term for Labour, a record. The Nationalist Party remains in opposition.
+  leaders: {state: "President Myriam Spiteri Debono, since 2024", gov: "Prime Minister Robert Abela, since 2020"}
+
+MDA:
+  pop: 2.4
+  religion: Orthodox Christian about 95%
+  system: parliamentary
+  story: steady
+  snapshot: >-
+    Maia Sandu's pro-EU government is pushing for membership by 2028, helped by Orbán's fall, while the Russian-backed region of Transnistria rations gas.
+  tags: [EU candidate, Russian interference, Transnistria, Wine country]
+  culture: >-
+    Most Moldovans speak Romanian, and many hold Romanian passports. Moldova's wine cellars, including Mileștii Mici with some 200 kilometres of tunnels, are among the world's largest. Folk music, embroidered shirts and hospitality are central. A Russian-speaking minority and the Gagauz, a Turkic Christian people, add diversity.
+  society: >-
+    Moldova is one of Europe's poorest countries, and a quarter of its people have emigrated. Transnistria, a breakaway strip with Russian troops, has been outside government control since 1992. Russia-linked networks have been accused of vote-buying in referendums and elections, and Sandu's party won a majority again in 2025.
+
+MCO:
+  pop: 0.038
+  religion: Catholic about 85%
+  system: const-monarchy
+  system_note: The prince holds substantial executive power.
+  snapshot: >-
+    The world's most densely populated country, a tax haven for the very rich ruled by the Grimaldi family since 1297.
+  tags: [Grimaldi family, Tax haven, Formula One, Densest country]
+  culture: >-
+    Monaco's Grand Prix, run through its streets since 1929, and the Monte Carlo Casino define its glamour. The Grimaldi family has ruled almost continuously since 1297, and Grace Kelly's marriage to Prince Rainier in 1956 made it famous worldwide. Monégasque, a Ligurian dialect, is taught in schools though French is official.
+  society: >-
+    Citizens are a small minority among residents, who pay no income tax. Land reclamation has expanded the territory. The economy rests on finance, property, tourism and the super-rich. In 2024 Monaco was placed on an international grey list for money laundering risks.
+  baseline: >-
+    Prince Albert II has reigned since 2005. Christophe Mirmand, a French official, became Minister of State, the head of government, in 2025.
+  leaders: {state: "Prince Albert II, since 2005", gov: "Minister of State Christophe Mirmand, since 2025"}
+
+MNE:
+  pop: 0.62
+  religion: Orthodox Christian about 72%, Muslim about 19%, Catholic about 3%
+  system: parliamentary
+  snapshot: >-
+    The frontrunner to become the EU's next member, aiming to close talks by 2026, in a small country still divided over its ties to Serbia.
+  tags: [EU accession frontrunner, Adriatic coast, Serbia identity debate, Uses the euro]
+  culture: >-
+    Montenegro's Bay of Kotor, with its walled town and fjord-like inlet, is UNESCO-listed. Identity is contested: about a third of citizens call themselves Serbs, and the Serbian Orthodox Church is influential. Water polo is a national passion. The country uses the euro without being an EU member.
+  society: >-
+    Montenegro split from Serbia in a 2006 referendum and joined NATO in 2017. Tourism dominates the economy. A Chinese loan for a motorway has weighed on public finances. A mass shooting in Cetinje on New Year's Day 2025 led to calls for tighter gun laws.
+  baseline: >-
+    Milojko Spajić of Europe Now became prime minister in 2023 at the head of a broad coalition. Montenegro has closed several negotiating chapters with the EU and hopes to finish talks by the end of 2026.
+  leaders: {state: "President Jakov Milatović, since 2023", gov: "Prime Minister Milojko Spajić, since 2023"}
+
+NLD:
+  pop: 18.0
+  religion: No religion about 58%, Catholic about 17%, Protestant about 13%, Muslim about 5%
+  system: const-monarchy
+  story: election
+  snapshot: >-
+    Rob Jetten became the Netherlands' youngest and first openly gay prime minister in February 2026, after his D66 overtook Geert Wilders' far right.
+  tags: [New centrist government, Trade and ports, Housing shortage, Cycling]
+  culture: >-
+    The Dutch Golden Age gave the world Rembrandt and Vermeer, and Van Gogh followed. Cycling is the main way to get around, and King's Day turns the country orange. The Dutch are known for directness, pragmatism and early liberal laws on drugs, euthanasia and same-sex marriage, which it was first to legalise, in 2001.
+  society: >-
+    Rotterdam is Europe's largest port, and ASML, maker of the machines that print advanced chips, is one of Europe's most valuable companies. A severe housing shortage, nitrogen pollution limits on farming and migration fuelled the rise of Wilders and the farmers' party. A quarter of the country lies below sea level.
+
+MKD:
+  pop: 1.8
+  religion: Orthodox Christian about 60%, Muslim about 32%
+  system: parliamentary
+  snapshot: >-
+    A nationalist-led government has stalled EU talks by refusing Bulgaria's demand to recognise a Bulgarian minority in the constitution.
+  tags: [EU candidate, Name dispute legacy, Albanian minority, Lake Ohrid]
+  culture: >-
+    Lake Ohrid, with its churches and monasteries, is among Europe's oldest lakes and a UNESCO site. Ethnic Macedonians speak a South Slavic language, and about a quarter of citizens are ethnic Albanians. The country changed its name to North Macedonia in 2019 to settle a dispute with Greece. Tavče gravče, baked beans, is a national dish.
+  society: >-
+    North Macedonia joined NATO in 2020. Emigration and a shrinking population are pressing problems. A 2025 nightclub fire in Kočani that killed 62 people sparked protests over corruption in licensing. Relations between ethnic Macedonians and Albanians, which turned violent in 2001, are managed through power-sharing.
+  baseline: >-
+    Hristijan Mickoski's VMRO-DPMNE won the 2024 election, and Gordana Siljanovska-Davkova became the first woman president. Bulgaria has blocked the opening of accession talks until the constitution is amended to recognise Bulgarians.
+  leaders: {state: "President Gordana Siljanovska-Davkova, since 2024", gov: "Prime Minister Hristijan Mickoski, since 2024"}
+
+NOR:
+  pop: 5.6
+  religion: Lutheran about 63% (church members), many non-practising
+  system: const-monarchy
+  story: shock
+  snapshot: >-
+    Fights over new oil drilling and the oil fund's Israeli holdings nearly sank Labour's minority budget, which drew a record sum from the fund as the Iran war shook energy markets.
+  tags: [Oil fund, Minority government, Electric car leader, Fjords]
+  culture: >-
+    Norway's fjords, the northern lights and a love of friluftsliv, outdoor life, define identity. Constitution Day on 17 May sees children's parades in bunads, traditional costumes. Its cross-country skiers dominate the Winter Olympics. Ibsen, Munch and black metal are cultural exports.
+  society: >-
+    Oil and gas made Norway one of the world's richest countries, and its sovereign wealth fund, worth more than $1.8 trillion, owns about 1.5 percent of all listed shares worldwide. Nearly all new cars sold are electric. The Sámi, the Indigenous people of the north, have their own parliament.
+
+POL:
+  pop: 37.4
+  religion: Catholic about 85%
+  system: parliamentary
+  system_note: The directly elected president holds a strong veto.
+  story: unrest
+  snapshot: >-
+    Nationalist President Karol Nawrocki has vetoed bill after bill from Donald Tusk's government, leaving its reform agenda stuck ahead of the 2027 election.
+  tags: [President vs government, NATO frontline, Fast growth, Ukraine hub]
+  culture: >-
+    Poland's Catholicism, anchored by John Paul II, the first Polish pope, and the shrine at Częstochowa, is woven into national identity. Chopin, Marie Curie and the Solidarity movement are national icons. The memory of partition, Nazi occupation and communism shapes politics. Pierogi, the Christmas Eve Wigilia supper and a booming video game industry, from The Witcher, are national pride.
+  society: >-
+    Poland has been one of Europe's fastest-growing economies since 1989 and now spends more on defence, as a share of GDP, than any other NATO member. It took in millions of Ukrainian refugees in 2022. Society is divided between a liberal, urban west and a conservative, Catholic east, mirrored in the Tusk versus Law and Justice rivalry.
+
+PRT:
+  pop: 10.7
+  religion: Catholic about 80%
+  system: semi-presidential
+  story: election
+  snapshot: >-
+    Socialist António José Seguro beat far-right André Ventura by about two to one in February 2026's presidential runoff, the first time the far right reached a final round.
+  tags: [Far-right rise, Tourism and tech, Housing crisis, Fado]
+  culture: >-
+    Fado, the mournful song of Lisbon and Coimbra, is UNESCO-listed and expresses saudade, a longing for something lost. Portugal's age of discovery left a language spoken by more than 250 million people. Pastel de nata, salt cod and port wine are national staples. Football, and Cristiano Ronaldo, are a passion.
+  society: >-
+    Portugal has recovered from its debt crisis and attracted tourists, digital nomads and foreign buyers, driving up rents in Lisbon and Porto. Ventura's Chega party became the main opposition in 2025. The country decriminalised personal drug use in 2001, a much-studied policy. Emigration of young graduates remains high.
+
+ROU:
+  pop: 19.0
+  religion: Orthodox Christian about 85%, Catholic and Protestant minorities
+  system: semi-presidential
+  story: shock
+  snapshot: >-
+    Spending cuts to tame the EU's biggest budget deficit tipped Romania into recession in 2026 and strained the coalition, as the far-right AUR waits in the wings.
+  tags: [Budget austerity, Far-right pressure, Annulled 2024 election, Tech sector]
+  culture: >-
+    Romanian is a Romance language surrounded by Slavic and Hungarian neighbours, a source of national pride. The painted monasteries of Bucovina, the castles of Transylvania and the Danube Delta draw visitors. Brâncuși transformed modern sculpture. Doinas, lyrical folk songs, are UNESCO-listed. A large Hungarian minority lives in Transylvania.
+  society: >-
+    Romania has grown fast since joining the EU in 2007, with a strong IT sector, but millions have emigrated. In 2024 the Constitutional Court annulled a presidential election after a far-right outsider, Călin Georgescu, surged amid alleged Russian interference on TikTok. Nicușor Dan, Bucharest's centrist mayor, won the 2025 rerun.
+
+RUS:
+  pop: 144
+  religion: Orthodox Christian about 70%, Muslim about 10%
+  system: presidential
+  system_note: An authoritarian system centred on Putin.
+  story: war
+  snapshot: >-
+    Putin's party took three-quarters of Duma seats in a September 2026 election with the anti-war Yabloko barred, as the war in Ukraine went on.
+  tags: [War in Ukraine, Putin's system, Sanctions economy, Repression]
+  culture: >-
+    Russia's literature, from Pushkin, Tolstoy and Dostoevsky to Chekhov, and its music and ballet, from Tchaikovsky to the Bolshoi, are among the world's most influential. The Orthodox Church has regained a central role since communism fell. Victory Day on 9 May, marking the Soviet defeat of Nazi Germany, is the most important civic holiday.
+  society: >-
+    Russia's economy runs on oil, gas and, since 2022, a huge expansion of military spending, which has driven inflation and labour shortages. Hundreds of thousands of men have left the country. Opposition leader Alexei Navalny died in an Arctic prison in 2024. Independent media and protest are effectively banned.
+
+SMR:
+  pop: 0.034
+  religion: Catholic about 97%
+  system: parliamentary
+  system_note: Two Captains Regent serve jointly as heads of state for six months at a time.
+  snapshot: >-
+    One of the world's oldest republics, a hilltop microstate inside Italy that has signed an association agreement with the EU.
+  tags: [Oldest republic, Captains Regent, Microstate, Tourism]
+  culture: >-
+    San Marino claims to be the world's oldest surviving republic, founded in 301. Its three towers on Monte Titano are UNESCO-listed. Every six months, on 1 April and 1 October, two Captains Regent are installed as joint heads of state in medieval ceremony.
+  society: >-
+    San Marino is surrounded by Italy and uses the euro. Tourism, banking and light industry support a high standard of living. Many Sammarinese work across the border. An association agreement with the EU was concluded to deepen access to the single market.
+  baseline: >-
+    San Marino is governed by a coalition led by the Christian Democrats. The Great and General Council elects the two Captains Regent every six months.
+  leaders: {state: "Two Captains Regent, elected every six months", gov: "Secretary of State for Foreign Affairs Luca Beccari"}
+
+SRB:
+  pop: 6.6
+  religion: Serbian Orthodox about 82%, Catholic and Muslim minorities
+  system: parliamentary
+  story: election
+  snapshot: >-
+    Facing student-led protests, Aleksandar Vučić resigned the presidency in September 2026 to run for prime minister in a snap election on 25 October.
+  tags: [Student protests, Vučić's manoeuvre, Between EU and Russia, Kosovo dispute]
+  culture: >-
+    Serbian Orthodox monasteries, the Cyrillic and Latin alphabets used side by side, and slava, the family patron saint's day, define Serbian tradition. Belgrade's nightlife is famous, as are its kafanas, taverns with live folk music. Novak Đoković is a national hero. Guča's trumpet festival draws hundreds of thousands.
+  society: >-
+    Serbia balances between the EU, which it hopes to join, and Russia and China, which back it on Kosovo and invest in its economy. The 2024 collapse of a railway station canopy in Novi Sad, which killed 16 people, set off the biggest protest movement in decades, led by students. Media freedom has declined under Vučić.
+
+SVK:
+  pop: 5.4
+  religion: Catholic about 56%, Lutheran about 5%, no religion about 24%
+  system: parliamentary
+  story: unrest
+  snapshot: >-
+    Robert Fico's government dismantled the anti-corruption prosecutor, softened the criminal code and targeted NGOs, drawing large protests and EU concern.
+  tags: [Fico government, Rule of law concerns, Car manufacturing, Pro-Russian drift]
+  culture: >-
+    Slovakia's castles, wooden churches and the High Tatras mountains are national treasures. Folk traditions, including the fujara shepherd's flute, are UNESCO-listed. Ice hockey is the biggest sport. Slovaks and Czechs understand each other's languages and remain close since their peaceful 1993 split.
+  society: >-
+    Slovakia makes more cars per head than any other country, with plants for Volkswagen, Kia, Stellantis and Jaguar Land Rover. Fico survived an assassination attempt in 2024. His government has cut military aid to Ukraine and moved closer to Moscow, while large protests in Bratislava have opposed his course.
+
+SVN:
+  pop: 2.1
+  religion: Catholic about 55%, many unaffiliated
+  system: parliamentary
+  story: election
+  snapshot: >-
+    A near-tie in the March 2026 election ended with populist Janez Janša back as prime minister for a fourth time.
+  tags: [Janša returns, Alpine and Adriatic, Prosperous small state, Cycling stars]
+  culture: >-
+    Slovenia packs Alps, karst caves and a short Adriatic coast into a small country. Beekeeping is a national tradition, with painted hive panels, and the country proposed World Bee Day. Cyclists Tadej Pogačar and Primož Roglič, and basketball's Luka Dončić, are global stars. Lake Bled is a postcard icon.
+  society: >-
+    Slovenia was the richest Yugoslav republic and the first to join the EU, in 2004, and the euro. It has low inequality and high quality of life. Janša, an ally of Orbán and Trump, has clashed with media and the EU in past terms.
+
+ESP:
+  pop: 49.0
+  religion: Catholic about 55%, no religion about 40%
+  system: const-monarchy
+  story: election
+  snapshot: >-
+    A housing protest movement camped in Madrid's Puerta del Sol, and after parliament rejected his emergency decrees, Pedro Sánchez called a snap election for 29 November.
+  tags: [Snap election, Housing crisis, Fast growth, Regional nationalism]
+  culture: >-
+    Spain's regions have strong identities and languages, including Catalan, Basque and Galician. Flamenco, the Running of the Bulls, Semana Santa and late dinners shape the world's image of it, along with Picasso, Goya and Gaudí. Football rivalries between Real Madrid and Barcelona are fierce, and the national team won Euro 2024 and the 2026 World Cup.
+  society: >-
+    Spain has been the EU's fastest-growing large economy, driven by tourism, immigration and renewable energy. But rents have soared, especially in Madrid, Barcelona and the islands, and youth unemployment is high. Catalonia's 2017 independence push still shapes politics, and Sánchez depends on Catalan and Basque parties.
+
+SWE:
+  pop: 10.6
+  religion: Lutheran church members about 52%, largely secular
+  system: const-monarchy
+  story: election
+  snapshot: >-
+    Sweden's left-leaning bloc won a narrow majority in September 2026, but forming a government has dragged on, leaving Ulf Kristersson as caretaker.
+  tags: [Government formation, NATO's new member, Gang violence, Welfare model]
+  culture: >-
+    Sweden gave the world ABBA, IKEA, Spotify, Astrid Lindgren and the Nobel Prizes. Midsummer, fika coffee breaks and the concept of lagom, just enough, are cultural touchstones. Allemansrätten, the right to roam, gives everyone access to nature.
+  society: >-
+    Sweden has a generous welfare state and high equality, but gang shootings and bombings have made it an outlier in Europe for gun violence. Immigration, which changed the country fast, is a central political debate. It joined NATO in 2024, ending two centuries of military non-alignment.
+
+CHE:
+  pop: 9.0
+  religion: Catholic about 32%, Reformed Protestant about 20%, no religion about 34%
+  system: parliamentary
+  system_note: "A directorial system: a seven-member Federal Council governs collectively."
+  snapshot: >-
+    A rich, neutral federation run by consensus and direct democracy, which struck a deal in 2025 to cut punishing US tariffs on its exports.
+  tags: [Direct democracy, Neutrality, Finance and pharma, Four languages]
+  culture: >-
+    Switzerland has four national languages: German, French, Italian and Romansh. Citizens vote several times a year in referendums on everything from taxes to cow horns. Chocolate, cheese, watches and Alpine skiing are national icons, and Geneva hosts many UN agencies and the Red Cross.
+  society: >-
+    Switzerland is among the world's richest countries, with pharma giants like Roche and Novartis, banking and precision industry. It remains outside the EU but tied to it by bilateral treaties. Neutrality has been tested by sanctions on Russia. Glacier loss from climate change is visible across the Alps.
+  baseline: >-
+    The seven-member Federal Council is shared among the four largest parties. Guy Parmelin of the Swiss People's Party holds the rotating presidency in 2026. In 2025 the US imposed a 39 percent tariff on Swiss goods before a deal lowered it.
+  leaders: {state: "Federal Council, with Guy Parmelin as President of the Confederation for 2026", gov: "Federal Council of seven members"}
+
+UKR:
+  pop: 38
+  religion: Orthodox Christian about 70%, Greek Catholic about 9%
+  system: semi-presidential
+  system_note: Under martial law since 2022, which suspends elections.
+  story: war
+  snapshot: >-
+    A brief US-brokered ceasefire in May collapsed within days, and the war ground on along a 745-mile front as both sides escalated long-range strikes.
+  tags: [Russian invasion, Martial law, EU candidate, Drone warfare]
+  culture: >-
+    Ukrainian identity has strengthened sharply since 2014, and especially since 2022, with many people switching from Russian to Ukrainian. Embroidered vyshyvanka shirts, borscht, which is UNESCO-listed, and Cossack history are symbols of pride. Ukraine won Eurovision in 2016 and 2022. Kyiv's Saint Sophia Cathedral dates to the 11th century.
+  society: >-
+    Russia's full-scale invasion has killed tens of thousands of civilians and soldiers, displaced millions and occupied about a fifth of the country. Ukraine has become a world leader in drone warfare. The economy depends on Western aid. Corruption scandals, including one in the energy sector in 2025, remain sensitive.
+
+GBR:
+  pop: 69.6
+  name: United Kingdom
+  religion: Christian about 46%, no religion about 37%, Muslim about 7%
+  system: const-monarchy
+  story: election
+  snapshot: >-
+    Keir Starmer resigned in June 2026 after a local election rout, and Labour handed the keys to Andy Burnham, Britain's seventh prime minister in ten years.
+  tags: [Seventh PM in a decade, Reform UK surge, Post-Brexit, Monarchy]
+  culture: >-
+    Britain's cultural reach is vast: Shakespeare, the Beatles, the BBC, the Premier League and Harry Potter. The monarchy, now led by Charles III, remains popular. England, Scotland, Wales and Northern Ireland each have distinct identities, languages and sports traditions, and London is one of the world's most diverse cities.
+  society: >-
+    Since leaving the EU in 2020, the UK has struggled with low growth, stagnant wages and strained public services, especially the NHS. Immigration and small boat crossings are central political issues and fuelled Reform UK's rise. Scotland and Wales have devolved governments, and Northern Ireland's power-sharing is fragile.

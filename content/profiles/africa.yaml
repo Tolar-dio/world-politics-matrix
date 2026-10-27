@@ -1,0 +1,786 @@
+# Culture, society and fact profiles: Africa
+# Keys are ISO 3166-1 alpha-3 codes. See README for the field list.
+
+DZA:
+  pop: 47.4
+  religion: Sunni Islam, about 99%
+  system: presidential
+  system_note: The army remains the power behind the presidency.
+  snapshot: >-
+    Africa's largest country by area, run by an army-backed presidency that outlasted the 2019 Hirak protests and pays for social peace with gas money.
+  tags: [Gas exporter, Army-backed presidency, Post-Hirak, Arab and Amazigh, Former French colony]
+  culture: >-
+    Algerian identity was forged in the 1954 to 1962 war of independence against France, which still shapes politics, school curricula and relations with Paris. Arabic and Tamazight are both official, and Kabylie in the north-east is the heartland of Amazigh language and activism. Raï music came out of Oran's port bars, and football is close to a civic religion: the national team's matches double as political gatherings.
+  society: >-
+    Most Algerians live on the narrow Mediterranean strip; the Sahara covers more than four-fifths of the land. Oil and gas provide most export earnings and fund subsidised bread, fuel and housing. Youth unemployment is high, and many young people try to emigrate, often by boat to Spain. Women make up a majority of university graduates but a small share of the workforce.
+  baseline: >-
+    President Abdelmadjid Tebboune won a second term in September 2024 with an officially reported 84 percent, on low turnout. Since the Hirak protest movement forced Abdelaziz Bouteflika out in 2019, the authorities have jailed activists and journalists and narrowed space for dissent. Algeria has used higher gas revenues from Europe's search for alternatives to Russia to raise wages and subsidies, while relations with France and Morocco have repeatedly broken down over Western Sahara.
+  leaders: {state: "President Abdelmadjid Tebboune, re-elected in 2024", gov: "Prime Minister Sifi Ghrieb"}
+
+AGO:
+  pop: 39.0
+  religion: Christian, mostly Catholic and Protestant
+  system: presidential
+  snapshot: >-
+    An oil state still governed by the MPLA, the movement that won the 1975 to 2002 civil war, with a young, fast-growing and increasingly restless population.
+  tags: [Oil exporter, MPLA rule since 1975, Lusophone, Young population, Lobito corridor]
+  culture: >-
+    Angola's culture mixes Portuguese colonial heritage with Kimbundu, Ovimbundu and Bakongo traditions. Luanda is the home of semba, the ancestor of Brazilian samba, and of kuduro, a frenetic dance music born in the 1990s musseques, the informal neighbourhoods. Kizomba, a slow partner dance, has spread from Angola across the Portuguese-speaking world. Portuguese is the official language and the first language of a growing urban majority.
+  society: >-
+    Oil makes up most exports, but wealth has been concentrated in a small elite; the daughter of former president José Eduardo dos Santos was once Africa's richest woman. Around half the population is under 16. Many Luandans live in informal settlements without reliable water. The US-backed Lobito rail corridor to the Congo and Zambia copper belt is the government's big bet on diversification.
+  baseline: >-
+    João Lourenço, president since 2017, won a second term in 2022 in the closest election in Angola's history, with the opposition UNITA taking the capital. His anti-corruption drive targeted the dos Santos family, though critics said it was selective. Fuel subsidy cuts in July 2025 set off deadly protests and riots in Luanda. Lourenço cannot run again, and the MPLA's choice of successor before the 2027 election is the main political question.
+  leaders: {state: "President João Lourenço, since 2017", gov: "The president heads the government"}
+
+BEN:
+  pop: 14.8
+  religion: Christian about 52%, Muslim about 28%, Vodun and other traditional faiths
+  system: presidential
+  story: election
+  snapshot: >-
+    The country that pioneered peaceful handovers in Africa held another in 2026, but with the main opposition kept off the ballot and jihadist attacks spreading in the north.
+  tags: [Birthplace of Vodun, Cotton and port economy, Jihadist spillover, Francophone]
+  culture: >-
+    Benin is the birthplace of Vodun, which has official recognition and a national holiday every 10 January in Ouidah, the old slave port where the Door of No Return now stands as a memorial. The kingdom of Dahomey, with its Agojie women soldiers, ruled the south for two centuries. Cotonou's art scene draws on that heritage, and the return of royal treasures looted by France in 1892 became a national event in 2021.
+  society: >-
+    Cotton is the main export, and much of the economy runs on trade with Nigeria, formal and informal, through the port of Cotonou. Growth has been strong, but poverty remains widespread outside the south. Since 2021, jihadist groups from the Sahel have attacked army posts in the north near the Burkina Faso and Niger borders, killing dozens of soldiers in single raids.
+
+BWA:
+  pop: 2.6
+  religion: Christian about 80%, Badimo traditional belief
+  system: parliamentary
+  system_note: The president is elected by parliament and heads the government.
+  snapshot: >-
+    One of Africa's most stable democracies, now led by its first opposition government and searching for a future beyond diamonds as global demand slumps.
+  tags: [Diamond economy, Stable democracy, Okavango Delta, First change of power in 2024]
+  culture: >-
+    Botswana takes its name from the Tswana people, and Setswana is spoken by nearly everyone alongside English. The kgotla, a village assembly where elders and residents debate in public, is a living tradition that the state still uses for consultation. Cattle remain central to status and family wealth. The Okavango Delta and the Kalahari underpin a high-end safari industry that deliberately limits visitor numbers.
+  society: >-
+    At independence in 1966 Botswana was among the poorest countries on Earth; diamond revenue, managed through a joint venture with De Beers, built roads, schools and clinics. The country fought one of the world's worst HIV epidemics and now has high treatment coverage. Unemployment, especially among young people, is stubbornly high, and the slump in natural diamond prices has hit state finances hard.
+  baseline: >-
+    In October 2024 voters ended 58 years of rule by the Botswana Democratic Party, which fell to fourth place. Duma Boko, a Harvard-trained lawyer leading the Umbrella for Democratic Change, became president. His government inherited a recession driven by collapsing diamond sales as lab-grown stones undercut the market, and has sought a bigger stake in the De Beers partnership and new investment in other sectors.
+  leaders: {state: "President Duma Boko (UDC), since November 2024", gov: "The president heads the government"}
+
+BFA:
+  pop: 24.1
+  religion: Muslim about 64%, Christian about 26%, traditional faiths
+  system: military
+  snapshot: >-
+    A junta led by Captain Ibrahim Traoré, Africa's youngest leader, which has turned to Russia and stretched its rule to 2029 while jihadists control large parts of the country.
+  tags: [Military junta, Sahel insurgency, Alliance of Sahel States, Gold exporter]
+  culture: >-
+    Burkina Faso means "land of upright people", a name chosen by the revolutionary leader Thomas Sankara, whose image remains everywhere. Ouagadougou hosts FESPACO, Africa's biggest film festival, every two years, and the Mossi kingdom's Mogho Naba still holds a weekly ceremony at his palace. Bobo-Dioulasso's mud mosque and the country's masked dances reflect a deep mix of Islamic and older traditions.
+  society: >-
+    Most people farm or herd, and gold has become the main export. The jihadist insurgency since 2015 has displaced more than two million people and closed thousands of schools. Civilian volunteer militias recruited by the junta have been accused of massacres, especially against Fulani communities. Independent media have been suspended and critics conscripted to the front.
+  baseline: >-
+    Captain Ibrahim Traoré seized power in September 2022, eight months after an earlier coup. He expelled French troops, brought in Russian security support and, with Mali and Niger, formed the Alliance of Sahel States and left ECOWAS. In 2024 the junta extended its rule by five years. Traoré has a large online following across Africa as an anti-colonial figure, while human rights groups document killings of civilians by both jihadists and the army.
+  leaders: {state: "Captain Ibrahim Traoré, since 2022", gov: "Prime Minister Rimtalba Jean Emmanuel Ouédraogo"}
+
+BDI:
+  pop: 14.4
+  religion: Christian about 90%, mostly Catholic
+  system: presidential
+  snapshot: >-
+    One of the world's poorest countries, dominated by the ruling CNDD-FDD, which won every elected seat in 2025, and drawn into the Congo war next door.
+  tags: [Dominant party, Coffee and tea, Ethnic power-sharing, Troops in Congo]
+  culture: >-
+    Burundi's royal drummers, who perform on huge drums carried on their heads, are on UNESCO's heritage list and were once tied to the monarchy's rituals. Kirundi is spoken by almost everyone, giving the country a rare linguistic unity. Hills, banana groves and family compounds define rural life, and Lake Tanganyika's shore is the country's main leisure space.
+  society: >-
+    Most Burundians are subsistence farmers on tiny plots, in one of Africa's most densely populated countries. Coffee and tea are the main exports, and fuel and foreign currency shortages are chronic. The 1993 to 2005 civil war between Hutu rebels and the Tutsi-dominated army killed some 300,000; the peace deal built ethnic quotas into government and the army.
+  baseline: >-
+    President Évariste Ndayishimiye succeeded Pierre Nkurunziza in 2020. The ruling CNDD-FDD won all seats in the 2025 legislative election after the main opposition figure, Agathon Rwasa, was sidelined. Burundian troops are deployed in eastern Congo against the Rwanda-backed M23, deepening hostility with Rwanda, and the fall of Bukavu in 2025 sent refugees across the border.
+  leaders: {state: "President Évariste Ndayishimiye, since 2020", gov: "Prime Minister Nestor Ntahontuye, since August 2025"}
+
+CPV:
+  pop: 0.53
+  religion: Catholic about 75%, Protestant minority
+  system: semi-presidential
+  snapshot: >-
+    An Atlantic island democracy with a long record of peaceful handovers; in May 2026 voters swapped governments again, bringing the PAICV back to power.
+  tags: [Island democracy, Morna music, Large diaspora, Tourism]
+  culture: >-
+    Cabo Verde's islands were uninhabited until the Portuguese settled them in the 15th century, and Kriolu, a Portuguese-based creole, grew out of the mix of settlers and enslaved West Africans. Morna, the melancholy song style made famous by Cesária Évora, the "barefoot diva", is on UNESCO's heritage list. Funaná and batuque are the faster, danced counterparts, once suppressed by the colonial authorities.
+  society: >-
+    More Cabo Verdeans live abroad, in the US, Portugal and elsewhere in Europe, than at home, and their remittances are vital. Tourism to Sal and Boa Vista beaches is the largest industry. Recurrent droughts and the lack of fresh water have shaped history, including deadly famines. The country scores well above the African average on press freedom and governance.
+  baseline: >-
+    Cabo Verde has alternated power peacefully between its two main parties since 1991. Ulisses Correia e Silva of the centre-right MpD governed from 2016, while President José Maria Neves comes from the PAICV, the party of independence. In the 17 May 2026 legislative election the PAICV won 37 of 72 seats, and its leader, Francisco Carvalho, a former mayor of the capital, Praia, became prime minister.
+  leaders: {state: "President José Maria Neves, since 2021", gov: "Prime Minister Francisco Carvalho (PAICV), since 2026"}
+
+CMR:
+  pop: 29.9
+  religion: Christian about 70%, Muslim about 25%
+  system: presidential
+  snapshot: >-
+    Ruled since 1982 by Paul Biya, now in his 90s and declared winner of an eighth term in 2025, while an Anglophone separatist conflict grinds on in the west.
+  tags: [Gerontocracy, Anglophone crisis, Boko Haram in the north, Bilingual]
+  culture: >-
+    Cameroon calls itself "Africa in miniature" for its range of landscapes and some 250 languages. Makossa and bikutsi music came out of Douala and Yaoundé, and Manu Dibango's "Soul Makossa" was sampled by Michael Jackson. The Indomitable Lions' run to the 1990 World Cup quarter-finals, led by Roger Milla, remains a national touchstone, as do football-mad cities like Douala.
+  society: >-
+    A former German colony split between France and Britain after the First World War, Cameroon is officially bilingual, but the English-speaking minority has long complained of marginalisation. Oil, timber, cocoa and coffee are key exports. Corruption is pervasive, and power has been concentrated in the presidency for decades, with Biya often governing from long stays abroad.
+  baseline: >-
+    Paul Biya, 92, was declared winner of the October 2025 election with about 54 percent; his former minister Issa Tchiroma Bakary claimed victory, and protests were put down with deadly force. Since 2017 a conflict between separatists and the army in the two English-speaking regions has killed thousands and shut schools. Boko Haram and its offshoot still attack in the Far North.
+  leaders: {state: "President Paul Biya, since 1982", gov: "Prime Minister Joseph Dion Ngute"}
+
+CAF:
+  pop: 5.5
+  religion: Christian about 80%, Muslim about 10 to 15%
+  system: presidential
+  snapshot: >-
+    A diamond- and gold-rich country with very weak state control, where Russian forces guard the government and President Touadéra won a third term after rewriting the constitution.
+  tags: [Russian security partner, Armed groups, Diamonds and gold, UN peacekeeping]
+  culture: >-
+    Sango, a lingua franca that grew along the Ubangi River, is spoken by almost everyone and is official alongside French, giving the country an unusual common tongue. The Aka people of the south-western forests are known for complex polyphonic singing. Bangui's riverside nightlife and its music scene survived years of conflict, though much of the country remains hard to travel.
+  society: >-
+    Despite diamonds, gold, timber and uranium, the Central African Republic ranks near the bottom of the UN's human development index. Armed groups have controlled large areas since the 2013 civil war, which pitted the mostly Muslim Séléka against Christian anti-balaka militias. Russian Wagner fighters, now under Moscow's Africa Corps, protect the government and have been accused of abuses.
+  baseline: >-
+    Faustin-Archange Touadéra, president since 2016, pushed through a 2023 referendum that removed term limits. He won a third term in the December 2025 election, confirmed by the Constitutional Court in January 2026, after main opposition figures boycotted or were excluded. A UN peacekeeping mission remains, and the government's reliance on Russian forces for security has drawn Western criticism.
+  leaders: {state: "President Faustin-Archange Touadéra, since 2016", gov: "Prime Minister Félix Moloua"}
+
+TCD:
+  pop: 21.0
+  religion: Muslim about 55%, Christian about 40%
+  system: presidential
+  system_note: A military ruler turned elected president in 2024.
+  snapshot: >-
+    A Sahel state ruled by Mahamat Déby, who took over when his father was killed in 2021, jailed his main rival and broke a long military alliance with France.
+  tags: [Déby dynasty, Sudan war spillover, Oil exporter, French troops gone]
+  culture: >-
+    Chad has more than 120 languages, with French and Arabic official and Chadian Arabic the everyday lingua franca. The north is Muslim and largely desert, home to Tubu and Arab nomads; the south is greener, more Christian and agricultural. Lake Chad, once one of Africa's largest lakes, has shrunk dramatically since the 1960s, and its shores support fishing and herding communities across four countries.
+  society: >-
+    Oil revenue since 2003 has done little to reduce deep poverty. Chad hosts well over a million refugees, most of them from Sudan's Darfur, in camps along the eastern border. Clashes between herders and farmers are frequent. The army is the backbone of power, built around the Zaghawa clan of the Déby family.
+  baseline: >-
+    After Idriss Déby was killed fighting rebels in 2021, the army installed his son Mahamat. He won a 2024 election that the opposition called rigged and ended the defence pact with France, whose last troops left in January 2025. Opposition leader and former prime minister Succès Masra was sentenced in 2025 to 20 years in prison. A 2025 constitutional change lengthened presidential terms and removed limits.
+  leaders: {state: "President Mahamat Idriss Déby, since 2021", gov: "Prime Minister Allamaye Halina"}
+
+COM:
+  pop: 0.88
+  religion: Sunni Islam, about 98%
+  system: presidential
+  snapshot: >-
+    An Indian Ocean island nation that has seen some 20 coups and attempts since 1975, now dominated by Azali Assoumani, who is grooming his son to follow him.
+  tags: [Coup-prone history, Vanilla and ylang-ylang, Mayotte dispute, Island nation]
+  culture: >-
+    Comorian culture blends Bantu, Arab, Persian and Malagasy influences, and Shikomori, a Swahili relative, is spoken alongside French and Arabic. The grand mariage on Grande Comore is a lavish, years-in-the-making ceremony that confers social status and can cost a family its savings. Women commonly wear the colourful shiromani cloth and protect their skin with a yellow paste called msindzano.
+  society: >-
+    The islands produce much of the world's ylang-ylang, used in perfumes, plus vanilla and cloves. Many Comorians risk dangerous boat crossings to Mayotte, the fourth island of the archipelago, which stayed French and is claimed by the Comoros. Remittances from France are a big share of income.
+  baseline: >-
+    Azali Assoumani, who first took power in a 1999 coup, won a fourth term in January 2024 amid opposition boycotts and deadly protests. In 2025 he gave his son, Nour El Fath Azali, wide powers to coordinate government, widely seen as preparation for succession. The rotating presidency between the three islands, created to end separatist crises, was weakened by a 2018 referendum.
+  leaders: {state: "President Azali Assoumani, since 2016 (earlier 1999 to 2006)", gov: "The president heads the government"}
+
+COD:
+  pop: 112
+  religion: Christian about 95%, Catholic and Protestant churches dominate
+  system: semi-presidential
+  story: war
+  snapshot: >-
+    Peace deals signed in Washington and Doha in 2025 did not end the war in the east, where Rwanda-backed M23 rebels still run Goma and Bukavu and the mines around them.
+  tags: [M23 war, Cobalt and coltan, Rumba, Kinshasa megacity, Minerals diplomacy]
+  culture: >-
+    Congolese rumba, born in the bars of Léopoldville in the 1940s, became the soundtrack of post-independence Africa through stars like Franco and Papa Wemba, and is on UNESCO's heritage list. The sapeurs of Kinshasa and Brazzaville turn designer clothes into performance art. Lingala, the language of the music and the army, is spoken alongside Swahili, Kikongo, Tshiluba and French, the official language.
+  society: >-
+    Congo has vast reserves of cobalt, copper and coltan that power phones and electric cars, yet most people live on under $2 a day. Kinshasa has grown into a megacity of around 17 million. Fighting in the east has displaced several million people, and armed groups and soldiers alike have been accused of mass sexual violence. Artisanal miners, including children, dig much of the cobalt by hand.
+
+COG:
+  pop: 6.5
+  religion: Christian about 85%
+  system: presidential
+  system_note: A dominant executive in place since 1997.
+  story: election
+  snapshot: >-
+    Denis Sassou Nguesso, in power for most of the past four decades, won another term in 2026 in an election held with the internet switched off.
+  tags: [Long-serving ruler, Oil exporter, Debt crisis, Rainforest]
+  culture: >-
+    Brazzaville sits across the Congo River from Kinshasa, the world's closest pair of capitals, and the two cities share rumba, Lingala and the dandy culture of the sapeurs. The Poto-Poto school of painting, founded in 1951, gave the country an influential modern art tradition. French is official, with Lingala and Kituba as national languages.
+  society: >-
+    Oil makes up most exports and most state revenue, and the country has gone through repeated debt crises and IMF programmes. Most people live in Brazzaville and the oil city of Pointe-Noire, leaving the vast forest north thinly populated. Civil wars in the 1990s, which brought Sassou back to power in 1997, still shape politics and the security forces.
+
+CIV:
+  pop: 32.7
+  name: Côte d'Ivoire
+  religion: Muslim about 42%, Christian about 40%, traditional faiths
+  system: presidential
+  story: election
+  snapshot: >-
+    The world's biggest cocoa producer began 2026 with Alassane Ouattara starting a fourth term at 84, after his strongest challengers were kept off the ballot.
+  tags: [Cocoa superpower, Fourth term, Fast growth, Coupé-décalé, Francophone]
+  culture: >-
+    Abidjan is French-speaking West Africa's cultural capital, where coupé-décalé dance music was born in the diaspora clubs of Paris and exported back home. Zouglou, a student-born style, voices social complaint with humour. Nouchi, a street slang mixing French with local languages, is the city's lingua franca. The national football team, the Elephants, won the Africa Cup of Nations as host in 2024.
+  society: >-
+    Côte d'Ivoire grows around 40 percent of the world's cocoa, much of it on small farms where child labour remains a concern. The economy has been one of Africa's fastest-growing since the 2010 to 2011 post-election war ended. The divide between a mainly Muslim north and Christian south, and disputes over who counts as "truly Ivorian", fuelled past conflicts.
+
+DJI:
+  pop: 1.2
+  religion: Sunni Islam, about 94%
+  system: presidential
+  system_note: A dominant-party state in practice.
+  story: election
+  snapshot: >-
+    A tiny Red Sea port state that hosts American, Chinese, French and Japanese bases, where Ismaïl Omar Guelleh won a sixth term in 2026 with 97.8 percent.
+  tags: [Foreign military bases, Ethiopia's port, Red Sea chokepoint, Long-serving ruler]
+  culture: >-
+    Djibouti's two main communities, the Somali Issa and the Afar, have distinct languages and traditions, and politics has long been balanced between them. Chewing khat, imported daily from Ethiopia, is an afternoon social ritual. Lake Assal, the lowest point in Africa, and the salt flats and volcanic landscapes of the Afar depression draw adventurous tourists.
+  society: >-
+    The economy runs on its port, which handles most of landlocked Ethiopia's trade, and on rent from foreign bases at the mouth of the Red Sea. China built its first overseas military base here. Despite this income, unemployment is high and many people live in poverty. Houthi attacks on shipping since 2023 have hit traffic through the nearby Bab el-Mandeb strait.
+
+EGY:
+  pop: 118
+  religion: Sunni Islam about 90%, Coptic Christian about 10%
+  system: presidential
+  system_note: Dominated by the military.
+  story: shock
+  snapshot: >-
+    The Iran war hit Egypt's three cash machines at once, the Suez Canal, tourism and foreign investment, as Sisi tried to stay out of the fight and act as mediator.
+  tags: [Suez Canal, Military-dominated, Gulf-backed economy, Arab world's largest population]
+  culture: >-
+    Egypt is the Arab world's entertainment capital: Cairo's film and television industry and singers like Umm Kulthum shaped how millions of Arabs speak and what they watch, and Ramadan TV dramas are still a national event. Al-Azhar, founded in 970, is the leading seat of Sunni learning. The Coptic Church, one of the oldest in the world, anchors a large Christian minority.
+  society: >-
+    Almost all Egyptians live in the narrow Nile valley and delta, and Greater Cairo has more than 20 million people. The economy has lurched through currency devaluations and IMF bailouts, and inflation has eroded incomes. Huge state and army-run projects, including a new administrative capital, have expanded the military's economic role. Subsidised bread is a political red line.
+
+GNQ:
+  pop: 1.9
+  religion: Christian, mostly Catholic
+  system: presidential
+  system_note: In practice a family dictatorship.
+  snapshot: >-
+    Ruled since 1979 by Teodoro Obiang, the world's longest-serving president, whose family controls an oil economy that has left most citizens poor.
+  tags: [Longest-serving ruler, Oil wealth, Spanish-speaking Africa, Family rule]
+  culture: >-
+    Equatorial Guinea is the only African country where Spanish is an official language, alongside French and Portuguese. The capital, Malabo, is on Bioko island, home to the Bubi people, while most of the population lives on the mainland, where the Fang are the largest group. Catholic festivals and traditional balélé dances mark the calendar.
+  society: >-
+    Oil discovered in the 1990s made the country briefly one of the richest per head in Africa, but wealth was concentrated in the ruling family; the vice-president, Obiang's son, has been convicted in France of embezzlement. Output has declined. Basic services remain poor and press freedom is among the world's lowest.
+  baseline: >-
+    Obiang won a sixth term in 2022 with an officially reported 95 percent. His son, Teodoro Nguema Obiang Mangue, known as Teodorín, is vice-president and the presumed successor. In 2025 a scandal involving a senior official secretly filmed with hundreds of women led to arrests and public debate rarely seen in the country.
+  leaders: {state: "President Teodoro Obiang Nguema Mbasogo, since 1979", gov: "Prime Minister Manuela Roka Botey"}
+
+ERI:
+  pop: 3.6
+  religion: Christian about half (Orthodox, Catholic, Protestant), Sunni Muslim about half
+  system: one-party
+  snapshot: >-
+    One of the world's most closed states, ruled since independence in 1993 by Isaias Afwerki with no elections, no constitution in force and indefinite military service.
+  tags: [No elections since independence, Indefinite conscription, Mass emigration, Red Sea coast]
+  culture: >-
+    Eritrea's nine ethnic groups include Tigrinya-speaking highlanders and Tigre, Afar and other lowland peoples, with roughly equal Christian and Muslim populations. Asmara, built largely under Italian rule in the 1930s, is a UNESCO-listed showcase of modernist architecture, with Art Deco cinemas and cafés where espresso culture survives. Cycling is hugely popular, and Eritrean riders have competed in the Tour de France.
+  society: >-
+    National service, meant to last 18 months, is in practice open-ended, and it drives a steady exodus of young people across deserts and the Mediterranean. There is no independent press. Mining, mainly gold and copper, is the main export earner. Families depend on remittances, and the diaspora is taxed by the state.
+  baseline: >-
+    Isaias Afwerki has ruled since independence from Ethiopia after a 30-year war. Eritrean troops fought alongside Ethiopia's army in Tigray in 2020 to 2022, but relations with Addis Ababa have since soured, with Ethiopia's prime minister talking about access to the Red Sea, raising fears of a new war. The ruling PFDJ is the only legal party.
+  leaders: {state: "President Isaias Afwerki, since 1993", gov: "The president heads the government"}
+
+SWZ:
+  pop: 1.2
+  religion: Christian about 90%, often mixed with traditional belief
+  system: exec-monarchy
+  snapshot: >-
+    Africa's last absolute monarchy, where King Mswati III appoints the government and political parties cannot contest elections.
+  tags: [Absolute monarchy, Umhlanga reed dance, High HIV prevalence, Sugar exports]
+  culture: >-
+    Swazi identity is tied closely to the monarchy and its ceremonies. The Umhlanga reed dance brings tens of thousands of young women to present reeds to the queen mother, and the Incwala is a sacred kingship ritual. siSwati is spoken by nearly everyone. The country changed its name from Swaziland to Eswatini in 2018 by royal decree.
+  society: >-
+    The economy is tied to South Africa, which surrounds it on three sides and buys most of its exports, especially sugar and soft-drink concentrate. Eswatini has one of the world's highest HIV rates, though treatment has sharply cut deaths. Pro-democracy protests in 2021 were crushed, with dozens killed.
+  baseline: >-
+    Mswati III has reigned since 1986. Parliament has elected members but parties are barred from elections, and the king appoints the prime minister and cabinet. In 2025 Eswatini agreed to accept people deported from the United States who were not its own citizens, a deal criticised by local rights groups.
+  leaders: {state: "King Mswati III, since 1986", gov: "Prime Minister Russell Dlamini"}
+
+ETH:
+  pop: 135
+  religion: Orthodox Christian about 43%, Muslim about 34%, Protestant about 19%
+  system: parliamentary
+  system_note: A federation of ethnically defined regions.
+  story: election
+  snapshot: >-
+    Abiy Ahmed's party took nearly 90 percent of seats in a June 2026 election held amid a crackdown, with insurgencies still burning in Amhara and Oromia.
+  tags: [Never colonised, Coffee origin, Ethnic federalism, Grand Renaissance Dam, Insurgencies]
+  culture: >-
+    Ethiopia was never colonised, apart from a brief Italian occupation, and has its own calendar, its own script and one of the world's oldest Christian churches, whose rock-hewn churches at Lalibela still hold services. Coffee was first drunk here, and the coffee ceremony is a daily social ritual. Ethiopian distance runners are national heroes, and Amharic, Oromo and Tigrinya music fills Addis Ababa's bars.
+  society: >-
+    With some 135 million people, Ethiopia is Africa's second most populous country. State-led growth built roads, industrial parks and the Grand Ethiopian Renaissance Dam on the Blue Nile, inaugurated in 2025 over Egypt's objections. The 2020 to 2022 Tigray war killed hundreds of thousands. Inflation and a 2024 currency float have squeezed households.
+
+GAB:
+  pop: 2.6
+  religion: Christian about 80%, Muslim about 10%
+  system: presidential
+  system_note: Led by the general who ousted the Bongo dynasty in 2023.
+  snapshot: >-
+    The general who ended 56 years of Bongo family rule in a 2023 coup won the 2025 presidential election by a landslide and abolished the post of prime minister.
+  tags: [Post-coup transition, Oil and manganese, Rainforest, Ex-Bongo dynasty]
+  culture: >-
+    Gabon's Fang, Punu, Nzebi and other peoples share a strong tradition of Bwiti, a spiritual practice using the iboga root in initiation ceremonies. Gabonese masks, especially the white-faced Punu masks, influenced European modernists. Libreville's music scene blends Congolese rumba with local styles. French is the official and common language.
+  society: >-
+    Nearly 90 percent of the country is rainforest, and Gabon has won international payments for protecting it. Oil, manganese and timber earn most export income, but a third of people live in poverty. Most of the population lives in Libreville and Port-Gentil.
+  baseline: >-
+    General Brice Clotaire Oligui Nguema, head of the Republican Guard, seized power in August 2023 after Ali Bongo was declared winner of a disputed election. A new constitution approved in 2024 created a strong presidency without a prime minister. Oligui won the April 2025 election with about 90 percent.
+  leaders: {state: "President Brice Clotaire Oligui Nguema, since 2023", gov: "The president heads the government"}
+
+GMB:
+  pop: 2.8
+  religion: Sunni Islam, about 95%
+  system: presidential
+  snapshot: >-
+    Mainland Africa's smallest country, a sliver along the Gambia River, where Adama Barrow is seeking a third term in the 5 December 2026 election.
+  tags: [Smallest mainland African state, Post-Jammeh democracy, Tourism, Election in December 2026]
+  culture: >-
+    The Gambia is a ribbon of land on both banks of its river, almost entirely surrounded by Senegal, with which it shares Wolof, Mandinka and Fula culture. Griots, hereditary praise singers and historians, play the kora, a 21-string harp-lute. Kunta Kinteh Island, linked to the story of Alex Haley's "Roots", draws heritage visitors from the African diaspora.
+  society: >-
+    Tourism, groundnuts and remittances drive the economy, and many young Gambians attempt the dangerous "back way" to Europe. Unemployment is high. A truth commission documented the killings and torture of Yahya Jammeh's 22-year rule, and a special court with ECOWAS is being set up to try abuses.
+  baseline: >-
+    Adama Barrow defeated the dictator Yahya Jammeh in 2016; Jammeh left for exile only after a regional military intervention. Barrow won again in 2021 after breaking with the coalition that had backed him on a promise to serve three years. He is running for a third term in December 2026, and several opposition parties have united behind a single challenger.
+  leaders: {state: "President Adama Barrow, since 2017", gov: "The president heads the government"}
+
+GHA:
+  pop: 35.1
+  religion: Christian about 71%, Muslim about 20%
+  system: presidential
+  story: steady
+  snapshot: >-
+    One of West Africa's steadiest democracies spent 2026 recovering from a debt default, with John Mahama promising a round-the-clock economy to create jobs.
+  tags: [Stable democracy, Gold and cocoa, Afrobeats and highlife, Debt recovery]
+  culture: >-
+    Ghana was the first sub-Saharan colony to win independence, in 1957, and Kwame Nkrumah's pan-Africanism remains a point of pride. Highlife music, born in Accra's dance halls, fed into today's Afrobeats and hiplife. Kente cloth, woven by Asante and Ewe weavers, carries meaning in every colour and pattern. Christmas, Independence Day and the "Year of Return" for the diaspora are big civic moments.
+  society: >-
+    Ghana is a leading gold and cocoa producer and an oil exporter. A 2022 debt crisis forced a default and an IMF bailout, and inflation peaked above 50 percent before easing. Illegal small-scale gold mining, known as galamsey, has poisoned rivers and become a major political issue. Power has changed hands peacefully between the NDC and NPP several times since 1992.
+
+GIN:
+  pop: 15.1
+  religion: Sunni Islam about 85%, Christian about 10%
+  system: presidential
+  system_note: The coup leader of 2021, elected president in 2025.
+  snapshot: >-
+    General Mamadi Doumbouya, who seized power in 2021, turned himself into an elected president in December 2025 under a new constitution written by his junta.
+  tags: [Bauxite giant, Simandou iron ore, Post-junta presidency, Francophone]
+  culture: >-
+    Guinea's Malinké, Fula and Soussou peoples each have strong musical traditions; the national ballet, Les Ballets Africains, toured the world after independence. Under Ahmed Sékou Touré, Guinea famously rejected France's offer in 1958 with the words "We prefer poverty in freedom to riches in slavery", and the country's state-sponsored orchestras like Bembeya Jazz became legendary.
+  society: >-
+    Guinea has the world's largest bauxite reserves, the ore for aluminium, and the Simandou iron ore project, one of the richest untapped deposits, began exports in late 2025 with Chinese and Rio Tinto investment. Yet most people are poor, power cuts are frequent and the Fula community often complains of political exclusion.
+  baseline: >-
+    Doumbouya, a former French Foreign Legion soldier, overthrew Alpha Condé in 2021. A referendum in September 2025 approved a constitution that let junta members run for office, and he won the December presidential election with about 87 percent while key opponents were in exile or barred. He was sworn in in January 2026.
+  leaders: {state: "President Mamadi Doumbouya, since 2021", gov: "Prime Minister Amadou Oury Bah"}
+
+GNB:
+  pop: 2.2
+  religion: Muslim about 46%, Christian about 22%, traditional faiths
+  system: military
+  snapshot: >-
+    The army seized power in November 2025 on the eve of election results, the latest of many coups in a country known as a cocaine transit hub.
+  tags: [Coup-prone, Cashew exports, Drug transit, Lusophone]
+  culture: >-
+    Guinea-Bissau's Kriol, a Portuguese-based creole, unites some 20 ethnic groups. The Bijagós archipelago, a UNESCO biosphere reserve, preserves matrilineal traditions in which women traditionally choose their husbands. Gumbé music and the February carnival in Bissau mix Portuguese and African influences.
+  society: >-
+    Cashew nuts make up most exports and employ much of the rural population. The country has had more coups and attempts than almost any other since independence from Portugal in 1974. Weak institutions have made it a transit point for South American cocaine heading to Europe.
+  baseline: >-
+    On 26 November 2025, the day before provisional results of presidential and legislative elections, officers seized power and named General Horta Inta-A, known as N'Tam, as transitional president for one year. President Umaro Sissoco Embaló left for Senegal. The junta has scheduled new elections for 6 December 2026.
+  leaders: {state: "Transitional President General Horta Inta-A, since November 2025", gov: "Prime Minister Ilídio Vieira Té"}
+
+KEN:
+  pop: 57.5
+  religion: Christian about 85%, Muslim about 11%
+  system: presidential
+  story: election
+  snapshot: >-
+    The 2027 race has started early: Ruto's sacked deputy Rigathi Gachagua now leads a united opposition trying to take his Mount Kenya votes away.
+  tags: [East Africa's hub, Gen Z protests, Silicon Savannah, Distance runners, Ethnic coalitions]
+  culture: >-
+    Kenya is home to more than 40 ethnic groups, with Swahili and English as national languages and Sheng, a Nairobi street mix, as the language of youth. Its distance runners, mostly from the Kalenjin highlands, have dominated world athletics for decades. Nairobi's matatu minibuses, painted with graffiti and blasting music, are a mobile art form. Ngũgĩ wa Thiong'o made it a centre of African literature.
+  society: >-
+    Nairobi is East Africa's business and tech hub, home of the M-Pesa mobile money system used by most adults. Tourism, tea, flowers and remittances are big earners. Heavy debt has driven unpopular tax rises, and the 2024 Gen Z protests against a finance bill, in which dozens were killed, showed a new, cross-ethnic youth politics.
+
+LSO:
+  pop: 2.4
+  religion: Christian about 90%
+  system: const-monarchy
+  snapshot: >-
+    A mountain kingdom entirely surrounded by South Africa, dependent on water exports and textile jobs that were hit by US tariffs in 2025.
+  tags: [Mountain kingdom, Enclave state, Textile exports, Highlands water]
+  culture: >-
+    Lesotho's entire territory lies above 1,000 metres, earning it the name "kingdom in the sky". The Basotho blanket, worn as a cloak, and the conical mokorotlo hat are national symbols that appear on the flag. Sesotho is spoken by nearly everyone. Famo music, sung by migrant miners with accordions, is tied to rivalries that have sometimes turned violent.
+  society: >-
+    Generations of Basotho men worked in South African mines. Today textiles for US brands and water sold to South Africa through the Lesotho Highlands Water Project are key earners. Lesotho has one of the world's highest HIV rates. Politics has been unstable, with frequent coalition collapses and army interventions.
+  baseline: >-
+    Sam Matekane, a mining tycoon, became prime minister in 2022 at the head of his new Revolution for Prosperity party. Lesotho was briefly singled out with a 50 percent tariff in Trump's April 2025 announcements, threatening the textile industry; the rate was later cut, but factory orders and jobs fell. King Letsie III is the ceremonial head of state.
+  leaders: {state: "King Letsie III", gov: "Prime Minister Sam Matekane, since 2022"}
+
+LBR:
+  pop: 5.7
+  religion: Christian about 85%, Muslim about 12%
+  system: presidential
+  snapshot: >-
+    Africa's oldest republic, founded by freed American slaves, governed since 2024 by Joseph Boakai after a peaceful handover from George Weah.
+  tags: [Founded by freed slaves, Post-war democracy, Rubber and iron ore, Ship registry]
+  culture: >-
+    Liberia was founded in 1822 as a settlement for freed African Americans, whose descendants, the Americo-Liberians, dominated the country for over a century; the flag and much civic culture copy the United States. Liberian English and a love of American-style church and basketball sit alongside the traditions of the Kpelle, Bassa and other peoples, including masked secret societies.
+  society: >-
+    Civil wars from 1989 to 2003 killed some 250,000 people, and Ebola in 2014 killed thousands more. Rubber, iron ore and gold are the main exports, and the world's largest ship registry earns fees. Most people are poor, and youth unemployment is high. A war crimes court has been approved but is yet to begin work.
+  baseline: >-
+    Joseph Boakai, a veteran politician and former vice-president, narrowly beat President George Weah, the former footballer, in 2023, and Weah conceded quickly. Boakai's government has pledged to fight corruption and to establish a court for wartime crimes, with a 2024 executive order starting the process.
+  leaders: {state: "President Joseph Boakai, since January 2024", gov: "The president heads the government"}
+
+LBY:
+  pop: 7.4
+  religion: Sunni Islam, about 97%
+  system: contested
+  system_note: Rival governments in Tripoli and the east.
+  story: war
+  snapshot: >-
+    Split between rival governments since 2014, Libya saw fighting shut its biggest refinery in 2026 before the two sides agreed to hold elections within two years.
+  tags: [Rival governments, Oil wealth, Migration route, Militias]
+  culture: >-
+    Libya's coast holds some of the best-preserved Roman cities anywhere, at Leptis Magna and Sabratha, though war has kept tourists away. Tribal and family ties are central to identity and politics. Amazigh, Tebu and Tuareg minorities have revived their languages and culture since 2011 after decades of suppression under Gaddafi.
+  society: >-
+    Africa's largest proven oil reserves fund public salaries and subsidies for most Libyans, but militias, rival central bank claims and blockades disrupt income. Libya is a main departure point for migrants crossing to Italy, many held in abusive detention centres. Floods in Derna in 2023 killed thousands after dams burst.
+
+MDG:
+  pop: 32.7
+  religion: Christian about 85%, traditional ancestor veneration widely practised
+  system: military
+  system_note: A military-led transition since October 2025.
+  story: unrest
+  snapshot: >-
+    Gen Z protests over water and power cuts brought down President Rajoelina in 2025, and an army colonel now runs a transition that promises elections.
+  tags: [Gen Z protests, Military transition, Vanilla, Unique wildlife, Cyclones]
+  culture: >-
+    Madagascar's people descend from Austronesian sailors from Borneo and from East Africans, and Malagasy is related to languages of Indonesia. Famadihana, the "turning of the bones", sees families exhume ancestors, rewrap them in fresh cloth and dance with them. Hira gasy, all-day performances of song and oratory, are popular in the highlands.
+  society: >-
+    About 90 percent of the island's plants and animals are found nowhere else, including lemurs, but deforestation has destroyed much of their habitat. Madagascar supplies most of the world's vanilla. It is one of the world's poorest countries, frequently hit by cyclones and drought, with the south suffering repeated famines.
+
+MWI:
+  pop: 22.2
+  religion: Christian about 77%, Muslim about 14%
+  system: presidential
+  snapshot: >-
+    Peter Mutharika returned to the presidency after beating Lazarus Chakwera in the September 2025 election, inheriting fuel shortages and very high inflation.
+  tags: [Warm heart of Africa, Lake Malawi, Tobacco exports, Peaceful handovers]
+  culture: >-
+    Malawi calls itself "the warm heart of Africa". Lake Malawi, which runs along much of the country, holds more fish species than any other lake. The Gule Wamkulu masked dances of the Chewa people are UNESCO-listed. Chichewa is the national language alongside English.
+  society: >-
+    Most Malawians farm small plots, and tobacco is the main export. Chronic shortages of fuel and foreign exchange, and cyclones like Freddy in 2023, have hit the economy. A 2020 court ruling that annulled a flawed election and ordered a rerun was hailed as a landmark for judicial independence in Africa.
+  baseline: >-
+    In September 2025 voters returned former president Peter Mutharika, 85, who had lost the 2020 rerun to Lazarus Chakwera, amid anger over inflation and shortages. Chakwera conceded. Mutharika has promised to stabilise the currency and revive farming.
+  leaders: {state: "President Peter Mutharika, since October 2025", gov: "The president heads the government"}
+
+MLI:
+  pop: 25.2
+  religion: Sunni Islam about 95%
+  system: military
+  story: war
+  snapshot: >-
+    An al-Qaeda affiliate's fuel blockade cut Bamako's power to a few hours a day, while the junta dissolved political parties and tied itself ever closer to Russia.
+  tags: [Military junta, Jihadist blockade, Gold exporter, Timbuktu, Alliance of Sahel States]
+  culture: >-
+    Mali was the heart of medieval empires whose wealth in gold made Mansa Musa legendary, and Timbuktu's manuscripts and mud mosques testify to centuries of Islamic scholarship. Its music is famous worldwide, from the desert blues of Ali Farka Touré and Tinariwen to the kora of Toumani Diabaté. Bambara is the most widely spoken language.
+  society: >-
+    Gold is the main export, and the junta has pushed foreign miners for a bigger share. Jihadist groups and Tuareg separatists have fought the state since 2012. The army and Russian mercenaries have been accused of massacres, notably at Moura in 2022. Hundreds of schools are closed, and millions need food aid.
+
+MRT:
+  pop: 5.3
+  religion: Sunni Islam, nearly 100%
+  system: presidential
+  snapshot: >-
+    A Saharan republic that has stayed stable while its Sahel neighbours fell to coups and jihadists, now preparing to export offshore gas.
+  tags: [Saharan nation, Offshore gas, Slavery legacy, Stable amid Sahel turmoil]
+  culture: >-
+    Mauritania bridges the Arab Maghreb and Black Africa. Hassaniya Arabic is spoken by the Moorish majority, while Pulaar, Soninke and Wolof are spoken in the south. Nomadic traditions, tea poured from a height in three rounds, and poetry are central to Moorish culture. The old caravan towns of Chinguetti and Ouadane hold ancient Islamic libraries.
+  society: >-
+    Slavery was officially abolished only in 1981 and criminalised in 2007, and descendants of enslaved people, the Haratin, still face discrimination. Iron ore, gold and fish are key exports, and the Greater Tortue gas field shared with Senegal began production in 2025. The country has become a key partner for Europe on migration.
+  baseline: >-
+    Mohamed Ould Ghazouani, a former general, won a second term in 2024. Mauritania has avoided the jihadist attacks and coups that hit Mali and Burkina Faso, credited partly to a mix of military reforms and dialogue with former militants. It signed a migration partnership with the EU in 2024 as Atlantic crossings to the Canary Islands surged.
+  leaders: {state: "President Mohamed Ould Ghazouani, since 2019", gov: "Prime Minister Mokhtar Ould Djay"}
+
+MUS:
+  pop: 1.27
+  religion: Hindu about 48%, Christian about 32%, Muslim about 17%
+  system: parliamentary
+  snapshot: >-
+    A small island democracy that grew rich through sugar, textiles, tourism and finance, and recently secured sovereignty over the Chagos Islands from Britain.
+  tags: [Multi-ethnic democracy, Chagos deal, Offshore finance, Tourism]
+  culture: >-
+    Mauritius had no native population; its people descend from Indian indentured labourers, enslaved Africans and Malagasy, French settlers and Chinese traders. Mauritian Creole is the shared language, with English and French also used. Hindu festivals like Maha Shivaratri, when hundreds of thousands walk to the sacred lake Ganga Talao, share the calendar with Christian, Muslim and Chinese holidays. Sega music has roots in slavery.
+  society: >-
+    Mauritius is one of Africa's richest countries per head, with a welfare state, free education and healthcare. Its economy moved from sugar to textiles, tourism and offshore finance. Politics has long been dominated by a few families. A 2025 treaty transferred the Chagos Islands to Mauritius, with Britain and the US keeping the Diego Garcia base on a 99-year lease.
+  baseline: >-
+    Navin Ramgoolam's Alliance du Changement won all 60 directly elected seats in November 2024, ending Pravind Jugnauth's government after a wiretapping scandal. Ramgoolam, prime minister for a third time, revisited the terms of the Chagos deal before it was signed in 2025.
+  leaders: {state: "President Dharam Gokhool", gov: "Prime Minister Navin Ramgoolam, since November 2024"}
+
+MAR:
+  pop: 38.4
+  religion: Sunni Islam, about 99%
+  system: exec-monarchy
+  system_note: The king holds most real power; an elected government handles day-to-day policy.
+  story: election
+  snapshot: >-
+    A September 2026 election produced Morocco's first woman head of government, while real power stays with the king and a Gen Z protest movement demands better schools and hospitals.
+  tags: [Monarchy, World Cup 2030 co-host, Western Sahara, Amazigh heritage, Tourism]
+  culture: >-
+    Morocco blends Arab, Amazigh and Andalusian influences, and Tamazight became an official language in 2011. The medinas of Fez and Marrakech, Gnawa trance music with roots in West Africa, and a cuisine of tagines and couscous draw millions of visitors. The national football team's run to the 2022 World Cup semi-final was a moment of pride across the Arab world and Africa.
+  society: >-
+    The king controls defence, foreign policy and religion, and is officially Commander of the Faithful. Morocco is building high-speed rail and stadiums for the 2030 World Cup it will co-host with Spain and Portugal. Youth unemployment is high, and the 2025 Gen Z 212 protests contrasted stadium spending with crumbling hospitals. Its claim to Western Sahara has won growing international backing.
+
+MOZ:
+  pop: 35.6
+  religion: Christian about 60%, Muslim about 19%
+  system: presidential
+  snapshot: >-
+    Frelimo, in power since independence in 1975, kept the presidency after a disputed 2024 election and months of deadly protests, while an insurgency simmers in the gas-rich north.
+  tags: [Frelimo rule since 1975, Cabo Delgado insurgency, LNG projects, Lusophone]
+  culture: >-
+    Mozambique's long coastline was part of the Swahili world before Portugal colonised it, and Island of Mozambique, the old colonial capital, is UNESCO-listed. Marrabenta music came out of Maputo's suburbs, and the timbila xylophone orchestras of the Chopi people are on UNESCO's heritage list. Mia Couto is among Africa's most celebrated novelists.
+  society: >-
+    A civil war from 1977 to 1992 killed around a million people. Huge offshore gas finds in Cabo Delgado drew TotalEnergies and ExxonMobil, but an Islamic State-linked insurgency since 2017 has displaced over a million people. A "hidden debts" scandal in 2016 tipped the country into crisis. Most people are poor farmers.
+  baseline: >-
+    Daniel Chapo of Frelimo was declared winner of the October 2024 election; challenger Venâncio Mondlane called it fraud and led months of protests in which hundreds were killed, the worst unrest since the civil war. Chapo took office in January 2025 and later signed a political accord with opposition parties. Rwandan troops help fight the northern insurgency.
+  leaders: {state: "President Daniel Chapo, since January 2025", gov: "Prime Minister Maria Benvinda Levi"}
+
+NAM:
+  pop: 3.1
+  religion: Christian about 90%, mostly Lutheran
+  system: presidential
+  snapshot: >-
+    A stable, sparsely populated democracy that elected its first woman president in 2024 and hopes new offshore oil and green hydrogen will tackle deep inequality.
+  tags: [First woman president, Namib Desert, Offshore oil hopes, German colonial genocide]
+  culture: >-
+    Namibia's peoples include the Ovambo, the largest group, and Herero, Nama, Damara and San, alongside German- and Afrikaans-speaking minorities, reflecting German and South African rule. Herero women's Victorian-style dresses and horned hats are a living reminder of colonial history. The Namib, the world's oldest desert, and Etosha's wildlife are major attractions.
+  society: >-
+    Namibia has one of the world's highest levels of inequality, rooted in land dispossession; most commercial farmland is still owned by a white minority. Mining of diamonds and uranium drives exports. Germany acknowledged in 2021 that its killing of Herero and Nama people in 1904 to 1908 was genocide, but descendants rejected the reparations offered.
+  baseline: >-
+    Netumbo Nandi-Ndaitwah of SWAPO, the liberation movement in power since independence in 1990, won the November 2024 election with 58 percent and became Namibia's first woman president in March 2025. Big offshore oil discoveries by Shell and TotalEnergies have raised hopes of new wealth.
+  leaders: {state: "President Netumbo Nandi-Ndaitwah, since March 2025", gov: "Prime Minister Elijah Ngurare"}
+
+NER:
+  pop: 27.9
+  religion: Sunni Islam, about 99%
+  system: military
+  story: war
+  snapshot: >-
+    The junta that ousted Mohamed Bazoum in 2023 is fighting jihadists and hosting Russian troops, and blamed foreign leaders without evidence after a brazen attack on Niamey's airport.
+  tags: [Military junta, Uranium, Sahel insurgency, Russian partner, Very young population]
+  culture: >-
+    Niger's main peoples, the Hausa, Zarma-Songhai, Tuareg and Fulani, have distinct traditions. The Wodaabe Fulani's Gerewol festival, where young men in elaborate makeup dance to be chosen by women, is world-famous. Agadez, a Saharan crossroads with a towering mud minaret, is UNESCO-listed, and Tuareg guitar bands like Bombino carry desert blues abroad.
+  society: >-
+    Niger has the world's highest birth rate and one of its lowest literacy rates. Most people farm or herd in a harsh climate. Uranium mined in the north long supplied French reactors; the junta nationalised Orano's local subsidiary. Jihadist groups linked to al-Qaeda and Islamic State have killed thousands of soldiers and civilians.
+
+NGA:
+  pop: 237
+  religion: Muslim about half, Christian about half
+  system: presidential
+  story: unrest
+  snapshot: >-
+    Africa's most populous country learned in January 2026 how close a 2025 coup plot came to killing its president, as insecurity spread across north and south.
+  tags: [Africa's largest population, Nollywood, Afrobeats, Oil economy, Insecurity]
+  culture: >-
+    Nigeria is Africa's cultural superpower. Nollywood is one of the world's largest film industries by output, and Afrobeats stars like Burna Boy, Wizkid and Tems fill stadiums worldwide. Its writers, from Chinua Achebe and Wole Soyinka to Chimamanda Ngozi Adichie, define African literature. More than 500 languages are spoken, with Hausa, Yoruba and Igbo the largest.
+  society: >-
+    Lagos is one of Africa's biggest cities and its fintech capital. Oil dominates exports, but the end of fuel subsidies in 2023 and a currency collapse pushed inflation above 30 percent. Jihadists in the north-east, bandit gangs that kidnap for ransom in the north-west, herder-farmer violence and separatists in the south-east strain the army.
+
+RWA:
+  pop: 14.6
+  religion: Christian about 93%, Muslim about 2%
+  system: presidential
+  snapshot: >-
+    A tightly controlled, fast-modernising state under Paul Kagame, rebuilt after the 1994 genocide and accused by the UN of backing M23 rebels in Congo.
+  tags: [Post-genocide state, Kagame rule, Tech and conference hub, Gorilla tourism]
+  culture: >-
+    Rwanda's people share one language, Kinyarwanda, and the government has erased official ethnic labels since the 1994 genocide, in which some 800,000 Tutsi and moderate Hutu were killed in 100 days. Remembrance, kwibuka, is observed each April. Umuganda, a monthly morning of compulsory community work, reflects a strongly organised society. Intore warrior dances are a national art.
+  society: >-
+    Kigali is famously clean and orderly, and the government has invested in conference tourism, gorilla trekking and sponsorship of football clubs like Arsenal and PSG. Growth has been strong and health outcomes have improved sharply. But critics are jailed or killed abroad, and the press is tightly controlled.
+  baseline: >-
+    Paul Kagame, effectively in charge since 1994, won a fourth term in 2024 with 99 percent. UN experts say Rwandan troops fought alongside M23 in Congo; Rwanda says it acts against Hutu militias tied to the genocide. A US-brokered peace deal with Congo was signed in 2025, while Western donors imposed some sanctions.
+  leaders: {state: "President Paul Kagame, since 2000", gov: "Prime Minister Justin Nsengiyumva, since July 2025"}
+
+STP:
+  pop: 0.24
+  religion: Catholic about 55%, Protestant and other Christian
+  system: semi-presidential
+  snapshot: >-
+    Africa's second-smallest country, two cocoa islands in the Gulf of Guinea, where governments often fall but power changes without bloodshed.
+  tags: [Island microstate, Cocoa heritage, Lusophone, Political churn]
+  culture: >-
+    The uninhabited islands were settled by the Portuguese with enslaved Africans to grow sugar, and later cocoa on vast plantations called roças, many now crumbling or turned into hotels. Forro and other creoles are spoken alongside Portuguese. The Tchiloli, a 16th-century European drama performed in masks and costume, has become a uniquely São Toméan art form.
+  society: >-
+    Cocoa remains the main export, and tourism is growing slowly. The state relies heavily on foreign aid. Hopes of offshore oil have repeatedly faded. Political rivalry is intense: President Carlos Vila Nova sacked Prime Minister Patrice Trovoada in January 2025.
+  baseline: >-
+    After dismissing Trovoada's government, Vila Nova appointed Américo Ramos as prime minister. A 2022 attack on the army headquarters, in which detainees were killed in custody, remains a source of political tension.
+  leaders: {state: "President Carlos Vila Nova, since 2021", gov: "Prime Minister Américo Ramos, since January 2025"}
+
+SEN:
+  pop: 18.9
+  religion: Sunni Islam about 95%, mostly within Sufi brotherhoods
+  system: presidential
+  story: shock
+  snapshot: >-
+    The discovery of $13 billion in hidden debt froze an IMF programme and split the president from his own mentor, Prime Minister Ousmane Sonko.
+  tags: [Sufi brotherhoods, Hidden debt crisis, New oil and gas, Teranga, Peaceful handovers]
+  culture: >-
+    Senegal's Sufi brotherhoods, especially the Mourides, shape daily life, and the annual Grand Magal pilgrimage to Touba draws millions. Teranga, a Wolof word for hospitality, is a national value. Mbalax music, made famous by Youssou N'Dour, and laamb wrestling, with stars as famous as footballers, are national passions. Dakar hosts the Biennale of contemporary African art.
+  society: >-
+    Senegal has never had a coup and has seen three peaceful transfers of power. Oil and gas production began in 2024. Fishing communities have been hit by foreign trawlers, and many young people attempt the dangerous Atlantic crossing to the Canary Islands. Wolof is the everyday language, French the official one.
+
+SYC:
+  pop: 0.13
+  religion: Catholic about 76%, Anglican and other Christian
+  system: presidential
+  snapshot: >-
+    Africa's richest country per head, a 115-island tourism state where Patrick Herminie's United Seychelles returned to power in October 2025.
+  tags: [Island tourism, Highest income per head in Africa, Marine conservation, Creole culture]
+  culture: >-
+    Seychellois Creole, based on French, is the main language. The islands were uninhabited until French settlers and enslaved Africans arrived in the 18th century, followed by Indian and Chinese traders. Moutya, a drum dance once performed by enslaved people at night, is UNESCO-listed. Fish curry and octopus dishes dominate the table.
+  society: >-
+    Tourism and tuna fishing drive the economy, and Seychelles has pioneered "blue bonds" to fund ocean conservation. Rising heroin use has become a serious public health problem. Rising seas and coral bleaching threaten the islands' beaches and reefs.
+  baseline: >-
+    Patrick Herminie, leader of United Seychelles, the party that ruled from 1977 to 2020, defeated President Wavel Ramkalawan in an October 2025 runoff. It was the second peaceful change of power in five years.
+  leaders: {state: "President Patrick Herminie, since October 2025", gov: "The president heads the government"}
+
+SLE:
+  pop: 8.8
+  religion: Muslim about 77%, Christian about 22%
+  system: presidential
+  snapshot: >-
+    A country rebuilt after a brutal civil war, now led by Julius Maada Bio, whose disputed 2023 re-election brought sanctions threats and a coup attempt.
+  tags: [Post-war recovery, Diamonds and iron ore, Krio culture, Religious tolerance]
+  culture: >-
+    Freetown was founded by freed slaves from Britain, Nova Scotia and the Caribbean, and their descendants' Krio language is the lingua franca. Sierra Leone is known for religious tolerance: interfaith marriages are common and families often celebrate both Eid and Christmas. Its music scene mixes Afropop with Krio lyrics.
+  society: >-
+    The 1991 to 2002 civil war, fuelled by "blood diamonds" and notorious for amputations, killed some 50,000 people. Ebola killed nearly 4,000 in 2014 to 2015. Mining of iron ore, diamonds and rutile is key. A synthetic drug called kush has become a public health emergency among young people.
+  baseline: >-
+    Bio won a second term in 2023 with just over 56 percent in an election international observers criticised. A failed coup attempt followed in November 2023. In 2025 Bio became chair of ECOWAS, as the West African bloc tried to cope with the departure of the military-ruled Sahel states.
+  leaders: {state: "President Julius Maada Bio, since 2018", gov: "Chief Minister David Moinina Sengeh"}
+
+SOM:
+  pop: 19.7
+  religion: Sunni Islam, nearly 100%
+  system: parliamentary
+  system_note: A federal system under a provisional constitution, with the president's mandate disputed.
+  story: unrest
+  snapshot: >-
+    Parliament extended the president's term by a year to push through one-person-one-vote elections; the opposition and powerful federal states call his mandate expired.
+  tags: [Al-Shabaab insurgency, Clan politics, Disputed mandate, Somaliland question]
+  culture: >-
+    Somalis are often called a nation of poets: oral poetry has long carried news, politics and love, and a good poet can sway clan elders. Somali is spoken by nearly everyone, giving the country unusual ethnic and linguistic unity despite deep clan divisions. Camel herding, tea and an enormous diaspora in Minneapolis, London and Nairobi tie the culture together.
+  society: >-
+    The state collapsed in 1991, and the federal government still controls only parts of the south and centre, fighting al-Shabaab, which runs its own courts and taxes. Somaliland in the north has run itself since 1991 and seeks recognition. Remittances and mobile money keep the economy going, and droughts are frequent and deadly.
+
+ZAF:
+  pop: 64.7
+  religion: Christian about 80%, traditional faiths, Muslim and Hindu minorities
+  system: parliamentary
+  system_note: Parliament elects the president, who leads the government.
+  story: election
+  snapshot: >-
+    The ANC-DA coalition faces its first big ballot test in the 4 November municipal elections, as voters weigh broken city services against national stability.
+  tags: [Coalition government, Rainbow nation, Deep inequality, Mining economy, Rugby world champions]
+  culture: >-
+    South Africa has 12 official languages, including Zulu, Xhosa, Afrikaans and sign language. Amapiano, the log-drum house music from the townships, has become a global genre, and kwaito, gqom and choral traditions thrive. The Springboks, back-to-back rugby world champions in 2019 and 2023, unite fans across racial lines in a way few institutions do.
+  society: >-
+    Three decades after apartheid, South Africa remains one of the world's most unequal countries, with unemployment above 30 percent. Eskom's rolling blackouts eased in 2024 but water failures are growing. Violent crime is high. It is Africa's most industrialised economy, with world-class banks and mines and deep townships.
+
+SSD:
+  pop: 12.2
+  religion: Christian about 60%, traditional faiths, Muslim minority
+  system: presidential
+  system_note: A transitional government under the 2018 peace deal.
+  story: war
+  snapshot: >-
+    The world's youngest country is sliding back toward civil war, with First Vice President Riek Machar on trial and elections set for December 2026 widely doubted.
+  tags: [World's youngest country, Peace deal fraying, Oil exports, Cattle culture]
+  culture: >-
+    South Sudan has more than 60 ethnic groups, the largest being the Dinka and Nuer, whose cattle-herding cultures place cows at the centre of wealth, marriage and poetry. Young men compose songs for their favourite oxen. Juba Arabic is the street language, English the official one.
+  society: >-
+    South Sudan split from Sudan in 2011, and a civil war between forces loyal to Kiir and Machar killed some 400,000 people from 2013 to 2018. Oil is almost the only export, and it flows through a pipeline across war-torn Sudan. Most of the population needs humanitarian aid, and floods and refugees from Sudan add to the strain.
+
+SDN:
+  pop: 51.7
+  religion: Sunni Islam about 90%, Christian minority
+  system: contested
+  system_note: An army-led government at war with the RSF.
+  story: war
+  snapshot: >-
+    The war between the army and the RSF, now in its fourth year, has caused the world's largest humanitarian crisis and effectively split the country in two.
+  tags: [World's largest displacement crisis, Army vs RSF, Darfur atrocities, Famine]
+  culture: >-
+    Sudan was home to the kingdoms of Kush and Meroë, whose pyramids outnumber Egypt's. Sudanese music, from the songs of Mohammed Wardi to the haqiba style, is loved across the Horn of Africa. Sufi dervishes still whirl in Omdurman on Friday afternoons. Arabic is the main language, alongside dozens of others in Darfur, Kordofan and the east.
+  society: >-
+    More than 12 million people have been displaced by the war that began in April 2023, and famine has been confirmed in several areas. The RSF has been accused of genocide against the Masalit and other non-Arab groups in Darfur. Gold, much of it smuggled to the UAE, finances both sides. Khartoum was heavily destroyed before the army retook it.
+
+TZA:
+  pop: 70.5
+  religion: Christian about 63%, Muslim about 34%
+  system: presidential
+  system_note: Dominated by CCM since independence.
+  story: unrest
+  snapshot: >-
+    After a 2025 election with the main opposition barred and hundreds reported killed in protests, Samia Suluhu Hassan's government faces its worst crisis of legitimacy.
+  tags: [CCM rule since independence, Disputed election, Kilimanjaro and Serengeti, Swahili heartland]
+  culture: >-
+    Swahili, the lingua franca of East Africa, is Tanzania's national language and a key part of the country's identity; founding president Julius Nyerere promoted it to unite more than 120 ethnic groups. Zanzibar's Stone Town, a centre of the old Indian Ocean trade, blends African, Arab and Indian culture. Bongo Flava is the country's hip-hop and pop.
+  society: >-
+    Tanzania has long been among Africa's most peaceful countries. Tourism to Kilimanjaro, the Serengeti and Zanzibar, plus gold and farming, drive growth. Maasai communities have been evicted from Ngorongoro to make way for conservation and hunting, drawing international criticism.
+
+TGO:
+  pop: 9.7
+  religion: Christian about 45%, Muslim about 20%, traditional faiths
+  system: parliamentary
+  system_note: A 2024 constitution moved power to a President of the Council, a post with no term limits.
+  snapshot: >-
+    Faure Gnassingbé, whose family has ruled since 1967, switched to a parliamentary system that lets him stay in charge indefinitely as President of the Council.
+  tags: [Gnassingbé dynasty, Port of Lomé, Vodun traditions, Jihadist threat in the north]
+  culture: >-
+    Togo shares Vodun traditions with neighbouring Benin, and Lomé's Akodessewa fetish market sells ingredients for traditional healing. The Ewe in the south and the Kabye in the north are the largest groups. Togolese footballer Emmanuel Adebayor became a national icon. French is official, with Ewe and Kabye taught in schools.
+  society: >-
+    The deep-water port of Lomé is one of West Africa's busiest and a hub for landlocked Sahel countries. Phosphates and cotton are key exports. The Gnassingbé family has held power for nearly six decades. Jihadist attacks have reached the northern Savanes region.
+  baseline: >-
+    A new constitution adopted in 2024 made the president largely ceremonial and created the post of President of the Council of Ministers, chosen by the majority party. Gnassingbé took that post in May 2025. Protests in June 2025 against the change and against rising prices were met with force.
+  leaders: {state: "President of the Council Faure Gnassingbé, in power since 2005", gov: "Ceremonial President Jean-Lucien Savi de Tové"}
+
+TUN:
+  pop: 12.3
+  religion: Sunni Islam, about 99%
+  system: presidential
+  snapshot: >-
+    The birthplace of the Arab Spring has slid back into one-man rule under Kais Saied, who dissolved parliament in 2021 and jailed many of his critics.
+  tags: [Arab Spring origin, One-man rule, Migration route, Tourism]
+  culture: >-
+    Tunisia was home to Carthage, and its Roman ruins, the holy city of Kairouan and the whitewashed village of Sidi Bou Said draw visitors. Its personal status code of 1956 gave women more rights than anywhere else in the Arab world. Malouf music, inherited from Andalusia, and a lively cinema and theatre scene thrive. Couscous and harissa are central to the table.
+  society: >-
+    Tunisia's 2011 revolution toppled Zine El Abidine Ben Ali and began the Arab Spring. Economic stagnation, high youth unemployment and shortages of basic goods have followed. Sfax is a key departure point for migrants to Italy, and Saied's remarks about sub-Saharan migrants in 2023 set off attacks against them.
+  baseline: >-
+    Kais Saied, a law professor elected in 2019, suspended parliament in 2021 and rewrote the constitution to give himself sweeping power. He won a second term in October 2024 with 91 percent after rivals were jailed or disqualified. Opposition leaders, journalists and lawyers have received long prison sentences.
+  leaders: {state: "President Kais Saied, since 2019", gov: "Prime Minister Sara Zaafrani Zenzri, since March 2025"}
+
+UGA:
+  pop: 51.4
+  religion: Christian about 84%, Muslim about 14%
+  system: presidential
+  story: election
+  snapshot: >-
+    Yoweri Museveni, in power since 1986, won a seventh term in January 2026 against Bobi Wine, with his son and army chief positioned as heir.
+  tags: [Museveni since 1986, Very young population, Oil coming, Refugee host]
+  culture: >-
+    Uganda is home to the Buganda kingdom, whose kabaka still commands loyalty, and dozens of other peoples. Luganda, English and Swahili are widely spoken. Its vibrant music scene produced political stars like Bobi Wine, the "ghetto president". The source of the Nile at Jinja and mountain gorillas in Bwindi draw tourists.
+  society: >-
+    Uganda has one of the world's youngest populations; most people were born after Museveni took power. It hosts more than 1.7 million refugees, mostly from South Sudan and Congo, with a progressive policy that lets them farm and work. Oil production around Lake Albert, with an export pipeline to Tanzania, is due to start. A 2023 anti-homosexuality law brought sanctions.
+
+ZMB:
+  pop: 21.9
+  religion: Christian about 95%
+  system: presidential
+  story: election
+  snapshot: >-
+    Hakainde Hichilema won a second term in August 2026 with about 61 percent, a reward for steering Zambia out of default and toward a copper boom.
+  tags: [Copper economy, Peaceful elections, Debt restructuring, Victoria Falls]
+  culture: >-
+    Zambia's slogan "One Zambia, One Nation" reflects a deliberate effort to unite more than 70 ethnic groups. Kalindula and Zamrock, the psychedelic rock of the 1970s copper boom, are rediscovered abroad. Traditional ceremonies like the Kuomboka, when the Lozi king moves by royal barge to higher ground as the Zambezi floods, are national events.
+  society: >-
+    Copper makes up most exports, and Zambia aims to triple output. It defaulted on its debt in 2020 and became a test case for restructuring with China. A 2024 drought cut hydropower from Kariba and caused long power cuts. Power has changed hands peacefully at the ballot box three times.
+
+ZWE:
+  pop: 16.9
+  religion: Christian about 85%, traditional faiths
+  system: presidential
+  snapshot: >-
+    Emmerson Mnangagwa signed a constitutional change in 2026 keeping him in office until 2030, two years beyond his term, as ZANU-PF eyes even longer.
+  tags: [ZANU-PF rule, Term extension, Mineral wealth, Currency troubles, Great Zimbabwe]
+  culture: >-
+    The stone city of Great Zimbabwe, built from the 11th century, gave the country its name. Shona and Ndebele are the largest languages, and mbira music, played on a thumb piano at spiritual ceremonies, is central to Shona culture. Chimurenga music, voiced by Thomas Mapfumo, carried the liberation struggle and later criticism of the government.
+  society: >-
+    Zimbabwe has rich deposits of lithium, platinum and gold, but hyperinflation, currency collapses and land seizures have devastated the economy since 2000. Millions have emigrated, mostly to South Africa and Britain. A new gold-backed currency, the ZiG, launched in 2024. Opposition activists face arrest.
+  baseline: >-
+    Mnangagwa took over after the 2017 military coup against Robert Mugabe. ZANU-PF pushed through a bill in mid-2026 to extend presidential and parliamentary terms, keeping him in office until 2030, despite objections that the constitution requires a referendum for such a change. Some in the party have since floated keeping him until 2037. War veterans and Vice President Constantino Chiwenga's allies have opposed the move.
+  leaders: {state: "President Emmerson Mnangagwa, since 2017", gov: "The president heads the government"}

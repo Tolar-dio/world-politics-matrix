@@ -123,7 +123,7 @@
   function capColor(f) {
     const id = f.properties.id;
     const e = id && byId.get(id);
-    if (id && id === state.selected) return cssVar('--brass');
+    if (id && id === state.selected) return isDark() ? '#F3EBDA' : '#1F2A33';
     const base = lensColor(e);
     if (id && id === state.hovered) return mix(base, '#1F2A33', 0.18);
     return base;
@@ -139,7 +139,7 @@
 
   function refreshPolygons() {
     if (!world) return;
-    world.polygonCapColor(capColor).polygonAltitude(altitude);
+    world.polygonCapColor(capColor).polygonAltitude(altitude).polygonSideColor(world.polygonSideColor());
     document.querySelectorAll('.micro').forEach((el) => {
       const e = byId.get(el.dataset.id);
       el.style.background = lensColor(e);
@@ -152,7 +152,7 @@
     world
       .globeImageUrl(oceanTexture())
       .atmosphereColor(isDark() ? '#4f7690' : '#ffffff')
-      .polygonSideColor(() => (isDark() ? 'rgba(10,16,20,0.55)' : 'rgba(31,42,51,0.28)'))
+      .polygonSideColor((f) => (f.properties.id && f.properties.id === state.selected ? cssVar('--brass') : (isDark() ? 'rgba(10,16,20,0.55)' : 'rgba(31,42,51,0.28)')))
       .polygonStrokeColor(() => (isDark() ? 'rgba(10,16,20,0.7)' : 'rgba(31,42,51,0.42)'));
     refreshPolygons();
     drawMeridian();
@@ -435,7 +435,7 @@
       holders = `<div class="holders"><p>${b.holders}</p></div>`;
     } else if (d.leaders) {
       const L = d.leaders;
-      holders = `<div class="holders">${L.state ? `<p>${esc(L.state)}</p>` : ''}${L.gov && L.gov !== L.state ? `<p>${esc(L.gov)}</p>` : ''}<p class="caveat">Last checked before this year's events. Not yet verified for 2026.</p></div>`;
+      holders = `<div class="holders">${L.state ? `<p>${esc(L.state)}</p>` : ''}${L.gov && L.gov !== L.state ? `<p>${esc(L.gov)}</p>` : ''}<p class="caveat">Checked for this site, but this country has no full 2026 write-up yet, so recent changes may be missing.</p></div>`;
     }
 
     const sec = (title, inner, extra = '') => (inner ? `<section><h2>${title}</h2>${extra}${inner}</section>` : '');
@@ -443,7 +443,7 @@
 
     const coverage = b
       ? `<p class="coverage">Full 2026 write-up from Part ${b.part} of the series, current to ${esc(b.as_of)}.</p>`
-      : `<p class="coverage pending">No 2026 write-up yet. The background and leaders below were last checked before this year's events.</p>`;
+      : `<p class="coverage pending">No full 2026 write-up yet. The background below is a shorter sketch and may miss this year's latest turns.</p>`;
 
     const sources = b && b.sources && b.sources.length
       ? `<ol class="sources">${b.sources.map((s) => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a></li>`).join('')}</ol>`
@@ -474,7 +474,7 @@
         ${fact('Who holds power', holders, true)}
       </dl>
       ${d.tags && d.tags.length ? `<ul class="tags" aria-label="Descriptors">${d.tags.map((t) => `<li>${esc(t)}</li>`).join('')}</ul>` : ''}
-      ${b ? sec('2026', paras(b.story)) : sec('Background', paras(d.baseline), '<p class="lead-in">Written before this year\'s events.</p>')}
+      ${b ? sec('2026', paras(b.story)) : sec('Background', paras(d.baseline), '<p class="lead-in">A short sketch until this country gets its 2026 write-up.</p>')}
       ${b && b.power ? sec('How power works', `<p class="power">${b.power}</p>`) : ''}
       ${sec('Culture', paras(d.culture))}
       ${sec('Society', paras(d.society))}

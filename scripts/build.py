@@ -270,12 +270,12 @@ def fmt_pop(millions) -> str | None:
     if millions is None:
         return None
     if millions >= 1000:
-        return f"{millions / 1000:.2f} billion"
+        return f"About {millions / 1000:.2f} billion"
     if millions >= 10:
-        return f"{millions:.0f} million"
+        return f"About {millions:.0f} million"
     if millions >= 1:
-        return f"{millions:.1f} million"
-    return f"{round(millions * 1000):,} thousand" if millions * 1000 >= 10 else f"{round(millions * 1e6):,}"
+        return f"About {millions:.1f} million"
+    return f"About {round(millions * 1000):,} thousand" if millions * 1000 >= 10 else f"About {round(millions * 1e6):,}"
 
 
 def paras(text: str | None) -> list[str]:
@@ -384,6 +384,7 @@ def main() -> None:
             "id": tid, "name": base[tid]["name"] if tid in base else t["name"],
             "flag": base[tid]["flag"] if tid in base else "", "region": base[tid]["region"] if tid in base else None,
             "kind": "territory", "sovereign": sov, "note": note, "tiny": False,
+            "area": round((base.get(tid) or {}).get("area") or 0),
             "lat": (base.get(tid) or {}).get("latlng", [0, 0])[0],
             "lng": (base.get(tid) or {}).get("latlng", [0, 0])[1],
         })

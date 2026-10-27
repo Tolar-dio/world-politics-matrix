@@ -1,0 +1,206 @@
+# Culture, society and fact profiles: Oceania
+
+AUS:
+  pop: 27.5
+  religion: Christian about 44%, no religion about 39%
+  system: const-monarchy
+  story: steady
+  snapshot: >-
+    Pauline Hanson's One Nation overtook the Liberals in the polls in 2026, cracking Australia's two-party system even as Labor kept its lead head to head.
+  tags: [One Nation surge, Mining and China trade, AUKUS, Compulsory voting, Multicultural]
+  culture: >-
+    Aboriginal and Torres Strait Islander peoples have the world's oldest continuous cultures, stretching back more than 60,000 years. Modern Australia is highly multicultural, with nearly a third of residents born overseas. Beach life, barbecues, Aussie rules football, cricket and rugby league are national pastimes. Larrikin humour and egalitarian "mateship" are prized.
+  society: >-
+    Iron ore, coal and gas exports, much of them to China, power the economy, which avoided recession for nearly three decades. Housing has become among the world's least affordable. A 2023 referendum to create an Indigenous Voice to Parliament was defeated. The AUKUS pact will give Australia nuclear-powered submarines.
+
+FJI:
+  pop: 0.93
+  religion: Christian about 64%, Hindu about 28%, Muslim about 6%
+  system: parliamentary
+  story: unrest
+  snapshot: >-
+    Two deputy prime ministers were charged by the anti-corruption agency in 2026, shaking former coup leader Sitiveni Rabuka's coalition ahead of the next election.
+  tags: [Former coup leader, Indigenous and Indo-Fijian, Rugby sevens, Tourism]
+  culture: >-
+    Fiji's iTaukei Indigenous majority and Indo-Fijian community, descended from indentured sugar workers, each keep distinct traditions, from kava ceremonies to Diwali. Rugby sevens is a national obsession; Fiji's Olympic golds in 2016 and 2020 were the country's first medals. Village life, chiefly systems and church on Sunday shape society.
+  society: >-
+    Tourism and sugar drive the economy. Tensions between iTaukei and Indo-Fijians led to four coups between 1987 and 2006, the first led by Rabuka himself. Climate change has forced several villages to relocate. Drug trafficking through the Pacific has fuelled a surge in methamphetamine use and HIV.
+
+KIR:
+  pop: 0.13
+  religion: Catholic about 58%, Protestant about 21%
+  system: presidential
+  snapshot: >-
+    Atolls spread across an ocean area the size of India, among the most exposed to rising seas, governed by Taneti Maamau, who switched recognition from Taiwan to China.
+  tags: [Rising seas, Vast ocean territory, China ally, Fishing licences]
+  culture: >-
+    Kiribati spans three island groups and is the only country in all four hemispheres. The maneaba, a large meeting house, is the centre of village life and decision-making. Traditional dance, imitating frigate birds, is central to celebrations. Kiribati is among the first places to see each new day.
+  society: >-
+    Most land is barely two metres above sea level, and saltwater intrusion threatens drinking water and crops. Fishing licences for its huge ocean zone provide most government revenue. Tarawa is very crowded. Some citizens migrate to New Zealand under special visa programmes.
+  baseline: >-
+    Taneti Maamau won a third term in 2024. He switched recognition from Taiwan to China in 2019, and China has funded infrastructure and police cooperation. A plan to restart a WWII-era airstrip on Kanton Island with Chinese help has worried the US and Australia.
+  leaders: {state: "President Taneti Maamau, since 2016", gov: "The president heads the government"}
+
+MHL:
+  pop: 0.04
+  religion: Protestant about 80%, Catholic about 8%
+  system: parliamentary
+  system_note: The president is elected by parliament.
+  snapshot: >-
+    A US-allied atoll nation still living with the legacy of 67 American nuclear tests, which renewed its compact with Washington in 2024.
+  tags: [Nuclear test legacy, Compact with the US, Taiwan ally, Rising seas]
+  culture: >-
+    Marshallese navigators used stick charts made of palm ribs and shells to map ocean swells, a famous piece of traditional knowledge. Clan and land rights pass through the mother's line. Church, singing and family gatherings are central to life.
+  society: >-
+    The US tested 67 nuclear weapons at Bikini and Enewetak between 1946 and 1958, and radioactive waste remains in a leaking dome on Runit Island. Under a Compact of Free Association, the US provides aid and defence, and Marshallese can live and work in America; a large community lives in Arkansas. Rising seas threaten Majuro.
+  baseline: >-
+    Hilda Heine was elected president again by parliament in January 2024. The Marshall Islands recognises Taiwan, and its renewed US compact secured new funding over 20 years.
+  leaders: {state: "President Hilda Heine, since January 2024", gov: "The president heads the government"}
+
+FSM:
+  pop: 0.11
+  religion: Catholic about 55%, Protestant about 41%
+  system: parliamentary
+  system_note: The president is chosen by Congress.
+  snapshot: >-
+    A federation of four island states spread across the western Pacific, tied to the US by a renewed compact and courted by China.
+  tags: [Compact with the US, Four island states, Stone money, Ocean territory]
+  culture: >-
+    Each of the four states, Yap, Chuuk, Pohnpei and Kosrae, has its own language and traditions. Yap is famous for rai, giant stone discs used as money and still exchanged in ceremonies. Pohnpei holds Nan Madol, a city of basalt islets built from the 12th century, often called the Venice of the Pacific.
+  society: >-
+    The economy depends on US compact funding, fishing licences and subsistence farming. Many citizens have moved to Guam, Hawaii and the US mainland. Chuuk has held votes on independence from the federation. Climate change threatens low-lying atolls.
+  baseline: >-
+    Wesley Simina was chosen president by Congress in 2023. The Federated States of Micronesia renewed its Compact of Free Association with the US in 2024.
+  leaders: {state: "President Wesley Simina, since 2023", gov: "The president heads the government"}
+
+NRU:
+  pop: 0.012
+  religion: Protestant about 60%, Catholic about 33%
+  system: parliamentary
+  system_note: The president is elected by parliament.
+  snapshot: >-
+    The world's smallest republic, a single island stripped by phosphate mining, which hosts Australia's offshore asylum processing and now sells citizenship to fund climate plans.
+  tags: [Smallest republic, Phosphate legacy, Offshore asylum centre, China ally]
+  culture: >-
+    Nauru's 12 clans and Nauruan language anchor identity. Fishing for frigate birds and noddies was a traditional pastime. Australian rules football is the national sport. The island is only 21 square kilometres.
+  society: >-
+    Phosphate mining made Nauru briefly one of the richest countries per head in the 1970s, but left most of the island a moonscape, and the money was lost to bad investments. Australia's regional processing centre for asylum seekers is a major source of income. Obesity and diabetes rates are among the world's highest.
+  baseline: >-
+    David Adeang was elected president in 2023. Nauru switched recognition from Taiwan to China in January 2024 and signed a security and banking treaty with Australia in 2024 that gives Canberra a say over its security deals.
+  leaders: {state: "President David Adeang, since 2023", gov: "The president heads the government"}
+
+NZL:
+  pop: 5.3
+  religion: No religion about 52%, Christian about 32%
+  system: const-monarchy
+  story: election
+  snapshot: >-
+    Christopher Luxon's centre-right coalition faces voters on 7 November 2026, after a term of spending cuts and fights over the Treaty of Waitangi.
+  tags: [Election in November, Māori politics, Farming exports, All Blacks]
+  culture: >-
+    Māori culture is central to national identity: the haka, performed by the All Blacks before matches, te reo Māori, now widely used in public life, and marae, community meeting grounds. Rugby is a national passion. The landscapes that starred in "The Lord of the Rings" drive tourism.
+  society: >-
+    Dairy, meat and wine exports and tourism drive the economy. The Treaty of Waitangi, signed in 1840 between the Crown and Māori chiefs, shapes law and politics; a 2024 bill to redefine it sparked a huge hīkoi protest march. Housing is expensive, and many young people move to Australia.
+
+PLW:
+  pop: 0.018
+  religion: Catholic about 45%, Protestant about 35%, Modekngei
+  system: presidential
+  snapshot: >-
+    A small, US-aligned island nation that recognises Taiwan and has offered to host more US military facilities.
+  tags: [Taiwan ally, US security partner, Marine sanctuary, Rock Islands]
+  culture: >-
+    Palau's Rock Islands, a UNESCO site, and Jellyfish Lake draw divers worldwide. Society is matrilineal, with women's councils holding traditional authority over land and titles. Visitors must sign the "Palau Pledge" in their passport, promising to protect the environment.
+  society: >-
+    Tourism and US compact funding underpin the economy. Palau created one of the world's largest marine sanctuaries. Chinese tourist numbers fell after Beijing discouraged travel, seen as pressure over Taiwan. The US is building a radar system on the islands.
+  baseline: >-
+    Surangel Whipps Jr. won re-election in November 2024. He has urged a stronger US military presence and agreed in 2025 to take some third-country migrants deported from the US.
+  leaders: {state: "President Surangel Whipps Jr., since 2021", gov: "The president heads the government"}
+
+PNG:
+  pop: 10.8
+  religion: Christian about 95%, often mixed with traditional belief
+  system: const-monarchy
+  story: steady
+  snapshot: >-
+    Bougainville's parliament set 1 September 2027 for independence, putting James Marape's government on the spot in a nation of more than 800 languages.
+  tags: [Bougainville independence, 800+ languages, Mining and LNG, Australia defence treaty]
+  culture: >-
+    Papua New Guinea has more than 800 languages, about a tenth of the world's total, and Tok Pisin, a creole, lets people communicate across them. Highland sing-sings, gatherings with elaborate feathers and face paint, showcase clan identity. Rugby league is a national obsession, and a PNG team is set to join Australia's NRL.
+  society: >-
+    Most people live in rural villages and rely on subsistence farming under customary land ownership. Gold, copper and LNG drive exports. Tribal violence in the highlands and crime in Port Moresby are serious problems. Bougainville voted 98 percent for independence in a 2019 non-binding referendum after a civil war in the 1990s.
+
+WSM:
+  pop: 0.22
+  religion: Christian about 98%
+  system: parliamentary
+  snapshot: >-
+    A proud Polynesian nation where La'auli Leuatea Schmidt's FAST party won a snap election in 2025 after splitting from the former prime minister.
+  tags: [Fa'a Samoa, Chiefly system, Remittances, Rugby]
+  culture: >-
+    Fa'a Samoa, the Samoan way, centres on the aiga, extended family, and matai, chiefs who hold family titles and land. Traditional tattoos, pe'a for men and malu for women, are a rite of passage. Church and choir singing are central on Sunday. Rugby players of Samoan heritage star around the world.
+  society: >-
+    Remittances from Samoans in New Zealand, Australia and the US are a large share of the economy. Only matai could stand for parliament until reforms, and they still dominate. A 2021 constitutional crisis saw the outgoing prime minister refuse to leave until courts intervened.
+  baseline: >-
+    La'auli Leuatea Schmidt, who split from Prime Minister Fiamē Naomi Mata'afa, led FAST to victory in an August 2025 snap election and became prime minister.
+  leaders: {state: "Head of State Tuimalealiʻifano Vaʻaletoʻa Sualauvi II", gov: "Prime Minister La'auli Leuatea Schmidt, since 2025"}
+
+SLB:
+  pop: 0.83
+  religion: Christian about 95%
+  system: const-monarchy
+  snapshot: >-
+    Parliament ousted Jeremiah Manele in a May 2026 no-confidence vote and chose opposition leader Matthew Wale, in a country courted by both China and Australia.
+  tags: [China security pact, Change of PM, Logging, WWII battlefield]
+  culture: >-
+    The Solomon Islands include nearly 1,000 islands and some 70 languages, with Solomon Pidgin as a common tongue. Shell money is still used for bride price in Malaita. Panpipe ensembles are a distinctive musical tradition. Guadalcanal was the scene of one of the Pacific War's fiercest battles.
+  society: >-
+    Logging, fishing and subsistence farming dominate, and forests are being cleared fast. Ethnic tensions between people from Malaita and Guadalcanal led to violence from 1998 to 2003 and an Australian-led intervention. A 2022 security pact with China alarmed Australia and the US.
+  baseline: >-
+    Manele, foreign minister under Manasseh Sogavare, became prime minister in 2024. After coalition splits, he lost a no-confidence vote on 7 May 2026 by 26 votes to 22, and parliament elected Matthew Wale as prime minister on 15 May.
+  leaders: {state: "King Charles III, represented by a governor-general", gov: "Prime Minister Matthew Wale, since May 2026"}
+
+TON:
+  pop: 0.10
+  religion: Christian about 98%
+  system: const-monarchy
+  snapshot: >-
+    The Pacific's only kingdom chose a noble, Lord Fakafānua, as prime minister after the November 2025 election.
+  tags: [Pacific's only kingdom, Nobles and commoners, Remittances, Volcano recovery]
+  culture: >-
+    Tonga was never formally colonised, and its monarchy dates back about a thousand years. Sunday is strictly observed: most commerce is banned by the constitution. Tapa cloth, made from mulberry bark, is central to ceremonies. Rugby and the sipi tau war dance are national pride.
+  society: >-
+    Remittances from Tongans abroad provide a large share of income. The 2022 Hunga Tonga eruption, the most powerful in a century, and tsunami cut the country off for weeks. Nine of parliament's seats are reserved for nobles. Debt to China for reconstruction loans is a concern.
+  baseline: >-
+    After the November 2025 election, the Legislative Assembly chose Lord Fakafānua, a noble and former speaker, as prime minister in December 2025, replacing ʻAisake Eke.
+  leaders: {state: "King Tupou VI, since 2012", gov: "Prime Minister Lord Fakafānua, since December 2025"}
+
+TUV:
+  pop: 0.0096
+  religion: Church of Tuvalu (Congregational) about 90%
+  system: const-monarchy
+  snapshot: >-
+    One of the countries most threatened by rising seas, which signed a treaty letting its citizens move to Australia and is building a digital copy of itself.
+  tags: [Rising seas, Climate migration treaty, Taiwan ally, Digital nation]
+  culture: >-
+    Tuvalu's nine low islands have close-knit communities organised around the falekaupule, a traditional assembly. Fatele, a dance with song and percussion on wooden boxes, marks celebrations. The country earns money from its ".tv" internet domain.
+  society: >-
+    Tuvalu's highest point is about 4.6 metres above sea level. The Falepili treaty with Australia, in force since 2024, offers a pathway for up to 280 Tuvaluans a year to move there, and thousands applied in the first ballot. Tuvalu is creating a digital twin of its islands and culture in case the land is lost.
+  baseline: >-
+    Feleti Teo became prime minister in 2024. Tuvalu remains one of the few countries to recognise Taiwan.
+  leaders: {state: "King Charles III, represented by a governor-general", gov: "Prime Minister Feleti Teo, since 2024"}
+
+VUT:
+  pop: 0.34
+  religion: Christian about 90%, kastom beliefs
+  system: parliamentary
+  snapshot: >-
+    A Pacific nation rebuilding from a deadly December 2024 earthquake, which won a landmark advisory opinion on climate obligations from the International Court of Justice in 2025.
+  tags: [Climate law champion, Earthquake recovery, 100+ languages, Land diving]
+  culture: >-
+    Vanuatu has more than 100 languages, with Bislama as the national lingua franca. On Pentecost Island, men leap from tall towers with vines tied to their ankles in the land-diving ritual that inspired bungee jumping. Kastom, traditional custom, governs land and chiefly life. Kava is drunk in nakamals each evening.
+  society: >-
+    Most people live from subsistence farming and fishing. Cyclones and earthquakes regularly strike. Vanuatu led the push for the ICJ's 2025 opinion that states have legal obligations to curb climate change. Its citizenship-by-investment programme lost EU visa-free access.
+  baseline: >-
+    After a snap election in January 2025, Jotham Napat became prime minister at the head of a coalition, ending a period of frequent no-confidence votes.
+  leaders: {state: "President Nikenike Vurobaravu", gov: "Prime Minister Jotham Napat, since February 2025"}

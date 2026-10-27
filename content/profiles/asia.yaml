@@ -1,0 +1,414 @@
+# Culture, society and fact profiles: Asia (South, East, South-East and Central)
+
+AFG:
+  pop: 43.8
+  religion: Sunni Islam about 85%, Shia about 15%
+  system: religious
+  system_note: An unrecognised Islamic emirate ruled by decree from Kandahar.
+  story: war
+  snapshot: >-
+    Pakistan bombed Kabul and Kandahar in 2026 and declared "open war" on the Taliban, accusing it of sheltering militants who attack Pakistani soldiers.
+  tags: [Taliban emirate, Ban on girls' education, War with Pakistan, Aid collapse]
+  culture: >-
+    Afghanistan sits at the crossroads of Persian, Central Asian and South Asian civilisations. Dari and Pashto are the main languages, and poetry, from Rumi, who was born in Balkh, to the landays sung by Pashtun women, is deeply loved. The Taliban have banned most music, destroyed instruments and restricted cricket and other sports for women, though men's cricket remains a national passion.
+  society: >-
+    Since retaking power in 2021, the Taliban have barred girls from school beyond sixth grade and women from universities, most jobs, parks and gyms, a system the UN calls gender apartheid. Foreign aid cuts in 2025 closed clinics, and millions of Afghans have been forced back from Iran and Pakistan. Opium poppy cultivation fell sharply after a Taliban ban.
+
+BGD:
+  pop: 175.7
+  religion: Sunni Islam about 91%, Hindu about 8%
+  system: parliamentary
+  story: election
+  snapshot: >-
+    The February 2026 election, the first since the student uprising that toppled Sheikh Hasina, gave Tarique Rahman's BNP a landslide and ended Muhammad Yunus's interim rule.
+  tags: [Post-uprising transition, Garment exports, Climate vulnerability, Very dense population]
+  culture: >-
+    Bangladesh was born from the Bengali language movement: on 21 February 1952 students died defending Bangla against Urdu, a day now marked worldwide as International Mother Language Day. Rabindranath Tagore wrote its national anthem. Pohela Boishakh, the Bengali new year, is a huge secular festival, and Dhaka's rickshaw art is a vivid folk tradition.
+  society: >-
+    Bangladesh is the world's second-largest garment exporter, and millions of women work in its factories. Microcredit and NGOs helped cut poverty sharply. It is one of the most densely populated countries on Earth and among the most exposed to floods, cyclones and sea-level rise. It hosts about a million Rohingya refugees from Myanmar.
+
+BTN:
+  pop: 0.80
+  religion: Vajrayana Buddhism about 75%, Hinduism about 23%
+  system: const-monarchy
+  snapshot: >-
+    The Himalayan kingdom of Gross National Happiness, now trying to stem an exodus of young people with a new mindfulness city on the Indian border.
+  tags: [Gross National Happiness, Carbon negative, Himalayan monarchy, Youth emigration]
+  culture: >-
+    Bhutan protects its Buddhist culture deliberately: national dress is required in offices, buildings follow traditional design, and tsechu festivals feature masked cham dances. Archery is the national sport. Dzongs, fortress-monasteries, serve as both religious and administrative centres. Television and the internet only arrived in 1999.
+  society: >-
+    Bhutan measures progress by Gross National Happiness and is one of the few carbon-negative countries, with most land under forest. Hydropower sold to India is the main export. A high-value, low-volume tourism policy charges visitors a daily fee. Many young Bhutanese have left for Australia, prompting the Gelephu Mindfulness City project.
+  baseline: >-
+    King Jigme Khesar Namgyel Wangchuck has reigned since 2006, after his father introduced democracy from above. Tshering Tobgay's People's Democratic Party won the 2024 election.
+  leaders: {state: "King Jigme Khesar Namgyel Wangchuck, since 2006", gov: "Prime Minister Tshering Tobgay, since 2024"}
+
+BRN:
+  pop: 0.47
+  religion: Sunni Islam about 80%, Buddhist and Christian minorities
+  system: exec-monarchy
+  snapshot: >-
+    A small, oil-rich sultanate on Borneo ruled by Sultan Hassanal Bolkiah, one of the world's longest-reigning monarchs, under a strict Islamic legal code.
+  tags: [Absolute monarchy, Oil and gas wealth, Sharia penal code, No income tax]
+  culture: >-
+    Brunei follows a state ideology called Melayu Islam Beraja, Malay Islamic Monarchy. The golden-domed Omar Ali Saifuddien Mosque and the water village of Kampong Ayer, where thousands live in houses on stilts, are national symbols. Alcohol is banned for Muslims and public celebration of Christmas is restricted.
+  society: >-
+    Oil and gas make up most exports and fund free healthcare, education and no personal income tax, giving Brunei one of the highest living standards in Asia. A sharia penal code phased in from 2014 includes severe punishments, though Brunei has a moratorium on the death penalty.
+  baseline: >-
+    Sultan Hassanal Bolkiah has reigned since 1967 and also serves as prime minister, defence minister, finance minister and foreign minister. His son, Crown Prince Al-Muhtadee Billah, is senior minister and heir.
+  leaders: {state: "Sultan Hassanal Bolkiah, since 1967", gov: "The sultan also serves as prime minister"}
+
+KHM:
+  pop: 17.8
+  religion: Theravada Buddhism about 97%
+  system: const-monarchy
+  system_note: In practice a one-party state run by the Hun family.
+  story: war
+  snapshot: >-
+    A cold peace followed the deadly 2025 border war with Thailand, while Cambodia's scam compounds, which hold trafficked workers, drew global crackdowns.
+  tags: [Hun dynasty, Angkor, Scam compounds, Thai border conflict]
+  culture: >-
+    Angkor Wat, the largest religious monument in the world, appears on the flag and anchors Khmer identity. Apsara dance, nearly wiped out under the Khmer Rouge, was rebuilt by surviving dancers. Water festivals and Pchum Ben, when families honour ancestors at pagodas, are central to the year. Cambodian rock of the 1960s is rediscovered by new generations.
+  society: >-
+    The Khmer Rouge killed about a quarter of the population between 1975 and 1979, and its legacy still shapes society. Garment exports, tourism and Chinese investment drive growth. Online scam compounds, many tied to Chinese crime groups and holding trafficked workers, became a major industry and a diplomatic liability. The opposition has been dissolved and critics jailed.
+
+CHN:
+  pop: 1416
+  religion: Mostly non-religious, with Buddhist, folk, Christian and Muslim minorities
+  system: one-party
+  story: unrest
+  snapshot: >-
+    Xi Jinping's purge reached the top of the army in 2026, when China's senior general was put under investigation, as Beijing bet its new five-year plan on chips and AI.
+  tags: [Xi's purge, Tech self-reliance, Taiwan pressure, US rivalry, Ageing society]
+  culture: >-
+    China's civilisation stretches back more than three millennia, and Confucian values of family, education and hierarchy still shape daily life. The Spring Festival triggers the world's largest annual migration. Mandarin is promoted nationwide, while Cantonese, Shanghainese and minority languages persist. Social media platforms like WeChat and Douyin are woven into everything from payment to dating.
+  society: >-
+    China lifted hundreds of millions out of poverty and became the world's manufacturing centre and leader in electric vehicles, solar panels and batteries. Its population is shrinking and ageing, youth unemployment is high, and a property crash has hit household wealth. Xinjiang's Uyghurs and Tibetans face mass surveillance and repression.
+
+IND:
+  pop: 1464
+  religion: Hindu about 80%, Muslim about 14%, Christian, Sikh, Buddhist and Jain minorities
+  system: parliamentary
+  story: election
+  snapshot: >-
+    Modi's BJP finally captured West Bengal in 2026, while a film star's new party broke Tamil Nadu's 50-year duopoly, redrawing India's federal map.
+  tags: [World's largest population, Hindu nationalism, Fast growth, Cricket, Bollywood]
+  culture: >-
+    India has 22 official languages and hundreds of others. Bollywood and the southern film industries in Tamil, Telugu and Malayalam reach billions, and cricket is close to a religion. Festivals like Diwali, Holi and Eid fill the calendar. Classical music and dance, yoga and a cuisine that changes every few hundred kilometres are global exports.
+  society: >-
+    India overtook China as the most populous country in 2023 and is the fastest-growing large economy, with a booming services and tech sector. Yet hundreds of millions still farm small plots, and female workforce participation is low. Caste still shapes marriage, politics and opportunity. Critics warn of pressure on Muslims, the press and the courts under the BJP.
+
+IDN:
+  pop: 285.7
+  religion: Sunni Islam about 87%, Christian about 10%, Hindu in Bali
+  system: presidential
+  story: unrest
+  snapshot: >-
+    Fuel price rises triggered by the Iran war brought students back onto the streets against Prabowo Subianto, whose free school meals programme has become a lightning rod.
+  tags: [World's largest Muslim population, Nickel boom, Archipelago of 17,000 islands, Ex-general president]
+  culture: >-
+    Indonesia's motto is "Unity in Diversity", for some 1,300 ethnic groups across 17,000 islands. Bahasa Indonesia, deliberately chosen as a neutral language, unites them. Javanese gamelan, wayang shadow puppetry and batik are UNESCO-listed, and Bali's Hindu culture draws millions of tourists. Badminton is a national passion.
+  society: >-
+    Indonesia is the world's largest Muslim-majority democracy and Southeast Asia's biggest economy. It dominates global nickel supply for electric car batteries after banning raw ore exports. Jakarta is sinking, and a new capital, Nusantara, is being built in Borneo. Deforestation for palm oil and mining remains a concern.
+
+JPN:
+  pop: 123.1
+  religion: Shinto and Buddhist practice widely shared, few formally religious
+  system: const-monarchy
+  story: election
+  snapshot: >-
+    Sanae Takaichi, Japan's first woman prime minister, won a two-thirds supermajority in a February 2026 snap election, the LDP's biggest win ever, on a hard line toward Beijing.
+  tags: [First woman PM, Ageing population, China tensions, Anime and manga, Tourism boom]
+  culture: >-
+    Japan blends deep tradition, from tea ceremony and Shinto shrines to the imperial line, the world's oldest monarchy, with global pop culture: anime, manga, video games and J-pop. Seasonal rituals like cherry blossom viewing are national events. Baseball and sumo are the top sports, and Shohei Ohtani is a national hero.
+  society: >-
+    Japan has the world's oldest population; nearly 30 percent are over 65, and the population is shrinking. A weak yen has fuelled record tourism. Long working hours, low birth rates and a gender gap in pay and leadership are persistent issues. Immigration is rising slowly, a politically sensitive change.
+
+KAZ:
+  pop: 20.8
+  religion: Sunni Islam about 70%, Orthodox Christian about 25%
+  system: presidential
+  story: election
+  snapshot: >-
+    A new constitution, rushed to a referendum in March 2026, replaced parliament with a single chamber and restored a vice president, while handing Tokayev new powers.
+  tags: [Oil and uranium, Steppe nomad heritage, Post-Nazarbayev era, Middle Corridor]
+  culture: >-
+    Kazakhstan is the world's largest landlocked country, and nomadic culture, horses, yurts and eagle hunting, is central to national identity. Kazakh is the state language, but Russian is widely spoken, especially in cities. Astana's futuristic skyline was built from scratch as a new capital in 1997. Nauryz, the spring new year, is the biggest holiday.
+  society: >-
+    Oil, gas and uranium have made Kazakhstan Central Asia's richest country; it is the world's biggest uranium producer. Deadly unrest in January 2022 ended Nursultan Nazarbayev's behind-the-scenes rule. The country balances between Russia, China and the West and has become a key route for trade bypassing Russia.
+
+KGZ:
+  pop: 7.3
+  religion: Sunni Islam about 90%, Orthodox Christian about 7%
+  system: presidential
+  snapshot: >-
+    Sadyr Japarov broke with his powerful security chief in 2026, and a court later convicted the former ally of plotting to seize power.
+  tags: [Japarov consolidation, Mountain nomad culture, Remittances, Re-export trade with Russia]
+  culture: >-
+    Kyrgyz identity rests on nomadic traditions and the Manas epic, one of the longest poems in the world, recited from memory by manaschi bards. The World Nomad Games, featuring horseback sports like kok-boru, a kind of polo with a goat carcass, have been hosted in Kyrgyzstan. Yurts still dot the summer pastures.
+  society: >-
+    Remittances from Kyrgyz workers in Russia are a large share of GDP. Trade with Russia has boomed, some of it re-exports of goods under Western sanctions. Kyrgyzstan was once Central Asia's most open political system, with three presidents toppled by protests, but has turned authoritarian since 2020.
+  baseline: >-
+    Sadyr Japarov rose to power after 2020 protests, then expanded presidential powers through a 2021 constitution. In February 2026 he dismissed Kamchybek Tashiev, the security chief seen as his partner and potential successor, after an open letter called for early elections; in July a court convicted Tashiev of attempting to seize power and gave him a suspended sentence. A presidential election is due in early 2027.
+  leaders: {state: "President Sadyr Japarov, since 2021", gov: "Chairman of the Cabinet Adylbek Kasymaliev"}
+
+LAO:
+  pop: 7.9
+  religion: Theravada Buddhism about 65%, animist and other
+  system: one-party
+  snapshot: >-
+    A one-party communist state heavily in debt to China, whose 2026 party congress and assembly vote kept the same leadership in place.
+  tags: [Communist state, Chinese debt, Mekong dams, Unexploded bombs]
+  culture: >-
+    Laos is deeply Buddhist; in Luang Prabang, saffron-robed monks collect alms at dawn. Sticky rice is eaten with the hands at almost every meal. The khaen, a bamboo mouth organ, is central to Lao music. Boun Pi Mai, the new year in April, is celebrated with water fights.
+  society: >-
+    The US dropped more bombs on Laos during the Vietnam War than on Germany and Japan in the Second World War, and unexploded ordnance still kills people. A Chinese-built railway opened in 2021, but debt to China is huge and inflation and currency collapse have hit households. Dams on the Mekong make Laos a power exporter.
+  baseline: >-
+    The ruling Lao People's Revolutionary Party held its 12th congress in January 2026, and the new National Assembly re-elected Thongloun Sisoulith as president in March, along with Prime Minister Sonexay Siphandone.
+  leaders: {state: "President Thongloun Sisoulith, also party general secretary", gov: "Prime Minister Sonexay Siphandone"}
+
+MYS:
+  pop: 36.0
+  religion: Sunni Islam about 64%, Buddhist about 19%, Christian about 9%, Hindu about 6%
+  system: const-monarchy
+  system_note: A federal monarchy whose king rotates among nine state rulers.
+  story: steady
+  snapshot: >-
+    Anwar Ibrahim's unity government faces corruption rows and ethnic tension ahead of an election due by early 2027.
+  tags: [Rotating monarchy, Multi-ethnic, Semiconductors, Palm oil]
+  culture: >-
+    Malaysia's Malay, Chinese and Indian communities each keep their own festivals, cuisines and languages, and "open house" visits during Hari Raya, Chinese New Year and Deepavali bring them together. Hawker food, from nasi lemak to char kway teow, is a shared passion. Its king is chosen every five years from nine hereditary sultans.
+  society: >-
+    Malaysia is a major hub for chip packaging and testing, and exports palm oil and gas. Policies favouring ethnic Malays, known as bumiputera, have shaped politics since 1971. The 1MDB scandal, in which billions were looted from a state fund, sent former prime minister Najib Razak to prison.
+
+MDV:
+  pop: 0.53
+  religion: Sunni Islam, nearly 100% (required for citizenship)
+  system: presidential
+  snapshot: >-
+    An Indian Ocean archipelago of luxury resorts and rising seas, led by Mohamed Muizzu, who has balanced between India and China while grappling with heavy debt.
+  tags: [Luxury tourism, Sea-level rise, India-China balancing, Debt stress]
+  culture: >-
+    The Maldives' 1,200 coral islands are spread over 26 atolls. Dhivehi, written in its own Thaana script, is the national language. Bodu beru drumming accompanies dance and song. Islam is central, and citizenship is reserved for Muslims.
+  society: >-
+    Tourism to private island resorts provides most income. Most land is less than a metre above sea level, making the country one of the most exposed to climate change. Debt, much of it to China and India, has raised default fears. A youthful population faces limited jobs outside tourism.
+  baseline: >-
+    Mohamed Muizzu won in 2023 on an "India Out" campaign and asked Indian military personnel to leave, then mended ties with New Delhi in 2024 amid a debt squeeze. His party won a supermajority in 2024 parliamentary elections, and media and judicial independence have come under pressure.
+  leaders: {state: "President Mohamed Muizzu, since 2023", gov: "The president heads the government"}
+
+MNG:
+  pop: 3.5
+  religion: Tibetan Buddhism about 50%, no religion about 40%, shamanism
+  system: semi-presidential
+  story: unrest
+  snapshot: >-
+    A ruling-party feud forced Prime Minister Zandanshatar out in March 2026, Mongolia's latest change of government in a democracy squeezed between Russia and China.
+  tags: [Democracy between giants, Mining economy, Nomadic heritage, Air pollution]
+  culture: >-
+    Genghis Khan is the founding hero of the nation. Around a quarter of Mongolians still live as herders, moving with their gers, felt tents, across the steppe. Naadam, the summer festival of wrestling, horse racing and archery, is the highlight of the year. Throat singing and the horsehead fiddle are UNESCO-listed.
+  society: >-
+    Mongolia's economy depends on coal and copper exports to China, especially from the giant Oyu Tolgoi mine. Half the population lives in Ulaanbaatar, where winter air pollution is among the world's worst. Harsh winters called dzud kill millions of livestock. Corruption scandals regularly bring down governments.
+
+MMR:
+  pop: 54.9
+  religion: Theravada Buddhism about 88%, Christian about 6%, Muslim about 4%
+  system: military
+  system_note: Coup leader Min Aung Hlaing became president after a junta-run election.
+  story: war
+  snapshot: >-
+    The junta held a widely dismissed election and made its leader president, but civil war goes on across much of the country five years after the coup.
+  tags: [Civil war, Post-coup junta, Rohingya crisis, Ethnic armed groups, Scam centres]
+  culture: >-
+    Myanmar is overwhelmingly Buddhist, and the golden Shwedagon Pagoda in Yangon and the temples of Bagan are national symbols. Thanaka, a pale bark paste worn on the face, is used by women and children for beauty and sun protection. More than 130 ethnic groups, including the Shan, Karen, Kachin and Rakhine, have their own languages and traditions.
+  society: >-
+    Since the 2021 coup, resistance forces and ethnic armies have taken large areas, and the military has responded with air strikes on villages. Millions are displaced, and a March 2025 earthquake killed thousands. In 2017 the army drove some 700,000 Rohingya Muslims into Bangladesh in what the UN called genocidal violence.
+
+NPL:
+  pop: 29.6
+  religion: Hindu about 81%, Buddhist about 8%, Muslim about 5%
+  system: parliamentary
+  story: election
+  snapshot: >-
+    Six months after Gen Z protests burned parliament, a party founded in 2022 won a landslide and made a 35-year-old former rapper prime minister.
+  tags: [Gen Z revolution, Himalayas, Remittance economy, Former Hindu monarchy]
+  culture: >-
+    Nepal is home to eight of the world's ten highest mountains, including Everest, and the Sherpa people are famed as climbers. Kathmandu valley's Hindu and Buddhist temples sit side by side, and the Kumari, a young girl worshipped as a living goddess, is a unique tradition. Dashain and Tihar are the biggest festivals. Lumbini is the birthplace of the Buddha.
+  society: >-
+    Nepal abolished its monarchy in 2008 after a Maoist insurgency. Remittances from millions working in the Gulf, Malaysia and India make up about a quarter of GDP. Old party leaders rotated in power for years, fuelling the anger that exploded in September 2025 after a social media ban.
+
+PRK:
+  pop: 26.6
+  religion: Officially atheist; the state cult of the Kim family dominates
+  system: one-party
+  story: steady
+  snapshot: >-
+    South Korean intelligence said in 2026 that Kim Jong Un's daughter had been designated his successor, as troops and shells sent to Russia brought the regime cash and combat experience.
+  tags: [Kim dynasty, Nuclear weapons, Russia alliance, Isolation]
+  culture: >-
+    North Korean culture is built around devotion to the Kim family; portraits of Kim Il Sung and Kim Jong Il hang in every home. Mass games, with tens of thousands of performers forming images in unison, display collective discipline. Foreign media, especially South Korean dramas, are banned, and possessing them can bring severe punishment.
+  society: >-
+    North Korea is one of the world's most closed and repressive states, with political prison camps holding tens of thousands. Chronic food shortages persist. Its nuclear and missile programmes have advanced despite sanctions. Thousands of soldiers fought for Russia in Kursk, and the alliance has brought oil, food and technology.
+
+PAK:
+  pop: 255
+  religion: Sunni Islam about 85%, Shia about 12%, Christian and Hindu minorities
+  system: parliamentary
+  system_note: The army is the dominant power behind the civilian government.
+  story: war
+  snapshot: >-
+    Pakistan brokered the US-Iran ceasefire and hosted the first direct talks in decades, while fighting its own war against the Taliban next door.
+  tags: [Army dominance, Iran mediator, War with Afghan Taliban, Imran Khan jailed, Cricket]
+  culture: >-
+    Pakistan's culture draws on Punjabi, Sindhi, Pashtun, Baloch and Mohajir traditions, with Urdu as the common language. Qawwali, the Sufi devotional music made famous by Nusrat Fateh Ali Khan, and Sufi shrines are central to popular Islam. Cricket is a national obsession; Imran Khan led the team to the 1992 World Cup. Truck art is a famous folk style.
+  society: >-
+    The army has ruled directly for decades at a time and shapes politics behind the scenes. The economy has survived repeated balance of payments crises with IMF help. Floods in 2022 submerged a third of the country. Insurgencies in Balochistan and Khyber Pakhtunkhwa claim many lives each year.
+
+PHL:
+  pop: 116
+  religion: Catholic about 79%, Muslim about 6%
+  system: presidential
+  story: unrest
+  snapshot: >-
+    Vice President Sara Duterte went on trial in the Senate after a second impeachment, while a flood-control kickback scandal brought mass protests against the whole political class.
+  tags: [Marcos vs Duterte, South China Sea, Remittances, Catholic majority]
+  culture: >-
+    The Philippines is Asia's largest Catholic country after 300 years of Spanish rule, followed by half a century of American rule, which left English and basketball as national passions. Karaoke is a social institution. Jeepneys, built from US Army jeeps, are a famous form of public transport. More than 170 languages are spoken, with Filipino and English official.
+  society: >-
+    Some ten million Filipinos work abroad, and their remittances support millions of families. Call centres and business process outsourcing employ more than a million. Former president Rodrigo Duterte's drug war killed thousands, and he has been held by the International Criminal Court in The Hague since 2025. Clashes with Chinese vessels in the South China Sea have pulled the country closer to the US.
+
+SGP:
+  pop: 5.9
+  religion: Buddhist about 31%, Christian about 19%, Muslim about 16%, Taoist and Hindu
+  system: parliamentary
+  story: shock
+  snapshot: >-
+    Singapore's government warned that Asia was "particularly exposed" as oil prices jumped more than 60 percent during the Iran war, rattling a city that runs on trade.
+  tags: [Trade hub, PAP rule since 1959, Multiracial policy, Hawker culture]
+  culture: >-
+    Singapore's Chinese, Malay, Indian and Eurasian communities live together under policies that mix public housing blocks by ethnicity. Hawker centres, where cheap stalls sell chicken rice and laksa, are on UNESCO's heritage list. Singlish, a creole of English, Malay, Hokkien and Tamil, is a beloved if officially discouraged badge of identity.
+  society: >-
+    Singapore is one of the world's richest places per head and a major port, refining and finance centre. More than 80 percent of residents live in government-built flats. The People's Action Party has ruled since 1959. Laws on public order and speech are strict, and the death penalty is used for drug trafficking.
+
+KOR:
+  pop: 51.7
+  religion: No religion about 50%, Protestant about 20%, Buddhist about 16%, Catholic about 11%
+  system: presidential
+  story: unrest
+  snapshot: >-
+    Courts sentenced former president Yoon Suk Yeol to life for his 2024 martial law attempt, then added 30 years for a plot to provoke North Korea.
+  tags: [Martial law aftermath, K-pop and K-drama, Chips and cars, Lowest birth rate]
+  culture: >-
+    The Korean Wave, from BTS and Blackpink to "Squid Game" and Oscar-winning "Parasite", has made South Korean culture a global force. Hangul, the alphabet invented in the 15th century, is celebrated with a national holiday. Chuseok and Lunar New Year bring family gatherings, and kimchi-making is a shared tradition.
+  society: >-
+    South Korea went from war-ravaged poverty to one of the world's richest economies, with Samsung, Hyundai and SK Hynix as global giants. It has the world's lowest birth rate, under 0.8 children per woman, and intense competition in schools and jobs. Its democracy, won through mass protest in 1987, survived the 2024 martial law crisis.
+
+LKA:
+  pop: 23.2
+  religion: Theravada Buddhism about 70%, Hindu about 12%, Muslim about 10%, Christian about 7%
+  system: semi-presidential
+  story: shock
+  snapshot: >-
+    Sri Lanka is rebuilding after Cyclone Ditwah, thought to be more destructive than the 2004 tsunami, without breaking the fragile recovery from its 2022 default.
+  tags: [Cyclone recovery, Post-default recovery, Leftist government, Tea and tourism]
+  culture: >-
+    Sri Lanka's Sinhalese Buddhist majority and Tamil Hindu minority have rich, distinct traditions. Kandy's Esala Perahera, a procession of elephants carrying the Buddha's tooth relic, is one of Asia's great festivals. Cricket is a passion, especially since the 1996 World Cup win. Rice and curry, hoppers and Ceylon tea are daily staples.
+  society: >-
+    A 26-year civil war with Tamil Tiger separatists ended in 2009 with mass civilian deaths. In 2022 an economic collapse and shortages brought down President Gotabaya Rajapaksa. Anura Kumara Dissanayake's leftist National People's Power won the presidency and a large parliamentary majority in 2024, promising to end corruption.
+
+TWN:
+  pop: 23.3
+  religion: Buddhist and Taoist folk religion about 70%, Christian about 5%
+  system: semi-presidential
+  story: unrest
+  snapshot: >-
+    An opposition-run legislature held up Taiwan's budget and weapons purchases for months under Chinese blockade drills, before Lai proposed a record defence budget.
+  tags: [China pressure, Chip superpower, Divided government, Vibrant democracy]
+  culture: >-
+    Taiwan's culture blends Hoklo, Hakka, mainland Chinese and Indigenous Austronesian heritage. Night markets, bubble tea and temple festivals like the Mazu pilgrimage draw huge crowds. Taiwan was the first place in Asia to legalise same-sex marriage, in 2019. A distinct Taiwanese identity has grown, especially among the young.
+  society: >-
+    Taiwan makes most of the world's most advanced chips, led by TSMC, which has made it central to the global economy and to US-China rivalry. It went from martial law to full democracy in the 1990s. Beijing claims the island and stages large military drills around it. Conscription was extended to a year in 2024.
+
+TJK:
+  pop: 10.8
+  religion: Sunni Islam about 95%
+  system: presidential
+  snapshot: >-
+    Ruled since 1992 by Emomali Rahmon, who appears to be preparing his son to succeed him, in a remittance economy on the Afghan border.
+  tags: [Rahmon dynasty, Remittances from Russia, Pamir mountains, Afghan border]
+  culture: >-
+    Tajiks speak a form of Persian, unlike their Turkic neighbours, and claim the Samanid dynasty and poets like Rudaki as their heritage. Navruz, the Persian new year, is the biggest holiday. The Pamir mountains and the Wakhan corridor are home to Ismaili Muslim communities with their own languages.
+  society: >-
+    Tajikistan is Central Asia's poorest country, and remittances from migrant workers in Russia equal around a third of GDP. A 1992 to 1997 civil war killed tens of thousands. The government has banned the hijab and restricted religious practice. The Rogun dam, when complete, will be the world's tallest.
+  baseline: >-
+    Emomali Rahmon has ruled since 1992; a 2016 referendum lifted term limits for him and lowered the minimum age for presidents, opening the way for his son Rustam Emomali, now speaker of the upper house. Opposition parties have been banned and critics jailed, even abroad.
+  leaders: {state: "President Emomali Rahmon, since 1992", gov: "Prime Minister Kokhir Rasulzoda"}
+
+THA:
+  pop: 71.6
+  religion: Theravada Buddhism about 93%, Muslim about 5%
+  system: const-monarchy
+  story: election
+  snapshot: >-
+    Anutin Charnvirakul rode nationalist anger over the border war with Cambodia to a landslide in a snap election in early 2026.
+  tags: [Monarchy and military, Border war with Cambodia, Tourism, Court interventions]
+  culture: >-
+    Thailand was never colonised, and the monarchy is revered and protected by strict lese-majeste laws. Buddhism shapes daily life, and most young men spend time as monks. Thai food, Muay Thai boxing and Songkran, the April water festival, are global exports. Thai TV dramas and "boys' love" series have big audiences across Asia.
+  society: >-
+    Thailand is a manufacturing and tourism powerhouse, but growth has been sluggish and household debt is high. Since 2006, the army and courts have repeatedly removed elected governments, many linked to Thaksin Shinawatra. Insurgents in the Muslim-majority far south have fought the state for two decades.
+
+TLS:
+  pop: 1.4
+  religion: Catholic about 97%
+  system: semi-presidential
+  snapshot: >-
+    One of Asia's freest democracies, which became ASEAN's 11th member in 2025 but depends on a dwindling oil fund.
+  tags: [ASEAN's newest member, Independence heroes, Oil fund, Very young population]
+  culture: >-
+    Timor-Leste is overwhelmingly Catholic after Portuguese rule and the church's role in the resistance to Indonesian occupation. Tetum and Portuguese are official. Woven tais textiles and sacred houses, uma lulik, are central to clan identity. Independence leaders Xanana Gusmão and José Ramos-Horta still dominate politics.
+  society: >-
+    Indonesia's occupation from 1975 to 1999 killed as many as a quarter of the population. Oil and gas revenue, saved in a sovereign fund, pays for most of the budget, but fields are running dry. Unemployment is high among a very young population. It ranks among Asia's leaders on press freedom.
+  baseline: >-
+    Xanana Gusmão returned as prime minister after his party won the 2023 election. José Ramos-Horta, a Nobel Peace laureate, has been president since 2022. The country formally joined ASEAN in October 2025. Student protests in 2025 forced lawmakers to drop plans to buy themselves new cars.
+  leaders: {state: "President José Ramos-Horta, since 2022", gov: "Prime Minister Xanana Gusmão, since 2023"}
+
+TKM:
+  pop: 7.6
+  religion: Sunni Islam about 93%
+  system: presidential
+  system_note: In practice a hereditary autocracy.
+  snapshot: >-
+    One of the world's most closed countries, sitting on huge gas reserves, where the former president handed power to his son and still rules alongside him.
+  tags: [Hereditary autocracy, Gas reserves, Isolation, Akhal-Teke horses]
+  culture: >-
+    Turkmen culture prizes the Akhal-Teke horse, a national symbol with its own holiday, and hand-woven carpets, which appear on the flag. The capital, Ashgabat, has built endless white marble monuments and gilded statues. The Darvaza gas crater, nicknamed the "Gates of Hell", has burned since 1971.
+  society: >-
+    Turkmenistan has the world's fourth-largest gas reserves, sold mostly to China. Information is tightly controlled, the internet heavily censored and foreign travel restricted. Shortages and hidden inflation have driven emigration, mainly to Turkey.
+  baseline: >-
+    Gurbanguly Berdimuhamedov handed the presidency to his son Serdar in 2022 but remains "National Leader" and chairman of the upper house of parliament, and is widely seen as the real power. There are no independent parties or media.
+  leaders: {state: "President Serdar Berdimuhamedov, since 2022", gov: "Gurbanguly Berdimuhamedov, National Leader and chairman of the People's Council"}
+
+UZB:
+  pop: 37.1
+  religion: Sunni Islam about 90%
+  system: presidential
+  system_note: A dominant executive.
+  story: shock
+  snapshot: >-
+    A Taliban-built canal set to divert up to a fifth of the Amu Darya's flow threatens Uzbekistan's cotton and wheat fields, testing Mirziyoyev's engagement with Kabul.
+  tags: [Reforming autocracy, Silk Road cities, Water stress, Young population]
+  culture: >-
+    Samarkand, Bukhara and Khiva were great cities of the Silk Road, and their blue-tiled madrasas and mausoleums draw growing numbers of tourists. Plov, rice cooked with meat and carrots, is a national ritual. The Uzbek suzani embroidery and Margilan silk are prized crafts.
+  society: >-
+    Central Asia's most populous country has opened up since 2016, ending forced child labour in cotton fields, freeing the currency and attracting investment. But politics remains tightly controlled, and Mirziyoyev extended his rule through a 2023 constitution. The Aral Sea, drained by Soviet irrigation, is an environmental disaster.
+
+VNM:
+  pop: 101.6
+  religion: Folk religion and no religion about 85%, Buddhist, Catholic minorities
+  system: one-party
+  story: steady
+  snapshot: >-
+    To Lam, re-elected party chief in January 2026 and now also president, has become Vietnam's most powerful leader in decades while slashing the bureaucracy.
+  tags: [Communist state, Manufacturing boom, Anti-corruption purge, US tariffs]
+  culture: >-
+    Vietnam's culture draws on Confucian, Buddhist and Taoist traditions, and Tet, the lunar new year, is the year's great family festival. Pho, banh mi and street coffee culture are national treasures. Ancestor worship is practised in most homes. Water puppetry, performed on ponds in the Red River delta, is a centuries-old art.
+  society: >-
+    Vietnam has been one of the world's fastest-growing economies, with Samsung, Apple suppliers and others moving factories there from China. The Communist Party tolerates no opposition. A sweeping "blazing furnace" anti-corruption campaign has brought down top leaders, and in 2025 the government merged provinces and cut tens of thousands of state jobs.

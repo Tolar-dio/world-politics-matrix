@@ -1,0 +1,211 @@
+# Culture, society and fact profiles: the Middle East
+
+BHR:
+  pop: 1.6
+  religion: Muslim about 70% (Shia majority among citizens), large Christian and Hindu expatriate communities
+  system: exec-monarchy
+  system_note: A constitutional monarchy in name; power sits with the Al Khalifa family.
+  story: war
+  snapshot: >-
+    Hit hard by Iranian missiles aimed at the US Fifth Fleet, Bahrain's Sunni monarchy answered sympathy for Iran among its Shia majority with mass arrests.
+  tags: [US Fifth Fleet base, Sunni rulers and Shia majority, Crackdown, Finance hub]
+  culture: >-
+    Bahrain was the ancient Dilmun civilisation, a trading hub between Mesopotamia and the Indus, and its pearling heritage is UNESCO-listed. The Formula One Grand Prix has run in Sakhir since 2004. Ashura processions are central to Shia life, and the island's mix of Arab, Persian and South Asian communities shows in its food and markets.
+  society: >-
+    Bahrain diversified early into banking and aluminium as its oil ran low, and it depends on Saudi Arabia, linked by a causeway, for support. Foreign workers make up about half the population. The 2011 uprising was crushed with Saudi help, and opposition societies have been dissolved. Bahrain normalised relations with Israel in 2020.
+
+IRN:
+  pop: 92.4
+  religion: Shia Islam about 90%, Sunni about 9%
+  system: religious
+  system_note: A theocratic republic led by an unelected supreme leader.
+  story: war
+  snapshot: >-
+    Ali Khamenei was killed in the opening hours of the US-Israeli assault in February; his son took over, and Iran's closure of the Strait of Hormuz shook the world economy.
+  tags: [US-Israeli war, New supreme leader, Hormuz closure, Women's protest movement, Persian heritage]
+  culture: >-
+    Iran is heir to Persian empires stretching back 2,500 years, and Persian poetry, from Hafez and Rumi to Ferdowsi's Shahnameh, is quoted in daily speech. Nowruz, the spring new year, predates Islam and is the biggest celebration. Iranian cinema, from Abbas Kiarostami to Asghar Farhadi, is internationally acclaimed despite censorship. Persian carpets, gardens and tea houses are cultural staples.
+  society: >-
+    Iran has a young, highly educated population, with more women than men in universities, yet faces mandatory hijab laws that sparked the 2022 "Woman, Life, Freedom" protests. Sanctions and mismanagement have driven high inflation and a collapsing currency. The Revolutionary Guard controls large parts of the economy. Ethnic Kurds, Baluch, Azeris and Arabs have their own grievances.
+
+IRQ:
+  pop: 47.0
+  religion: Shia Islam about 60%, Sunni about 35%, Christian and Yazidi minorities
+  system: parliamentary
+  system_note: Posts are informally shared among Shia, Sunni and Kurdish blocs.
+  story: war
+  snapshot: >-
+    Iraq became a battlefield again as Iran-aligned militias traded fire with US forces, and it took until April to elect a president and pick a prime minister after the 2025 election.
+  tags: [Caught between US and Iran, Oil state, Militias, Kurdistan region, Mesopotamia]
+  culture: >-
+    Iraq is ancient Mesopotamia, where writing, cities and law codes began, and Baghdad was the cultural capital of the Islamic world under the Abbasids. Najaf and Karbala are the holiest Shia cities, drawing millions of pilgrims for Arbaeen. Iraqi maqam music and poetry, and a love of football, unite a divided country. The Kurdistan Region has its own language, parliament and flag.
+  society: >-
+    Oil provides almost all government revenue and pays millions of public salaries. Decades of war, sanctions, the 2003 US invasion and the fight against ISIS have left infrastructure battered. Summer power cuts and water shortages, worsened by dams upstream in Turkey and Iran, spark protests. Iran-aligned militias are formally part of the state through the Popular Mobilisation Forces.
+
+ISR:
+  pop: 10.0
+  religion: Jewish about 73%, Muslim about 18%, Christian and Druze minorities
+  system: parliamentary
+  story: election
+  snapshot: >-
+    Israelis vote on 27 October 2026 in the first election after a full term since 1988, with Naftali Bennett leading a merged opposition against Benjamin Netanyahu.
+  tags: [Election day 27 October, Gaza war aftermath, Iran war, Tech hub, Deep divisions]
+  culture: >-
+    Israel's culture mixes Jewish traditions from Europe, the Middle East and North Africa, Hebrew revived as a spoken language, and a large Arab minority. Shabbat shapes the week. Tel Aviv is a secular tech and nightlife hub, while Jerusalem holds sites sacred to Jews, Christians and Muslims. Israeli TV dramas like "Fauda" and "Shtisel" have found global audiences.
+  society: >-
+    Israel is a high-tech economy with mandatory military service for most Jewish citizens. Ultra-Orthodox exemption from the draft, judicial reform and the role of religion divide society. The 7 October 2023 Hamas attack, which killed about 1,200 people, and the war in Gaza that followed, which killed tens of thousands of Palestinians, transformed politics and Israel's standing in the world.
+
+JOR:
+  pop: 11.5
+  religion: Sunni Islam about 95%, Christian about 3%
+  system: exec-monarchy
+  system_note: A constitutional monarchy in which the king holds decisive power.
+  story: war
+  snapshot: >-
+    Iranian missiles crossed Jordan's skies and targeted a US-used base, its Israeli gas supply was cut, and tourism slumped, yet the war raised the kingdom's strategic value.
+  tags: [Hashemite monarchy, Refugee host, Petra, Water scarcity, US ally]
+  culture: >-
+    Petra, the rose-red city carved by the Nabataeans, and Wadi Rum's desert are Jordan's best-known landmarks. Bedouin hospitality, with cardamom coffee and mansaf, lamb cooked in fermented yogurt, is central to identity. A majority of citizens are of Palestinian origin, which shapes politics. The Hashemite king claims descent from the Prophet Muhammad and is custodian of Jerusalem's holy sites.
+  society: >-
+    Jordan is one of the world's most water-scarce countries and hosts large numbers of Palestinian and Syrian refugees. With little oil, it relies on aid from the US and Gulf states, remittances and tourism. Youth unemployment is high. The 1994 peace treaty with Israel is deeply unpopular, especially since the Gaza war.
+
+KWT:
+  pop: 5.0
+  religion: Muslim about 75% (citizens mostly Sunni with a Shia minority), large Christian and Hindu expatriate communities
+  system: exec-monarchy
+  system_note: Parliament has been suspended since 2024.
+  story: unrest
+  snapshot: >-
+    With parliament suspended, Kuwait's emir has stripped more than 71,000 people of citizenship and abolished naturalisation, redefining who counts as Kuwaiti.
+  tags: [Parliament suspended, Citizenship purge, Oil wealth, Bidoon]
+  culture: >-
+    Kuwait's diwaniyas, evening gatherings in men's reception rooms, have long been the heart of social and political debate. Its TV dramas and theatre were once the most influential in the Gulf. The Kuwait Towers and Liberation Tower recall the oil boom and the 1990 Iraqi invasion, which remains a defining national memory.
+  society: >-
+    Citizens, about a third of the population, enjoy generous state jobs, housing and subsidies funded by oil, while most residents are foreign workers. Tens of thousands of stateless Bidoon have long been denied citizenship. Kuwait's elected parliament was the most powerful in the Gulf until the emir suspended it in 2024.
+
+LBN:
+  pop: 5.8
+  religion: Muslim about 67% (Shia and Sunni), Christian about 32%, Druze
+  system: parliamentary
+  system_note: Power is shared by religious sect under a confessional system.
+  story: war
+  snapshot: >-
+    Lebanon was dragged back into war when Hezbollah fired on Israel after the strikes on Iran, wrecking the new government's year of reclaiming sovereignty.
+  tags: [Hezbollah disarmament, Israeli strikes, Economic collapse, Confessional politics]
+  culture: >-
+    Beirut has long been the Arab world's publishing, nightlife and fashion capital, and Lebanese cuisine, from mezze to manakish, is loved worldwide. Fairuz's songs play every morning across the region. The country's 18 recognised religious sects shape marriage, schooling and politics. The Lebanese diaspora, larger than the population at home, is a lifeline.
+  society: >-
+    A 2019 financial collapse wiped out savings and pushed most people into poverty, and the 2020 Beirut port explosion killed over 200 people. The state shares power by sect: the president is Maronite Christian, the prime minister Sunni and the speaker Shia. Lebanon hosts more than a million Syrian refugees.
+
+OMN:
+  pop: 5.5
+  religion: Ibadi and Sunni Islam about 86%, Hindu and Christian expatriate minorities
+  system: exec-monarchy
+  snapshot: >-
+    The Gulf's quiet mediator, an absolute monarchy that has hosted US-Iran talks and stayed out of regional wars while diversifying away from oil.
+  tags: [Neutral mediator, Absolute monarchy, Ibadi Islam, Oil diversification]
+  culture: >-
+    Oman is the only country where most Muslims follow Ibadism, a tolerant school distinct from Sunni and Shia Islam. Its forts, frankincense trade and a seafaring history that once stretched to Zanzibar shape identity. Omani men wear the dishdasha and khanjar dagger, which is on the flag. Ancient falaj irrigation channels still water oases.
+  society: >-
+    Oil and gas provide most revenue, but reserves are smaller than its neighbours', so Oman introduced VAT and plans the Gulf's first income tax on high earners from 2028. Omanisation policies push citizens into private jobs held by foreigners. It has a tradition of quiet diplomacy, hosting secret US-Iran talks.
+  baseline: >-
+    Sultan Haitham bin Tarik succeeded his cousin Qaboos in 2020 and has focused on fiscal reform and an orderly succession, naming his son crown prince. Oman mediated rounds of US-Iran nuclear talks in 2025 before the war.
+  leaders: {state: "Sultan Haitham bin Tarik, since 2020", gov: "The sultan also serves as prime minister"}
+
+PSE:
+  pop: 5.6
+  name: Palestine
+  religion: Sunni Islam about 93%, Christian about 1 to 2%
+  system: contested
+  system_note: The Palestinian Authority governs parts of the West Bank; Hamas still runs Gaza.
+  story: war
+  snapshot: >-
+    A year after the Gaza ceasefire, Hamas still governs the strip, and Abbas postponed the first Palestinian parliamentary election in nearly 20 years to 2027.
+  tags: [Gaza aftermath, Occupation, Postponed elections, Divided rule, UN observer state]
+  culture: >-
+    Palestinian identity is bound up with the land and with the memory of the 1948 Nakba, when some 700,000 Palestinians fled or were expelled. Embroidered thobes, the keffiyeh and olive harvests are national symbols. Dabke dance and the poetry of Mahmoud Darwish are loved across the Arab world. Bethlehem and Jerusalem's Old City hold sites sacred to Christians and Muslims.
+  society: >-
+    Palestinians have a young, highly educated population but live under Israeli occupation in the West Bank, where settlements and settler violence have expanded, and in a Gaza largely destroyed by war, where most people are displaced and dependent on aid. Millions of refugees and their descendants live in Jordan, Lebanon and Syria. Most countries now recognise Palestine as a state.
+
+QAT:
+  pop: 3.1
+  religion: Muslim about 65%, Christian and Hindu expatriate communities
+  system: exec-monarchy
+  story: war
+  snapshot: >-
+    Iranian strikes knocked out about a sixth of Qatar's LNG export capacity, putting both its gas fortune and its role as everyone's mediator under fire.
+  tags: [LNG superpower, Mediator, Al Jazeera, World Cup 2022 host]
+  culture: >-
+    Qatar's culture is rooted in Bedouin and pearl-diving traditions, but its capital Doha has reinvented itself with I. M. Pei's Museum of Islamic Art and the National Museum. Al Jazeera, founded in 1996, changed Arab media. Hosting the 2022 World Cup was a defining moment. Falconry, camel racing and majlis gatherings remain popular.
+  society: >-
+    About nine in ten residents are foreign workers, and labour conditions for migrant workers drew global scrutiny before the World Cup. Citizens enjoy one of the world's highest incomes. Qatar hosts the largest US military base in the region and has mediated between Israel and Hamas, the US and the Taliban, and others.
+
+SAU:
+  pop: 34.6
+  religion: Sunni Islam about 85%, Shia about 10 to 12%
+  system: exec-monarchy
+  story: war
+  snapshot: >-
+    Iranian missiles hit Riyadh and the oil heartland, then the Houthis broke their truce and struck Saudi cities, bringing the war MBS had worked to avoid to his doorstep.
+  tags: [Vision 2030, MBS, Oil giant, Houthi war, Mecca and Medina]
+  culture: >-
+    Saudi Arabia is home to Mecca and Medina, Islam's holiest cities, which receive millions of pilgrims each year. Since 2017 it has rapidly opened up: women can drive, cinemas and concerts are allowed, and the kingdom hosts boxing, Formula One and golf. Bedouin traditions of poetry, coffee and hospitality remain strong, as does Najdi architecture.
+  society: >-
+    Oil funds the state and most citizens' jobs. Vision 2030 aims to diversify into tourism, entertainment and industry, including the giant NEOM project, though some plans have been scaled back. Dissent is not tolerated, and executions have hit record levels. The kingdom won the right to host the 2034 World Cup.
+
+SYR:
+  pop: 25.6
+  religion: Sunni Islam about 74%, Alawite, Christian, Druze and Ismaili minorities
+  system: presidential
+  system_note: A transitional system giving the interim president broad powers for five years.
+  story: war
+  snapshot: >-
+    Ahmed al-Sharaa's new government won sanctions relief from Washington but fought the Kurdish-led SDF in January before a deal on merging them into the state.
+  tags: [Post-Assad transition, Kurdish integration, Sanctions lifted, Sectarian violence]
+  culture: >-
+    Damascus and Aleppo are among the oldest continuously inhabited cities, and Syria's souks, mosques and Roman ruins at Palmyra testify to millennia of history. Syrian cuisine, from kibbeh to Aleppo pepper dishes, and its TV dramas were loved across the Arab world. Its mix of Sunni, Alawite, Christian, Druze and Kurdish communities makes sectarian relations central.
+  society: >-
+    The 2011 to 2024 civil war killed about half a million people and displaced half the population, and millions of refugees are weighing whether to return. Sanctions relief has opened the door to reconstruction. Massacres of Alawites on the coast in 2025 and fighting with Druze in Sweida exposed sectarian dangers in the new order.
+
+TUR:
+  pop: 87.7
+  name: Turkey
+  religion: Sunni Islam about 85%, Alevi about 10 to 15%
+  system: presidential
+  story: unrest
+  snapshot: >-
+    Istanbul's jailed mayor, Erdoğan's strongest rival, went on trial with 414 co-defendants while a court ousted the main opposition party's leader.
+  tags: [Erdoğan era, Opposition crackdown, NATO power, Bridge of continents]
+  culture: >-
+    Turkey bridges Europe and Asia, and Istanbul, once Constantinople, holds Byzantine and Ottoman wonders like the Hagia Sophia. Turkish TV dramas are the world's second most exported after America's. Tea, coffee, kebabs and baklava, the hamam and football rivalries between Galatasaray, Fenerbahçe and Beşiktaş are part of daily life. Kurds make up about a fifth of the population.
+  society: >-
+    Turkey is a major manufacturing and tourism economy and hosts the world's largest refugee population, mostly Syrians. High inflation since 2021 hit living standards. The PKK announced its dissolution in 2025 after a 40-year insurgency. Erdoğan's power has grown since a 2016 coup attempt, after which tens of thousands were purged.
+
+ARE:
+  pop: 11.3
+  name: United Arab Emirates
+  religion: Muslim about 75%, Christian and Hindu expatriate communities
+  system: exec-monarchy
+  system_note: A federation of seven hereditary monarchies.
+  story: war
+  snapshot: >-
+    Iran fired more missiles and drones at the UAE than at any other country, hitting Dubai landmarks and shaking the region's safe-harbour reputation.
+  tags: [Gulf safe harbour tested, Dubai and Abu Dhabi, Foreign majority, AI ambitions]
+  culture: >-
+    In half a century the Emirates went from pearl-diving villages to a global crossroads; around nine in ten residents are foreigners, and Dubai's malls, the Burj Khalifa and Abu Dhabi's Louvre symbolise the transformation. Emirati culture keeps falconry, camel racing and the kandura and abaya dress. The UAE has promoted itself as a hub for religious tolerance, building the Abrahamic Family House.
+  society: >-
+    Oil wealth, concentrated in Abu Dhabi, funds the federation, while Dubai lives from trade, aviation, property and tourism. The UAE has invested heavily in AI, space and renewable energy. Political parties are banned and critics jailed. It normalised ties with Israel in 2020 and has backed forces in Sudan, Libya and Yemen.
+
+YEM:
+  pop: 41.8
+  religion: Sunni Islam about 60%, Zaidi Shia about 35%
+  system: contested
+  system_note: The Houthis hold the north; a Saudi-backed government holds the rest.
+  story: war
+  snapshot: >-
+    Saudi Arabia crushed the UAE-backed southern separatists in January, then the Houthis broke their truce with Riyadh in July and struck Saudi cities and shipping.
+  tags: [Divided country, Houthis, Humanitarian crisis, Red Sea attacks]
+  culture: >-
+    Yemen was ancient Arabia Felix, home of the Queen of Sheba and the frankincense trade. The mud-brick tower houses of Shibam and Sanaa's old city are UNESCO-listed. Afternoon qat-chewing sessions are a social institution. Yemeni coffee from the port of Mocha gave its name to a drink. The jambiya dagger is worn by many men.
+  society: >-
+    Yemen was the poorest Arab country before war began in 2014; since then the UN has called it one of the world's worst humanitarian crises, with millions facing hunger and cholera. The Houthis control the north and most of the population. Their attacks on Red Sea shipping since 2023 drew US and Israeli strikes.
