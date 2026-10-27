@@ -64,9 +64,19 @@
     pointer: { x: 0, y: 0 },
     details: new Map(),
     sheet: 'peek',
+    mode: 'politics',          // 'politics' | 'conflict'
+    layers: { zones: true, lines: true, battles: true, bases: true },
+    majorOnly: false,
+    hoverMil: null,            // {type: 'conflict'|'battle'|'base', id}
+    focus: null,               // selected military object {type, id}
+    conflictDetails: new Map(),
   };
 
   let index, byId, features, world, lensColor;
+  let mil = { conflicts: [], battles: [], bases: [] };
+  let news = { items: [], upcoming: [] };
+  let conflictById = new Map(), battleById = new Map(), baseById = new Map();
+  let zoneFeatures = [];
 
   /* ---------- colour helpers ---------- */
   function mix(hex, toHex, amt) {
@@ -127,16 +137,34 @@
     return forced ? forced === 'dark' : darkMQ.matches;
   }
 
+  const WAR_FILL = { 3: '#B9473C', 2: '#E08A4F', 1: '#E8C76A' };
+  const WAR_TINT = { 3: '#E7B4A8', 2: '#EDCBA6', 1: '#EEE0B4' };
+  const WAR_TINT_DARK = { 3: '#7A3A33', 2: '#7A5236', 1: '#6E6338' };
+  const ZONE_FILL = { high: 'rgba(170,52,40,0.62)', medium: 'rgba(214,118,52,0.6)', low: 'rgba(214,170,60,0.6)' };
+  const ZONE_EDGE = { high: 'rgba(120,30,24,0.85)', medium: 'rgba(150,72,28,0.8)', low: 'rgba(140,110,30,0.8)' };
+
   function capColor(f) {
+    if (f.properties.zone) {
+      const z = f.properties;
+      const hot = (state.hoverMil && state.hoverMil.type === 'conflict' && state.hoverMil.id === z.conflict)
+        || (state.focus && state.focus.type === 'conflict' && state.focus.id === z.conflict);
+      return hot ? ZONE_EDGE[z.intensity] : ZONE_FILL[z.intensity];
+    }
     const id = f.properties.id;
     const e = id && byId.get(id);
     if (id && id === state.selected) return isDark() ? '#F3EBDA' : '#1F2A33';
-    const base = lensColor(e);
+    const base = state.mode === 'conflict' ? warColor(e) : lensColor(e);
     if (id && id === state.hovered) return mix(base, '#1F2A33', 0.18);
     return base;
   }
 
+  function warColor(e) {
+    if (!e || e.kind === 'territory' || !e.war) return cssVar('--quiet');
+    return (isDark() ? WAR_TINT_DARK : WAR_TINT)[e.war] || cssVar('--quiet');
+  }
+
   function altitude(f) {
+    if (f.properties.zone) return 0.011 + f.properties.order * 0.0004;
     const id = f.properties.id;
     if (!id) return 0.004;
     if (id === state.selected) return 0.045;
@@ -149,8 +177,11 @@
     world.polygonCapColor(capColor).polygonAltitude(altitude).polygonSideColor(world.polygonSideColor());
     document.querySelectorAll('.micro').forEach((el) => {
       const e = byId.get(el.dataset.id);
-      el.style.background = lensColor(e);
+      el.style.background = state.mode === 'conflict' ? warColor(e) : lensColor(e);
       el.classList.toggle('is-selected', el.dataset.id === state.selected);
+    });
+    document.querySelectorAll('.mk').forEach((el) => {
+      el.classList.toggle('is-selected', !!state.focus && state.focus.type === el.dataset.type && state.focus.id === el.dataset.id);
     });
   }
 
@@ -159,8 +190,8 @@
     world
       .globeImageUrl(oceanTexture())
       .atmosphereColor(isDark() ? '#4f7690' : '#ffffff')
-      .polygonSideColor((f) => (f.properties.id && f.properties.id === state.selected ? cssVar('--brass') : (isDark() ? 'rgba(10,16,20,0.55)' : 'rgba(31,42,51,0.28)')))
-      .polygonStrokeColor(() => (isDark() ? 'rgba(10,16,20,0.7)' : 'rgba(31,42,51,0.42)'));
+      .polygonSideColor((f) => (f.properties.zone ? 'rgba(0,0,0,0)' : f.properties.id && f.properties.id === state.selected ? cssVar('--brass') : (isDark() ? 'rgba(10,16,20,0.55)' : 'rgba(31,42,51,0.28)')))
+      .polygonStrokeColor((f) => (f.properties.zone ? ZONE_EDGE[f.properties.intensity] : isDark() ? 'rgba(10,16,20,0.7)' : 'rgba(31,42,51,0.42)'));
     refreshPolygons();
     drawMeridian();
   }
@@ -170,15 +201,35 @@
       .backgroundColor('rgba(0,0,0,0)')
       .showAtmosphere(true)
       .atmosphereAltitude(0.13)
-      .polygonsData(features)
+      .polygonsData(currentFeatures())
       .polygonCapCurvatureResolution(3)
       .polygonsTransitionDuration(reduceMotion ? 0 : 260)
       .polygonLabel(() => '')
-      .onPolygonHover((f) => setHover(f && f.properties.id))
-      .onPolygonClick((f) => { if (f && f.properties.id) select(f.properties.id); })
-      .htmlElementsData(index.entities.filter((e) => e.tiny && e.kind === 'country'))
-      .htmlLat('lat').htmlLng('lng').htmlAltitude(0.012)
-      .htmlElement(microMarker)
+      .onPolygonHover((f) => {
+        if (f && f.properties.zone) { setHover(null); setHoverMil({ type: 'conflict', id: f.properties.conflict, zone: f.properties.name }); }
+        else { setHoverMil(null); setHover(f && f.properties.id); }
+      })
+      .onPolygonClick((f) => {
+        if (!f) return;
+        if (f.properties.zone) openConflict(f.properties.conflict);
+        else if (f.properties.id) select(f.properties.id);
+      })
+      .htmlElementsData(htmlData())
+      .htmlLat('lat').htmlLng('lng').htmlAltitude((d) => (d.__type === 'micro' ? 0.012 : 0.02))
+      .htmlElement(markerFor)
+      .pathsData([])
+      .pathPoints('points').pathPointLat((p) => p[0]).pathPointLng((p) => p[1])
+      .pathColor(() => ['#3B0F0B', '#9B2A1F'])
+      .pathStroke(3)
+      .pathPointAlt(0.016)
+      .pathDashLength(reduceMotion ? 1 : 0.035).pathDashGap(reduceMotion ? 0 : 0.012)
+      .pathDashAnimateTime(reduceMotion ? 0 : 14000)
+      .pathTransitionDuration(0)
+      .onPathHover((p) => setHoverMil(p ? { type: 'conflict', id: p.conflict, line: p.name } : null))
+      .onPathClick((p) => p && openConflict(p.conflict))
+      .ringsData([])
+      .ringColor(() => (t) => `rgba(185,71,60,${Math.max(0, 0.55 * (1 - t))})`)
+      .ringMaxRadius('maxR').ringPropagationSpeed('speed').ringRepeatPeriod(2200).ringAltitude(0.0125)
       .htmlElementVisibilityModifier((elem, visible) => { elem.style.visibility = visible ? 'visible' : 'hidden'; })
       .onZoom(() => scheduleMeridian());
 
@@ -211,6 +262,41 @@
     const el = $('#globe');
     world.width(el.clientWidth).height(el.clientHeight);
     scheduleMeridian();
+  }
+
+  function htmlData() {
+    if (state.mode !== 'conflict') return index.entities.filter((e) => e.tiny && e.kind === 'country').map((e) => ({ ...e, __type: 'micro' }));
+    const out = [];
+    if (state.layers.battles) for (const b of mil.battles) if (!state.majorOnly || b.tier === 'major') out.push({ ...b, __type: 'battle' });
+    if (state.layers.bases) for (const b of mil.bases) out.push({ ...b, __type: 'base' });
+    return out;
+  }
+
+  const SWORDS = '<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 3l10 10M13 3L3 13M2.2 9.6l4.2 4.2M9.6 13.8l4.2-4.2" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" fill="none"/></svg>';
+
+  const DIAMOND = '<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 1.5L14.5 8 8 14.5 1.5 8z" fill="rgba(31,42,51,.35)" stroke="#F3D27A" stroke-width="2.2"/></svg>';
+
+  function markerFor(d) {
+    if (d.__type === 'micro') return microMarker(d);
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.dataset.type = d.__type;
+    b.dataset.id = d.id;
+    if (d.__type === 'battle') {
+      b.className = `mk mk-battle ${d.tier}`;
+      b.innerHTML = SWORDS;
+      b.setAttribute('aria-label', `${d.name}, ${d.start}`);
+    } else {
+      const choke = d.kind === 'chokepoint' || d.kind === 'contested-feature';
+      b.className = `mk mk-base ${choke ? 'choke' : ''} ${d.tier}`;
+      if (choke) b.innerHTML = DIAMOND;
+      b.setAttribute('aria-label', d.name);
+    }
+    if (state.focus && state.focus.type === d.__type && state.focus.id === d.id) b.classList.add('is-selected');
+    b.addEventListener('mouseenter', () => setHoverMil({ type: d.__type, id: d.id }));
+    b.addEventListener('mouseleave', () => setHoverMil(null));
+    b.addEventListener('click', (ev) => { ev.stopPropagation(); d.__type === 'battle' ? openBattle(d.id) : openBase(d.id); });
+    return b;
   }
 
   function microMarker(e) {
@@ -276,17 +362,56 @@
     renderTip();
   }
 
+  function setHoverMil(h) {
+    const same = (a, b) => (!a && !b) || (a && b && a.type === b.type && a.id === b.id);
+    if (same(state.hoverMil, h)) { if (h) { state.hoverMil = h; renderTip(); } return; }
+    const touchesZones = (x) => x && x.type === 'conflict';
+    const refresh = touchesZones(state.hoverMil) || touchesZones(h);
+    state.hoverMil = h;
+    if (refresh) refreshPolygons();
+    renderTip();
+  }
+
+  function milTip(h) {
+    if (h.type === 'conflict') {
+      const c = conflictById.get(h.id);
+      if (!c) return '';
+      const where = h.zone ? `<div class="tip-key">${esc(h.zone)}</div>` : h.line ? `<div class="tip-key">${esc(h.line)}</div>` : '';
+      return `<div class="tip-name">${esc(c.name)}</div>${where}<div class="tip-key"><span class="swatch" style="background:${WAR_FILL[{ high: 3, medium: 2, low: 1 }[c.intensity]]}"></span>${esc(INTENSITY_LABEL[c.intensity])}, ${esc(STATUS_LABEL[c.status])}</div><div class="tip-snap">${c.summary}</div>`;
+    }
+    if (h.type === 'battle') {
+      const b = battleById.get(h.id);
+      if (!b) return '';
+      const c = conflictById.get(b.conflict);
+      return `<div class="tip-name">${esc(b.name)}</div><div class="tip-key">${esc(dateRange(b.start, b.end))}${b.place ? `. ${esc(b.place)}` : ''}</div><div class="tip-key">${b.tier === 'major' ? 'Major battle' : 'Mid-size engagement'}${c ? ` in ${esc(c.name)}` : ''}</div>`;
+    }
+    const b = baseById.get(h.id);
+    if (!b) return '';
+    return `<div class="tip-name">${esc(b.name)}</div><div class="tip-key">${esc(KIND_LABEL[b.kind] || b.kind)}${b.operators.length ? `. ${esc(b.operators.slice(0, 3).join(', '))}` : ''}</div>${b.why ? `<div class="tip-snap">${b.why}</div>` : ''}`;
+  }
+
   function renderTip() {
+    if (state.hoverMil && !mobileMQ.matches) {
+      const html = milTip(state.hoverMil);
+      if (html) { tip.innerHTML = html; tip.hidden = false; placeTip(); return; }
+    }
     const e = state.hovered && byId.get(state.hovered);
     if (!e || mobileMQ.matches) { tip.hidden = true; return; }
-    const color = lensColor(e);
+    const color = state.mode === 'conflict' ? warColor(e) : lensColor(e);
     const snap = e.kind === 'territory' ? e.note : e.snapshot;
     tip.innerHTML = `
       <div class="tip-name">${esc(e.flag)} ${esc(e.name)}</div>
-      <div class="tip-key"><span class="swatch" style="background:${color}"></span>${esc(state.lens === 'tenure' && e.kind === 'country' ? tenureLine(e) : lensLabel(e))}</div>
+      <div class="tip-key"><span class="swatch" style="background:${color}"></span>${esc(state.mode === 'conflict' ? warLine(e) : state.lens === 'tenure' && e.kind === 'country' ? tenureLine(e) : lensLabel(e))}</div>
       ${snap ? `<div class="tip-snap">${esc(snap)}</div>` : ''}`;
     tip.hidden = false;
     placeTip();
+  }
+
+  function warLine(e) {
+    if (!e || e.kind !== 'country') return 'Territory or dependency';
+    const list = mil.conflicts.filter((c) => c.countries.includes(e.id));
+    if (!list.length) return 'No active armed conflict on its soil';
+    return list.slice(0, 2).map((c) => c.name).join('; ') + (list.length > 2 ? ` and ${list.length - 2} more` : '');
   }
 
   function tenureLine(e) {
@@ -434,7 +559,8 @@
 
   function refreshBrowseDots() {
     document.querySelectorAll('#browse button[data-id] .dot').forEach((dot) => {
-      dot.style.background = lensColor(byId.get(dot.parentElement.dataset.id));
+      const e = byId.get(dot.parentElement.dataset.id);
+      dot.style.background = state.mode === 'conflict' ? warColor(e) : lensColor(e);
     });
   }
 
@@ -521,6 +647,7 @@
       </dl>
       ${d.tags && d.tags.length ? `<ul class="tags" aria-label="Descriptors">${d.tags.map((t) => `<li>${esc(t)}</li>`).join('')}</ul>` : ''}
       ${sec('Where things stand', update + paras(d.situation))}
+      ${d.conflicts && d.conflicts.length ? sec('Armed conflicts', `<ul class="war-rows">${d.conflicts.map((c) => `<li><button type="button" class="war-row" data-conflict="${c.id}"><span class="swatch" style="background:${WAR_FILL[{ high: 3, medium: 2, low: 1 }[c.intensity]]}"></span><span class="war-name">${esc(c.name)}<small>${esc(INTENSITY_LABEL[c.intensity])}</small></span></button></li>`).join('')}</ul>`) : ''}
       ${d.power ? sec('How power works', `<p class="power">${d.power}</p>`) : ''}
       ${sec('Culture', paras(d.culture))}
       ${sec('Society', paras(d.society))}
@@ -548,11 +675,355 @@
     if (sb) sb.addEventListener('click', () => select(sov.id));
   }
 
+
+  /* ---------- conflict mode ---------- */
+  const INTENSITY_LABEL = { high: 'High intensity', medium: 'Medium intensity', low: 'Low intensity' };
+  const STATUS_LABEL = { active: 'active', 'fragile-ceasefire': 'fragile ceasefire', frozen: 'frozen' };
+  const TYPE_LABEL = {
+    interstate: 'Interstate war', 'civil-war': 'Civil war', insurgency: 'Insurgency', intercommunal: 'Intercommunal violence',
+    criminal: 'Criminal war', 'border-clash': 'Border standoff', 'air-missile-campaign': 'Air and missile campaign',
+  };
+  const KIND_LABEL = {
+    air: 'Air base', naval: 'Naval base', army: 'Army base', joint: 'Joint base', missile: 'Missile site', nuclear: 'Nuclear site',
+    'space-intel': 'Space and intelligence site', logistics: 'Logistics hub', chokepoint: 'Chokepoint', 'contested-feature': 'Contested feature',
+  };
+  const MONTHS_SHORT = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+  function fmtDate(iso) {
+    if (!iso || !/^\d{4}-\d{2}-\d{2}/.test(iso)) return iso || '';
+    const [y, m, d] = iso.slice(0, 10).split('-').map(Number);
+    return `${d} ${MONTHS_SHORT[m - 1]} ${y}`;
+  }
+
+  function dateRange(a, b) {
+    if (!b || b === a) return fmtDate(a);
+    if (/ongoing/i.test(b)) return `${fmtDate(a)} to now`;
+    return `${fmtDate(a)} to ${fmtDate(b)}`;
+  }
+
+  function circleFeature(z, c, order) {
+    const R = 6371, d = z.r / R, p1 = (z.lat * Math.PI) / 180, l1 = (z.lng * Math.PI) / 180;
+    const ring = [];
+    for (let i = 0; i <= 48; i += 1) {
+      const t = (2 * Math.PI * i) / 48;
+      const p2 = Math.asin(Math.sin(p1) * Math.cos(d) + Math.cos(p1) * Math.sin(d) * Math.cos(t));
+      const l2 = l1 + Math.atan2(Math.sin(t) * Math.sin(d) * Math.cos(p1), Math.cos(d) - Math.sin(p1) * Math.sin(p2));
+      ring.push([((((l2 * 180) / Math.PI) + 540) % 360) - 180, (p2 * 180) / Math.PI]);
+    }
+    return {
+      type: 'Feature',
+      properties: { zone: true, conflict: c.id, intensity: c.intensity, name: z.name, order },
+      geometry: { type: 'Polygon', coordinates: [ring] },
+    };
+  }
+
+  function buildZones() {
+    zoneFeatures = [];
+    let order = 0;
+    for (const c of mil.conflicts) for (const z of c.zones) zoneFeatures.push(circleFeature(z, c, (order += 1) % 12));
+  }
+
+  function currentFeatures() {
+    return state.mode === 'conflict' && state.layers.zones ? features.concat(zoneFeatures) : features;
+  }
+
+  function refreshLayers() {
+    if (!world) return;
+    world.polygonsData(currentFeatures());
+    world.htmlElementsData(htmlData());
+    const lines = [];
+    if (state.mode === 'conflict' && state.layers.lines) {
+      for (const c of mil.conflicts) for (const ln of c.lines) lines.push({ ...ln, conflict: c.id });
+    }
+    world.pathsData(lines);
+    const rings = [];
+    if (state.mode === 'conflict' && state.layers.zones && !reduceMotion) {
+      for (const c of mil.conflicts) {
+        if (c.intensity !== 'high' || c.status !== 'active') continue;
+        for (const z of c.zones.slice(0, 4)) rings.push({ lat: z.lat, lng: z.lng, maxR: Math.min(6, (z.r / 111) * 1.4), speed: Math.max(0.4, (z.r / 111) * 0.9) });
+      }
+    }
+    world.ringsData(rings);
+    refreshPolygons();
+  }
+
+  function setMode(mode, { keepPanel = false } = {}) {
+    if (mode === state.mode) return;
+    state.mode = mode;
+    document.body.dataset.mode = mode;
+    document.querySelectorAll('.mode-switch button').forEach((b) => b.setAttribute('aria-checked', String(b.dataset.mode === mode)));
+    $('#politics-controls').hidden = mode !== 'politics';
+    $('#war-controls').hidden = mode !== 'conflict';
+    if (mode === 'conflict') {
+      renderWarLegend();
+      if (mobileMQ.matches) $('#war-controls details').open = false;
+    }
+    refreshLayers();
+    refreshBrowseDots();
+    if (!keepPanel && !state.selected && !state.focus) showIntro();
+    try { localStorage.setItem('wpm-mode', mode); } catch (_) { /* storage unavailable */ }
+  }
+
+  function showIntro() {
+    $('#profile').hidden = true;
+    $('#intro').hidden = state.mode !== 'politics';
+    $('#war-intro').hidden = state.mode !== 'conflict';
+  }
+
+  function renderWarLegend() {
+    const n = { high: 0, medium: 0, low: 0 };
+    for (const c of mil.conflicts) n[c.intensity] += 1;
+    const majors = mil.battles.filter((b) => b.tier === 'major').length;
+    $('#war-legend').innerHTML = `
+      <li><span class="swatch zone-swatch" style="background:${WAR_TINT[3]};--z:${ZONE_FILL.high}"></span>High-intensity war <span class="n">${n.high}</span></li>
+      <li><span class="swatch zone-swatch" style="background:${WAR_TINT[2]};--z:${ZONE_FILL.medium}"></span>Medium intensity <span class="n">${n.medium}</span></li>
+      <li><span class="swatch zone-swatch" style="background:${WAR_TINT[1]};--z:${ZONE_FILL.low}"></span>Low intensity or frozen <span class="n">${n.low}</span></li>
+      <li><span class="legend-line"></span>Front or control line</li>
+      <li><span class="mk-demo mk-battle major">${SWORDS}</span>Major battle <span class="n">${majors}</span></li>
+      <li><span class="mk-demo mk-battle mid">${SWORDS}</span>Mid-size engagement <span class="n">${mil.battles.length - majors}</span></li>
+      <li><span class="mk-demo mk-base"></span>Military base <span class="n">${mil.bases.filter((b) => !/chokepoint|contested/.test(b.kind)).length}</span></li>
+      <li><span class="mk-demo mk-base choke">${DIAMOND}</span>Chokepoint or contested spot <span class="n">${mil.bases.filter((b) => /chokepoint|contested/.test(b.kind)).length}</span></li>`;
+  }
+
+  function initWarControls() {
+    document.querySelectorAll('#war-controls input[data-layer]').forEach((box) => {
+      box.checked = state.layers[box.dataset.layer];
+      box.addEventListener('change', () => { state.layers[box.dataset.layer] = box.checked; refreshLayers(); });
+    });
+    const major = $('#major-only');
+    major.checked = state.majorOnly;
+    major.addEventListener('change', () => { state.majorOnly = major.checked; refreshLayers(); });
+  }
+
+  const flagsFor = (isoList) => isoList.map((iso) => byId.get(iso)).filter(Boolean)
+    .map((e) => `<button type="button" class="flag-chip" data-id="${e.id}" title="${esc(e.name)}">${esc(e.flag)}<span>${esc(e.name)}</span></button>`).join('');
+
+  function renderWarIntro() {
+    const c = mil.conflicts;
+    const active = c.filter((x) => x.status === 'active').length;
+    $('#war-count').textContent = c.length
+      ? `${c.length} armed conflicts and flashpoints, ${active} of them active. ${mil.battles.length} battles and strikes from the last 12 months. ${mil.bases.length} bases and chokepoints.`
+      : 'Conflict data is loading or not yet published.';
+    const groups = [['high', 'High-intensity wars'], ['medium', 'Medium intensity'], ['low', 'Low intensity, frozen or standoffs']];
+    $('#war-list').innerHTML = groups.map(([key, title]) => {
+      const list = c.filter((x) => x.intensity === key);
+      if (!list.length) return '';
+      return `<h3 class="war-group">${title}</h3><ul class="war-rows">${list.map((x) => `
+        <li><button type="button" class="war-row" data-conflict="${x.id}">
+          <span class="swatch" style="background:${WAR_FILL[{ high: 3, medium: 2, low: 1 }[x.intensity]]}"></span>
+          <span class="war-name">${esc(x.name)}<small>${esc(TYPE_LABEL[x.type] || x.type)}, ${esc(STATUS_LABEL[x.status])}${x.battles ? `. ${x.battles} battle${x.battles === 1 ? '' : 's'}` : ''}</small></span>
+          <span class="war-flags">${x.countries.slice(0, 4).map((iso) => esc((byId.get(iso) || {}).flag || '')).join('')}</span>
+        </button></li>`).join('')}</ul>`;
+    }).join('');
+    const recent = mil.battles.slice(0, 8);
+    $('#war-recent').innerHTML = recent.map((b) => `
+      <li><button type="button" data-battle="${b.id}"><span class="lp-year lp-date">${esc(fmtDate(b.start).replace(/ \d{4}$/, ''))}</span><span class="lp-who"><b>${esc(b.name)}</b><span>${esc(b.place)}</span></span></button></li>`).join('');
+    renderNewsList($('#war-news'), news.items.filter((n) => n.category === 'military').slice(0, 5));
+  }
+
+  function renderNewsList(el, items) {
+    if (!el) return;
+    el.innerHTML = items.length ? items.map((n) => `
+      <li><span class="news-date">${esc(fmtDate(n.date).replace(/ \d{4}$/, ''))}</span><a href="news.html#${esc(n.id)}">${esc(n.headline)}</a></li>`).join('')
+      : '<li class="news-empty">No news yet. The daily update fills this in.</li>';
+  }
+
+  async function loadConflict(id) {
+    if (state.conflictDetails.has(id)) return state.conflictDetails.get(id);
+    const res = await fetch(`data/conflicts/${id}.json`);
+    if (!res.ok) throw new Error(`Couldn't load ${id}`);
+    const d = await res.json();
+    state.conflictDetails.set(id, d);
+    return d;
+  }
+
+  function showPanel(html) {
+    $('#intro').hidden = true;
+    $('#war-intro').hidden = true;
+    $('#profile').hidden = false;
+    $('#profile').innerHTML = html;
+    $('#profile').querySelectorAll('a[href^="http"]').forEach((a) => { a.target = '_blank'; a.rel = 'noopener'; });
+    const close = $('#close-btn');
+    if (close) close.addEventListener('click', closeProfile);
+    $('#sheet-scroll').scrollTop = 0;
+    setSheet(mobileMQ.matches ? (state.sheet === 'full' ? 'full' : 'open') : 'open');
+    const heading = $('#profile-name');
+    if (heading && !mobileMQ.matches) heading.focus({ preventScroll: true });
+  }
+
+  function focusMil(type, id, title) {
+    state.selected = null;
+    state.focus = { type, id };
+    if (state.mode !== 'conflict') setMode('conflict', { keepPanel: true });
+    if (world) world.controls().autoRotate = false;
+    refreshPolygons();
+    const hash = `#${type[0]}/${id}`;
+    if (location.hash !== hash) history.replaceState(null, '', hash);
+    document.title = `${title}, World Politics Matrix`;
+  }
+
+  function flyToPoint(lat, lng, alt) {
+    if (!world) return;
+    world.pointOfView({ lat, lng, altitude: alt + (mobileMQ.matches ? 0.5 : 0) }, reduceMotion ? 0 : 1100);
+  }
+
+  function flyToConflict(c) {
+    const pts = c.zones.map((z) => [z.lat, z.lng]).concat(...c.lines.map((l) => l.points));
+    if (!pts.length) {
+      const e = byId.get(c.countries[0]);
+      if (e) flyTo(e);
+      return;
+    }
+    const lat = pts.reduce((a, p) => a + p[0], 0) / pts.length;
+    const lng = pts.reduce((a, p) => a + p[1], 0) / pts.length;
+    const spread = Math.max(...pts.map((p) => Math.hypot(p[0] - lat, (p[1] - lng) * Math.cos((lat * Math.PI) / 180))), 2);
+    flyToPoint(lat, lng, Math.min(2.6, Math.max(0.9, 0.6 + spread / 9)));
+  }
+
+  const panelTop = (title, meta, flag = '') => `
+    <div class="profile-top">
+      <div>
+        ${flag ? `<span class="profile-flag" aria-hidden="true">${flag}</span>` : ''}
+        <h2 class="profile-name war-name-h" id="profile-name" tabindex="-1">${esc(title)}</h2>
+        <p class="profile-where">${meta}</p>
+      </div>
+      <button class="close" type="button" id="close-btn" aria-label="Close">${CLOSE_ICON}</button>
+    </div>`;
+
+  const sourceList = (list) => (list && list.length
+    ? `<ol class="sources">${list.map((s) => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a></li>`).join('')}</ol>` : '');
+
+  const section = (title, inner) => (inner ? `<section><h2>${title}</h2>${inner}</section>` : '');
+  const pList = (list) => (list && list.length ? list.map((p) => `<p>${p}</p>`).join('') : '');
+
+  async function openConflict(id, { fly = true } = {}) {
+    const light = conflictById.get(id);
+    if (!light) return;
+    focusMil('conflict', id, light.name);
+    if (fly) flyToConflict(light);
+    showPanel(`<p class="lead-in">Loading ${esc(light.name)}</p>`);
+    let d;
+    try { d = await loadConflict(id); } catch (err) {
+      showPanel(`${panelTop(light.name, '')}<p>Couldn't load this conflict. Check your connection and try again.</p>`);
+      return;
+    }
+    if (!state.focus || state.focus.id !== id) return;
+    const chips = [TYPE_LABEL[d.type] || d.type, INTENSITY_LABEL[d.intensity], STATUS_LABEL[d.status], d.started ? `since ${fmtDate(d.started)}` : '']
+      .filter(Boolean).map((t) => `<li>${esc(t)}</li>`).join('');
+    const sides = d.sides.map((sd) => `
+      <div class="side">
+        <h3>${esc(sd.name)}</h3>
+        ${sd.members.length ? `<p><b>Forces.</b> ${esc(sd.members.join(', '))}</p>` : ''}
+        ${sd.leaders.length ? `<p><b>Leaders.</b> ${esc(sd.leaders.join('; '))}</p>` : ''}
+        ${sd.backers.length ? `<p><b>Backers.</b> ${esc(sd.backers.join('; '))}</p>` : ''}
+        ${sd.strength ? `<p><b>Strength.</b> ${sd.strength}</p>` : ''}
+      </div>`).join('');
+    const battles = d.battles.length ? `<ul class="battle-list">${d.battles.map((b) => `
+      <li><button type="button" data-battle="${b.id}"><span class="bl-date">${esc(fmtDate(b.start))}</span><span class="bl-name">${esc(b.name)}<small>${esc(b.place)}</small></span><span class="tier ${b.tier}">${b.tier === 'major' ? 'Major' : 'Mid'}</span></button></li>`).join('')}</ul>` : '';
+    const timeline = d.timeline.length ? `<ol class="timeline">${d.timeline.map((t) => `<li><span>${esc(fmtDate(t.date))}</span><p>${t.event}</p></li>`).join('')}</ol>` : '';
+    const tech = d.technical.length ? `<ul class="tech">${d.technical.map((t) => `<li>${t}</li>`).join('')}</ul>` : '';
+    const toll = [d.casualties ? `<p><b>Casualties.</b> ${d.casualties}</p>` : '', d.displaced ? `<p><b>Displaced.</b> ${d.displaced}</p>` : ''].join('');
+    const zones = d.zones.length ? `<ul class="zones">${d.zones.map((z) => `<li><b>${esc(z.name)}.</b> ${z.note}</li>`).join('')}</ul>` : '';
+    showPanel(`
+      ${panelTop(d.name, `${d.countries.map((iso) => esc((byId.get(iso) || {}).name || iso)).join(', ')}`)}
+      <ul class="tags war-chips">${chips}</ul>
+      <p class="snapshot">${d.summary}</p>
+      <div class="flag-row">${flagsFor(d.countries)}</div>
+      ${section('Where it stands', pList(d.situation))}
+      ${section('Who is fighting', sides)}
+      ${section('The last 12 months', pList(d.year))}
+      ${section('Battles and strikes', battles)}
+      ${section('Technical picture', tech)}
+      ${section('The human toll', toll)}
+      ${section('Where the fighting is', zones)}
+      ${section('Timeline', timeline)}
+      ${section('Background', pList(d.background))}
+      ${section('What to watch', d.outlook ? `<p>${d.outlook}</p>` : '')}
+      ${section('Sources', sourceList(d.sources))}`);
+  }
+
+  async function openBattle(id) {
+    const light = battleById.get(id);
+    if (!light) return;
+    focusMil('battle', id, light.name);
+    flyToPoint(light.lat, light.lng, 0.7);
+    const c = conflictById.get(light.conflict);
+    let full = light;
+    try {
+      const d = await loadConflict(light.conflict);
+      full = d.battles.find((b) => b.id === id) || light;
+    } catch (_) { /* fall back to light data */ }
+    if (!state.focus || state.focus.id !== id) return;
+    const facts = [
+      ['When', esc(dateRange(full.start, full.end))],
+      ['Where', esc(full.place)],
+      ['Result', full.outcome],
+    ].filter(([, v]) => v).map(([k, v]) => `<div class="wide"><dt>${k}</dt><dd>${v}</dd></div>`).join('');
+    showPanel(`
+      ${panelTop(full.name, `${full.tier === 'major' ? 'Major battle' : 'Mid-size engagement'}${c ? ` in <button type="button" class="link" data-conflict="${c.id}">${esc(c.name)}</button>` : ''}`)}
+      <dl class="facts">${facts}</dl>
+      ${full.sides && full.sides.length ? section('Who fought', `<ul class="zones">${full.sides.map((x) => `<li>${esc(x)}</li>`).join('')}</ul>`) : ''}
+      ${section('Why it matters', full.significance ? `<p>${full.significance}</p>` : '')}
+      ${section('Forces and equipment', full.forces ? `<p>${full.forces}</p>` : '')}
+      ${section('Losses', full.losses ? `<p>${full.losses}</p>` : '')}
+      ${section('Sources', sourceList(full.sources))}
+      ${c ? `<p class="sov-link"><button class="btn" type="button" data-conflict="${c.id}">Open ${esc(c.name)}</button></p>` : ''}`);
+  }
+
+  function openBase(id) {
+    const b = baseById.get(id);
+    if (!b) return;
+    focusMil('base', id, b.name);
+    flyToPoint(b.lat, b.lng, 0.75);
+    const host = b.country && byId.get(b.country);
+    const facts = [
+      ['Type', esc(KIND_LABEL[b.kind] || b.kind)],
+      ['Host', host ? `<button type="button" class="link" data-id="${host.id}">${esc(host.flag)} ${esc(host.name)}</button>` : ''],
+      ['Operated by', esc(b.operators.join(', '))],
+      ['Coordinates', `${b.lat.toFixed(3)}, ${b.lng.toFixed(3)}`],
+    ].filter(([, v]) => v).map(([k, v]) => `<div class="wide"><dt>${k}</dt><dd>${v}</dd></div>`).join('');
+    showPanel(`
+      ${panelTop(b.name, `${esc(b.tier === 'critical' ? 'Critical site' : b.tier === 'important' ? 'Important site' : 'Notable site')}`)}
+      <dl class="facts">${facts}</dl>
+      ${section('Why it matters', b.why ? `<p>${b.why}</p>` : '')}
+      ${section('What is there', b.assets ? `<p>${b.assets}</p>` : '')}
+      ${section('In 2026', b.year ? `<p>${b.year}</p>` : '')}
+      ${section('Sources', sourceList(b.sources))}`);
+  }
+
+  function initPanelLinks() {
+    // Delegated clicks for links rendered inside panels and intros
+    $('#sheet-scroll').addEventListener('click', (ev) => {
+      const conflict = ev.target.closest('[data-conflict]');
+      if (conflict) { ev.preventDefault(); openConflict(conflict.dataset.conflict); return; }
+      const battle = ev.target.closest('[data-battle]');
+      if (battle) { ev.preventDefault(); openBattle(battle.dataset.battle); return; }
+      const chip = ev.target.closest('.flag-chip[data-id], #profile .link[data-id]');
+      if (chip) { ev.preventDefault(); setMode('politics', { keepPanel: true }); select(chip.dataset.id); }
+    });
+  }
+
+  function routeFromHash() {
+    const h = decodeURIComponent(location.hash.slice(1));
+    if (h === 'conflicts') { setMode('conflict'); return true; }
+    const m = h.match(/^([cbm])\/(.+)$/);
+    if (m) {
+      if (m[1] === 'c' && conflictById.has(m[2])) { if (!state.focus || state.focus.id !== m[2]) openConflict(m[2]); return true; }
+      if (m[1] === 'b' && battleById.has(m[2])) { if (!state.focus || state.focus.id !== m[2]) openBattle(m[2]); return true; }
+      if (m[1] === 'm' && baseById.has(m[2])) { if (!state.focus || state.focus.id !== m[2]) openBase(m[2]); return true; }
+      return false;
+    }
+    const id = h.toUpperCase();
+    if (byId.has(id) && id !== state.selected) { select(id); return true; }
+    return false;
+  }
+
   /* ---------- selection ---------- */
   async function select(id, { fly = true } = {}) {
     const e = byId.get(id);
     if (!e) return;
     state.selected = id;
+    state.focus = null;
     if (world) world.controls().autoRotate = false;
     refreshPolygons();
     if (fly) flyTo(e);
@@ -560,6 +1031,7 @@
     document.title = `${e.name}, World Politics Matrix`;
 
     $('#intro').hidden = true;
+    $('#war-intro').hidden = true;
     $('#profile').hidden = false;
     if (e.kind === 'territory') {
       renderTerritory(e);
@@ -581,9 +1053,9 @@
 
   function closeProfile() {
     state.selected = null;
+    state.focus = null;
     refreshPolygons();
-    $('#profile').hidden = true;
-    $('#intro').hidden = false;
+    showIntro();
     history.replaceState(null, '', location.pathname + location.search);
     document.title = 'World Politics Matrix';
     setSheet('peek');
@@ -643,24 +1115,47 @@
 
   /* ---------- boot ---------- */
   async function boot() {
-    const [idx, topo] = await Promise.all([
+    const [idx, topo, m, n] = await Promise.all([
       fetch('data/index.json').then((r) => r.json()),
       fetch('data/world.topo.json').then((r) => r.json()),
+      fetch('data/military.json').then((r) => (r.ok ? r.json() : null)).catch(() => null),
+      fetch('data/news.json').then((r) => (r.ok ? r.json() : null)).catch(() => null),
     ]);
     index = idx;
+    if (m) mil = m;
+    if (n) news = n;
+    conflictById = new Map(mil.conflicts.map((c) => [c.id, c]));
+    battleById = new Map(mil.battles.map((b) => [b.id, b]));
+    baseById = new Map(mil.bases.map((b) => [b.id, b]));
     byId = new Map(index.entities.map((e) => [e.id, e]));
     lensColor = buildLensColor();
     features = topojson.feature(topo, topo.objects.countries).features;
+    buildZones();
 
     try { const saved = localStorage.getItem('wpm-lens'); if (saved && LENSES[saved]) state.lens = saved; } catch (_) { /* storage unavailable */ }
 
+    let savedMode = 'politics';
+    try { if (localStorage.getItem('wpm-mode') === 'conflict') savedMode = 'conflict'; } catch (_) { /* storage unavailable */ }
+    if (/^#([cbm]\/|conflicts$)/.test(location.hash)) savedMode = 'conflict';
+
     renderIntro();
+    renderWarIntro();
+    renderNewsList($('#latest-news'), news.items.slice(0, 5));
     initSearch();
     initSheet();
+    initWarControls();
+    initPanelLinks();
     initGlobe($('#globe'));
     setLens(state.lens);
+    document.querySelectorAll('.mode-switch button').forEach((b) => b.addEventListener('click', () => setMode(b.dataset.mode)));
+    document.body.dataset.mode = 'politics';
+    if (savedMode === 'conflict') setMode('conflict');
 
     document.querySelectorAll('.lens-switch button').forEach((b) => b.addEventListener('click', () => setLens(b.dataset.lens)));
+    $('#random-war').addEventListener('click', () => {
+      const pool = mil.conflicts.filter((c) => c.status === 'active');
+      if (pool.length) openConflict(pool[Math.floor(Math.random() * pool.length)].id);
+    });
     $('#random-btn').addEventListener('click', () => {
       const pool = index.entities.filter((e) => e.kind === 'country');
       select(pool[Math.floor(Math.random() * pool.length)].id);
@@ -676,15 +1171,10 @@
     document.addEventListener('keydown', (ev) => {
       const typing = /^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement.tagName);
       if (ev.key === '/' && !typing) { ev.preventDefault(); input.focus(); }
-      else if (ev.key === 'Escape' && !typing && state.selected) closeProfile();
+      else if (ev.key === 'Escape' && !typing && (state.selected || state.focus)) closeProfile();
     });
-    window.addEventListener('hashchange', () => {
-      const id = location.hash.slice(1).toUpperCase();
-      if (byId.has(id) && id !== state.selected) select(id);
-    });
-
-    const fromHash = location.hash.slice(1).toUpperCase();
-    if (byId.has(fromHash)) select(fromHash);
+    window.addEventListener('hashchange', routeFromHash);
+    routeFromHash();
   }
 
   boot().catch((err) => {

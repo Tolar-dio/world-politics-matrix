@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>News, World Politics Matrix</title>
+<meta name="description" content="Daily political and military developments from around the world, with what's coming up next.">
+<meta name="theme-color" content="#E9ECEE" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#12191E" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='22' fill='%233E6A86'/%3E%3Cpath d='M18 26c6-6 12 2 16-2s8-4 12 2c-2 8-10 6-14 12s-10 8-14 2c-2-6 4-8 0-14z' fill='%23E3A86B'/%3E%3Ccircle cx='32' cy='32' r='28' fill='none' stroke='%23C8962E' stroke-width='3'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/news.css">
+</head>
+<body class="news-page">
+<header class="news-head">
+  <div class="news-head-inner">
+    <h1 class="wordmark"><a href="./">World Politics Matrix</a></h1>
+    <nav class="news-nav" aria-label="Site">
+      <a href="./">Globe</a>
+      <a href="./#conflicts">Conflicts</a>
+      <a href="news.html" aria-current="page">News</a>
+    </nav>
+  </div>
+</header>
+
+<main class="news-main">
+  <div class="news-intro">
+    <h2 class="news-title">The world, day by day</h2>
+    <p class="news-lede">Political and military developments that change the picture, checked against named sources and updated every day.</p>
+    <p class="news-updated" id="news-updated"></p>
+  </div>
+
+  <div class="news-layout">
+    <section class="news-feed" aria-label="News">
+      <div class="news-filters" role="radiogroup" aria-label="Filter by type">
+        <button type="button" role="radio" data-cat="all" aria-checked="true">All</button>
+        <button type="button" role="radio" data-cat="military" aria-checked="false">Military</button>
+        <button type="button" role="radio" data-cat="political" aria-checked="false">Political</button>
+        <button type="button" role="radio" data-cat="diplomatic" aria-checked="false">Diplomatic</button>
+        <button type="button" role="radio" data-cat="economic" aria-checked="false">Economic</button>
+        <button type="button" role="radio" data-cat="humanitarian" aria-checked="false">Humanitarian</button>
+      </div>
+      <div class="news-region">
+        <label for="region">Region</label>
+        <select id="region">
+          <option value="all">Everywhere</option>
+          <option>Africa</option>
+          <option>Americas</option>
+          <option>Asia</option>
+          <option>Middle East</option>
+          <option>Europe</option>
+          <option>Oceania</option>
+        </select>
+      </div>
+      <div id="feed"></div>
+    </section>
+
+    <aside class="news-side" aria-label="Coming up">
+      <h2 class="side-h">Coming up</h2>
+      <ol id="upcoming" class="upcoming"></ol>
+    </aside>
+  </div>
+</main>
+
+<script src="assets/news.js"></script>
+</body>
+</html>

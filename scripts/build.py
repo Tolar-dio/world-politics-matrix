@@ -26,6 +26,8 @@ from pathlib import Path
 
 import yaml
 
+import military
+
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content"
 DATA = ROOT / "data"
@@ -362,6 +364,11 @@ def main() -> None:
     for alias, target in aliases.items():
         aka.setdefault(target, []).append(alias)
 
+    try:
+        mil = military.build(CONTENT, DATA, ids, md_inline, paras, pretty_date)
+    except military.BuildError as err:
+        fail(str(err))
+
     entities = []
     for cid in sorted(ids):
         c = base[cid]
@@ -380,6 +387,7 @@ def main() -> None:
             "leader": tenure[cid].get("leader"), "since": tenure[cid].get("since"),
             "tenure": tenure_bucket(tenure[cid].get("since")),
             "pop": prof.get("pop"),
+            "war": mil["war"].get(cid, 0),
             "kind": "country", "area": round(c.get("area") or 0),
             "group": browse_group(cid, c.get("region")),
             "aka": sorted({a for a in aka.get(cid, []) if a != norm(name)}, key=len)[:6],
@@ -412,6 +420,7 @@ def main() -> None:
             "update": {"date": pretty_date(str(prof["update_date"])), "html": paras(prof["update"])[0]}
                       if prof.get("update") else None,
             "sources": merge_sources(prof.get("sources_extra"), nar["sources"] if nar else [], prof.get("sources")),
+            "conflicts": mil["by_country"].get(cid, []),
         }
         (out_dir / f"{cid}.json").write_text(json.dumps(detail, ensure_ascii=False, separators=(",", ":")))
 

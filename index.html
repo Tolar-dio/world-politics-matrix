@@ -18,6 +18,11 @@
   <main class="stage" id="stage">
     <header class="masthead">
       <h1 class="wordmark"><a href="./" id="home-link">World Politics Matrix</a></h1>
+      <div class="mode-switch" role="radiogroup" aria-label="Map mode">
+        <button type="button" role="radio" data-mode="politics" aria-checked="true">Politics</button>
+        <button type="button" role="radio" data-mode="conflict" aria-checked="false">Conflicts</button>
+      </div>
+      <a class="news-link" href="news.html">News</a>
       <div class="search" role="search">
         <label class="visually-hidden" for="search">Find a country</label>
         <input id="search" type="search" placeholder="Find a country" autocomplete="off" spellcheck="false"
@@ -34,6 +39,7 @@
     </div>
 
     <section class="lens-box" aria-label="Map colouring">
+      <div id="politics-controls" class="controls">
       <div class="lens-switch" role="radiogroup" aria-label="Colour countries by">
         <button type="button" role="radio" data-lens="system" aria-checked="true">System</button>
         <button type="button" role="radio" data-lens="story" aria-checked="false">2026 storyline</button>
@@ -43,6 +49,21 @@
         <summary id="legend-title">Key</summary>
         <ul id="legend" class="legend-list"></ul>
       </details>
+      </div>
+      <div id="war-controls" class="controls" hidden>
+        <fieldset class="layer-toggles">
+          <legend class="visually-hidden">Show on the map</legend>
+          <label><input type="checkbox" data-layer="zones" checked> Zones</label>
+          <label><input type="checkbox" data-layer="lines" checked> Front lines</label>
+          <label><input type="checkbox" data-layer="battles" checked> Battles</label>
+          <label><input type="checkbox" data-layer="bases" checked> Bases</label>
+          <label class="sub"><input type="checkbox" id="major-only"> Major battles only</label>
+        </fieldset>
+        <details class="legend" open>
+          <summary>Key</summary>
+          <ul id="war-legend" class="legend-list"></ul>
+        </details>
+      </div>
     </section>
   </main>
 
@@ -55,6 +76,9 @@
         <div class="intro-actions">
           <button type="button" class="btn" id="random-btn">Show me a country</button>
         </div>
+        <h2 class="intro-h">Latest news</h2>
+        <ul class="news-mini" id="latest-news"></ul>
+        <p class="more-link"><a href="news.html">All news and what's coming up</a></p>
         <h2 class="intro-h">The year at a glance</h2>
         <ul class="glance" id="glance"></ul>
         <h2 class="intro-h">Longest in power</h2>
@@ -64,6 +88,20 @@
         <h2 class="intro-h">Browse by region</h2>
         <div id="browse" class="browse"></div>
         <p class="intro-foot">Borders from <a href="https://www.naturalearthdata.com/">Natural Earth</a>. Capitals, languages and currencies from <a href="https://github.com/mledoze/countries">mledoze/countries</a> (ODbL). Borders shown are the de facto lines and imply no position on disputed claims.</p>
+      </div>
+      <div id="war-intro" class="intro" hidden>
+        <p class="intro-lede">Every active war, insurgency and armed standoff on Earth, with the battles of the last 12 months and the bases that matter.</p>
+        <p class="intro-count" id="war-count"></p>
+        <div class="intro-actions">
+          <button type="button" class="btn" id="random-war">Show me a war</button>
+        </div>
+        <div id="war-list"></div>
+        <h2 class="intro-h">Latest battles and strikes</h2>
+        <ol class="longest" id="war-recent"></ol>
+        <h2 class="intro-h">Military news</h2>
+        <ul class="news-mini" id="war-news"></ul>
+        <p class="more-link"><a href="news.html">All news</a></p>
+        <p class="intro-foot">Zones, lines and positions are approximate and drawn from the open-source reporting cited in each entry. Casualty figures are contested in every war; each one names its source.</p>
       </div>
       <article id="profile" class="profile" hidden></article>
     </div>
