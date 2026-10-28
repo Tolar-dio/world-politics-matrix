@@ -1,3 +1,1038 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
-news: []
-upcoming: []
+news:
+- date: '2026-10-27'
+  countries: [ISR]
+  category: political
+  headline: Israelis vote in first general election since 7 October attack
+  summary: Israelis voted for all 120 Knesset seats in the first full-term election since 1988, with record turnout
+    reported. Final polls showed an opposition bloc led by Gadi Eisenkot's Yashar and Naftali Bennett's Together
+    on about 52 seats, Netanyahu's bloc on about 50 and Arab-led parties about 13, so neither side had 61. It matters
+    because the result decides whether Netanyahu, under an ICC arrest warrant, stays in power; results were not
+    available at the time of writing.
+  sources:
+  - label: 'Al Jazeera: Israel''s election: What are the possible outcomes?'
+    url: https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes
+  - label: 'Al Jazeera: Israel election 2026 live'
+    url: https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls
+  - label: 'Wikipedia: 2026 Israeli legislative election'
+    url: https://en.wikipedia.org/wiki/2026_Israeli_legislative_election
+- date: '2026-10-27'
+  countries: [ETH]
+  category: military
+  headline: Orthodox Church says 60 Christians killed in Oromia in a week
+  summary: The Ethiopian Orthodox Tewahedo Church said at least 60 people, all Christians, were killed in attacks
+    in Oromia over the previous week. It matters because insurgent and communal violence in Ethiopia's most populous
+    region is worsening.
+  sources:
+  - label: 'Reuters: Attackers kill 60 people in Ethiopia''s conflict-hit Oromiya region, Orthodox church says (cited
+      via Wikipedia Current events)'
+    url: https://www.reuters.com/world/africa/attackers-kill-60-people-ethiopias-conflict-hit-oromiya-region-orthodox-church-2026-10-27/
+- date: '2026-10-27'
+  countries: [CHN, IRN, USA]
+  category: diplomatic
+  conflict: iran-war-2026
+  headline: China to send envoy as Trump weighs 'deal or finish them off' on Iran
+  summary: China said it would send an envoy to the region, two days after Trump asked reporters 'do I make a deal
+    with them or do I finish them off?', having earlier said no strikes would come before the midterms. A Reuters/Ipsos
+    poll put approval of his handling of the conflict at 34 percent. It matters because the window after 3 November
+    is widely seen as the point of maximum risk of renewed war.
+  sources:
+  - label: 'Al Jazeera: Iran''s calculations as US escalation looms: Trust, midterms, Hormuz'
+    url: https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz
+- date: '2026-10-26'
+  countries: [IRN, SAU, PAK, TUR, YEM]
+  category: diplomatic
+  conflict: iran-war-2026
+  headline: Saudi, Pakistani and Turkish envoys meet Iran's president to defuse war
+  summary: Saudi Defence Minister Khalid bin Salman, Pakistani army chief Asim Munir and Turkish intelligence chief
+    Ibrahim Kalin, representing the Mecca defence pact, met President Pezeshkian in Tehran on a new US-Iran ceasefire
+    and on Houthi attacks; the sides agreed to keep talking. Qatari mediators are reportedly working on a five-day
+    sequence trading Hormuz reopening for an end to the US blockade. It matters because the US and Israel are reported
+    to be preparing renewed strikes after the 3 November midterms.
+  sources:
+  - label: 'Al Jazeera: Mecca defence alliance members in Tehran to defuse Iran-US, Yemen tensions'
+    url: https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions
+  - label: 'CTP-ISW: Iran Update, October 26, 2026'
+    url: https://www.criticalthreats.org/analysis/iran-update-october-26-2026
+  - label: 'France 24: Iran talks with Mecca pact nations'
+    url: https://www.france24.com/en/middle-east/20261026-iran-talks-mecca-pact-nations-war
+- date: '2026-10-26'
+  countries: [EGY, SAU]
+  category: military
+  conflict: yemen-civil-war
+  headline: Egypt's parliament authorises military support for Saudi Arabia
+  summary: Egypt's parliament authorised President el-Sisi to provide military support to Saudi Arabia if requested,
+    after Sisi pledged on 17 October to defend the kingdom against Houthi attacks. It matters because it could put
+    Egyptian forces into the Gulf for the first time since 1991.
+  sources:
+  - label: 'France 24 (AFP): Egypt parliament authorises military support to Saudi Arabia'
+    url: https://www.france24.com/en/live-news/20261026-egypt-parliament-authorises-military-support-to-saudi-arabia
+  - label: 'Arab News (AFP): Egypt''s Sisi seeks parliament approval to authorize support for Saudi Arabia'
+    url: https://www.arabnews.com/middle-east/egypts-sisi-seeks-parliament-approval-to-authorize-support-for-saudi-arabia-3006835
+- date: '2026-10-26'
+  countries: [JOR, SYR]
+  category: military
+  conflict: syria-transition-conflict
+  headline: Jordan bombs Islamic State targets in Syria; Damascus shuts border crossing
+  summary: Jordan struck what it said were Islamic State hideouts in Syria's Deraa and Suweida provinces, claiming
+    20 militants killed, in retaliation for the Karak church attack; Syria said at least seven civilians, including
+    three children, were killed, called the strikes uncoordinated and closed the Nassib crossing. It matters because
+    it opens a rift between Amman and Syria's transitional government.
+  sources:
+  - label: 'Al Jazeera: Jordan launches air strikes in Syria in response to a fatal church shooting'
+    url: https://www.aljazeera.com/amp/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting
+  - label: 'AA: Syria closes border crossing with Jordan to passengers, trade'
+    url: https://www.aa.com.tr/en/middle-east/syria-closes-border-crossing-with-jordan-to-passengers-trade/4101844
+- date: '2026-10-26'
+  countries: [BRA, USA]
+  category: political
+  headline: Brazil's top court bars Flavio Bolsonaro from leaving; he flies to the US
+  summary: A day after his defeat, Justice Alexandre de Moraes barred Flavio Bolsonaro from leaving Brazil and police
+    ordered him to surrender his passports; on 27 October he nonetheless left for the United States, according to
+    Reuters. It matters because it sets up a legal and diplomatic clash with Washington, where Trump has called
+    the election rigged.
+  sources:
+  - label: 'Firstpost: Defeated Flavio Bolsonaro hands over passports (cited via Wikipedia Current events)'
+    url: https://www.firstpost.com/world/defeated-flavio-bolsonaro-hands-over-passports-calls-travel-ban-attempt-to-intimidate-14055559.html
+  - label: 'Reuters: Flavio Bolsonaro leaves Brazil for US after election defeat (cited via Wikipedia Current events)'
+    url: https://www.reuters.com/world/americas/flavio-bolsonaro-leaves-brazil-us-after-election-defeat-source-media-say-2026-10-27/
+- date: '2026-10-26'
+  countries: [SOM]
+  category: diplomatic
+  headline: UN to end its Somalia transition mission on 31 October
+  summary: The UN said support through its Transitional Assistance Mission in Somalia will end on 31 October, with
+    smaller agencies continuing work. It matters because it closes decades of a dedicated UN political mission while
+    al-Shabaab remains active.
+  sources:
+  - label: 'AA: UN mission in Somalia to end operations on Oct 31'
+    url: https://www.aa.com.tr/en/americas/un-mission-in-somalia-to-end-operations-on-oct-31-after-decades-of-support/4101656
+- date: '2026-10-26'
+  countries: [LBN, IRN, ISR]
+  category: military
+  conflict: israel-hezbollah-lebanon
+  headline: Iran funds Hezbollah rebuild as Israeli strikes on south Lebanon continue
+  summary: Reuters reported that Iran has given Hezbollah tens of millions of dollars to rebuild its military, while
+    Iran's deputy foreign minister told Hezbollah on 14-15 October that it would not be asked to join a renewed
+    war with the US. Israeli strikes and demolitions in the south continued on 27 October despite the June ceasefire
+    framework; Lebanon's toll since 2 March stands at 4,386 dead. It matters because Lebanon is the most likely
+    second front if US strikes on Iran resume.
+  sources:
+  - label: 'CTP-ISW: Iran Update, October 26, 2026'
+    url: https://www.criticalthreats.org/analysis/iran-update-october-26-2026
+  - label: 'AA: Israel carries out strikes in southern Lebanon in fresh ceasefire violations'
+    url: https://www.aa.com.tr/en/middle-east/israel-carries-out-strikes-in-southern-lebanon-in-fresh-ceasefire-violations/4101864
+- date: '2026-10-25'
+  countries: [BRA]
+  category: political
+  headline: Lula wins Brazil runoff for a fourth term
+  summary: President Luiz Inacio Lula da Silva beat Flavio Bolsonaro by about 51.8 percent to 48.2 percent, a margin
+    of roughly 4.4 million votes, reversing his first-round deficit of 45 to 47 percent; turnout was about 80.8
+    percent. Bolsonaro's camp contested the result and President Trump called it 'rigged' without evidence, though
+    the Liberal Party accepted it on 26 October. It matters because Latin America's largest economy stays under
+    a left-of-centre leader critical of Trump; the new term begins on 5 January 2027.
+  sources:
+  - label: 'PBS NewsHour (AP): Lula beats Bolsonaro in Brazil runoff, securing fourth presidential term'
+    url: https://www.pbs.org/newshour/world/brazil-votes-in-a-tense-lula-vs-bolsonaro-runoff-with-u-s-influence-over-latin-america-at-stake
+  - label: 'The Rio Times: Brazil election results 2026'
+    url: https://riotimesonline.com/brazil-election-results-2026
+  - label: 'Reuters: Brazil election live (cited via Wikipedia Current events)'
+    url: https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/
+- date: '2026-10-25'
+  countries: [SRB]
+  category: political
+  headline: Student List wins Serbia's snap election; Vucic concedes
+  summary: The student-led Student List, headed by Ilija Srdanovic, won about 53 percent in preliminary official
+    results (CeSID-Ipsos projected 52.9 percent and about 141 of 250 seats) against about 39 percent for Aleksandar
+    Vucic's SNS-led list, on 68.9 percent turnout, the highest since 1992. Vucic, who resigned the presidency on
+    27 September to run for prime minister, conceded on election night. It matters because it ends 14 years of SNS
+    rule after two years of protests that began with the Novi Sad canopy collapse.
+  sources:
+  - label: 'Euronews: Student List wins Serbian election in political earthquake as Vucic concedes defeat'
+    url: https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won
+  - label: 'Al Jazeera: Serbia''s Vucic concedes election defeat to student-led movement'
+    url: https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader
+  - label: 'RFE/RL: Serbia vote (cited via Wikipedia Current events)'
+    url: https://www.rferl.org/a/serbia-vote-election-parliament-vucic-student-corruption/33883844.html
+- date: '2026-10-25'
+  countries: [BGR]
+  category: political
+  headline: Bulgaria's presidential race goes to runoff on record-low turnout
+  summary: Incumbent President Iliana Iotova took about 35 percent and former acting prime minister Andrey Gyurov
+    about 32 percent, forcing a runoff on 1 November; turnout was the lowest in Bulgarian history. It matters because
+    the vote came in the wake of deadly drone strikes on shipping off Bulgaria's coast.
+  sources:
+  - label: 'CNN (AP): Bulgaria presidential race heads to runoff'
+    url: https://www.cnn.com/2026/10/25/europe/bulgaria-presidential-race-heads-to-runoff-latam-intl
+  - label: 'Reuters: Bulgaria votes for president in wake of deadly Black Sea drone strikes (cited via Wikipedia
+      Current events)'
+    url: https://www.reuters.com/world/bulgaria-votes-president-wake-deadly-black-sea-drone-strikes-2026-10-25/
+  - label: 'Wikipedia: 2026 Bulgarian presidential election'
+    url: https://en.wikipedia.org/wiki/2026_Bulgarian_presidential_election
+- date: '2026-10-25'
+  countries: [DZA, NER]
+  category: military
+  headline: Algeria approves first foreign troop deployment since 1973, to Niger
+  summary: Algeria's parliament approved sending army units to Madama in northern Niger to protect energy infrastructure,
+    the country's first military deployment abroad since 1973. It matters as a major shift in Algeria's non-intervention
+    doctrine and in the Sahel security map after the departure of French and US forces.
+  sources:
+  - label: 'BBC: Algeria approves deployment to Niger (cited via Wikipedia Current events; not fetched directly)'
+    url: https://www.bbc.com/news/articles/cm4g14n1e5wko
+- date: '2026-10-25'
+  countries: [FRA]
+  category: political
+  headline: Marine Le Pen launches 2027 presidential bid
+  summary: National Rally leader Marine Le Pen announced her presidential campaign after her party congress in Orleans,
+    as protests shook the country. It matters because she is the front-runner in polls for the 2027 election.
+  sources:
+  - label: 'Reuters: France''s Le Pen launches presidential bid as protests rattle nation (cited via Wikipedia Current
+      events)'
+    url: https://www.reuters.com/world/frances-le-pen-launches-presidential-bid-protests-rattle-nation-2026-10-25/
+  - label: 'Euronews: Thousands protest against far-right National Rally congress in France'
+    url: https://www.euronews.com/2026/10/24/thousands-protest-against-far-right-national-rally-congress-in-france
+- date: '2026-10-25'
+  countries: [VEN]
+  category: political
+  headline: Maria Corina Machado returns to Venezuela from exile
+  summary: Opposition leader and Nobel Peace laureate Maria Corina Machado announced she had returned to Venezuela.
+    It matters because her presence tests whether the authorities will tolerate open opposition activity.
+  sources:
+  - label: 'CNN: Machado returns to Venezuela (cited via Wikipedia Current events; not fetched directly)'
+    url: https://edition.cnn.com/2026/10/25/americas/machado-returns-venezuela-latam-intl
+- date: '2026-10-25'
+  countries: [PSE, ISR]
+  category: military
+  conflict: israel-hamas-gaza
+  headline: Israeli strike on Islamic University of Gaza kills three staff
+  summary: An Israeli airstrike on the Islamic University of Gaza killed three staff and wounded eight students,
+    and four other Palestinians died in separate strikes; a strike on a Khan Younis tent killed four more on 26
+    October. It matters because deadly strikes continue a year into the US-brokered ceasefire.
+  sources:
+  - label: 'Dawn (AFP): Israeli strike on university in Gaza City kills 3'
+    url: https://www.dawn.com/news/2039736/israeli-strike-on-university-in-gaza-city-kills-3-another-4-palestinians-killed-in-separate-airstrikes
+  - label: 'Al Jazeera: Israeli forces kill at least five people in Gaza including 7-year-old girl'
+    url: https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl
+- date: '2026-10-25'
+  countries: [COL]
+  category: military
+  headline: Colombian army kills 10 ELN fighters including two leaders in Cauca
+  summary: The government said an operation in El Tambo, Cauca, killed ten National Liberation Army members, including
+    two key leaders. It matters as a sign the new government is pursuing a military line against the ELN.
+  sources:
+  - label: 'AP: Colombia ELN army guerrilla killed leaders (cited via Wikipedia Current events)'
+    url: https://apnews.com/article/colombia-eln-army-guerrilla-killed-leaders-marcos-7ad9b570a1b6a12ddfd3d50dbcd1cbc4
+- date: '2026-10-24'
+  countries: [CAN]
+  category: political
+  headline: Conservatives win British Columbia snap election
+  summary: BC's Conservatives won the provincial snap election, returning to power for the first time in nearly
+    a century and ending nine years of NDP rule; Premier David Eby resigned as NDP leader. It matters as part of
+    a wave of provincial upheaval in Canada this month alongside Quebec and Alberta.
+  sources:
+  - label: 'Reuters: Conservative party wins first election in nearly a century in British Columbia (cited via Wikipedia
+      Current events)'
+    url: https://www.reuters.com/legal/litigation/conservative-party-wins-first-election-nearly-century-british-columbia-2026-10-25/
+  - label: 'CBC: BC provincial election results'
+    url: https://www.cbc.ca/news/canada/british-columbia/livestory/bc-provincial-election-results-live-updates-2026-9.7389208
+- date: '2026-10-24'
+  countries: [NGA]
+  category: military
+  headline: Gunmen massacre villagers in Nigeria's Taraba state
+  summary: Gunmen attacked a village in Taraba State; police first reported at least 10 dead, and by 27 October
+    AP put the toll at 62 killed and 52 wounded. It matters as one of the deadliest attacks this year in Nigeria's
+    middle belt.
+  sources:
+  - label: 'Al Jazeera: Gunmen kill at least 10 people in eastern Nigeria, police say'
+    url: https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say
+  - label: 'AP: Nigeria gunmen attack (cited via Wikipedia Current events)'
+    url: https://apnews.com/article/nigeria-gunmen-attack-ecc5e9432b73275371b8490c775320dc
+- date: '2026-10-24'
+  countries: [ESP, ITA]
+  category: political
+  headline: Cost-of-living unrest spreads to Spain and Italy
+  summary: About 25,000 rallied in Madrid for the state pension system, a student protest in Barcelona ended in
+    looting and 128 arrests, and clashes broke out in Bologna, Turin, Rome and Florence after weeks of Italian trucker
+    and farmer blockades over fuel prices. It matters because Spain votes in a general election on 29 November.
+  sources:
+  - label: 'Al Jazeera: About 25,000 rally in Madrid in support of Spain''s state pension scheme'
+    url: https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme
+  - label: 'Euronews: 100 arrested after night of unrest and looting in Barcelona'
+    url: https://www.euronews.com/2026/10/25/100-arrested-after-night-of-unrest-and-looting-in-barcelona
+- date: '2026-10-24'
+  countries: [YEM, SAU]
+  category: military
+  conflict: yemen-civil-war
+  headline: Saudi airstrikes in Yemen's Hamdan district kill 10
+  summary: Saudi airstrikes hit a residential building and a cement factory in Hamdan district, killing ten. On
+    25 October Saudi forces struck five Houthi missile storage sites and four launchers after another missile was
+    fired at Riyadh, as King Khalid airport partly reopened after a two-week closure. It matters because civilian
+    casualties in Yemen are rising again as the air war resumes.
+  sources:
+  - label: 'Tempo: More than 10 killed in Saudi-led coalition airstrikes in Yemen'
+    url: https://en.tempo.co/read/2122301/more-than-10-killed-in-saudi-led-coalition-airstrikes-in-yemen
+  - label: 'CTP-ISW: Iran Update, October 26, 2026'
+    url: https://www.criticalthreats.org/analysis/iran-update-october-26-2026
+- date: '2026-10-24'
+  countries: [ISR]
+  category: political
+  headline: Thousands rally against Netanyahu government days before election
+  summary: Thousands of Israelis rallied in Tel Aviv's Hostages Square against Netanyahu's government and the continuing
+    Gaza war. It matters as the final major opposition mobilisation before the 27 October vote.
+  sources:
+  - label: 'Al Jazeera: Thousands of Israelis rally against Netanyahu govt days before election'
+    url: https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election
+- date: '2026-10-24'
+  countries: [ALB]
+  category: political
+  headline: More than 300 hurt as Albania's nationwide protest turns violent
+  summary: Thousands rallied in Tirana on 24 October; police used tear gas, water cannon and rubber bullets, several
+    government buildings were attacked, more than 300 protesters and police were injured and dozens were arrested.
+    Rama blamed 'foreign actors' and Russian and Iranian disinformation while offering dialogue, which protesters
+    rejected. It matters because the protests have outlasted two weeks and broadened from students to teachers and
+    professors.
+  sources:
+  - label: 'Al Jazeera: Thousands gather at new Albanian antigovernment rally'
+    url: https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally
+  - label: 'Euronews: Violent protests shake Tirana as police use tear gas and water cannons'
+    url: https://www.euronews.com/2026/10/24/tensions-rise-in-albania-as-protesters-burn-symbolic-pillows-outside-prime-ministers-offic
+  - label: 'Bloomberg: Albanian protests turn violent as calls grow for PM to resign'
+    url: https://www.bloomberg.com/news/articles/2026-10-24/albanian-protests-turn-violent-as-calls-grow-for-pm-to-resign
+- date: '2026-10-23'
+  countries: [UKR, RUS, USA]
+  category: humanitarian
+  conflict: russia-ukraine-war
+  headline: Melania Trump brokers local humanitarian ceasefire in occupied Oleshky
+  summary: Russia and Ukraine agreed a localised ceasefire in occupied Oleshky in Kherson oblast so civilians can
+    leave and aid can enter, mediated by US First Lady Melania Trump; Russia announced it from 27 October and the
+    White House from 29 October. The same day 270 prisoners were exchanged on each side, and a Ukrainian-crewed
+    cargo ship sank off Romania after a suspected Russian drone strike. It matters as the first ceasefire of any
+    kind agreed in the war in months.
+  sources:
+  - label: 'Kyiv Independent: Ukraine, Russia agree to local ceasefire for Russian-occupied Oleshky, mediated by
+      Melania Trump'
+    url: https://kyivindependent.com/ukraine-war-latest-ukraine-russia-agree-to-local-ceasefire-for-russian-occupied-oleshky-mediated-by-melania-trump/
+  - label: 'The Moscow Times: Russia, Ukraine agree on ceasefire in embattled Oleshky, plan new peace talks next
+      month'
+    url: https://www.themoscowtimes.com/2026/10/24/russia-ukraine-agree-on-ceasefire-in-embattled-oleshky-plan-new-peace-talks-next-month-a94069
+- date: '2026-10-23'
+  countries: [PSE, ISR]
+  category: military
+  conflict: west-bank-violence
+  headline: Israel orders preparations for full West Bank lockdown after soldiers killed
+  summary: After Palestinian gunmen killed two Israeli soldiers at a checkpoint, Israeli forces launched a multi-day
+    operation around Hebron and the government ordered the army to prepare a complete lockdown of the West Bank;
+    on 24 October raids hit 15 cities and more than 2,000 people were forced from their homes in Hebron. It matters
+    because it escalates the West Bank crisis on the eve of Israel's election.
+  sources:
+  - label: 'Al Jazeera: Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up'
+    url: https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up
+  - label: 'Al Jazeera: More than 2,000 forced from homes in Hebron amid Israel''s West Bank raids'
+    url: https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids
+- date: '2026-10-23'
+  countries: [JOR]
+  category: military
+  headline: Gunmen kill nine at Greek Orthodox funeral in Jordan's Karak
+  summary: Three gunmen opened fire on mourners at a Greek Orthodox church funeral in Karak governorate, killing
+    at least nine and wounding dozens; the suspects were wounded and arrested on 26 October. It matters as the deadliest
+    attack on Christians in Jordan in memory and it triggered Jordanian airstrikes in Syria.
+  sources:
+  - label: 'Al Jazeera: At least seven killed after gunmen open fire at church in Jordan'
+    url: https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan
+  - label: 'Al Jazeera: Jordan launches air strikes in Syria in response to a fatal church shooting'
+    url: https://www.aljazeera.com/amp/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting
+- date: '2026-10-22'
+  countries: [IRN, USA]
+  category: military
+  conflict: strait-of-hormuz-shipping-war
+  headline: Seven tankers hit in Hormuz in war's worst single day for shipping
+  summary: Iran's IRGC said seven oil tankers were struck in the Strait of Hormuz, four by attacks and three by
+    mines, the largest one-day toll since the war began on 28 February, and threatened US bases if Washington escorted
+    tankers through other lanes. CENTCOM rejected the mine claims and said 95 percent of ships were getting through;
+    Trump accused Iran of trying to lift oil prices before the midterms. It matters because Brent crude passed 117
+    dollars a barrel that week.
+  sources:
+  - label: 'Al Jazeera: Iran says seven ships hit in Hormuz Strait, warns US of wider response'
+    url: https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response
+  - label: 'Al Jazeera: Iran''s calculations as US escalation looms'
+    url: https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz
+- date: '2026-10-22'
+  countries: [SDN]
+  category: military
+  headline: Sudan's army retakes Bukuri base in Blue Nile
+  summary: The Sudanese army said it recaptured two strategic areas in Blue Nile state, including the Bukuri base
+    near Ad-Damazin, after repelling a joint RSF and SPLM-N assault; RSF drones knocked out power plants in White
+    Nile and, on 26 October, across southeast Sudan. It matters because Blue Nile has become a new front linking
+    the war to the Ethiopian and South Sudanese borders.
+  sources:
+  - label: 'Sudan Tribune: Sudanese army recaptures strategic military base in Blue Nile region from RSF alliance'
+    url: https://sudantribune.com/article/320301
+  - label: 'Reuters: Drone strikes cut power across southeast Sudan, operator says (cited via Wikipedia Current
+      events)'
+    url: https://www.reuters.com/business/energy/drone-strikes-cut-power-across-southeast-sudan-operator-says-2026-10-26/
+- date: '2026-10-22'
+  countries: [ECU]
+  category: political
+  headline: Ecuador arrests opposition leader Luisa Gonzalez
+  summary: Luisa Gonzalez, the Citizen Revolution leader and former presidential runner-up, was arrested over alleged
+    money laundering in campaign financing. It matters because it removes the main left-wing opposition figure under
+    Daniel Noboa and will be read by supporters as political persecution.
+  sources:
+  - label: 'Reuters: Former presidential candidate Gonzalez arrested in Ecuador (cited via Wikipedia Current events)'
+    url: https://www.reuters.com/world/americas/former-presidential-candidate-gonzalez-arrested-ecuador-2026-10-22/
+- date: '2026-10-21'
+  countries: [RUS, UKR, USA]
+  category: diplomatic
+  conflict: russia-ukraine-war
+  headline: Putin agrees with Witkoff to restart three-way Ukraine peace talks
+  summary: US envoy Steve Witkoff met Vladimir Putin for three hours in St Petersburg; Russia freed US citizen Stephen
+    Hubbard and Putin agreed 'in principle' to resume US-Russia-Ukraine talks, which he said could start on or after
+    10 November, possibly in Abu Dhabi. Zelenskyy backed the format, wants talks by early November and said US intelligence
+    sharing had been restored. It matters as the first trilateral track since February, before the Iran war.
+  sources:
+  - label: 'Al Jazeera: Putin and Zelenskyy back three-way US peace talks on Ukraine'
+    url: https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy
+  - label: 'Reuters: Putin hosts Trump envoy for new Ukraine peace talks, frees US citizen (cited via Wikipedia
+      Current events)'
+    url: https://www.reuters.com/world/europe/putin-hosts-trump-envoy-new-ukraine-peace-talks-frees-us-citizen-held-russia-2026-10-21/
+- date: '2026-10-21'
+  countries: [SAU, USA, YEM]
+  category: military
+  conflict: yemen-civil-war
+  headline: Houthi strike on Dammam airport kills two; US orders staff out of Saudi Arabia
+  summary: A Houthi attack on King Fahd International Airport in Dammam killed two and injured eight, and debris
+    from a downed drone killed two near the Shaybah oilfield. The US ordered non-emergency embassy staff and families
+    to leave Saudi Arabia. It matters because October's airport attacks have killed 22 and injured more than 380,
+    the deadliest attacks inside the kingdom since 2015.
+  sources:
+  - label: 'Al Jazeera: US orders departure of personnel from Saudi Arabia citing Houthi threat'
+    url: https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat
+  - label: 'BBC: Houthi attack on Dammam airport (cited via Wikipedia Current events)'
+    url: https://www.bbc.com/news/articles/cqwy71ww156ro
+  - label: 'Wikipedia: 2026 Houthi attacks on Saudi airports'
+    url: https://en.wikipedia.org/wiki/2026_Houthi_attacks_on_Saudi_airports
+- date: '2026-10-21'
+  countries: [IDN, PAK, QAT, TUR]
+  category: diplomatic
+  headline: Indonesia, Pakistan, Qatar and Turkey sign Badr defence-industry pact
+  summary: The four states signed the Badr Memorandum of Understanding on joint military production, training and
+    research. It matters as another sign of new Muslim-majority security groupings forming outside Western structures,
+    alongside the Saudi-Pakistan-Turkey Mecca pact.
+  sources:
+  - label: 'Al Jazeera: How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties'
+    url: https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties
+- date: '2026-10-21'
+  countries: [BFA]
+  category: political
+  headline: Burkina Faso's junta-appointed parliament restores death penalty
+  summary: Burkina Faso's transitional legislature unanimously adopted a revised criminal code restoring the death
+    penalty for terrorism, espionage, treason and other crimes. It matters because Captain Ibrahim Traore's government,
+    which says it has foiled repeated coup plots, now has capital punishment available for treason and terrorism
+    cases.
+  sources:
+  - label: 'Reuters: Burkina Faso parliament votes to restore death penalty (cited via Wikipedia 2026 in Burkina
+      Faso)'
+    url: https://www.reuters.com/world/africa/burkina-faso-parliament-votes-restore-death-penalty-2026-10-21/
+- date: '2026-10-21'
+  countries: [CAN]
+  category: political
+  headline: Parti Quebecois leader Paul St-Pierre Plamondon sworn in as Quebec premier
+  summary: Paul St-Pierre Plamondon became Quebec's 34th premier after the sovereigntist PQ won the provincial election,
+    naming an independence minister. It matters because a PQ government reopens the question of a third Quebec sovereignty
+    referendum.
+  sources:
+  - label: 'The Globe and Mail: Paul St-Pierre Plamondon Quebec premier, cabinet, independence minister'
+    url: https://www.theglobeandmail.com/canada/article-paul-st-pierre-plamondon-quebec-premier-cabinet-independence-minister/
+- date: '2026-10-21'
+  countries: [ARE]
+  category: diplomatic
+  headline: UAE's Lana Nusseibeh enters race for UN Secretary-General
+  summary: Emirati diplomat Lana Nusseibeh announced her candidacy to succeed Antonio Guterres. It matters because
+    the 2026 selection, decided by the Security Council, will shape the UN's response to multiple wars.
+  sources:
+  - label: 'Reuters: Senior UAE diplomat Lana Nusseibeh enters race for UN chief (cited via Wikipedia Current events)'
+    url: https://www.reuters.com/world/senior-uae-diplomat-lana-nusseibeh-enters-race-un-chief-2026-10-21/
+- date: '2026-10-20'
+  countries: [ROU]
+  category: political
+  headline: Romania's parliament installs Luca Niculescu as prime minister
+  summary: Parliament confirmed Luca Niculescu as prime minister at the head of a largely PSD government, ending
+    a six-month crisis that began when the PSD quit Ilie Bolojan's coalition in April over plans to list state-company
+    stakes and then ousted him in a no-confidence vote. It matters because Romania faces one of the EU's largest
+    deficits and needed a functioning government.
+  sources:
+  - label: 'Reuters: Romanian parliament confirms new prime minister after months of deadlock (cited via Wikipedia
+      Current events)'
+    url: https://www.reuters.com/world/europe/romanian-parliament-confirms-new-prime-minister-after-months-deadlock-2026-10-20/
+  - label: 'Wikipedia: 2026 Romanian political crisis'
+    url: https://en.wikipedia.org/wiki/2026_Romanian_political_crisis
+- date: '2026-10-20'
+  countries: [GBR, SAU, YEM]
+  category: military
+  conflict: yemen-civil-war
+  headline: UK sends RAF Typhoons to defend Saudi Arabia from Houthi attacks
+  summary: Britain said it would deploy RAF Typhoon jets, an A400M, advisers and extra air refuelling to help protect
+    Saudi cities and infrastructure from Houthi missiles and drones. It matters as the first Western combat deployment
+    into the renewed Houthi-Saudi war.
+  sources:
+  - label: 'BBC: UK to deploy RAF Typhoons to Saudi Arabia (cited via Wikipedia Current events)'
+    url: https://www.bbc.com/news/articles/ckr5yqe1r1llo
+  - label: 'Reuters: UK to fly RAF missions defending Saudi Arabia against Houthi attacks (cited via Wikipedia Current
+      events)'
+    url: https://www.reuters.com/business/aerospace-defense/uk-fly-raf-missions-defending-saudi-arabia-against-houthi-attacks-bloomberg-2026-10-20/
+- date: '2026-10-20'
+  countries: [LBY, TUR]
+  category: diplomatic
+  headline: Eastern Libya's parliament endorses 2019 maritime deal with Turkey
+  summary: Libya's eastern-based House of Representatives approved the 2019 maritime boundary agreement with Turkey
+    and repealed its 2020 rejection. It matters because it brings Haftar's camp into line with Ankara and is likely
+    to anger Greece, Cyprus and Egypt over Eastern Mediterranean claims.
+  sources:
+  - label: 'Reuters: Eastern Libya parliament approves maritime deal with Turkey (cited via Wikipedia Current events)'
+    url: https://www.reuters.com/world/europe/eastern-libya-parliament-approves-maritime-deal-with-turkey-lifts-2020-boycott-2026-10-20/
+- date: '2026-10-20'
+  countries: [MYS]
+  category: political
+  headline: Malaysia deregisters main opposition coalition Perikatan Nasional
+  summary: Malaysia's Registrar of Societies deregistered Perikatan Nasional, citing internal disputes and constitutional
+    breaches, so its parties cannot contest coming elections under one banner. It matters because it weakens the
+    main challenger to Anwar Ibrahim's government as elections approach.
+  sources:
+  - label: 'Reuters: Malaysia de-registers main opposition bloc as elections loom (cited via Wikipedia Current events)'
+    url: https://www.reuters.com/world/asia-pacific/malaysia-de-registers-main-opposition-bloc-elections-loom-2026-10-20/
+- date: '2026-10-20'
+  countries: [NGA, KEN, UGA]
+  category: humanitarian
+  headline: Bundibugyo Ebola outbreak spreads to Nigeria
+  summary: Nigeria confirmed its first case in the current Bundibugyo Ebola epidemic, a woman who had visited Uganda,
+    and by 25 October was tracing at least 44 contacts in Abuja; Kenya's total reached seven on 17 October. It matters
+    because the outbreak is now spreading across East and West Africa, and an Ebola responder was killed by gunmen
+    in eastern DR Congo on 24 October.
+  sources:
+  - label: 'The Guardian: Nigeria first Ebola case'
+    url: https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest
+  - label: 'RFI (AFP): Nigeria widens hunt for possible Ebola cases'
+    url: https://www.rfi.fr/en/international-news/20261025-nigeria-widens-hunt-for-possible-ebola-cases
+- date: '2026-10-19'
+  countries: [SDN, SSD]
+  category: humanitarian
+  headline: Drone strike on Abyei market kills at least 153
+  summary: A drone strike on the Amiet market in the disputed Abyei area killed at least 153 people, according to
+    AP, and about 220 according to local authorities, one of the deadliest single attacks of Sudan's war. South
+    Sudan summoned Sudan's ambassador and blamed the Sudanese army, which denied involvement; a Sudanese official
+    initially said fuel tankers supplying the RSF were targeted. It matters because it drags South Sudan and the
+    UN-patrolled Abyei zone into the war.
+  sources:
+  - label: 'AP: Drone strike on a market in Abyei kills at least 153'
+    url: https://www.news4jax.com/news/world/2026/10/20/drone-strike-on-a-market-in-disputed-african-region-of-abyei-kills-at-least-153/
+  - label: 'Sudans Post: Abyei drone attack death toll reaches 220'
+    url: https://www.sudanspost.com/abyei-drone-attack-death-toll-reaches-220/
+  - label: 'Reuters: Drone strike in disputed Sudan-South Sudan area kills dozens, minister says (cited via Wikipedia
+      Current events)'
+    url: https://www.reuters.com/world/africa/drone-strike-disputed-sudan-south-sudan-area-kills-dozens-minister-says-2026-10-20/
+- date: '2026-10-19'
+  countries: [YEM]
+  category: military
+  conflict: yemen-civil-war
+  headline: Houthi missile strike on army training camp in Shabwah kills dozens
+  summary: A Houthi missile attack on a Yemeni government military training centre in Shabwah killed at least 18
+    soldiers according to early Reuters reporting; later tallies cited on Wikipedia put the toll at 58 dead and
+    more than 200 wounded. It matters as the deadliest single blow to government forces in this phase of the war.
+  sources:
+  - label: 'Reuters: At least 18 killed in Houthi attack on Yemeni government military camp in Shabwa (cited via
+      Wikipedia Current events)'
+    url: https://www.reuters.com/world/least-18-killed-houthi-attack-yemeni-government-military-camp-shabwa-sources-say-2026-10-19/
+- date: '2026-10-19'
+  countries: [CAN]
+  category: political
+  headline: Albertans reject pursuing independence from Canada
+  summary: In a set of ten provincial referendums, more than three-quarters of Alberta voters rejected seeking a
+    future independence referendum. It matters because it defuses, for now, the western separatist push, even as
+    Quebec's new Parti Quebecois government takes office.
+  sources:
+  - label: 'BBC: Alberta independence referendum result (cited via Wikipedia Current events)'
+    url: https://www.bbc.com/news/articles/cxr5yqqd7nlpo
+  - label: 'Reuters: Alberta votes on leaving Canada (cited via Wikipedia Current events)'
+    url: https://www.reuters.com/world/americas/alberta-votes-leaving-canada-separatist-movement-likely-outlast-expected-defeat-2026-10-19/
+- date: '2026-10-19'
+  countries: [CUB, USA]
+  category: political
+  headline: Florida issues arrest warrant for Raul Castro over 1996 shootdown
+  summary: A Miami-Dade judge issued a no-bail warrant for former Cuban leader Raul Castro after Florida's attorney
+    general charged him with conspiracy to murder over the 1996 downing of Brothers to the Rescue planes. It matters
+    as an escalation in US pressure on Havana.
+  sources:
+  - label: 'Al Jazeera: Florida issues arrest warrant for Cuban leader Raul Castro'
+    url: https://www.aljazeera.com/news/2026/10/19/florida-issues-arrest-warrant-for-cuban-leader-raul-castro
+- date: '2026-10-19'
+  countries: [MEX, USA]
+  category: political
+  headline: Mexico charges ex-Chihuahua prosecutor with treason over CIA role in drug raid
+  summary: Federal agents arrested former Chihuahua attorney general Cesar Jauregui on a treason warrant, accusing
+    him of letting US agents, reported to be CIA officers, join an April anti-drug operation without federal approval.
+    It matters because sovereignty disputes over US security operations are a growing strain on US-Mexico relations.
+  sources:
+  - label: 'Al Jazeera: Mexico charges prosecutor with treason over US involvement in drug raid'
+    url: https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid
+- date: '2026-10-19'
+  countries: [PSE]
+  category: humanitarian
+  conflict: israel-hamas-gaza
+  headline: WFP cuts Gaza food aid for half a million people
+  summary: The World Food Programme cut monthly food aid for about 500,000 people in Gaza because of funding shortages,
+    reducing recipients from 1.6 million to 1.1 million. It matters because the year-old ceasefire has not ended
+    hunger, with more than 100 NGOs saying it exists 'in name only'.
+  sources:
+  - label: 'France 24 (AFP): UN agency slashes Gaza food aid over funding'
+    url: https://www.france24.com/en/live-news/20261019-un-agency-slashes-gaza-food-aid-over-funding-warns-needs-persist
+  - label: 'Al Jazeera: Gaza ceasefire ''exists in name only'', more than 100 NGOs say'
+    url: https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say
+- date: '2026-10-19'
+  countries: [AUS]
+  category: political
+  headline: Australian independent MP Helen Haines run down outside her office
+  summary: Independent MP Helen Haines was deliberately hit by a car outside her office in Wangaratta, Victoria,
+    and later lost both legs; the driver was arrested. It matters as a rare act of serious political violence against
+    an Australian lawmaker.
+  sources:
+  - label: 'The Guardian: Helen Haines loses both legs after alleged attack'
+    url: https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb
+  - label: 'AFP: Australian lawmaker hurt in car attack loses leg'
+    url: https://www.afp.com/en/australian-lawmaker-hurt-car-attack-loses-leg-media
+- date: '2026-10-18'
+  countries: [HTI, SLV]
+  category: military
+  headline: Haitian gangs ambush Salvadoran troops of the Gang Suppression Force
+  summary: Gangs ambushed Salvadoran Air Force personnel serving with Haiti's Gang Suppression Force near Port-au-Prince;
+    four went missing and were later said to be held hostage. President Bukele announced a rescue operation on 21
+    October and sent 100 special forces on 22 October. It matters because it is the most serious blow yet to the
+    UN-authorised force and could pull El Salvador deeper into Haiti.
+  sources:
+  - label: 'Reuters: Four Salvadoran air force members missing after gang ambush in Haiti (cited via Wikipedia Current
+      events)'
+    url: https://www.reuters.com/business/aerospace-defense/four-salvadoran-air-force-members-missing-after-gang-ambush-haiti-2026-10-19/
+  - label: 'AP: El Salvador sends special forces to Haiti (cited via Wikipedia Current events)'
+    url: https://apnews.com/article/el-salvador-haiti-special-forces-gangs-03ec2bf89616d8b313c54da34c24eab1
+- date: '2026-10-18'
+  countries: [IRN]
+  category: political
+  conflict: iran-war-2026
+  headline: Iran's parliament approves Mehrdad Akhlaghi as defence minister
+  summary: Iran's parliament confirmed Mehrdad Akhlaghi as Minister of Defence, replacing acting minister Majid
+    Ebn-e-Reza. It matters as a wartime change at the top of Iran's military-industrial apparatus while renewed
+    US strikes are openly discussed.
+  sources:
+  - label: 'Reuters: Iran''s parliament approves Mehrdad Akhlaqi as defence minister (cited via Wikipedia Current
+      events)'
+    url: https://www.reuters.com/world/middle-east/irans-parliament-approves-mehrdad-akhlaqi-minister-defence-state-media-2026-10-18/
+- date: '2026-10-18'
+  countries: [TWN, CHN]
+  category: military
+  headline: Taiwan drives away 16 Chinese vessels near Pratas
+  summary: Taiwan's coast guard expelled 16 Chinese coast guard, research and fishing vessels operating near Taiwan
+    and Pratas Island, some inside restricted waters. It matters as continued grey-zone pressure on Taiwan ahead
+    of China hosting APEC in November.
+  sources:
+  - label: 'The Hindu (AFP): Taiwan says drives away 16 Chinese ships involved in maritime harassment'
+    url: https://www.thehindu.com/news/international/taiwan-says-drives-away-16-chinese-ships-involved-in-maritime-harassment/article71600923.ece
+- date: '2026-10-18'
+  countries: [IRN]
+  category: military
+  conflict: strait-of-hormuz-shipping-war
+  headline: Tanker explodes after hitting mine in Strait of Hormuz, IRGC says
+  summary: Iran's IRGC said an oil tanker caught fire and exploded after striking a naval mine in the southern part
+    of the strait. It matters because it shows mines, not only missiles and drones, now threaten the waterway, though
+    the US disputes Iranian mine claims.
+  sources:
+  - label: 'Middle East Eye: IRGC navy says oil tanker hits mine, catches fire in Strait of Hormuz'
+    url: https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-navy-says-oil-tanker-hits-mine-catches-fire-strait-hormuz
+- date: '2026-10-17'
+  countries: [CZE]
+  category: political
+  headline: Czech governing parties shut out of Senate runoffs
+  summary: Opposition parties won 22 of the 27 contested Senate seats, while Prime Minister Andrej Babis's ANO came
+    third; it was the first time governing parties won no seat in a Czech Senate election. It matters as a strong
+    mid-term rebuke of the Babis government and strengthens the opposition's hold on the upper house.
+  sources:
+  - label: 'AP: Czech Republic Senate election (cited via Wikipedia Current events)'
+    url: https://apnews.com/article/czech-republic-senate-election-babis-d206f3edbc7ea0f73b0dbd07b339820b
+- date: '2026-10-17'
+  countries: [FRA]
+  category: political
+  headline: Half a million protest across France; town halls stormed
+  summary: Unions said more than 500,000 people joined student and 'yellow vest' fuel-price protests; protesters
+    stormed town halls in Marseille and Lille, shops were looted and Limoges town hall was partly destroyed by fire.
+    A second wave on 24 October drew about 410,000 and more than 1,000 arrests. It matters because France faces
+    its worst unrest in years six months before the 2027 presidential race.
+  sources:
+  - label: 'Al Jazeera: France braces for nationwide protests with yellow vest members set to join'
+    url: https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join
+  - label: 'Le Parisien: Limoges town hall destroyed by flames after cost-of-living protest'
+    url: https://www.leparisien.fr/faits-divers/cest-une-catastrophe-lhotel-de-ville-de-limoges-detruit-par-les-flammes-apres-la-manifestation-contre-la-vie-chere-17-10-2026-O3CCYJ32SVBSNFB5Q6XWNHTIGM.php
+  - label: 'The Guardian: Europe live, 24 Oct 2026 (France demonstrations)'
+    url: https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news
+- date: '2026-10-17'
+  countries: [USA]
+  category: political
+  headline: Fourth 'No Kings' protests target Trump and push early voting
+  summary: The fourth round of nationwide 'No Kings' protests against President Trump focused on driving early turnout
+    ahead of the 3 November midterms. It matters as a gauge of opposition mobilisation in an election the administration
+    has repeatedly questioned in advance.
+  sources:
+  - label: 'USA Today: Nationwide No Kings protests shift focus to early voting push'
+    url: https://www.usatoday.com/story/news/politics/elections/2026/10/17/nationwide-no-kings-protests-shift-focus-to-early-voting-push/92249146007/
+  - label: 'AFP: No Kings movement seeks boost for early voting'
+    url: https://www.afp.com/en/no-kings-movement-seeks-boost-early-voting
+- date: '2026-10-17'
+  countries: [PSE, ISR, BEL, FRA, POL]
+  category: political
+  conflict: west-bank-violence
+  headline: Settlers attack European diplomats in the West Bank
+  summary: Masked settlers attacked a group of European diplomats, including the Belgian consul general and French
+    and Polish diplomats, visiting Taybeh; a US photojournalist was beaten nearby a day earlier. Israeli police
+    arrested 10 suspects on 19 October. It matters because settler violence is now reaching foreign officials and
+    adding to European pressure on Israel.
+  sources:
+  - label: 'AP: West Bank settlers attack European diplomats (cited via Wikipedia Current events)'
+    url: https://apnews.com/article/west-bank-israel-european-diplomats-settlers-89ebd068167669db357ad1fa4f3a8758
+  - label: 'France 24 (AFP): Israel announces arrests after West Bank settler attacks on Westerners'
+    url: https://www.france24.com/en/live-news/20261019-israel-announces-arrests-after-west-bank-settler-attacks-on-westerners
+- date: '2026-10-17'
+  countries: [IRQ, ISR]
+  category: military
+  conflict: iraq-militias-us-isis
+  headline: Explosion at PMF base in Baghdad; Israel suspected
+  summary: Iraqi federal sources believe Israel struck Chinese-made air-defence missiles stored at a Popular Mobilisation
+    Forces base in Baghdad on 17 October; the PMF blamed an internal malfunction and Prime Minister Ali al-Zaidi
+    ordered an investigation. Israeli media appeared to confirm a strike on 26 October. It matters because it risks
+    drawing Iraq's new government into the Iran war.
+  sources:
+  - label: 'CTP-ISW: Iran Update, October 26, 2026'
+    url: https://www.criticalthreats.org/analysis/iran-update-october-26-2026
+- date: '2026-10-16'
+  countries: [HUN, UKR]
+  category: diplomatic
+  headline: Hungary and Ukraine reset ties; Budapest lifts block on Ukraine's EU talks
+  summary: Hungarian Prime Minister Peter Magyar and President Zelenskyy agreed in Brussels to improve relations,
+    with Hungary lifting objections to further EU accession talks for Ukraine after progress on ethnic Hungarian
+    minority rights. It matters because Hungary under Orban was the main veto on Ukraine's EU path.
+  sources:
+  - label: 'Reuters: Hungary, Ukraine agree to reset ties, Magyar says (cited via Wikipedia Current events)'
+    url: https://www.reuters.com/world/hungary-ukraine-agree-reset-ties-magyar-says-2026-10-16/
+- date: '2026-10-16'
+  countries: [MAR]
+  category: political
+  headline: Morocco's new government under Fatima Ezzahra El Mansouri takes office
+  summary: Fatima Ezzahra El Mansouri, named prime minister by King Mohammed VI on 29 September after the general
+    election, took office as her four-party coalition government was formally appointed. It matters as a change
+    of head of government and Morocco's first woman prime minister.
+  sources:
+  - label: 'Morocco World News: The Mansouri government'
+    url: https://www.moroccoworldnews.com/2026/10/342507/the-mansouri-government-when-ministry-names-become-a-map-of-the-morocco-being-built/
+- date: '2026-10-16'
+  countries: [SDN]
+  category: humanitarian
+  headline: Drone strike on Nyala cattle market kills 30
+  summary: A drone strike on a cattle market in Nyala, the RSF's administrative hub in South Darfur, killed 30 people
+    and injured 47. A further strike in Nyala on 26 October killed at least 21. It matters because both sides' drone
+    wars are now hitting crowded civilian markets.
+  sources:
+  - label: 'Dawn (AFP): 30 die in drone strike on market in Sudan'
+    url: https://www.dawn.com/news/2037747/30-die-in-drone-strike-on-market-in-sudan
+  - label: 'Al Jazeera: Sudan''s army claims dozens of RSF fighters killed in Nyala attack'
+    url: https://www.aljazeera.com/news/2026/10/17/2550
+- date: '2026-10-16'
+  countries: [IRN, USA]
+  category: economic
+  conflict: iran-war-2026
+  headline: CENTCOM says blockade has cost Iran 25 billion dollars in oil exports
+  summary: CENTCOM commander Admiral Brad Cooper said the US naval blockade of Iranian ports had stopped about 25
+    billion dollars of Iranian crude exports and that about 350 million dollars in Iranian crypto holdings had been
+    frozen. UKMTO said traffic through Hormuz was about 70 percent below pre-war levels. It matters because the
+    blockade and Iran's counter-blockade of Hormuz are the core bargaining chips in stalled US-Iran mediation.
+  sources:
+  - label: 'Wikipedia: 2026 Iran war (CENTCOM statement of 16 Oct)'
+    url: https://en.wikipedia.org/wiki/2026_Iran_war
+  - label: 'Wikipedia: 2026 Strait of Hormuz crisis (UKMTO data, 16 Oct)'
+    url: https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis
+- date: '2026-10-15'
+  countries: [YEM, SAU]
+  category: military
+  conflict: yemen-civil-war
+  headline: Houthi missiles hit Yemen's presidential palace in Aden; UN Security Council condemns attacks on Saudi
+    Arabia
+  summary: Houthi missiles struck the Al-Maashiq palace in Aden, seat of the Presidential Leadership Council, killing
+    five and injuring 16; no council member was hurt. The same day the coalition said it had destroyed 127 Houthi
+    weapons sites, and the UN Security Council condemned Houthi attacks on Saudi aviation and energy targets. It
+    matters because the Houthis are now attacking both the Yemeni government's capital and Saudi cities.
+  sources:
+  - label: 'Al Jazeera: Houthis target Yemen''s presidential palace in Aden with missiles'
+    url: https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles
+  - label: 'Reuters: Saudi-led coalition says Houthis attempted attack on dozens of Saudi facilities (cited via
+      Wikipedia Current events)'
+    url: https://www.reuters.com/world/middle-east/saudi-led-coalition-says-houthis-attempted-attack-dozens-saudi-facilities-2026-10-15/
+- date: '2026-10-15'
+  countries: [SWE]
+  category: political
+  headline: Swedish parliament rejects Magdalena Andersson as prime minister
+  summary: The Riksdag voted down a purely Social Democratic government under Magdalena Andersson after the Left
+    and Centre parties refused to back it. The Speaker then asked Centre leader Elisabeth Thand Ringqvist to explore
+    options, and on 26 October she reported there was no support for a centrist government. It matters because Sweden,
+    with Ulf Kristersson as caretaker since September, has no new government six weeks after the election, and four
+    failed votes would force a snap election.
+  sources:
+  - label: 'AA: Swedish parliament votes against Andersson as prime minister'
+    url: https://www.aa.com.tr/en/europe/swedish-parliamet-votes-against-andersson-as-prime-minister-/4089695
+  - label: 'Wikipedia: 2026 Swedish government formation'
+    url: https://en.wikipedia.org/wiki/2026_Swedish_government_formation
+- date: '2026-10-15'
+  countries: [DEU, IRN]
+  category: diplomatic
+  headline: German court jails two over Iran-ordered plot against Jewish leader
+  summary: A Hamburg court sentenced a Danish national to eight and a half years and an Afghan national to four
+    and a half years for plotting, on Iran's behalf, to assassinate Josef Schuster, head of the Central Council
+    of Jews in Germany. It matters as further evidence of Iranian external operations in Europe during the war.
+  sources:
+  - label: 'Reuters: German court sentences two for plotting to kill leader of German Jewish community for Iran
+      (cited via Wikipedia Current events)'
+    url: https://www.reuters.com/world/middle-east/german-court-sentences-two-plotting-kill-leader-german-jewish-community-for-iran-2026-10-15/
+- date: '2026-10-14'
+  countries: [IRN, SGP, ATG]
+  category: military
+  conflict: strait-of-hormuz-shipping-war
+  headline: Two cargo ships sink near Strait of Hormuz after attacks
+  summary: The Singapore-flagged container ship GFS Pride and the bulk carrier Cape Dao sank after being hit by
+    projectiles near the Strait of Hormuz, on what Iran's IRGC called an 'illegal and dangerous route'; at least
+    one crew member was killed. Iran targeted at least 12 ships from 11 to 16 October. It matters because the Hormuz
+    shipping war, eight months into the US-Israel war with Iran, keeps oil above 100 dollars a barrel.
+  sources:
+  - label: 'The Guardian: Container ship sinks in Strait of Hormuz amid surge in Iranian attacks'
+    url: https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections
+  - label: 'Reuters: Container ship sinks near Hormuz after being hit by projectile (cited via Wikipedia Current
+      events)'
+    url: https://www.reuters.com/world/asia-pacific/container-ship-sinks-near-hormuz-after-being-hit-by-projectile-sources-say-2026-10-14/
+- date: '2026-10-14'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: Russian missile hits Kyiv power station, cutting heat to 1,000-plus buildings
+  summary: A Russian ballistic missile struck a power station in Kyiv's Dniprovskyi district, leaving more than
+    1,000 residential buildings without heating as winter approaches. It matters because Russia's campaign against
+    Ukraine's energy grid continued throughout the new US peace push.
+  sources:
+  - label: 'BBC: Russian strike on Kyiv power station (cited via Wikipedia Current events)'
+    url: https://www.bbc.com/news/articles/ck20r9qpw505o
+- date: '2026-10-14'
+  countries: [SDN]
+  category: military
+  headline: Sudan's army retakes Bir Kelekel in West Darfur
+  summary: The Sudanese Armed Forces said they recaptured the Bir Kelekel area of West Darfur from the Rapid Support
+    Forces, according to the state governor. It matters as a rare army gain in Darfur, most of which the RSF has
+    controlled since taking El Fasher in 2025.
+  sources:
+  - label: 'Radio Tamazuj: Sudanese army announces capture of strategic area in West Darfur'
+    url: https://www.radiotamazuj.org/en/news/article/sudanese-army-announces-capture-of-strategic-area-in-west-darfur
+  - label: 'AA: Sudanese army takes control of strategic area in West Darfur'
+    url: https://www.aa.com.tr/en/middle-east/sudanese-army-takes-control-of-strategic-area-in-west-darfur-official/4088852
+- date: '2026-10-14'
+  countries: [COL, ISR]
+  category: diplomatic
+  headline: Colombia opens embassy in Jerusalem and restores Israel trade deal
+  summary: Colombia opened an embassy in Jerusalem and restored its free trade agreement with Israel. It matters
+    as a sharp reversal of the Petro government's 2024 break with Israel and a sign of the new Colombian government's
+    alignment with Washington and Israel.
+  sources:
+  - label: 'Reuters: Colombia opens embassy in Jerusalem, restores free trade deal with Israel (cited via Wikipedia
+      Current events)'
+    url: https://www.reuters.com/world/americas/colombia-opens-embassy-jerusalem-restores-free-trade-deal-with-israel-2026-10-14/
+- date: '2026-10-14'
+  countries: [TUR]
+  category: political
+  headline: Turkish police raid opposition-leaning Halk TV; state administrators installed
+  summary: Halk TV, an opposition-leaning independent channel, went off air as police raided it and government-appointed
+    administrators took over. It matters as a further narrowing of independent media in Turkey, weeks before Antalya
+    hosts COP31.
+  sources:
+  - label: 'BBC: Halk TV raided (cited via Wikipedia Current events)'
+    url: https://www.bbc.com/news/articles/crx23y3d970vo
+- date: '2026-10-14'
+  countries: [IRL]
+  category: economic
+  headline: Ireland's first public-sector general strike since 2009
+  summary: More than 300,000 public-sector workers, including teachers and health staff, struck over deadlocked
+    pay talks. It matters as one of several cost-of-living revolts across Europe in October, driven partly by fuel
+    prices from the Iran war.
+  sources:
+  - label: 'Reuters: Irish public sector workers strike for first time since 2009 (cited via Wikipedia Current events)'
+    url: https://www.reuters.com/business/world-at-work/irish-public-sector-workers-strike-first-time-since-2009-over-pay-deadlock-2026-10-14/
+- date: '2026-10-14'
+  countries: [COD, RWA, UGA, BDI, TZA]
+  category: diplomatic
+  headline: UN envoy sees 'window of opportunity' for eastern Congo peace
+  summary: UN Great Lakes envoy Huang Xia told the Security Council that the US-led and Qatar-led processes had
+    made notable progress but that security on the ground kept worsening, and announced a UN-facilitated meeting
+    of regional defence ministers in Lusaka on 18 October. It matters because it came two days after Kabila's new
+    armed coalition was announced.
+  sources:
+  - label: 'Al Jazeera: UN official says ''window of opportunity'' for peace in DR Congo'
+    url: https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo
+- date: '2026-10-13'
+  countries: [SAU, YEM]
+  category: military
+  conflict: yemen-civil-war
+  headline: Saudi Arabia strikes Sanaa fuel depot as Houthis hit Riyadh, Dammam and Aramco site
+  summary: Saudi jets struck a fuel depot near Sanaa, and the Houthis answered with missiles at several Saudi cities
+    including Riyadh and Dammam; an intercepted missile set fire to an Aramco administrative building in Dhahran.
+    Riyadh's King Khalid airport stayed shut after a week of attacks. It matters because the Houthi-Saudi war, revived
+    in July after a Saudi strike on Sanaa airport, has become a direct threat to Gulf aviation and oil infrastructure.
+  sources:
+  - label: 'Al Jazeera: Houthis threaten Saudi Arabia''s Aramco facilities and airports'
+    url: https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports
+  - label: 'CNN: Saudi strikes Houthi fuel depot'
+    url: https://www.cnn.com/2026/10/13/middleeast/saudi-strikes-houthi-fuel-depot-latam-intl
+  - label: 'Wikipedia: 2026 Houthi attacks on Saudi airports'
+    url: https://en.wikipedia.org/wiki/2026_Houthi_attacks_on_Saudi_airports
+- date: '2026-10-13'
+  countries: [BGR, RUS, UKR]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: Drones sink merchant ship off Bulgaria; Sofia blames Russia
+  summary: Two merchant ships were hit by drones off Bulgaria's Black Sea coast and one sank, leaving 11 crew missing;
+    Prime Minister Rumen Radev blamed Russia and summoned its ambassador. It was the second such attack in six days,
+    and further drone strikes on ships followed off Romania on 15 and 23 October. It matters because the Ukraine
+    war's maritime front is now hitting NATO members' waters and shipping.
+  sources:
+  - label: 'Reuters: Drone sinks ship off Bulgaria coast, prime minister says (cited via Wikipedia Current events)'
+    url: https://www.reuters.com/world/europe/drone-sinks-ship-off-bulgaria-coast-prime-minister-says-2026-10-13/
+  - label: 'Kyiv Independent: Ukraine war latest, 23 Oct (Khoryv sinking off Romania)'
+    url: https://kyivindependent.com/ukraine-war-latest-ukraine-russia-agree-to-local-ceasefire-for-russian-occupied-oleshky-mediated-by-melania-trump/
+- date: '2026-10-13'
+  countries: [HUN]
+  category: political
+  headline: Hungary repeals most of Orban-era anti-LGBTQ law
+  summary: Hungary's National Assembly passed an amendment repealing most provisions of the 2021 'child protection'
+    law passed under Viktor Orban. It matters as a marker of how far Peter Magyar's government is moving away from
+    Orban-era policy and toward reconciliation with Brussels.
+  sources:
+  - label: 'DW: Hungary''s parliament votes to reverse anti-LGBTQ legislation from Orban era'
+    url: https://www.dw.com/en/hungarys-parliament-votes-to-reverse-anti-lgbtq-legislation-from-orban-era/a-79647826
+- date: '2026-10-13'
+  countries: [PHL]
+  category: political
+  headline: Prosecutors narrow Sara Duterte impeachment case
+  summary: Prosecutors in the Senate impeachment trial of Vice President Sara Duterte dropped three of four articles
+    to speed up the trial, and the Senate approved the move. It matters because the outcome could bar a leading
+    2028 presidential contender from office.
+  sources:
+  - label: 'AP: Philippines vice president Sara Duterte impeachment trial (cited via Wikipedia Current events)'
+    url: https://apnews.com/article/philippines-vice-president-sara-duterte-impeachment-trial-485ba92d586801b695df6e7abd886959
+- date: '2026-10-13'
+  countries: [ALB]
+  category: political
+  headline: Student-led riots erupt in Tirana, demanding PM Rama resign
+  summary: Student protests over school conditions and living costs turned violent on 13 October, with the education
+    ministry attacked; on 14 October rioters hit government buildings and banks, injuring 23 police, and 35 people
+    were detained. The unrest, part of the broader 'Flamingo Revolution' that began in 2026 over resort projects
+    and corruption, spread to other cities and continued daily. It matters because it is the most serious challenge
+    yet to Edi Rama's long rule in an EU candidate country.
+  sources:
+  - label: 'AP: Albania protests, students, Flamingo, Edi Rama (cited via Wikipedia Current events)'
+    url: https://apnews.com/article/albania-protests-students-flamingo-edi-rama-0d94664379a2b470a1f7d95429c4e446
+  - label: 'Al Jazeera: ''Boiling point'': Why students are protesting against Albania''s Edi Rama'
+    url: https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama
+  - label: 'Al Jazeera: Tirana sees sixth day of violent protests as Albania''s PM refuses to resign'
+    url: https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily
+- date: '2026-10-12'
+  countries: [RUS, UKR]
+  category: economic
+  conflict: russia-ukraine-war
+  headline: EU adopts 22nd sanctions package against Russia
+  summary: The Council of the EU approved its 22nd sanctions package, listing 1,569 individuals and entities in
+    Russia's military-industrial complex, which the Council called its largest-ever package of listings. It matters
+    because Europe is tightening pressure on Moscow at the same moment Washington is pushing a new round of peace
+    talks and easing some Russian energy restrictions.
+  sources:
+  - label: 'Council of the EU: EU agrees largest ever package of listings targeting almost 1,600 individuals and
+      entities'
+    url: https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/russia-s-war-of-aggression-against-ukraine-eu-agrees-largest-ever-package-of-listings-targeting-almost-1600-individuals-and-entities-in-russia-s-military-industrial-complex/
+- date: '2026-10-12'
+  countries: [COD, RWA]
+  category: military
+  headline: Joseph Kabila launches armed coalition with M23 to topple Tshisekedi
+  summary: Former president Joseph Kabila announced in Goma a political-military coalition, the Front for the Refoundation
+    of the Nation, uniting the M23, Corneille Nangaa's Congo River Alliance and Twirwaneho, with the stated aim
+    of ending Felix Tshisekedi's rule 'by all means, including force'. M23 commander Sultani Makenga was named army
+    chief. It matters because it gives the Rwanda-backed rebellion a national political figurehead and complicates
+    the Doha and Washington peace tracks, although the coalition says it will honour Doha commitments.
+  sources:
+  - label: 'BBC: Kabila announces rebel coalition (cited via Wikipedia Current events, 12 Oct)'
+    url: https://www.bbc.com/news/articles/c8y56re7ldqyo
+  - label: 'Al Jazeera: UN official says ''window of opportunity'' for peace in DR Congo'
+    url: https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo
+  - label: 'Wikipedia: Front for the Refoundation of the Nation'
+    url: https://en.wikipedia.org/wiki/Front_for_the_Refoundation_of_the_Nation
+- date: '2026-10-12'
+  countries: [PAK]
+  category: political
+  headline: Pakistan imposes emergency rule in Khyber Pakhtunkhwa and detains PTI leaders
+  summary: After President Zardari declared a state of emergency and governor's rule in Khyber Pakhtunkhwa on 11
+    October, the federal government suspended the PTI-led provincial administration and detained hundreds of Imran
+    Khan's party members, including Chief Minister Sohail Afridi. Both houses endorsed the emergency on 14-15 October.
+    It matters because it removes the main opposition party's last seat of governmental power and deploys the army
+    in a province already facing militant violence.
+  sources:
+  - label: 'RFI (AFP): Pakistan detains hundreds from ex-PM Khan''s party as protests falter'
+    url: https://www.rfi.fr/en/international-news/20261012-pakistan-detains-hundreds-from-ex-pm-khan-s-party-as-protests-falter
+  - label: 'Wikipedia: 2026 Khyber Pakhtunkhwa state of emergency'
+    url: https://en.wikipedia.org/wiki/2026_Khyber_Pakhtunkhwa_state_of_emergency
+- date: '2026-10-12'
+  countries: [EST]
+  category: political
+  headline: Ulle Madise sworn in as Estonia's president
+  summary: Ulle Madise, elected by the Riigikogu in September, took office as President of Estonia, succeeding Alar
+    Karis. It is a change of head of state in a frontline NATO state, though the presidency is largely ceremonial.
+  sources:
+  - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
+    url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
+upcoming:
+- date: '2026-10-28'
+  countries: [ISR]
+  event: Israeli election results and start of President Herzog's consultations on who should form a government;
+    Netanyahu stays caretaker until a new government is sworn in
+- date: '2026-10-29'
+  countries: [UKR, RUS]
+  event: Oleshky humanitarian ceasefire due to start according to the White House (Russia announced it from 27 October)
+- date: '2026-10-31'
+  countries: [SOM]
+  event: UN Transitional Assistance Mission in Somalia support ends
+- date: '2026-11-01'
+  countries: [BGR]
+  event: Bulgarian presidential runoff, Iliana Iotova vs Andrey Gyurov
+- date: '2026-11-03'
+  countries: [USA]
+  event: 'US midterm elections: all 435 House seats, 35 Senate seats, 39 governorships, plus territorial votes'
+- date: '2026-11-03'
+  countries: [USA, IRN, ISR]
+  event: Period after the midterms flagged by Trump and reporting as when renewed US or Israeli strikes on Iran
+    could come if mediation fails
+- date: '2026-11-05'
+  countries: [GRD]
+  event: Grenada parliamentary election
+- date: '2026-11-07'
+  countries: [NZL]
+  event: New Zealand general election
+- date: '2026-11-09'
+  countries: [TUR]
+  event: COP31 UN climate conference opens in Antalya, Turkey (9-20 November)
+- date: '2026-11-10'
+  countries: [USA, RUS, UKR]
+  event: Earliest date Putin gave for resumed US-Russia-Ukraine talks; Abu Dhabi floated as venue, Kremlin aide
+    said mid-November
+- date: '2026-11-15'
+  countries: [CPV]
+  event: Cape Verde presidential election
+- date: '2026-11-29'
+  countries: [ESP]
+  event: Spanish general election
+- date: '2026-12-27'
+  countries: [SRB]
+  event: Deadline for Serbia's early presidential election triggered by Vucic's resignation

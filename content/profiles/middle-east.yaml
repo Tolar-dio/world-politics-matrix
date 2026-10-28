@@ -27,6 +27,18 @@ IRN:
     Iran is heir to Persian empires stretching back 2,500 years, and Persian poetry, from Hafez and Rumi to Ferdowsi's Shahnameh, is quoted in daily speech. Nowruz, the spring new year, predates Islam and is the biggest celebration. Iranian cinema, from Abbas Kiarostami to Asghar Farhadi, is internationally acclaimed despite censorship. Persian carpets, gardens and tea houses are cultural staples.
   society: >-
     Iran has a young, highly educated population, with more women than men in universities, yet faces mandatory hijab laws that sparked the 2022 "Woman, Life, Freedom" protests. Sanctions and mismanagement have driven high inflation and a collapsing currency. The Revolutionary Guard controls large parts of the economy. Ethnic Kurds, Baluch, Azeris and Arabs have their own grievances.
+  update: >-
+    The war is in a tense stalemate. The US blockade of Iranian ports continues, which CENTCOM says
+    has cost Iran about 25 billion dollars in oil exports, and Iran keeps Hormuz all but closed,
+    with seven tankers hit on 22 October alone. Parliament confirmed Mehrdad Akhlaghi as defence
+    minister on 18 October. On 26 October Saudi, Pakistani and Turkish envoys met President
+    Pezeshkian in Tehran, as Washington signalled renewed strikes could come after the 3 November
+    midterms.
+  update_date: 2026-10-26
+  sources_extra:
+    - {label: "Reuters: Iran's parliament approves Mehrdad Akhlaqi as defence minister", url: "https://www.reuters.com/world/middle-east/irans-parliament-approves-mehrdad-akhlaqi-minister-defence-state-media-2026-10-18/"}
+    - {label: "CTP-ISW: Iran Update, 26 October 2026", url: "https://www.criticalthreats.org/analysis/iran-update-october-26-2026"}
+    - {label: "Al Jazeera: Mecca defence alliance members in Tehran", url: "https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions"}
 
 IRQ:
   pop: 47.0
@@ -48,6 +60,16 @@ IRQ:
   sources_extra:
     - {label: "Al Jazeera: parliament approves al-Zaidi government", url: "https://www.aljazeera.com/news/2026/5/14/iraqs-parliament-approves-new-ali-al-zaidi-government"}
     - {label: "Al Jazeera: al-Zaidi's cabinet completed", url: "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns"}
+    - {label: "Al Jazeera: Why has Iraq devalued its currency?", url: "https://www.aljazeera.com/economy/2026/10/8/why-has-iraq-devalued-its-currency-and-why-are-some-mps-against-it"}
+    - {label: "CTP-ISW: Iran Update, 26 October 2026", url: "https://www.criticalthreats.org/analysis/iran-update-october-26-2026"}
+    - {label: "Long War Journal: Militia disarmament dispute marks Iraq's post-US withdrawal era", url: "https://www.longwarjournal.org/archives/2026/10/us-flag-trampling-militia-disarmament-dispute-mark-iraqs-post-us-withdrawal-era.php"}
+  update: >-
+    US forces completed their withdrawal from Iraq on 30 September, and the government has given
+    Iran-backed armed factions until mid-2027 to hand their weapons to the state. On 7 October the
+    central bank devalued the dinar. On 17 October an explosion hit a Popular Mobilisation Forces
+    base in Baghdad where Chinese-made air-defence missiles were stored. Iraqi sources blamed
+    Israel, and Israeli media appeared to confirm a strike.
+  update_date: 2026-10-26
 
 ISR:
   pop: 10.0
@@ -75,6 +97,15 @@ JOR:
     Petra, the rose-red city carved by the Nabataeans, and Wadi Rum's desert are Jordan's best-known landmarks. Bedouin hospitality, with cardamom coffee and mansaf, lamb cooked in fermented yogurt, is central to identity. A majority of citizens are of Palestinian origin, which shapes politics. The Hashemite king claims descent from the Prophet Muhammad and is custodian of Jerusalem's holy sites.
   society: >-
     Jordan is one of the world's most water-scarce countries and hosts large numbers of Palestinian and Syrian refugees. With little oil, it relies on aid from the US and Gulf states, remittances and tourism. Youth unemployment is high. The 1994 peace treaty with Israel is deeply unpopular, especially since the Gaza war.
+  update: >-
+    On 23 October gunmen killed at least nine mourners at a Greek Orthodox funeral in Karak. Jordan
+    responded on 26 October with its first air strikes on what it called Islamic State hideouts in
+    southern Syria, and Damascus, which said civilians were killed, closed the Nassib border
+    crossing.
+  update_date: 2026-10-26
+  sources_extra:
+    - {label: "Al Jazeera: Jordan launches air strikes in Syria", url: "https://www.aljazeera.com/amp/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting"}
+    - {label: "AA: Syria closes border crossing with Jordan", url: "https://www.aa.com.tr/en/middle-east/syria-closes-border-crossing-with-jordan-to-passengers-trade/4101844"}
 
 KWT:
   pop: 5.0
@@ -173,6 +204,19 @@ SAU:
     Saudi Arabia is home to Mecca and Medina, Islam's holiest cities, which receive millions of pilgrims each year. Since 2017 it has rapidly opened up: women can drive, cinemas and concerts are allowed, and the kingdom hosts boxing, Formula One and golf. Bedouin traditions of poetry, coffee and hospitality remain strong, as does Najdi architecture.
   society: >-
     Oil funds the state and most citizens' jobs. Vision 2030 aims to diversify into tourism, entertainment and industry, including the giant NEOM project, though some plans have been scaled back. Dissent is not tolerated, and executions have hit record levels. The kingdom won the right to host the 2034 World Cup.
+  update: >-
+    Houthi missile and drone attacks on Saudi airports in October killed 22 people and injured more
+    than 380, the deadliest attacks inside the kingdom since 2015. On 21 October the US ordered non-
+    emergency diplomats and families to leave. Britain is sending RAF Typhoons to help defend Saudi
+    airspace, and on 26 October Egypt's parliament authorised military support if Riyadh asks.
+    Defence Minister Khalid bin Salman went to Tehran the same day with Pakistani and Turkish envoys
+    to try to defuse the war.
+  update_date: 2026-10-26
+  sources_extra:
+    - {label: "Al Jazeera: US orders departure of personnel from Saudi Arabia", url: "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat"}
+    - {label: "Wikipedia: 2026 Houthi attacks on Saudi airports", url: "https://en.wikipedia.org/wiki/2026_Houthi_attacks_on_Saudi_airports"}
+    - {label: "Reuters: UK to fly RAF missions defending Saudi Arabia", url: "https://www.reuters.com/business/aerospace-defense/uk-fly-raf-missions-defending-saudi-arabia-against-houthi-attacks-bloomberg-2026-10-20/"}
+    - {label: "France 24: Egypt parliament authorises military support to Saudi Arabia", url: "https://www.france24.com/en/live-news/20261026-egypt-parliament-authorises-military-support-to-saudi-arabia"}
 
 SYR:
   pop: 25.6
@@ -230,3 +274,11 @@ YEM:
     Yemen was ancient Arabia Felix, home of the Queen of Sheba and the frankincense trade. The mud-brick tower houses of Shibam and Sanaa's old city are UNESCO-listed. Afternoon qat-chewing sessions are a social institution. Yemeni coffee from the port of Mocha gave its name to a drink. The jambiya dagger is worn by many men.
   society: >-
     Yemen was the poorest Arab country before war began in 2014; since then the UN has called it one of the world's worst humanitarian crises, with millions facing hunger and cholera. The Houthis control the north and most of the population. Their attacks on Red Sea shipping since 2023 drew US and Israeli strikes.
+  update: >-
+    The Houthi war with Saudi Arabia and the government is at its most intense since 2015. Houthi
+    missiles hit the presidential palace in Aden on 15 October and an army training camp in Shabwah
+    on 19 October, while Saudi air strikes pound the Sanaa area. The government's 'Dawn of Yemen'
+    offensive is pushing around Marib, and the Houthis are besieging Taiz.
+  update_date: 2026-10-24
+  sources_extra:
+    - {label: "Al Jazeera: Houthis target presidential palace in Aden", url: "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles"}

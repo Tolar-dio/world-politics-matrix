@@ -157,6 +157,15 @@ BGR:
     Bulgaria invented the Cyrillic alphabet, celebrated every 24 May. Its Orthodox monasteries, like Rila, and the rose oil of the Valley of Roses are national treasures. Bulgarian polyphonic choirs and complex folk rhythms are internationally acclaimed. Martenitsi, red and white threads, are worn every March to welcome spring.
   society: >-
     Bulgaria is the EU's poorest member per head and has lost a fifth of its population since 1989 through emigration and low birth rates. It joined Schengen in 2025 and adopted the euro on 1 January 2026. Corruption and oligarchic influence over the courts and media are long-standing grievances that fuelled mass protests.
+  update: >-
+    The presidential election on 25 October went to a runoff on 1 November between incumbent Iliana
+    Iotova, with about 35 percent, and former acting prime minister Andrey Gyurov, with about 32
+    percent, on the lowest turnout in Bulgarian history. It came days after drones sank merchant
+    ships off the Bulgarian coast, which Sofia blamed on Russia.
+  update_date: 2026-10-25
+  sources_extra:
+    - {label: "Reuters: Bulgaria votes for president in wake of deadly Black Sea drone strikes", url: "https://www.reuters.com/world/bulgaria-votes-president-wake-deadly-black-sea-drone-strikes-2026-10-25/"}
+    - {label: "CNN: Bulgaria presidential race heads to runoff", url: "https://www.cnn.com/2026/10/25/europe/bulgaria-presidential-race-heads-to-runoff-latam-intl"}
 
 HRV:
   pop: 3.8
@@ -203,6 +212,13 @@ CZE:
     Prague's medieval centre and Charles Bridge are among Europe's most visited sights. The Czechs are among the world's least religious people and its biggest beer drinkers per head, with Pilsner born in Plzeň. Kafka, Kundera and Havel, the dissident playwright who became president, are literary icons. Ice hockey is the top sport.
   society: >-
     The Czech Republic has one of the EU's lowest unemployment rates and a strong car industry led by Škoda. The 1989 Velvet Revolution and the 1993 peaceful split from Slovakia are points of pride. Babiš, whose companies have faced EU conflict of interest rulings, leads a populist coalition with the SPD and the Motorists.
+  update: >-
+    In the Senate elections that ended on 17 October, opposition parties won 22 of the 27 seats
+    contested, and Babiš's ANO won none. It was the first time governing parties failed to win a
+    single seat in a Czech Senate election.
+  update_date: 2026-10-17
+  sources_extra:
+    - {label: "AP: Czech Senate election", url: "https://apnews.com/article/czech-republic-senate-election-babis-d206f3edbc7ea0f73b0dbd07b339820b"}
 
 DNK:
   pop: 6.0
@@ -338,6 +354,14 @@ HUN:
     Hungarian is not related to its neighbours' languages, and that isolation has shaped a strong national identity. Budapest's thermal baths, Liszt and Bartók, goulash and paprika are famous exports. The memory of the 1920 Treaty of Trianon, which cost Hungary two-thirds of its territory, still resonates, as does the 1956 uprising against Soviet rule.
   society: >-
     Under Orbán, Hungary became the EU's model of "illiberal democracy", with friendly oligarchs owning most media and billions in EU funds frozen over rule-of-law concerns. Magyar, a former Fidesz insider, has promised to unlock those funds and fight corruption. Hungary has an ageing population and low wages by EU standards.
+  update: >-
+    Magyar's government is unwinding Orbán-era policy. On 13 October parliament repealed most of the
+    2021 anti-LGBTQ 'child protection' law, and on 16 October Magyar and Zelensky agreed to reset
+    relations, with Hungary lifting its objections to Ukraine's EU accession talks.
+  update_date: 2026-10-16
+  sources_extra:
+    - {label: "DW: Hungary reverses anti-LGBTQ legislation", url: "https://www.dw.com/en/hungarys-parliament-votes-to-reverse-anti-lgbtq-legislation-from-orban-era/a-79647826"}
+    - {label: "Reuters: Hungary and Ukraine agree to reset ties", url: "https://www.reuters.com/world/hungary-ukraine-agree-reset-ties-magyar-says-2026-10-16/"}
 
 ISL:
   pop: 0.40
@@ -778,6 +802,15 @@ SWE:
     Sweden gave the world ABBA, IKEA, Spotify, Astrid Lindgren and the Nobel Prizes. Midsummer, fika coffee breaks and the concept of lagom, just enough, are cultural touchstones. Allemansrätten, the right to roam, gives everyone access to nature.
   society: >-
     Sweden has a generous welfare state and high equality, but gang shootings and bombings have made it an outlier in Europe for gun violence. Immigration, which changed the country fast, is a central political debate. It joined NATO in 2024, ending two centuries of military non-alignment.
+  update: >-
+    On 15 October the Riksdag voted down a Social Democratic minority government under Magdalena
+    Andersson after the Left and Centre parties refused to back it. Centre leader Elisabeth Thand
+    Ringqvist then explored a centrist option and reported on 26 October that it had no majority.
+    Four failed votes would force a snap election.
+  update_date: 2026-10-26
+  sources_extra:
+    - {label: "AA: Swedish parliament votes against Andersson as prime minister", url: "https://www.aa.com.tr/en/europe/swedish-parliamet-votes-against-andersson-as-prime-minister-/4089695"}
+    - {label: "Wikipedia: 2026 Swedish government formation", url: "https://en.wikipedia.org/wiki/2026_Swedish_government_formation"}
 
 CHE:
   pop: 9.0
@@ -820,6 +853,18 @@ UKR:
     Ukrainian identity has strengthened sharply since 2014, and especially since 2022, with many people switching from Russian to Ukrainian. Embroidered vyshyvanka shirts, borscht, which is UNESCO-listed, and Cossack history are symbols of pride. Ukraine won Eurovision in 2016 and 2022. Kyiv's Saint Sophia Cathedral dates to the 11th century.
   society: >-
     Russia's full-scale invasion has killed tens of thousands of civilians and soldiers, displaced millions and occupied about a fifth of the country. Ukraine has become a world leader in drone warfare. The economy depends on Western aid. Corruption scandals, including one in the energy sector in 2025, remain sensitive.
+  update: >-
+    On 21 October Putin told US envoy Steve Witkoff he agreed in principle to resume three-way talks
+    with Ukraine on or after 10 November, possibly in Abu Dhabi, and Zelensky backed the format. On
+    23 October the two sides agreed a local humanitarian ceasefire in occupied Oleshky, mediated by
+    Melania Trump, and swapped 270 prisoners each. Hungary lifted its block on Ukraine's EU
+    accession talks on 16 October. On the ground, Ukraine has regained a little territory since
+    September, though Russian troops are about 9 km from Kramatorsk.
+  update_date: 2026-10-23
+  sources_extra:
+    - {label: "Reuters: Putin hosts Trump envoy, agrees to new talks", url: "https://www.reuters.com/world/europe/putin-hosts-trump-envoy-new-ukraine-peace-talks-frees-us-citizen-held-russia-2026-10-21/"}
+    - {label: "Kyiv Independent: local ceasefire for Oleshky", url: "https://kyivindependent.com/ukraine-war-latest-ukraine-russia-agree-to-local-ceasefire-for-russian-occupied-oleshky-mediated-by-melania-trump/"}
+    - {label: "Reuters: Hungary and Ukraine agree to reset ties", url: "https://www.reuters.com/world/hungary-ukraine-agree-reset-ties-magyar-says-2026-10-16/"}
 
 GBR:
   pop: 69.6

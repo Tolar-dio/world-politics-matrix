@@ -292,6 +292,15 @@ PAK:
     Pakistan's culture draws on Punjabi, Sindhi, Pashtun, Baloch and Mohajir traditions, with Urdu as the common language. Qawwali, the Sufi devotional music made famous by Nusrat Fateh Ali Khan, and Sufi shrines are central to popular Islam. Cricket is a national obsession; Imran Khan led the team to the 1992 World Cup. Truck art is a famous folk style.
   society: >-
     The army has ruled directly for decades at a time and shapes politics behind the scenes. The economy has survived repeated balance of payments crises with IMF help. Floods in 2022 submerged a third of the country. Insurgencies in Balochistan and Khyber Pakhtunkhwa claim many lives each year.
+  update: >-
+    On 11 October President Zardari declared a state of emergency and governor's rule in Khyber
+    Pakhtunkhwa. The federal government suspended the PTI-led provincial government and detained
+    hundreds of Imran Khan's supporters, including Chief Minister Sohail Afridi, and both houses of
+    parliament endorsed the emergency on 14 and 15 October.
+  update_date: 2026-10-15
+  sources_extra:
+    - {label: "RFI (AFP): Pakistan detains hundreds from ex-PM Khan's party", url: "https://www.rfi.fr/en/international-news/20261012-pakistan-detains-hundreds-from-ex-pm-khan-s-party-as-protests-falter"}
+    - {label: "Wikipedia: 2026 Khyber Pakhtunkhwa state of emergency", url: "https://en.wikipedia.org/wiki/2026_Khyber_Pakhtunkhwa_state_of_emergency"}
 
 PHL:
   pop: 116

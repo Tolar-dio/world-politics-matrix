@@ -148,7 +148,9 @@
       const z = f.properties;
       const hot = (state.hoverMil && state.hoverMil.type === 'conflict' && state.hoverMil.id === z.conflict)
         || (state.focus && state.focus.type === 'conflict' && state.focus.id === z.conflict);
-      return hot ? ZONE_EDGE[z.intensity] : ZONE_FILL[z.intensity];
+      if (hot) return ZONE_EDGE[z.intensity];
+      // Strike campaigns cover wide target areas, not front lines: draw them as a light wash.
+      return z.strike ? ZONE_FILL[z.intensity].replace(/[\d.]+\)$/, '0.26)') : ZONE_FILL[z.intensity];
     }
     const id = f.properties.id;
     const e = id && byId.get(id);
@@ -712,7 +714,7 @@
     }
     return {
       type: 'Feature',
-      properties: { zone: true, conflict: c.id, intensity: c.intensity, name: z.name, order },
+      properties: { zone: true, conflict: c.id, intensity: c.intensity, name: z.name, order, strike: c.type === 'air-missile-campaign' },
       geometry: { type: 'Polygon', coordinates: [ring] },
     };
   }
@@ -876,8 +878,9 @@
     }
     const lat = pts.reduce((a, p) => a + p[0], 0) / pts.length;
     const lng = pts.reduce((a, p) => a + p[1], 0) / pts.length;
-    const spread = Math.max(...pts.map((p) => Math.hypot(p[0] - lat, (p[1] - lng) * Math.cos((lat * Math.PI) / 180))), 2);
-    flyToPoint(lat, lng, Math.min(2.6, Math.max(0.9, 0.6 + spread / 9)));
+    const away = (p) => Math.hypot(p[0] - lat, (p[1] - lng) * Math.cos((lat * Math.PI) / 180));
+    const spread = Math.max(0.5, ...pts.map(away), ...c.zones.map((z) => away([z.lat, z.lng]) + z.r / 111));
+    flyToPoint(lat, lng, Math.min(2.6, Math.max(0.35, 0.25 + spread / 8)));
   }
 
   const panelTop = (title, meta, flag = '') => `

@@ -21,7 +21,8 @@ DZA:
     how little most people expect from elected institutions since the Hirak protest movement was
     suppressed. Gas sales to a Europe weaning itself off Russian supplies fund higher wages and
     subsidies, while relations with France and Morocco remain frozen over Western Sahara and jailed
-    critics.
+    critics. In October 2026 parliament approved sending army units to Madama in northern Niger to
+    protect energy infrastructure, Algeria's first deployment abroad since 1973.
   leaders: {state: "President Abdelmadjid Tebboune, re-elected in 2024", gov: "Prime Minister Sifi Ghrieb"}
   power: >-
     A presidential republic. The directly elected president appoints the prime minister and
@@ -31,6 +32,8 @@ DZA:
   sources:
     - {label: "Algérie Eco: legislative results", url: "https://algerie-eco.com/2026/07/06/legislatives-en-algerie-un-taux-de-participation-de-2124-le-fln-arrive-en-tete-avec-90-sieges/"}
     - {label: "International IDEA: Algeria, July 2026", url: "https://www.idea.int/democracytracker/report/algeria/july-2026"}
+    - {label: "BBC: Algeria approves deployment to Niger", url: "https://www.bbc.com/news/articles/cm4g14n1e5wko"}
+    - {label: "APS: Algeria sends combat aircraft to support Niger's army", url: "https://www.aps.dz/es/argelia/actualidad-nacional/mtg6ihl3-argelia-envia-dos-patrullas-de-aviones-de-combate-para-apoyar-al-ejercito-de-niger"}
 
 AGO:
   pop: 39.0
@@ -295,6 +298,17 @@ COD:
     Congolese rumba, born in the bars of Léopoldville in the 1940s, became the soundtrack of post-independence Africa through stars like Franco and Papa Wemba, and is on UNESCO's heritage list. The sapeurs of Kinshasa and Brazzaville turn designer clothes into performance art. Lingala, the language of the music and the army, is spoken alongside Swahili, Kikongo, Tshiluba and French, the official language.
   society: >-
     Congo has vast reserves of cobalt, copper and coltan that power phones and electric cars, yet most people live on under $2 a day. Kinshasa has grown into a megacity of around 17 million. Fighting in the east has displaced several million people, and armed groups and soldiers alike have been accused of mass sexual violence. Artisanal miners, including children, dig much of the cobalt by hand.
+  update: >-
+    On 12 October former president Joseph Kabila announced in Goma a political-military coalition,
+    the Front for the Refoundation of the Nation, which brings together M23, Corneille Nangaa's
+    Congo River Alliance and Twirwaneho, with the stated aim of removing Tshisekedi 'by all means,
+    including force'. M23 commander Sultani Makenga was named its army chief. Kinshasa accused
+    Kabila of planning a general attack.
+  update_date: 2026-10-18
+  sources_extra:
+    - {label: "EWN (AFP): Kabila forms new force with M23", url: "https://www.ewn.co.za/2026/10/13/former-dr-congo-president-kabila-forms-new-force-with-m23-armed-group"}
+    - {label: "Africanews: DRC accuses Kabila of planning 'general attack'", url: "https://www.africanews.com/2026/10/18/drc-accuses-ex-president-kabila-of-planning-general-attack-on-the-country/"}
+    - {label: "BBC: Kabila coalition", url: "https://www.bbc.com/news/articles/c8y56re7ldqyo"}
 
 COG:
   pop: 6.5
@@ -735,6 +749,15 @@ MAR:
     Morocco blends Arab, Amazigh and Andalusian influences, and Tamazight became an official language in 2011. The medinas of Fez and Marrakech, Gnawa trance music with roots in West Africa, and a cuisine of tagines and couscous draw millions of visitors. The national football team's run to the 2022 World Cup semi-final was a moment of pride across the Arab world and Africa.
   society: >-
     The king controls defence, foreign policy and religion, and is officially Commander of the Faithful. Morocco is building high-speed rail and stadiums for the 2030 World Cup it will co-host with Spain and Portugal. Youth unemployment is high, and the 2025 Gen Z 212 protests contrasted stadium spending with crumbling hospitals. Its claim to Western Sahara has won growing international backing.
+  update: >-
+    On 16 October the four-party coalition government of Fatima Ezzahra El Mansouri took office. The
+    king named her head of government on 29 September, making her the first woman to hold the post.
+  update_date: 2026-10-16
+  sources_extra:
+    - {label: "Morocco World News: The Mansouri government", url: "https://www.moroccoworldnews.com/2026/10/342507/the-mansouri-government-when-ministry-names-become-a-map-of-the-morocco-being-built/"}
+  holders: >-
+    King Mohammed VI, since 1999; Head of Government Fatima Ezzahra El Mansouri, whose coalition
+    took office on 16 October 2026.
 
 MOZ:
   pop: 35.6
@@ -937,6 +960,12 @@ SOM:
     Somalis are often called a nation of poets: oral poetry has long carried news, politics and love, and a good poet can sway clan elders. Somali is spoken by nearly everyone, giving the country unusual ethnic and linguistic unity despite deep clan divisions. Camel herding, tea and an enormous diaspora in Minneapolis, London and Nairobi tie the culture together.
   society: >-
     The state collapsed in 1991, and the federal government still controls only parts of the south and centre, fighting al-Shabaab, which runs its own courts and taxes. Somaliland in the north has run itself since 1991 and seeks recognition. Remittances and mobile money keep the economy going, and droughts are frequent and deadly.
+  update: >-
+    The UN's Transitional Assistance Mission in Somalia ends its support on 31 October, closing
+    decades of dedicated UN political missions while al-Shabaab remains active.
+  update_date: 2026-10-26
+  sources_extra:
+    - {label: "AA: UN mission in Somalia to end operations on 31 October", url: "https://www.aa.com.tr/en/americas/un-mission-in-somalia-to-end-operations-on-oct-31-after-decades-of-support/4101656"}
 
 ZAF:
   pop: 64.7
@@ -965,6 +994,14 @@ SSD:
     South Sudan has more than 60 ethnic groups, the largest being the Dinka and Nuer, whose cattle-herding cultures place cows at the centre of wealth, marriage and poetry. Young men compose songs for their favourite oxen. Juba Arabic is the street language, English the official one.
   society: >-
     South Sudan split from Sudan in 2011, and a civil war between forces loyal to Kiir and Machar killed some 400,000 people from 2013 to 2018. Oil is almost the only export, and it flows through a pipeline across war-torn Sudan. Most of the population needs humanitarian aid, and floods and refugees from Sudan add to the strain.
+  update: >-
+    On 19 October a drone strike on the Amiet market in the disputed Abyei area killed at least 153
+    people, according to AP, and about 220 according to local authorities. Juba blamed the Sudanese
+    army and summoned Sudan's ambassador; the army denied involvement.
+  update_date: 2026-10-20
+  sources_extra:
+    - {label: "AP: Drone strike on a market in Abyei kills at least 153", url: "https://www.news4jax.com/news/world/2026/10/20/drone-strike-on-a-market-in-disputed-african-region-of-abyei-kills-at-least-153/"}
+    - {label: "Sudans Post: Abyei drone attack death toll reaches 220", url: "https://www.sudanspost.com/abyei-drone-attack-death-toll-reaches-220/"}
 
 SDN:
   pop: 51.7

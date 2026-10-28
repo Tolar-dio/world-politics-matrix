@@ -180,6 +180,12 @@ COL:
     Colombia is the land of Gabriel García Márquez's magical realism, vallenato accordion music and cumbia, and global pop stars Shakira, Karol G and J Balvin. Medellín's transformation from cocaine capital to innovation hub is a national story. Coffee culture, salsa in Cali and Barranquilla's carnival are sources of pride.
   society: >-
     A 2016 peace deal disarmed the FARC guerrillas after 50 years of war, but dissident factions, the ELN and the Clan del Golfo cartel still fight over coca and mining areas. Colombia remains the world's largest cocaine producer. It has taken in nearly three million Venezuelans. Inequality and land ownership are long-running grievances.
+  update: >-
+    On 14 October Colombia opened an embassy in Jerusalem and restored its free trade agreement with
+    Israel, reversing Petro's 2024 break with Israel.
+  update_date: 2026-10-14
+  sources_extra:
+    - {label: "Reuters: Colombia opens embassy in Jerusalem", url: "https://www.reuters.com/world/americas/colombia-opens-embassy-jerusalem-restores-free-trade-deal-with-israel-2026-10-14/"}
 
 CRI:
   pop: 5.2
