@@ -1,0 +1,1111 @@
+# East and North Africa armed conflicts, state as of late October 2026.
+# Coordinates: decimal degrees, town-level, rounded; entries marked "approx" are locality-level estimates.
+# Zones are approximate circles for map display, not precise lines of control.
+conflicts:
+  - id: sudan-saf-rsf
+    name: "Sudan war (SAF vs RSF)"
+    type: civil-war
+    intensity: high
+    status: active
+    started: "2023-04-15 (current phase: Kordofan war after the fall of El Fasher on 2025-10-26)"
+    countries: [SDN, SSD, TCD]
+    sides:
+      - name: "Sudanese Armed Forces and allies"
+        members: ["Sudanese Armed Forces (SAF)", "Joint Forces of Darfur armed movements (SLM-Minnawi, JEM)", "Sudan Shield Forces (Abu Aqla Keikel)", "Popular Resistance volunteers", "al-Baraa bin Malik Brigade", "Central Reserve Forces"]
+        backers: ["Egypt (political support; NYT reported drones flown from an Egyptian Western Desert base against RSF targets since mid-2025)", "Turkey (Bayraktar TB2 package sold by Baykar in 2023)", "Saudi Arabia (political and financial support)", "Qatar (reported delivery of Chinese-made warplanes, 2025)", "Iran (drones, per BBC 2024)", "Russia (weapons and components since mid-2024)", "Eritrea (support on the eastern border)", "Pakistan (Mohafiz-V armoured cars delivered Aug 2026)"]
+        leaders: ["Abdel Fattah al-Burhan (SAF commander-in-chief, Sovereignty Council chair)", "Yasser al-Atta (SAF Chief of Staff from 2026)", "Shams El Din Kabashi (deputy commander, oversaw Kordofan operations in 2025)", "Malik Agar (Sovereignty Council deputy)", "Kamil Idris (Prime Minister)", "Minni Minnawi (SLM, Joint Forces)", "Gibril Ibrahim (JEM, Finance Minister)"]
+        strength: "SAF stated about 120,000 personnel in April 2023 (Wikipedia infobox); no reliable current figure including allied militias."
+      - name: "Rapid Support Forces and Tasis alliance"
+        members: ["Rapid Support Forces (RSF)", "SPLM-N (al-Hilu) in South Kordofan and Blue Nile", "Tasis / Sudan Founding Alliance armed factions", "Arab tribal militias in Darfur and Kordofan", "Colombian contractors (alleged 'Desert Wolves' unit)"]
+        backers: ["United Arab Emirates (alleged arms, drones, armoured vehicles and logistics via Chad and Puntland; the UAE denies)", "Ethiopia (alleged RSF training camp in Benishangul-Gumuz and drone basing at Asosa, Reuters Feb 2026; not confirmed by Ethiopia)", "Haftar's Libyan National Army (historic logistics through southeastern Libya; denies)", "Kenya (hosted the Tasis charter conference; Kenyan-labelled crates found in an RSF depot per Bellingcat; Kenya denies)"]
+        leaders: ["Mohamed Hamdan Dagalo 'Hemedti' (RSF commander, chair of the GPU presidential council)", "Abdul Rahim Dagalo (RSF deputy commander, GPU defence minister)", "Abdelaziz al-Hilu (SPLM-N leader, GPU vice-chair)", "Mohammed Hassan al-Ta'ishi (GPU prime minister)"]
+        strength: "Hemedti claimed 450,000 fighters in 2026 (Wikipedia infobox); no independent estimate found."
+    summary: "Sudan's army and the paramilitary Rapid Support Forces have fought since April 2023 in what the UN calls the world's largest humanitarian crisis. After the RSF captured El Fasher in October 2025 and completed its hold on Darfur, the war moved into Kordofan, where the army counterattacked from July 2026 and broke the RSF ring around El Obeid. Both sides now rely heavily on drones, which the UN says caused most civilian deaths in 2026."
+    background: "The war began on 15 April 2023 when a power struggle between army chief Abdel Fattah al-Burhan and RSF commander Mohamed Hamdan Dagalo (Hemedti) over integrating the RSF into the army turned into fighting in Khartoum. The RSF grew out of the Janjaweed militias that the Bashir government armed in Darfur, and it was formalized in 2013. In March 2025 the army retook the presidential palace and declared Khartoum liberated, and the RSF consolidated in the west.\n\nIn February 2025 the RSF and the SPLM-N faction of Abdelaziz al-Hilu signed a charter in Nairobi for a rival 'Government of Peace and Unity', whose leadership was named in July 2025 with Hemedti as chair and headquarters in Nyala. That split matters because it gives the de facto east/west division of the country a political shape, and because both governments now compete for aid channels, currency and recognition."
+    year: "On 26 October 2025 the RSF overran the army's 6th Infantry Division headquarters in El Fasher after an 18-month siege. Senior officers had left two days earlier; many of those left behind were killed while fleeing. Sudan War Monitor estimated at least 3,000 dead in the first days, the WHO cited reports of more than 460 people killed at the Saudi Maternity Hospital, and a UN mission later said the assault bore 'hallmarks of genocide'. The fall gave the RSF all five Darfur state capitals.\n\nThe RSF then pushed east into Kordofan. It retook Bara in late October 2025, overran the army's 22nd Infantry Division at Babanusa on 1 December, and seized the Heglig oilfield on 8 December, after which South Sudanese troops deployed to guard it under a three-way arrangement. A drone strike blamed on the RSF killed at least 116 people, including 43 children, in Kalogi on 4 December. The army answered by breaking the sieges of Dilling (late January 2026) and Kadugli (early February), though the RSF re-encircled Kadugli within weeks. Bara changed hands again in March.\n\nThrough mid-2026 the RSF tried to strangle El Obeid, the army's main base in Kordofan, with ground pressure from Bara, Umm Sumeima and Kazgil and record drone strikes on its power and water systems. It also opened a southeastern front in Blue Nile with the SPLM-N, taking Kurmuk in March, losing it in July and retaking it in August. In late July the army seized Bara, Um Sayala and the RSF depot at Gebrat al-Sheikh, opening a direct road from El Obeid to Khartoum. ACLED called it the start of a 'third phase' of the war. By early October the army had pushed west through Hamrat al-Wiz and Sodari to Al-Mazroub.\n\nThe air war intensified on both sides. The UN counted more than 1,000 civilians killed by drones from January to May 2026 and at least 306 from 1 to 21 October. On 18 October a double-tap strike on a truck in Dibab, West Kordofan killed at least 139, and on 19 October a strike on Amiet market in the disputed Abyei area killed 153 according to local officials. South Sudan blamed the army, which denied involvement."
+    situation: "As of late October 2026 the country is roughly split. The RSF and its allies hold the four southern and western Darfur states, most of North Darfur, most of West Kordofan (Babanusa, En Nahud, Abu Zabad, Al Khuwei) and positions in South Kordofan and Blue Nile. The army holds the Nile valley, the east and centre, Khartoum (where the government returned in January 2026), El Obeid and most of North Kordofan. Kadugli and Dilling remain army-held but under pressure, and Kurmuk in Blue Nile is RSF-held after repeated swaps. No ceasefire is in place; US-led Quad diplomacy has produced a draft humanitarian truce text but no agreement, and drone strikes on markets, power stations and transport are now the main killer of civilians."
+    technical:
+      - "Drone tempo: ACLED counted 44 RSF drone-strike events nationally in June 2026 and 25 in July; Sheikan locality (El Obeid) alone saw 27 drone strikes in June 2026, the most of the war there."
+      - "UN figures: more than 1,000 civilians killed by drones January to May 2026, and at least 306 from 1 to 21 October 2026; the UN rights chief says drones now cause most conflict-related civilian deaths."
+      - "Double-tap strikes are documented: the 18 Oct 2026 strike in Dibab, West Kordofan hit a transport truck twice (UN 139 dead, Reuters sources 145)."
+      - "SAF drones: Baykar sold the SAF about $120M of equipment in 2023, including 6 Bayraktar TB2s, 3 ground control stations and 600 warheads (FDD report). Akinci losses have been claimed over Khuwai (Sep 2025) and Nyala airport (Jan 2026); neither claim is verified."
+      - "Egypt: the New York Times (1 Feb 2026) reported drones launched from an air base in Egypt's Western Desert striking RSF targets since mid-2025."
+      - "RSF logistics hub: Gebrat al-Sheikh held the RSF's main weapons and drone warehouses in North Kordofan until the SAF seized it in late July 2026 (ACLED)."
+      - "Alleged RSF supply routes: UAE cargo flights via Amdjarass in Chad, Bosaso airport in Puntland, southeastern Libya under Haftar's LNA, and a camp in Benishangul-Gumuz, Ethiopia linked to drone infrastructure at Asosa airport (Reuters, Feb 2026). All named governments deny."
+      - "Armour: Sudan's Oct 2025 UN submission linked UK-made Cummins engines in Emirati Nimr APCs (Edge Group) to RSF use; Amnesty documented recently made UAE APCs with the RSF in 2024."
+      - "Foreign fighters: Colombian contractors reportedly operated RSF drones and artillery and formed a 'Desert Wolves' unit; Colombia says at least 40 Colombians were killed in 2025 airstrikes in Darfur."
+      - "Garrisons lost: SAF 6th Infantry Division (El Fasher, 26 Oct 2025) and 22nd Infantry Division (Babanusa, 1 Dec 2025). The 22nd Division commander, Maj. Gen. Abdelmajid al-Haj, was reportedly killed in an ambush while retreating toward Heglig."
+      - "Strategic targets struck by RSF drones: Port Sudan fuel depots, port and airport (from May 2025); Khartoum airport, Merowe dam (attack intercepted 5 Jan 2026), Kosti fuel stations, Kenana sugar factory at Rabak, Atbara, Ad-Damazin and power stations at El Obeid and Tendalti."
+      - "SAF air and drone strikes on RSF-held towns killed civilians at Ed Daein hospital (70 reported), a wedding in Kutum (58+), Abu Zabad and Nyala; the RSF says strikes on Al Zorg, Hemedti's home town, killed up to 64 civilians on 3 Jan 2026."
+      - "Procurement: a reported Pakistan deal for 10 K-8 jets and 200+ drones (Reuters, Jan 2026) was on hold by April 2026 after Saudi objections; about 100 Mohafiz-V armoured cars arrived in August 2026. Qatar reportedly supplied at least six Chinese warplanes in 2025."
+      - "ACLED Kordofan data (15 Apr 2023 to 19 Sep 2026): about 2,878 attacks including Abyei and at least 12,314 reported fatalities; of attributed attacks, 46% by the SAF and 32% by the RSF."
+      - "RSF cohesion is fraying: intra-RSF fighting in East Darfur (Feb 2026), the defection of commander al-Nour al-Qubba, about 300 fighters defecting at al-Dabbah and 265 from Suleiman Sandal's faction."
+      - "Cross-border spillover: an RSF raid on Chad's Birak garrison killed 7 Chadian soldiers (16 Jan 2026); a later strike on Tine, Chad killed 17 and Chad closed its border."
+      - "Drone swarms and air defence: during RSF drone waves on 12 to 13 Aug 2026 an army source claimed more than 35 drones downed in one day over Atbara, Al-Damar and El Obeid, then 10 over Omdurman, 3 in River Nile and 5 in South Kordofan the next day (The EastAfrican; unverified)."
+      - "Ground mass still matters: the army said it repelled an RSF counterattack on Gebrat al-Sheikh by more than 250 combat vehicles in August 2026."
+      - "Ethiopian staging area: a Yale Humanitarian Research Lab alert (28 Aug 2026) found about 100 new light technicals, about 15 APC-type vehicles and 75+ cargo containers at an ENDF base in Asosa, enough for a regiment to brigade-size force of 750 to 1,000; Sudan accuses Ethiopia of enabling UAE support to the RSF in Blue Nile, which Ethiopia and the UAE deny."
+      - "Blue Nile garrisons: the SAF 4th Infantry Division holds Ad-Damazin; the RSF and SPLM-N claimed the Bakori and Sorkam bases and Geissan town (Aug to Sep 2026); Joint Force reinforcements reached Ad-Damazin on 1 Sep 2026."
+    casualties: "No reliable total exists. ACLED counts at least 59,000 reported deaths over the first three years and says the real toll is almost certainly higher (AP, June 2026). Estimates cited on Wikipedia for total deaths, including hunger and disease, range from 150,000 to 400,000. ACLED records at least 12,314 reported fatalities in Kordofan alone to 19 Sep 2026. The fall of El Fasher killed at least 3,000 by Sudan War Monitor's early estimate, with much higher estimates disputed. The UN says drones killed more than 1,000 civilians from January to May 2026 and at least 306 from 1 to 21 October 2026."
+    displaced: "More than 14 million people displaced, including about 4.5 million refugees (UN figures cited on Wikipedia, 6 Jul 2026). About 8.6 million remain internally displaced, down from a peak of 11.6 million in January 2025, and about 5.1 million had returned by August 2026, 2.7 million of them to Khartoum (UN via Al Jazeera, Oct 2026). IOM recorded new displacement in Kordofan rising from 132,000 in February to 219,000 by late June 2026. The IPC confirmed famine in El Fasher (Nov 2025) and parts of the Nuba Mountains (Dec 2025); about 34 million people need aid. A February 2026 IPC update put more than 21 million people in crisis-level hunger or worse (IPC Phase 3+), with acute malnutrition far above famine thresholds in Um Baru (52.9%) and Kernoi (34%) in North Darfur and 4.2 million expected acute malnutrition cases in 2026 (Mercy Corps summary of the IPC). Fighting around Geissan in Blue Nile displaced about 2,500 people in August 2026, some into Ethiopia (IOM)."
+    zones:
+      - {name: "Darfur (RSF-held)", lat: 13.0, lng: 24.5, radius_km: 420, note: "RSF holds all five Darfur state capitals since El Fasher fell on 26 Oct 2025; SAF and allied drone strikes hit Nyala, Ed Daein, Kutum and Zalingei."}
+      - {name: "Nyala (seat of the RSF-led government)", lat: 12.05, lng: 24.88, radius_km: 25, note: "Headquarters of the Government of Peace and Unity; frequent SAF drone target."}
+      - {name: "El Fasher and Tawila corridor", lat: 13.63, lng: 25.35, radius_km: 60, note: "Captured by the RSF on 26 Oct 2025; survivors fled about 60 km west to Tawila. IPC confirmed famine here in Nov 2025."}
+      - {name: "Tina and Kornoi border pocket (approx)", lat: 15.0, lng: 22.9, radius_km: 70, note: "Remaining SAF and Joint Force positions near the Chad border after El Fasher; RSF raids spilled into Chad."}
+      - {name: "El Obeid (SAF bastion)", lat: 13.18, lng: 30.22, radius_km: 35, note: "SAF 5th Infantry Division and airbase; about 500,000 people. RSF ring broken in late July 2026 but drone strikes continue."}
+      - {name: "North Kordofan contested belt", lat: 14.0, lng: 29.6, radius_km: 140, note: "Bara, Sodari, Hamrat al-Wiz and Al-Mazroub; SAF advancing west since late July 2026."}
+      - {name: "West Kordofan (RSF-held)", lat: 11.8, lng: 28.2, radius_km: 170, note: "Babanusa, En Nahud, Al Khuwei, Abu Zabad and El Fula; RSF rear area and target of SAF drones."}
+      - {name: "Nuba Mountains / South Kordofan", lat: 11.4, lng: 29.9, radius_km: 110, note: "SAF holds Kadugli and Dilling under pressure; SPLM-N (al-Hilu) holds Kauda and pockets; famine declared in parts in Dec 2025."}
+      - {name: "Heglig oilfield (approx)", lat: 10.0, lng: 29.4, radius_km: 35, note: "Seized by the RSF on 8 Dec 2025, then secured by South Sudanese troops under a three-way arrangement."}
+      - {name: "Blue Nile front", lat: 10.9, lng: 34.2, radius_km: 110, note: "Kurmuk, Geissan, Deim Mansour and Ad-Damazin; RSF and SPLM-N offensives reportedly staged from Ethiopia."}
+      - {name: "Khartoum", lat: 15.55, lng: 32.53, radius_km: 35, note: "SAF-held since March 2025; government returned in Jan 2026; airport and power stations hit by drones."}
+      - {name: "Port Sudan", lat: 19.62, lng: 37.22, radius_km: 20, note: "Wartime seat of government and main port; RSF drone strikes on fuel depots, port and airport since May 2025."}
+      - {name: "Abyei", lat: 9.6, lng: 28.44, radius_km: 40, note: "Disputed with South Sudan; Amiet market strike on 19 Oct 2026 killed 153 per local officials."}
+    timeline:
+      - {date: "2025-10-26", event: "RSF captures the SAF 6th Infantry Division headquarters in El Fasher; mass killings of fleeing civilians and fighters follow."}
+      - {date: "2025-11-04", event: "IPC Famine Review Committee finds reasonable evidence of famine in El Fasher."}
+      - {date: "2025-11-16", event: "SAF retakes Kazgil and Um Dam Haj Ahmed in North Kordofan."}
+      - {date: "2025-12-01", event: "RSF overruns the SAF 22nd Infantry Division in Babanusa after a siege dating to January 2024."}
+      - {date: "2025-12-04", event: "Drone strike blamed on the RSF kills at least 116, including 43 children, in Kalogi, South Kordofan."}
+      - {date: "2025-12-08", event: "RSF seizes the Heglig oilfield; South Sudanese troops later deploy to secure it."}
+      - {date: "2026-01-11", event: "Government announces its return to Khartoum from Port Sudan."}
+      - {date: "2026-01-12", event: "RSF drone strike on an army base in Singa kills at least 27 during a meeting of three state governors."}
+      - {date: "2026-01-26", event: "SAF announces it has lifted the siege of Dilling."}
+      - {date: "2026-02-03", event: "SAF breaks the siege of Kadugli; the same week RSF and SPLM-N seize Deim Mansour near Kurmuk in Blue Nile."}
+      - {date: "2026-02-04", event: "US adviser Massad Boulos says the Quad has agreed a truce document acceptable to both sides; fighting continues."}
+      - {date: "2026-03-16", event: "RSF reoccupies Bara after the SAF retook it on 5 March."}
+      - {date: "2026-03-24", event: "Tasis alliance announces control of Kurmuk, Blue Nile."}
+      - {date: "2026-06-30", event: "ACLED reports record drone strikes on El Obeid, encircled from the north, west and south."}
+      - {date: "2026-07-27", event: "ACLED reports SAF capture of Bara, Um Sayala and Gebrat al-Sheikh, opening a new El Obeid to Khartoum route."}
+      - {date: "2026-08-12", event: "RSF drone waves hit Khartoum, El Obeid, Kadugli, Atbara and Al-Damar; RSF and SPLM-N attack Geissan in Blue Nile."}
+      - {date: "2026-08-14", event: "RSF claims full control of Geissan near the Ethiopian border; the army says fighting continues."}
+      - {date: "2026-08-22", event: "RSF retakes Kurmuk after the SAF recaptured it in July."}
+      - {date: "2026-08-28", event: "Yale HRL reports a military buildup at the Ethiopian army base in Asosa near Blue Nile."}
+      - {date: "2026-09-25", event: "SAF regains full control of Sodari in western North Kordofan."}
+      - {date: "2026-10-02", event: "SAF recaptures Al-Mazroub."}
+      - {date: "2026-10-04", event: "Burhan joins Egypt, Eritrea and Somalia in the El Alamein declaration condemning parallel entities in Sudan."}
+      - {date: "2026-10-18", event: "Double-tap drone strike on a truck in Dibab, West Kordofan kills at least 139 (UN)."}
+      - {date: "2026-10-19", event: "Drone strike on Amiet market in Abyei kills 153 per local officials; South Sudan blames the SAF, which denies it."}
+    outlook: "Watch whether the SAF pushes from North Kordofan into West Kordofan toward En Nahud and Babanusa before the RSF can regroup, and whether the RSF answers with a renewed push on El Obeid, Kadugli or Blue Nile. The drone war on cities and markets is likely to keep rising. Diplomatically, the Quad and Quintet are pursuing a humanitarian truce and a prisoner exchange, but sticking points include RSF withdrawal from cities, rival aid bodies and oil transit revenue. The Ethiopian war in Tigray adds a new risk: Addis Ababa accuses Sudan of backing the TPLF, while Khartoum accuses Ethiopia of backing the RSF."
+    sources:
+      - {label: "Sudan War Monitor: Thousands killed and others escape in chaotic rout of El Fasher defenders", url: "https://sudanwarmonitor.com/p/fall-of-el-fasher"}
+      - {label: "Sudan War Monitor: RSF stronghold Bara falls to Sudan army (Sep 2025)", url: "https://sudanwarmonitor.com/p/rsf-stronghold-bara-falls-to-sudan-army"}
+      - {label: "ACLED: Can the RSF seize El Obeid? (30 Jun 2026)", url: "https://acleddata.com/expert-comment/can-rsf-seize-el-obeid"}
+      - {label: "ACLED: Does the capture of Bara signal a turning point for the SAF? (27 Jul 2026)", url: "https://acleddata.com/expert-comment/does-capture-bara-signal-turning-point-saf"}
+      - {label: "ACLED: Can the SAF's latest advances reshape Sudan's war? (13 Aug 2026)", url: "https://acleddata.com/expert-comment/can-safs-latest-advances-reshape-sudans-war"}
+      - {label: "Al Jazeera: El-Obeid under siege by RSF (6 Jul 2026)", url: "https://www.aljazeera.com/amp/news/2026/7/6/el-obeid-under-siege-by-rsf-could-this-be-sudans-next-el-fasher"}
+      - {label: "Al Jazeera: The battle for Kordofan (1 Oct 2026)", url: "https://www.aljazeera.com/amp/news/2026/10/1/the-battle-for-kordofan-the-corridor-linking-sudans-east-and-west"}
+      - {label: "Rio Times (citing UN, Reuters, AP): Sudan drone strikes, 306 deaths in October", url: "https://www.riotimesonline.com/sudan-drone-strikes-306-deaths-october/"}
+      - {label: "Arab News / AP: Death toll from Sudan army strike in disputed territory rises to 153", url: "https://www.arabnews.pk/middle-east/death-toll-from-sudan-army-strike-in-disputed-territory-rises-to-153-local-authority-3004842"}
+      - {label: "Africanews: UN condemns drone strikes on civilians and infrastructure in Sudan (21 Oct 2026)", url: "https://www.africanews.com/amp/2026/10/21/united-nations-condemns-drone-strikes-on-civilians-and-infrastructure-in-sudan/"}
+      - {label: "AP via WTOP: Drone strikes killed over 1,000 civilians in Sudan in 5 months", url: "https://wtop.com/world/2026/06/drone-strikes-killed-over-1000-civilians-in-sudan-in-5-months-un-rights-chief-says/"}
+      - {label: "Rane Worldview: US advisor claims progress toward humanitarian truce (4 Feb 2026)", url: "https://worldview.ranenetwork.com/content/situation-report/sudan-us-advisor-claims-progress-toward-humanitarian-truce-despite-ongoing-saf-rsf"}
+      - {label: "Sudan Tribune: Why Sudan's next truce needs more than a simple ceasefire (opinion, 29 Sep 2026)", url: "https://sudantribune.com/article/319386"}
+      - {label: "Wikipedia: Kordofan campaign (2023 to present)", url: "https://en.wikipedia.org/wiki/Kordofan_campaign_(2023%E2%80%93present)"}
+      - {label: "Wikipedia: Timeline of the Sudanese civil war (2026)", url: "https://en.wikipedia.org/wiki/Timeline_of_the_Sudanese_civil_war_(2026)"}
+      - {label: "Wikipedia: Siege of Babanusa", url: "https://en.wikipedia.org/wiki/Siege_of_Babanusa"}
+      - {label: "Wikipedia: Siege of El Fasher", url: "https://en.wikipedia.org/wiki/Siege_of_El_Fasher"}
+      - {label: "Wikipedia: Battle of Kurmuk", url: "https://en.wikipedia.org/wiki/Battle_of_Kurmuk"}
+      - {label: "Wikipedia: Government of Peace and Unity", url: "https://en.wikipedia.org/wiki/Government_of_Peace_and_Unity"}
+      - {label: "Wikipedia: Foreign involvement in the Sudanese civil war", url: "https://en.wikipedia.org/wiki/Foreign_involvement_in_the_Sudanese_civil_war_(2023%E2%80%93present)"}
+      - {label: "Wikipedia: Sudanese civil war (2023 to present)", url: "https://en.wikipedia.org/wiki/Sudanese_civil_war_(2023%E2%80%93present)"}
+      - {label: "The EastAfrican: Drone attacks target Khartoum, other Sudanese cities (Aug 2026)", url: "https://theeastafrican.co.ke/tea/news/southern-africa/drone-attacks-target-khartoum-5558208"}
+      - {label: "Voice of Nigeria: RSF offensive displaces thousands in Sudan's Blue Nile (14 Aug 2026)", url: "https://von.gov.ng/rsf-offensive-displaces-thousands-in-sudans-blue-nile/"}
+      - {label: "AllAfrica / Sudan Tribune: Blue Nile fighting and Yale HRL Asosa alert (Sep 2026)", url: "https://allafrica.com/stories/202609030540.html"}
+      - {label: "Sudan War Monitor: Map, the drone war in Kordofan (19 Dec 2025)", url: "https://sudanwarmonitor.com/p/map-the-drone-war-in-kordofan"}
+      - {label: "Mercy Corps: New IPC report warns of rising hunger in Sudan (5 Feb 2026)", url: "https://www.mercycorps.org/press-room/releases/new-ipc-report-warns-of-rising-hunger-sudan"}
+
+  - id: south-sudan-civil-conflict
+    name: "South Sudan conflict (government vs SPLA-IO)"
+    type: civil-war
+    intensity: high
+    status: active
+    started: "2025-03-04 (White Army capture of the Nasir garrison; Riek Machar detained later that month)"
+    countries: [SSD, UGA, SDN]
+    sides:
+      - name: "Government of South Sudan"
+        members: ["South Sudan People's Defence Forces (SSPDF)", "Allied militias including Johnson Olony's forces", "Uganda People's Defence Force (UPDF) contingent"]
+        backers: ["Uganda (troops and support to joint air strikes, per the UN Commission on Human Rights in South Sudan)"]
+        leaders: ["Salva Kiir (President)", "Santino Deng Wol (SSPDF chief, reappointed May 2026)", "Johnson Olony (militia commander)"]
+        strength: "No reliable public figure found."
+      - name: "SPLM/A-IO and allied Nuer forces"
+        members: ["SPLA-IO", "Nuer White Army", "Kit-Gwang faction (Simon Gatwech Dual)", "Defectors from the SSOA (about 1,000 under Brig. Gen. Much Banang, Jan 2026)"]
+        backers: []
+        leaders: ["Riek Machar (SPLM-IO chairman, suspended first vice president, detained and on trial)", "Simon Gatwech Dual (Kit-Gwang faction)", "Pal Mai Deng (SPLM-IO spokesperson)"]
+        strength: "No reliable public figure found."
+    summary: "South Sudan's 2018 peace deal has collapsed into renewed war between President Salva Kiir's forces, backed by Ugandan troops, and the SPLA-IO loyal to detained former vice president Riek Machar. Fighting is fiercest in Nuer areas of Jonglei and Upper Nile, where government air strikes have hit civilians, and the country is heading into elections set for 22 December 2026."
+    background: "South Sudan's 2013 to 2018 civil war, which pitted Kiir's mostly Dinka government against Machar's mostly Nuer SPLM-IO, ended in a power-sharing deal that was never fully implemented. In March 2025 the Nuer White Army overran the army garrison at Nasir in Upper Nile, and Machar was placed under arrest. Uganda deployed troops to back Kiir.\n\nMachar and seven co-accused went on trial on 22 September 2025 for treason, murder, crimes against humanity and terrorism over the Nasir attack. The SPLA-IO framed its military campaign as a response to the trial, which matters because it turned an elite dispute into a war over Nuer areas."
+    year: "On 23 December 2025 the SPLA-IO took Waat, the Nyirol County headquarters in Jonglei, and within ten days had captured Pathai and Yuai, effectively ending government presence in Nyirol, Uror and Akobo counties. About 1,000 SSOA soldiers defected to it, and the Kit-Gwang faction claimed Pajut and declared the 2025 peace deal void. A government air strike on Lankien on 29 December killed at least 11 civilians, and a drone attack hit the MSF hospital there on 3 February 2026.\n\nOn 24 January militia commander Johnson Olony told his men to 'spare no one', drawing condemnation from the UN and Human Rights Watch. The next day the SSPDF launched Operation Enduring Peace, and by 3 February it said it had retaken all northern Jonglei bases. The SSPDF took Akobo in March after ordering UN and aid staff out; the SPLA-IO retook it on 13 to 14 April. Violence spread: an attack in Abiemnom (Ruweng) killed at least 169 on 1 March, rebels took Walgak on 5 July after killing 44 soldiers, and two Ethiopian UN peacekeepers were killed near Pajut on 24 August.\n\nPolitically, prosecutors closed their case against Machar in April 2026, the UN Security Council cut UNMISS from 17,000 to 12,000 personnel, and on 21 September Kiir dissolved the transitional government ahead of the December election. Sudan's war spilled over at Heglig and Abyei, where a drone strike on Amiet market killed 153 on 19 October."
+    situation: "As of late October 2026 the SSPDF holds most towns in Jonglei but the SPLA-IO and White Army hold Akobo and much of the Lou Nuer countryside and keep raiding garrisons such as Walgak. Clashes continue in Upper Nile (Maiwut, Longechuk) and Central Equatoria. Machar's trial has not produced a verdict in available reporting. The transitional government has been dissolved and elections are scheduled for 22 December 2026, with no agreement from the opposition."
+    technical:
+      - "The UN Commission on Human Rights in South Sudan found that Ugandan forces helped carry out joint aerial bombardments of civilian areas, mainly Nuer communities in opposition-held territory."
+      - "Government air power is used against opposition towns: an air strike on Lankien killed at least 11 civilians (29 Dec 2025) and a drone attack hit the MSF hospital there (3 Feb 2026)."
+      - "The SSPDF has used evacuation orders before offensives, including an order for UN and aid staff to leave Akobo within 72 hours (6 Mar 2026), restricting humanitarian access."
+      - "Operation Enduring Peace (from 25 Jan 2026) retook Yuai, Pajut, Pathai, Motot and Pieri; the SPLA-IO called its withdrawals tactical."
+      - "Defections shape the balance: about 1,000 SSOA soldiers joined the SPLA-IO (3 Jan 2026), and the Kit-Gwang faction abandoned its 2025 deal with the government."
+      - "Machar trial: 14 prosecution witnesses (seven in camera), signals recordings and digital forensic evidence; presiding judge James Alala Deng. Prosecutors allege SPLA-IO and White Army forces killed 257 SSPDF soldiers, including commander David Majur Dak, and destroyed or seized about $58 million of equipment at Nasir in March 2025. The court was in its 68th session in April 2026 with no verdict date given."
+      - "UNMISS was cut from 17,000 to 12,000 personnel by the UN Security Council on 30 Apr 2026, reducing protection capacity just as fighting spread."
+      - "Sudan spillover: South Sudanese troops secure the Heglig oilfield under a Kiir-Burhan-Hemedti arrangement (Dec 2025), and Abyei has been hit by drone strikes."
+    casualties: "No comprehensive 2026 total was found. ACLED counted at least 200 dead, including 40 civilians, in Jonglei by late January 2026. Major incidents include at least 169 killed in Abiemnom (1 Mar 2026), 44 soldiers killed at Walgak (5 Jul 2026), 70 killed in a gold-mine clash at Jebel Iraq (29 Mar 2026), 49 killed in a cattle raid in Warrap (29 Aug 2026) and 153 killed in the Amiet market strike in Abyei (19 Oct 2026). The 'high' intensity label is an estimate based on these incidents."
+    displaced: "More than 280,000 displaced by the Jonglei fighting by late January 2026, with cholera in camps in Duk County and about 450,000 children at risk of malnutrition (figures cited on Wikipedia). About 8,000 displaced by the Amiet strike in Abyei (Reuters via Rio Times)."
+    zones:
+      - {name: "Lou Nuer heartland, Jonglei (approx)", lat: 7.9, lng: 32.0, radius_km: 100, note: "Waat, Lankien, Yuai, Pajut and Akobo; main battleground of the Dec 2025 to Apr 2026 offensives."}
+      - {name: "Upper Nile (Nasir, Ulang, Maiwut)", lat: 8.6, lng: 33.2, radius_km: 90, note: "White Army and SPLA-IO stronghold where the March 2025 Nasir attack started the current war."}
+      - {name: "Juba", lat: 4.86, lng: 31.57, radius_km: 20, note: "Seat of government and of the Machar trial."}
+      - {name: "Central Equatoria (approx)", lat: 3.9, lng: 30.9, radius_km: 90, note: "SPLA-IO seized Panyume on 20 Jan 2026; continuing clashes."}
+      - {name: "Ruweng and Abyei border (approx)", lat: 9.65, lng: 28.8, radius_km: 70, note: "Abiemnom massacre (1 Mar 2026) and Sudan war spillover at Heglig and Amiet."}
+    timeline:
+      - {date: "2025-09-22", event: "Riek Machar and seven co-accused first appear in court in Juba."}
+      - {date: "2025-12-23", event: "SPLA-IO captures Waat, starting the Jonglei offensive."}
+      - {date: "2025-12-29", event: "Government air strike on Lankien kills at least 11 civilians."}
+      - {date: "2026-01-02", event: "SPLA-IO captures Yuai."}
+      - {date: "2026-01-16", event: "Kit-Gwang faction claims Pajut and declares the 2025 deal void."}
+      - {date: "2026-01-24", event: "Johnson Olony tells his forces to 'spare no one'."}
+      - {date: "2026-01-25", event: "SSPDF launches Operation Enduring Peace."}
+      - {date: "2026-02-03", event: "SSPDF says it has retaken all northern Jonglei bases; drone attack hits the MSF hospital in Lankien."}
+      - {date: "2026-03-01", event: "At least 169 killed in an attack on Abiemnom, Ruweng."}
+      - {date: "2026-03-14", event: "SSPDF controls Akobo."}
+      - {date: "2026-04-14", event: "SPLA-IO retakes Akobo."}
+      - {date: "2026-04-24", event: "Prosecution closes its case in the Machar trial."}
+      - {date: "2026-04-30", event: "UN Security Council cuts UNMISS from 17,000 to 12,000 personnel."}
+      - {date: "2026-07-05", event: "Rebels seize Walgak, Jonglei after killing 44 soldiers."}
+      - {date: "2026-08-24", event: "Two Ethiopian UN peacekeepers killed in an ambush near Pajut."}
+      - {date: "2026-09-21", event: "Kiir dissolves the transitional government ahead of the December election."}
+      - {date: "2026-10-19", event: "Drone strike on Amiet market in Abyei kills 153 per local officials."}
+    outlook: "Watch the run-up to the 22 December 2026 election, any verdict in the Machar trial, the dry-season campaign that usually begins in November in Jonglei and Upper Nile, and the reduced UNMISS footprint. Spillover from Sudan at Heglig and Abyei could pull Juba further into its neighbour's war."
+    sources:
+      - {label: "Wikipedia: 2026 Jonglei offensive", url: "https://en.wikipedia.org/wiki/2026_Jonglei_offensive"}
+      - {label: "Wikipedia: Jonglei clashes (2025 to present)", url: "https://en.wikipedia.org/wiki/Jonglei_clashes_(2025%E2%80%93present)"}
+      - {label: "Wikipedia: 2026 in South Sudan", url: "https://en.wikipedia.org/wiki/2026_in_South_Sudan"}
+      - {label: "Sudans Post: Prosecutors close case as Machar trial moves to next phase (26 Apr 2026)", url: "https://www.sudanspost.com/prosecutors-close-case-as-machar-trial-moves-to-next-phase/"}
+      - {label: "Sudans Post: Machar trial near completion, says Makuei (16 Apr 2026)", url: "https://www.sudanspost.com/machar-trial-near-completion-says-makuei/"}
+      - {label: "AP via ICTJ: UN report says Ugandan troops helped South Sudan with deadly airstrikes", url: "https://www.ictj.org/es/node/38232"}
+      - {label: "Eye Radio: SSPDF, SPLA-IO report fresh clashes in Upper Nile State (Aug 2026)", url: "https://www.eyeradio.org/sspdf-spla-io-report-fresh-clashes-in-upper-nile-state/"}
+      - {label: "Arab News / AP: Death toll from Sudan army strike in disputed territory rises to 153", url: "https://www.arabnews.pk/middle-east/death-toll-from-sudan-army-strike-in-disputed-territory-rises-to-153-local-authority-3004842"}
+
+  - id: ethiopia-tigray-war
+    name: "Tigray war (Ethiopia vs TPLF, 2026)"
+    type: civil-war
+    intensity: high
+    status: active
+    started: "2026-01-29 (first major clashes since 2022; full-scale war from about 2026-09-22)"
+    countries: [ETH, ERI]
+    sides:
+      - name: "Federal government and allies"
+        members: ["Ethiopian National Defense Force (ENDF)", "Tigray Peace Force (TPF, federally backed ex-TDF fighters)", "Federal police", "Amhara militias (e.g. Tekeze Guard)", "Afar regional forces"]
+        backers: ["United Arab Emirates (long-standing political and military partner of Abiy, per CTP)", "Turkey (drone supplier during the 2020 to 2022 war, per CTP)"]
+        leaders: ["Abiy Ahmed (Prime Minister, reappointed 5 Oct 2026)", "Birhanu Jula (ENDF Chief of Staff)", "Getachew Reda (former Tigray interim leader, now federal minister and TPF patron)"]
+        strength: "The TPF numbers up to several thousand fighters (CTP, Aug 2026); ENDF figures not public."
+      - name: "TPLF and the Alliance for Survival"
+        members: ["Tigray Defense Forces (TDF) under the TPLF", "Afar Revolutionary Democratic Unity Front (ARDUF)", "Amhara Fano National Movement (AFNM), allied", "Oromo Liberation Army (OLA), allied", "Sidama National Liberation Front (joined 24 Sep 2026)"]
+        backers: ["Eritrea (political and financial backing; limited troop presence reported in October 2026; Eritrea denies)", "Sudan and Egypt (accused by Ethiopia's army chief; both deny)"]
+        leaders: ["Debretsion Gebremichael (TPLF chairman, reselected regional president May 2026)", "Tadesse Werede (Tigrayan military leader and former interim president)", "Zemene Kassie (AFNM leader, alliance partner)"]
+        strength: "About 274,000 Tigrayan fighters registered for demobilisation after 2022, of whom about 63,000 completed it before the process froze (IndraStra citing official data)."
+    summary: "The 2022 Pretoria peace deal that ended Ethiopia's Tigray war unravelled in 2026. After months of clashes, a TPLF-led coalition launched offensives in late September; the federal army and an allied Tigrayan militia counterattacked, took Mekelle on 3 October without a fight and advanced to the edge of Adigrat near the Eritrean border."
+    background: "The 2020 to 2022 Tigray war killed hundreds of thousands and ended with the Pretoria agreement of 2 November 2022. The TPLF never fully disarmed and split: in March 2025 the faction led by Debretsion Gebremichael ousted the federally appointed interim administration of Getachew Reda, and in May 2025 the election board revoked the TPLF's registration. Several thousand fighters broke away to form the Tigray Peace Force, which Addis Ababa backs.\n\nRelations between Ethiopia and Eritrea, allies during the last war, collapsed over Abiy Ahmed's demand for Red Sea access, and Eritrea moved closer to the TPLF. That realignment matters because it turns a regional insurgency into a possible interstate war."
+    year: "Ethiopian drones struck Tigrayan forces for the first time since the war in November 2025. On 29 January 2026 fighting broke out in Tselemti in western Tigray, and Tigrayan forces briefly took Alamata and Korem before pulling back on 1 February. In April Addis Ababa extended the interim administration's mandate; in May the TPLF restored its pre-war regional council and reinstated Debretsion as president, and in June it enacted conscription. Tigray was excluded from the 1 June national election.\n\nOn 1 August the army and Amhara militia fought TPLF units near Humera, with both sides using artillery and drones. Clashes, strikes on Mekelle and AU mediation by Olusegun Obasanjo followed through August. Fano leader Zemene Kassie confirmed a coalition with the TPLF and the OLA, and Eritrea reportedly moved armour into southern Tigray.\n\nAround 22 September the 'Alliance for Survival' attacked into Afar (Abala, Erebti) and down the A2 highway into Amhara (Kobo, Sekota). On 27 September strikes hit the Ethiopian Air Force headquarters at Bishoftu and Kombolcha airport. The army halted the push, retook Sekota and Alamata, then on 3 October entered Mekelle after the TDF withdrew. By 9 October federal forces held Wukro, Hagere Selam, Abiy Addi and Shire and had reached the outskirts of Adigrat. Ethiopia and Eritrea broke relations on 1 October, and Eritrean troops reported near Adigrat on 7 October pulled back after Ethiopian drone strikes.\n\nThe TDF then gave up the north almost without a fight. Federal forces entered Adigrat on the night of 9 to 10 October, Adwa and Enticho on 11 October and Axum on 12 October, and pushed about 23 miles north from Adigrat to the Eritrean border at Zalambessa. Ethiopian drones struck suspected Eritrean and TDF forces near Adigrat again on 10 October. On 12 October former interim president Tadesse Werede and other TPLF dissidents escaped TDF custody near Rama and reached Mekelle. Addis Ababa announced that Tigray will be run by a federal command post and interim administration for six months, followed by elections."
+    situation: "As of mid to late October 2026, federal forces and the Tigray Peace Force control Mekelle, southern Tigray, Shire, Axum, Adwa and Adigrat and have reached the Eritrean border at Zalambessa, and were advancing toward Sheraro. Remaining TDF units hold pockets around Cherseber, Debre Damo, Fatsi, Fiya Keshi and Sebeya near the border, some fighters have crossed into Eritrea, and TPLF leaders were last reported in Ahferom district. Eritrean troops have left Adigrat but remain around Zalambessa and Badme (AFP, 18 Oct). Tigray is under a six-month federal interim administration, and residents report collapsed policing and severe hunger. Fano continues to attack federal supply lines in Amhara."
+    technical:
+      - "Federal advance axes in October 2026: eastern from Afar to Mekelle; southern up the A2 from Alamata; central along the C23 to Hagere Selam and Abiy Addi; northern up the A2 to Wukro, Atsbi and Idaga Hamus; western across the Tekeze toward Shire."
+      - "Drones are central: CTP assesses that improved Ethiopian drone capability is one reason the TPLF is weaker than in 2020 to 2022. ENDF strikes hit Adigrat, Adwa, Axum, Shire, Rama, Irob and Mekelle."
+      - "Adwa and Sheraro air strikes on the night of 4 to 5 October 2026 killed nine and eight people respectively (Reuters, citing a humanitarian bulletin)."
+      - "Strikes on 27 Sep 2026 hit Harar Meda Air Base at Bishoftu, Ethiopian Air Force headquarters about 35 miles southeast of Addis Ababa, killing several soldiers; Kombolcha airport was also hit. No group claimed them."
+      - "TPLF one-way attack drones were claimed for the first time during the 1 Aug 2026 Humera fighting (unverified by CTP)."
+      - "TPLF 'Army 70' units based in eastern Sudan took part in the Aug 2026 fighting near Humera, according to CTP."
+      - "Hagere Selam changed hands four times between 4 and 6 October 2026."
+      - "The TPF is Addis Ababa's main ground partner in Tigray and called on TDF fighters to surrender on 5 October."
+      - "Fuel is a constraint: Ethiopia imports about 50% of its fuel from Kuwait and 38% from Saudi Arabia, routes disrupted by the Houthi blockade (CTP)."
+      - "Intra-coalition friction: clashes between the TPF and the Amhara Raya Zeb militia near Alamata killed more than 20 in early October."
+    casualties: "No aggregate count. Specific reports include 9 killed in Adwa and 8 in Sheraro (4 to 5 Oct 2026, Reuters), more than 10 in a drone strike on Alamata market (late Sep, pro-Fano claim) and more than 20 in TPF and Raya Zeb clashes (early Oct). Claims of 500 and 1,000 casualties in the 1 August Humera fighting are unverified. For scale, the 2020 to 2022 Tigray war reportedly killed about 600,000 people (AFP), which is why a return to full war is so feared."
+    displaced: "Ethiopia had 1,919,993 IDPs as of 31 Aug 2026 (UNHCR), mostly from earlier conflicts and disasters; new displacement since late September 2026 has not been reliably counted (IndraStra)."
+    zones:
+      - {name: "Border-district TDF pockets (Ahferom, Rama, Fatsi) (approx)", lat: 14.42, lng: 39.1, radius_km: 45, note: "Where TDF remnants and TPLF leaders fell back after losing Adwa and Adigrat (10 to 11 Oct 2026); some crossed into Eritrea."}
+      - {name: "Adwa and Axum", lat: 14.14, lng: 38.8, radius_km: 25, note: "Hit by federal air strikes in early October; entered by federal forces on 11 and 12 Oct 2026."}
+      - {name: "Mekelle", lat: 13.5, lng: 39.48, radius_km: 25, note: "Taken by the ENDF and TPF on 3 Oct 2026 without significant resistance; seat of the new federal interim administration."}
+      - {name: "Adigrat and Zalambessa", lat: 14.4, lng: 39.43, radius_km: 30, note: "Federal forces entered Adigrat on 10 Oct and reached the Eritrean border at Zalambessa on 12 Oct 2026."}
+      - {name: "Southern Tigray / Raya", lat: 12.42, lng: 39.55, radius_km: 40, note: "Alamata and Korem; contested by TPF and Amhara militias."}
+      - {name: "Western Tigray / Humera", lat: 14.1, lng: 36.9, radius_km: 70, note: "Amhara-administered and ENDF-held; site of the 1 Aug 2026 fighting."}
+      - {name: "Afar front (Abala, Erebti)", lat: 13.5, lng: 40.0, radius_km: 60, note: "ARDUF and TDF offensive in late Sep 2026."}
+    timeline:
+      - {date: "2026-01-29", event: "Clashes in Tselemti, western Tigray; flights to Tigray suspended."}
+      - {date: "2026-01-30", event: "Tigrayan forces take Alamata and Korem."}
+      - {date: "2026-02-01", event: "Tigrayan forces withdraw from Tselemti."}
+      - {date: "2026-05-05", event: "Restored pre-war Tigray council reselects Debretsion Gebremichael as president."}
+      - {date: "2026-08-01", event: "ENDF and TPLF fight near Humera and Shererina."}
+      - {date: "2026-08-24", event: "AU envoy Obasanjo meets Debretsion."}
+      - {date: "2026-09-22", event: "Alliance for Survival offensive takes Abala in Afar."}
+      - {date: "2026-09-27", event: "Strikes hit Bishoftu air base and Kombolcha airport; ENDF retakes Sekota."}
+      - {date: "2026-10-01", event: "Ethiopia expels Eritrean diplomats and closes its embassy; Eritrea cuts ties."}
+      - {date: "2026-10-03", event: "ENDF and TPF take Mekelle."}
+      - {date: "2026-10-07", event: "Eritrean troops reported near Adigrat; Ethiopian drone strike hits an Eritrean truck; ENDF takes Wukro."}
+      - {date: "2026-10-08", event: "Federal forces enter Shire."}
+      - {date: "2026-10-10", event: "Federal forces and the TPF enter Adigrat without resistance; drone strikes hit suspected Eritrean and TDF forces nearby."}
+      - {date: "2026-10-11", event: "Federal forces enter Adwa and Enticho after TDF withdrawal; Getachew Reda announces six months of federal command-post rule."}
+      - {date: "2026-10-12", event: "Federal forces take Axum and reach the Eritrean border at Zalambessa; Tadesse Werede escapes TDF custody to Mekelle."}
+      - {date: "2026-10-16", event: "Government announces a six-month interim administration for Tigray leading to elections."}
+    outlook: "The conventional phase looks largely over, so watch whether the TDF shifts to guerrilla war from the border districts as it did in 2021, whether the federal interim administration and the TPF can restore policing and aid, and whether Eritrea, which still has troops at Zalambessa and Badme, escalates. Tensions between the TPF and Amhara militias over disputed land could break the federal coalition."
+    sources:
+      - {label: "Critical Threats: Ethiopia War Security Review (29 Sep 2026)", url: "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/ethiopia-war-security-review-september-29-2026"}
+      - {label: "Critical Threats: Ethiopia War Security Review (6 Oct 2026)", url: "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/october-6-2026"}
+      - {label: "Critical Threats: Ethiopia War Security Review (9 Oct 2026)", url: "https://www.criticalthreats.org/print/brf_6ac94ee9d6e71"}
+      - {label: "Critical Threats: Africa File (8 Oct 2026)", url: "https://www.criticalthreats.org/analysis/Ethiopia-eritrea-tigray-tplf-egypt-somalia-sudan-saf-mali-fla-jnim"}
+      - {label: "Critical Threats: Africa File (6 Aug 2026)", url: "https://www.criticalthreats.org/analysis/ethiopia-tplf-drc-fdlr-rwanda-red-sea-saudi-houthi-somalia-fgs-us-aussom-africa-file-august-6-2026"}
+      - {label: "Critical Threats: Africa File (27 Aug 2026)", url: "https://www.criticalthreats.org/analysis/ethiopia-tplf-fano-libya-lna-mali-fla-algeria-morocco-togo-congo-russia-africa-file-august-27-2026"}
+      - {label: "ACLED: What happens now the government has regained control of Mekele? (3 Oct 2026)", url: "https://acleddata.com/expert-comment/what-happens-now-government-has-regained-control-mekele"}
+      - {label: "IndraStra: Tigray's war and Ethiopia's Red Sea gamble (9 Oct 2026)", url: "https://www.indrastra.com/2026/10/tigrays-war-and-ethiopias-red-sea.html"}
+      - {label: "Wikipedia: Ethiopia-TPLF clashes (2026 to present)", url: "https://en.wikipedia.org/wiki/Ethiopia-TPLF_clashes_(2026%E2%80%93present)"}
+      - {label: "Critical Threats: Ethiopia War Security Review (13 Oct 2026)", url: "https://www.criticalthreats.org/print/brf_6aceabd6a3cfa"}
+      - {label: "Al Jazeera: Ethiopian forces enter strategic Tigray town of Adwa (12 Oct 2026)", url: "https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say"}
+      - {label: "Dawan Africa: Tigray Peace Forces claim control of Adigrat (11 Oct 2026)", url: "https://www.dawan.africa/news/tigray-peace-forces-claim-control-of-adigrat-amid-renewed-fighting"}
+      - {label: "Kuwait Times / AFP: In Tigray, Ethiopians welcome departure of Eritrean troops (18 Oct 2026)", url: "https://kuwaittimes.com/article/51864/world/in-tigray-ethiopians-welcome-departure-of-eritrean-troops/"}
+
+  - id: ethiopia-amhara-fano
+    name: "Fano insurgency in Amhara"
+    type: insurgency
+    intensity: high
+    status: active
+    started: "2023-08-01 (approximate; Fano has fought the federal government since 2023)"
+    countries: [ETH]
+    sides:
+      - name: "Federal government"
+        members: ["Ethiopian National Defense Force (ENDF)", "Federal police", "Amhara regional security forces"]
+        backers: []
+        leaders: ["Abiy Ahmed (Prime Minister)", "Birhanu Jula (ENDF Chief of Staff)"]
+        strength: "Not public."
+      - name: "Amhara Fano National Movement (AFNM) and other Fano groups"
+        members: ["Amhara Fano National Movement (AFNM)", "Regional Fano commands in Gojjam, Gondar, Wollo and Shewa"]
+        backers: ["Eritrea (existing ties with Amhara rebels, per CTP)"]
+        leaders: ["Zemene Kassie (AFNM leader)"]
+        strength: "No reliable figure found."
+    summary: "Fano, a loose network of Amhara militias that fought alongside the government in the 2020 to 2022 Tigray war, has been in revolt since 2023. In 2026 it disrupted the national election, joined a coalition with the TPLF and OLA, and attacked federal supply lines as the army fought in Tigray."
+    background: "Fano turned on the federal government after being sidelined in the Pretoria peace process and over disputed land in western and southern Tigray that Amhara nationalists claim. Its fighters control or contest much of the Amhara countryside and repeatedly cut the main roads linking Addis Ababa to the north.\n\nIts alliance with the TPLF, its former enemy, is pragmatic and fragile because the two still dispute the same land. That matters because any Fano advance on the A2 and B30 highways threatens the army's supply lines into Tigray."
+    year: "A late-2025 Fano offensive took towns around Lalibela and along the A2 and B22 roads before ENDF drone counterattacks cleared them. In February 2026 Fano seized key towns and roads as army units were redeployed toward Tigray. On election day, 1 June 2026, the AFNM launched 'Operation Ayisha Seid', with ACLED recording at least 90 clashes, the most on any single day since 2023, after 108 clashes in all of May. In mid-August leader Zemene Kassie confirmed a coalition with the TPLF and OLA. During the September to October Tigray fighting, the AFNM pushed down the A2 with the TDF, captured Wurgessa (3 Oct) and Mehal Meda (7 Oct), attacked Dabat north of Gondar and fought around Lalibela and Mekane Selam."
+    situation: "As of October 2026 Fano is active across North Wollo, North Shewa, Gondar and Gojjam, cutting the A2, B21 and B30 roads and holding some towns, while federal forces are concentrated in Tigray."
+    technical:
+      - "ACLED recorded 108 Fano clashes in May 2026 and at least 90 on 1 June 2026, the busiest day of the insurgency."
+      - "Federal counterinsurgency relies on drone strikes; CTP notes ENDF drone counterattacks cleared Fano gains around Lalibela in late 2025."
+      - "Key roads contested: A2 (Addis Ababa to Dessie, Woldia and Mekelle), B21 (via Mekane Selam), B30 (Gondar to Shire), B22 (Lalibela area)."
+      - "October 2026 captures claimed or reported: Wurgessa on the A2 (about 30 miles south of Woldia) and Mehal Meda (about 50 miles north of Debre Berhan)."
+      - "Fano and OLA factions clashed in Oromia in early August 2026, and ACLED reported some OLA factions working with the government against Fano, underlining the alliance's limits."
+      - "After 3 Oct 2026 the AFNM attacked ENDF positions around Mekane Selam, about 110 miles west of Dessie, cutting the B21 highway; control of the town was contested."
+      - "Precedent: a mid-2024 Fano offensive briefly took B30 towns north of Gondar and entered part of Gondar city (CTP)."
+      - "Fano attacks around Lalibela in late September and early October 2026 kept Lalibela airport closed to flights (CTP, 29 Sep 2026)."
+      - "Alliance politics: Fano opposes ethnic federalism while the OLA supports it, and Fano claims land in western and southern Tigray, so CTP expects these disputes to block a coherent coalition with the TPLF."
+    casualties: "No fatality total was found for October 2025 to October 2026. Event counts from ACLED (over 100 clashes a month in mid-2026) suggest well over 1,000 deaths a year, so the 'high' label is an estimate."
+    displaced: "Included in Ethiopia's national IDP figure of 1,919,993 (UNHCR, 31 Aug 2026); no Amhara-specific figure found."
+    zones:
+      - {name: "North Wollo and the A2 corridor", lat: 11.85, lng: 39.6, radius_km: 70, note: "Woldia, Kobo, Lalibela and Wurgessa; Fano attacks on army supply lines to Tigray."}
+      - {name: "North Shewa (Mehal Meda)", lat: 10.3, lng: 39.67, radius_km: 60, note: "AFNM captured Mehal Meda on 7 Oct 2026."}
+      - {name: "Gondar and the B30", lat: 12.8, lng: 37.6, radius_km: 80, note: "Fano attacks on Dabat and the road north to Tigray."}
+      - {name: "Gojjam (approx)", lat: 10.6, lng: 37.6, radius_km: 100, note: "Long-running Fano stronghold."}
+    timeline:
+      - {date: "2026-06-01", event: "AFNM launches Operation Ayisha Seid on election day; at least 90 clashes recorded."}
+      - {date: "2026-08-15", event: "Zemene Kassie confirms a coalition with the TPLF and OLA (mid-August)."}
+      - {date: "2026-10-03", event: "AFNM captures Wurgessa on the A2."}
+      - {date: "2026-10-07", event: "AFNM captures Mehal Meda and attacks Dabat."}
+    outlook: "Watch whether Fano exploits the army's focus on Tigray to take and hold district towns or cut the A2 for longer, and whether land disputes with the TPLF break the alliance."
+    sources:
+      - {label: "ACLED: Did Ethiopia's elections worsen existing conflicts? (10 Jun 2026)", url: "https://acleddata.com/expert-comment/did-ethiopias-elections-worsen-existing-conflicts"}
+      - {label: "Critical Threats: Africa File (8 Oct 2026)", url: "https://www.criticalthreats.org/analysis/Ethiopia-eritrea-tigray-tplf-egypt-somalia-sudan-saf-mali-fla-jnim"}
+      - {label: "Critical Threats: Africa File (27 Aug 2026)", url: "https://www.criticalthreats.org/analysis/ethiopia-tplf-fano-libya-lna-mali-fla-algeria-morocco-togo-congo-russia-africa-file-august-27-2026"}
+      - {label: "Critical Threats: Ethiopia War Security Review (6 Oct 2026)", url: "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/october-6-2026"}
+
+  - id: ethiopia-oromia-ola
+    name: "OLA insurgency in Oromia"
+    type: insurgency
+    intensity: medium
+    status: active
+    started: "2018-01-01 (approximate; OLA armed struggle after the split from the OLF)"
+    countries: [ETH]
+    sides:
+      - name: "Federal and Oromia regional government"
+        members: ["ENDF", "Oromia regional special and riot police", "Kebele militias"]
+        backers: []
+        leaders: ["Abiy Ahmed (Prime Minister)"]
+        strength: "Not public."
+      - name: "Oromo Liberation Army (OLA / OLF-Shane)"
+        members: ["OLA zonal commands in Wollega, Shewa, Guji and Arsi"]
+        backers: []
+        leaders: []
+        strength: "No reliable figure found."
+    summary: "The Oromo Liberation Army fights a long-running insurgency in Oromia, Ethiopia's most populous region. In 2026 it imposed road closures around the election and joined the TPLF-Fano 'Alliance for Survival', though some OLA factions reportedly work with the government."
+    background: "The OLA, which the government calls OLF-Shane, operates mostly in western Oromia (Wollega) and parts of central and southern Oromia. Peace talks with the government have repeatedly failed. Violence in Oromia has included killings of civilians by several armed actors, and the Arsi zone has seen repeated attacks on Orthodox Christian residents since 2023.\n\nThe OLA matters to the wider picture because its participation in the Alliance for Survival makes the 2026 crisis a multi-front challenge to Addis Ababa rather than a single regional rebellion."
+    year: "The OLA imposed a road closure from 29 May to 4 June 2026 and fought security forces eight times on election day, mostly in East Wollega. On 31 May an attack in Aseko woreda, Arsi, burned the 101-year-old Teleta St. Gebrael church, and more than 200 Orthodox Christian properties were destroyed in Arsi on election day (ACLED attributes the Arsi attack to OLA/OLF-Shane). In August OLA and Fano factions clashed in Oromia. In September the OLA was named as a member of the Alliance for Survival."
+    situation: "As of October 2026 the OLA remains active in Wollega and central Oromia, aligned on paper with the TPLF and Fano, but no major OLA offensive tied to the Tigray war was reported in the sources reviewed."
+    technical:
+      - "ACLED recorded eight OLA clashes with security forces on 1 June 2026, concentrated in East Wollega."
+      - "ACLED records 159 incidents of civilian targeting in Arsi zone since February 2023, over a third aimed at Orthodox Christians."
+      - "Road closures are a standard OLA tactic, used from 29 May to 4 June 2026."
+    casualties: "No total found for the review period; 'medium' intensity is an estimate."
+    displaced: "Included in Ethiopia's national IDP figure (UNHCR, 31 Aug 2026)."
+    zones:
+      - {name: "Wollega (western Oromia)", lat: 9.1, lng: 36.3, radius_km: 130, note: "Core OLA operating area; election-day clashes in East Wollega."}
+      - {name: "Arsi zone (approx)", lat: 7.8, lng: 39.4, radius_km: 70, note: "Attacks on Orthodox Christian communities, including on election day 2026."}
+    timeline:
+      - {date: "2026-05-29", event: "OLA road closure begins, running to 4 June."}
+      - {date: "2026-05-31", event: "Attack in Aseko woreda, Arsi burns a 101-year-old church."}
+      - {date: "2026-06-01", event: "Eight OLA clashes on election day."}
+    outlook: "Watch whether the OLA opens a real front in support of the TPLF and Fano or continues to fragment, with some factions cooperating with the government."
+    sources:
+      - {label: "ACLED: Did Ethiopia's elections worsen existing conflicts? (10 Jun 2026)", url: "https://acleddata.com/expert-comment/did-ethiopias-elections-worsen-existing-conflicts"}
+      - {label: "Critical Threats: Ethiopia War Security Review (29 Sep 2026)", url: "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/ethiopia-war-security-review-september-29-2026"}
+      - {label: "Critical Threats: Africa File (27 Aug 2026)", url: "https://www.criticalthreats.org/analysis/ethiopia-tplf-fano-libya-lna-mali-fla-algeria-morocco-togo-congo-russia-africa-file-august-27-2026"}
+
+  - id: ethiopia-eritrea-standoff
+    name: "Ethiopia-Eritrea confrontation (Assab and Tigray)"
+    type: interstate
+    intensity: low
+    status: active
+    started: "2026-10-01 (diplomatic rupture; Eritrean troops reported in Tigray on 2026-10-07)"
+    countries: [ETH, ERI]
+    sides:
+      - name: "Ethiopia"
+        members: ["Ethiopian National Defense Force (ENDF)"]
+        backers: []
+        leaders: ["Abiy Ahmed (Prime Minister)", "Gedion Timothewos (Foreign Minister)", "Birhanu Jula (ENDF Chief of Staff)"]
+        strength: "Not public."
+      - name: "Eritrea"
+        members: ["Eritrean Defence Forces"]
+        backers: ["Egypt (diplomatic alignment through the El Alamein declaration; port agreements for Assab, Massawa and Marsa Fatima)"]
+        leaders: ["Isaias Afwerki (President)", "Yemane Gebremeskel (Information Minister)"]
+        strength: "Not public; an Ethiopian official alleged one mechanized and three infantry divisions entered Tigray, which CTP could not corroborate."
+    summary: "Ethiopia and Eritrea broke diplomatic relations on 1 October 2026 amid Ethiopia's war in Tigray. Eritrean troops were reported briefly near Adigrat and hit by Ethiopian drones, and Eritrea says Ethiopia is building a pretext to seize the Red Sea port of Assab."
+    background: "Ethiopia lost its coastline when Eritrea became independent in 1993, and the two fought a border war in 1998 to 2000. They allied against the TPLF in 2020 to 2022, but Eritrea was left out of the Pretoria agreement. Since 2023 Abiy Ahmed has called Red Sea access an existential 'natural right', which Asmara reads as a threat to Assab.\n\nEgypt, which opposes Ethiopia's Nile dam, has built a bloc with Eritrea, Somalia and Sudan. That matters because a Tigray war on Eritrea's border can now trigger an interstate war with regional backers on both sides."
+    year: "In August 2026 Eritrean officers appeared in Tigray and Eritrea reportedly moved tanks and artillery into southern Tigray. On 25 September Ethiopia's army chief accused Eritrea of financing the TPLF. On 1 October Ethiopia expelled ten Eritrean diplomats and closed its embassy, and Eritrea cut ties, calling it a declaration of war. On 4 October Egypt, Eritrea, Somalia and Sudan issued the El Alamein declaration, and Egyptian officials told Reuters the four would coordinate militarily if the conflict threatened their borders. On 7 October Eritrean forces were reported moving south of Adigrat; an Ethiopian drone destroyed a truck there, Ethiopia told the UN Security Council it faced an 'all-out invasion', and by 8 October the Eritrean forces had pulled back north."
+    situation: "As of late October 2026 there is no declared war, but no diplomatic channel either. Ethiopian forces now sit on the border at Zalambessa after taking Adigrat, Adwa and Axum, while Eritrean forces have entrenched north of Zalambessa and around Badme and some remain on the Ethiopian side (AFP, 18 Oct). Unverified reports describe an ENDF clash with Eritrean forces near Bure on 11 October and a federal buildup at Bure, Bododa and Elidar on the A1 road toward Assab. On 10 October Eritrea asked the UN Security Council for Chapter VII measures against Ethiopia, and Abiy has again pledged direct sea access."
+    technical:
+      - "CTP and ISW geolocated media of suspected Eritrean forces on the Adigrat to Idaga Hamus road and a destroyed truck from an Ethiopian drone strike (7 to 8 Oct 2026)."
+      - "CTP satellite review found no large-scale Eritrean buildup and assessed an advisory, logistics and light-infantry role rather than an invasion."
+      - "Djibouti handled 96.71% of Ethiopia's maritime cargo in the fiscal year to July 2026 and Berbera 2.74%, which is why Assab matters to Addis Ababa."
+      - "Egypt signed port and maritime agreements from Dec 2025 to Jul 2026 covering Doraleh (Djibouti) and Assab, Massawa and Marsa Fatima (Eritrea)."
+      - "After the El Alamein summit (4 Oct 2026), Egyptian officials told Reuters that Egypt, Eritrea, Somalia and Sudan agreed to coordinate military and intelligence efforts if the conflict threatens their borders."
+      - "Ethiopian drones struck suspected Eritrean forces near Adigrat on 7 and 10 Oct 2026; Eritrea then entrenched north of Zalambessa and around Badme (CTP, AFP)."
+      - "Unverified reports on 12 Oct 2026 described a federal buildup at Bure, Bododa and Elidar on the A1 highway, the direct road from Ethiopia to Assab (CTP)."
+      - "Escalating legal framing: Ethiopia's foreign minister invoked the right of self-defence in a 7 Oct letter to the UN Security Council; Eritrea asked the Council on 10 Oct for Chapter VII measures, which can include sanctions or force."
+    casualties: "No confirmed interstate casualties; one Ethiopian drone strike on a suspected Eritrean vehicle was geolocated."
+    displaced: "Not applicable separately; see the Tigray war entry."
+    zones:
+      - {name: "Assab", lat: 13.01, lng: 42.74, radius_km: 40, note: "Eritrean Red Sea port at the centre of Ethiopia's sea-access demands."}
+      - {name: "Adigrat and Zalambessa border area", lat: 14.4, lng: 39.43, radius_km: 40, note: "Where Eritrean troops were reported on 7 Oct 2026."}
+      - {name: "Northern Afar border (approx)", lat: 13.9, lng: 40.6, radius_km: 70, note: "Reported Eritrean deployments near the Afar border and ARDUF activity toward Dalol."}
+      - {name: "Bure front on the A1 to Assab (approx)", lat: 12.75, lng: 41.8, radius_km: 40, note: "Unverified reports of a federal troop and heavy-weapons buildup at Bure, Bododa and Elidar and a clash near Bure on 11 Oct 2026."}
+      - {name: "Badme (approx)", lat: 14.72, lng: 37.8, radius_km: 25, note: "Disputed town from the 1998 to 2000 war; Eritrean forces reported entrenched around it in Oct 2026."}
+    timeline:
+      - {date: "2026-09-25", event: "ENDF chief Birhanu Jula accuses Eritrea of financing the TPLF."}
+      - {date: "2026-10-01", event: "Ethiopia expels ten Eritrean diplomats; Eritrea severs ties."}
+      - {date: "2026-10-04", event: "El Alamein declaration by Egypt, Eritrea, Somalia and Sudan."}
+      - {date: "2026-10-05", event: "Abiy, reappointed prime minister, pledges direct sea access."}
+      - {date: "2026-10-07", event: "Eritrean troops reported near Adigrat; Ethiopia tells the UN Security Council of an 'all-out invasion'."}
+      - {date: "2026-10-08", event: "Eritrean forces reported withdrawing north of Adigrat."}
+      - {date: "2026-10-10", event: "Eritrea tells the UN Security Council that Ethiopia's actions amount to a declaration of war and asks for Chapter VII measures."}
+      - {date: "2026-10-11", event: "Unverified reports of an ENDF clash with Eritrean forces near Bure and a federal buildup on the A1 toward Assab."}
+      - {date: "2026-10-12", event: "Eritrean forces withdraw through Zalambessa as federal forces reach the border."}
+    outlook: "The key signals are any federal assault on the Adwa and Adigrat area, Eritrean mobilization along the border or toward Afar, Ethiopian moves near Assab, and whether Egypt turns its coordination pledge into military support."
+    sources:
+      - {label: "Critical Threats: Ethiopia War Security Review (9 Oct 2026)", url: "https://www.criticalthreats.org/print/brf_6ac94ee9d6e71"}
+      - {label: "Critical Threats: Africa File (8 Oct 2026)", url: "https://www.criticalthreats.org/analysis/Ethiopia-eritrea-tigray-tplf-egypt-somalia-sudan-saf-mali-fla-jnim"}
+      - {label: "Critical Threats: Africa File special edition on Eritrean-Ethiopian war risk (Mar 2025)", url: "https://www.criticalthreats.org/analysis/africa-file-special-edition-tigray-threatens-to-spark-the-next-eritrean-ethiopian-war-and-plunge-the-horn-of-africa-into-crisis"}
+      - {label: "IndraStra: Tigray's war and Ethiopia's Red Sea gamble (9 Oct 2026)", url: "https://www.indrastra.com/2026/10/tigrays-war-and-ethiopias-red-sea.html"}
+      - {label: "Critical Threats: Ethiopia War Security Review (13 Oct 2026)", url: "https://www.criticalthreats.org/print/brf_6aceabd6a3cfa"}
+      - {label: "Kuwait Times / AFP: In Tigray, Ethiopians welcome departure of Eritrean troops (18 Oct 2026)", url: "https://kuwaittimes.com/article/51864/world/in-tigray-ethiopians-welcome-departure-of-eritrean-troops/"}
+
+  - id: somalia-al-shabaab
+    name: "Somalia: al-Shabaab insurgency and political crisis"
+    type: insurgency
+    intensity: high
+    status: active
+    started: "2025-02-01 (approximate; al-Shabaab offensive in central Somalia and federal political breakdown)"
+    countries: [SOM]
+    sides:
+      - name: "Federal Government of Somalia and partners"
+        members: ["Somali National Army", "AUSSOM (Uganda, Ethiopia, Djibouti, Kenya, Egypt)", "Clan militias (macawisley)", "US Africa Command (air strikes)"]
+        backers: ["United States (air strikes, special forces; aid suspended to the federal government in Jan 2026)", "Turkey (training, drones)", "Egypt (troops, helicopters and aircraft in AUSSOM from early 2026)", "Saudi Arabia (military cooperation agreement, Feb 2026)"]
+        leaders: ["Hassan Sheikh Mohamud (President; mandate expired 15 May 2026 and is disputed)"]
+        strength: "AUSSOM agreed strength 11,900 (Uganda 4,500, Ethiopia 2,500, Djibouti 1,520, Kenya 1,410, Egypt 1,091), per Wikipedia."
+      - name: "Al-Shabaab"
+        members: ["Harakat al-Shabaab al-Mujahideen (al-Qaeda affiliate)"]
+        backers: ["Houthis (reported weapons smuggling via Eritrea and Sudan, per CTP)"]
+        leaders: []
+        strength: "No current figure found in the sources reviewed."
+    summary: "Al-Shabaab, al-Qaeda's Somali affiliate, has retaken ground in central and southern Somalia while the federal government is consumed by disputes with member states and the opposition over the president's expired term. US commanders have publicly tied al-Shabaab's gains to those political fights."
+    background: "Al-Shabaab has fought Somali governments and African Union forces since 2006 and still controls much of the rural south and centre, taxing trade and running courts. A government offensive in 2022 and 2023 pushed it out of parts of Hiraan and Middle Shabelle, but it regained ground from early 2025.\n\nThe federal model is under strain: Puntland and Jubaland refuse to recognize federal authority, the opposition Somali Future Council rejects the president's plan for direct elections, and Israel's recognition of Somaliland in December 2025 added a new dispute. That matters because troops and attention diverted to political fights are not fighting al-Shabaab."
+    year: "Al-Shabaab attacked Godka Jilicow prison in Mogadishu on 4 October 2025. On 26 December Israel recognized Somaliland. In January 2026 the US suspended assistance to the federal government over alleged food aid theft, and Somalia revoked its agreements with the UAE. In March South West State cut ties with Mogadishu, and federal forces took Baidoa on 30 March and installed a transitional administration; loyalist militias later attacked Baidoa and Buurhakaba. Talks with the opposition collapsed on 15 May as the president's term expired, and Puntland declared federal mandates over. On 3 and 4 June government forces fought armed supporters of opposition leaders, including former prime minister Hassan Ali Khaire and former president Sheikh Sharif, in Mogadishu's Howlwadaag district ahead of an anti-government rally, with mortar fire and deaths reported by the UN. On 1 July the US said it would end all funding for the UN Support Office in Somalia, the roughly $500 million a year logistics system behind AUSSOM, by 31 December 2026. In late July AFRICOM's commander warned that political disputes had let al-Shabaab retake cleared areas, and on 2 August al-Shabaab seized Teedaan in eastern Hiiraan after a nearly 24-hour battle, taking control of a road linking Hiiraan with Galgaduud and Middle Shabelle. The US kept up a record air campaign: about 125 strikes in 2025 and 68 by late June 2026. Piracy resurged from April, with at least eight hijackings."
+    situation: "As of October 2026 al-Shabaab holds most of the rural Juba valley and contests Middle and Lower Shabelle and Hiraan, where it took Teedaan in August. The federal government faces a legitimacy dispute, armed standoffs with South West loyalists and the opposition, and an AUSSOM mission that ACLED says faces 'imminent operational collapse' in 2027 unless the US funding cut is replaced. Somalia has aligned with Egypt and Eritrea in the El Alamein bloc while also offering Ethiopia port access."
+    technical:
+      - "AUSSOM replaced ATMIS on 1 Jan 2025 under UN Security Council Resolution 2767; Uganda is the largest contributor with about 4,500 troops along the corridor into Mogadishu."
+      - "Egypt deployed troops plus attack and utility helicopters and light fixed-wing aircraft in early 2026."
+      - "US posture: AFRICOM denied a withdrawal was under consideration (late July 2026), and US special operations signed a deal with Puntland on 2 Aug 2026 to expand the Bosaso base for counterterrorism and maritime security."
+      - "Houthi weapons smuggling to al-Shabaab and ISIS-Somalia via Eritrea and Sudan has been reported (CTP)."
+      - "Piracy resurgence from April 2026: at least eight vessels hijacked, versus one from 2014 to 2022."
+      - "Federal forces took Baidoa on 30 Mar 2026 without reported casualties, but loyalists of ousted South West leader Abdiaziz Laftagareen later attacked Baidoa and Buurhakaba."
+      - "US air campaign: about 125 AFRICOM strikes in 2025, double the previous record of 63 in 2019, after a directive from Defense Secretary Pete Hegseth gave commanders more authority; 68 strikes in 2026 by 22 June (Stars and Stripes). New America's monthly tally for 2026: January 26, February 16, March 7, April 12, May 2."
+      - "Turkish air support: Somalia's defence ministry said joint Somali-Turkish strikes killed 35 al-Shabaab fighters at hideouts and weapons stores in Lower Shabelle (30 Jun 2026; claim unverified)."
+      - "Funding cliff: the US will end support for the UN Support Office in Somalia (about $500 million a year) by 31 Dec 2026; ACLED expects al-Shabaab to exploit the 2026 to 2027 transition and threaten Mogadishu and Kismayo."
+      - "Teedaan (2 Aug 2026): al-Shabaab claimed weapons, vehicles and equipment after government forces and clan militias withdrew; it then dug trenches in the village."
+      - "Opposition leaders accuse the president of using internationally trained counter-al-Shabaab units against them in Mogadishu (June 2026)."
+    casualties: "No reliable 12-month total was found in the sources reviewed. The 'high' label reflects the long-running scale of the insurgency, record US and Somali air strikes and continuing ground battles, and should be checked against ACLED data."
+    displaced: "No current figure found in the sources reviewed."
+    zones:
+      - {name: "Mogadishu", lat: 2.05, lng: 45.32, radius_km: 20, note: "Capital; al-Shabaab attacks and June 2026 clashes between government and opposition forces."}
+      - {name: "Middle Shabelle and Hiraan (approx)", lat: 3.7, lng: 45.6, radius_km: 120, note: "Contested belt where al-Shabaab regained ground from 2025."}
+      - {name: "Lower Shabelle (approx)", lat: 1.9, lng: 44.6, radius_km: 90, note: "Contested farming belt west of Mogadishu, including Merca."}
+      - {name: "Juba valley (approx)", lat: 0.8, lng: 42.6, radius_km: 150, note: "Al-Shabaab heartland around Jilib and Jamaame."}
+      - {name: "Baidoa / South West State", lat: 3.12, lng: 43.65, radius_km: 50, note: "Seized by federal forces on 30 Mar 2026."}
+      - {name: "Somaliland", lat: 9.56, lng: 44.06, radius_km: 150, note: "Recognized by Israel on 26 Dec 2025; Mogadishu and the El Alamein bloc reject this."}
+    timeline:
+      - {date: "2025-10-04", event: "Al-Shabaab attacks Godka Jilicow prison in Mogadishu."}
+      - {date: "2025-12-26", event: "Israel recognizes Somaliland."}
+      - {date: "2026-01-07", event: "US suspends assistance to the federal government."}
+      - {date: "2026-01-12", event: "Somalia revokes all bilateral agreements with the UAE."}
+      - {date: "2026-03-17", event: "South West State cuts ties with Mogadishu."}
+      - {date: "2026-03-30", event: "Federal forces take Baidoa."}
+      - {date: "2026-05-15", event: "Talks with the Somali Future Council collapse as the president's term expires."}
+      - {date: "2026-06-03", event: "Two days of fighting in Mogadishu between government forces and armed supporters of opposition leaders."}
+      - {date: "2026-07-01", event: "US announces it will end funding for the UN Support Office in Somalia by year-end."}
+      - {date: "2026-08-02", event: "Al-Shabaab seizes Teedaan in eastern Hiiraan; US and Puntland sign agreement to expand the Bosaso base."}
+      - {date: "2026-10-04", event: "Somalia joins the El Alamein declaration with Egypt, Eritrea and Sudan."}
+    outlook: "Watch whether the government and opposition agree an election path, whether AUSSOM funding survives into 2027, and whether al-Shabaab presses toward Mogadishu's outskirts while federal forces are split."
+    sources:
+      - {label: "Critical Threats: Africa File (6 Aug 2026)", url: "https://www.criticalthreats.org/analysis/ethiopia-tplf-drc-fdlr-rwanda-red-sea-saudi-houthi-somalia-fgs-us-aussom-africa-file-august-6-2026"}
+      - {label: "Wikipedia: 2026 in Somalia", url: "https://en.wikipedia.org/wiki/2026_in_Somalia"}
+      - {label: "Wikipedia: 2025 in Somalia", url: "https://en.wikipedia.org/wiki/2025_in_Somalia"}
+      - {label: "Wikipedia: Somali Civil War (2009 to present)", url: "https://en.wikipedia.org/wiki/Somali_Civil_War_(2009%E2%80%93present)"}
+      - {label: "Wikipedia: African Union Support and Stabilization Mission in Somalia", url: "https://en.wikipedia.org/wiki/African_Union_Support_and_Stabilization_Mission_in_Somalia"}
+      - {label: "Critical Threats: Africa File (8 Oct 2026)", url: "https://www.criticalthreats.org/analysis/Ethiopia-eritrea-tigray-tplf-egypt-somalia-sudan-saf-mali-fla-jnim"}
+      - {label: "Stars and Stripes: AFRICOM Somalia air strikes (22 Jun 2026)", url: "https://www.stripes.com/theaters/africa/2026-06-22/africom-somalia-air-strikes-22042447.html"}
+      - {label: "New America: AFRICOM confirms 63 strikes in Somalia in 2026 (29 May 2026)", url: "https://www.newamerica.org/insights/africom-confirms-63-strikes-in-somalia-in-2026/"}
+      - {label: "ACLED: What does the US funding exit from UNSOS mean for Somalia's stability? (20 Jul 2026)", url: "https://acleddata.com/expert-comment/what-does-us-funding-exit-unsos-mean-somalias-stability"}
+      - {label: "Arab News / AFP: Somalia's Al-Shabab seize strategic town (3 Aug 2026)", url: "https://www.arabnews.com/node/2653276/world"}
+      - {label: "AP via News4Jax: Armed clashes erupt in Somalia's capital (4 Jun 2026)", url: "https://www.news4jax.com/news/world/2026/06/04/armed-clashes-erupt-in-somalias-capital-ahead-of-a-planned-anti-government-demonstration/"}
+      - {label: "Dawan Africa: 35 al-Shabaab killed in Somalia-Turkey airstrikes (30 Jun 2026)", url: "https://www.dawan.africa/news/35-al-shabaab-killed-in-somalia-turkey-airstrikes-ministry-says"}
+
+  - id: somalia-isis-puntland
+    name: "ISIS-Somalia in Puntland"
+    type: insurgency
+    intensity: low
+    status: active
+    started: "2024-12-01 (approximate; Puntland's Operation Hilaac in the Cal Miskaad mountains)"
+    countries: [SOM]
+    sides:
+      - name: "Puntland and partners"
+        members: ["Puntland security forces", "US forces (air strikes; Bosaso base)"]
+        backers: ["United States (air strikes and basing; base expansion deal 2 Aug 2026)"]
+        leaders: ["Said Abdullahi Deni (Puntland President)"]
+        strength: "Not public."
+      - name: "Islamic State Somalia Province"
+        members: ["ISIS-Somalia (about half foreign fighters by 2024, Ethiopians the largest group)"]
+        backers: []
+        leaders: ["Abdirahman Fahiye Isse Mohamud (emir since 2023)", "Abdul Qadir Mumin (founder)"]
+        strength: "600 to 700 in 2024 (UN Security Council), falling to an estimated 100 to 200 by mid-2025 (Wikipedia infobox)."
+    summary: "The Islamic State's Somali branch, based in the Cal Miskaad mountains of Puntland's Bari region, was cut down by Puntland's Operation Hilaac in 2025 with heavy US air support but still holds mountain villages."
+    background: "ISIS-Somalia formed in 2015 when Abdul Qadir Mumin broke from al-Shabaab. It grew into a financial hub for the Islamic State's African branches. Puntland launched Operation Hilaac around the turn of 2025 and captured numerous bases.\n\nIt matters beyond its size because it moves money and foreign fighters for the wider Islamic State network, and because Puntland's campaign is a key reason the US is expanding its Bosaso base."
+    year: "Puntland forces removed the group from around Bosaso in 2025 but it still controls villages in the nearby mountains. In August 2026 the US and Puntland agreed to expand the US base in Bosaso. CTP reports Houthi weapons smuggling reaching ISIS-Somalia."
+    situation: "As of late 2026 ISIS-Somalia is much reduced, holding villages in the Cal Miskaad range, with Puntland and US forces continuing operations."
+    technical:
+      - "Strength fell from 600 to 700 (UN, 2024) to an estimated 100 to 200 (mid-2025)."
+      - "About half of members were foreign by 2024, with Ethiopians the largest single nationality, plus Sudanese, Yemenis, Egyptians and Djiboutians (Wikipedia, citing UN and press reporting)."
+      - "Puntland's Operation Hilaac captured numerous ISIS bases in the Bari mountains by 11 Jan 2025; the group was pushed out of the Bosaso area during 2025 but kept mountain villages."
+      - "Houthi weapons smuggling to ISIS-Somalia via Eritrea and Sudan has been reported (CTP, Aug 2026)."
+      - "Financing: protection money in Bosaso, illegal gold mining in Cal Miskaad under investigation, and earlier cryptocurrency transfers to ISKP of about $25,000 a month (UN, 2023)."
+      - "US basing at Bosaso is being expanded under a 2 Aug 2026 agreement with Puntland."
+      - "US strikes continue: AFRICOM struck ISIS-Somalia in the Golis Mountains about 75 km southeast of Bosaso on 6 May 2026; strikes reported on 22 Apr (Cal Miskaad) and 21 May (near Qandala) were denied by AFRICOM, a reminder that several countries fly strikes in Somalia (New America)."
+    casualties: "No reliable figures for the review period."
+    displaced: "No figure found."
+    zones:
+      - {name: "Cal Miskaad mountains (approx)", lat: 10.7, lng: 49.6, radius_km: 60, note: "ISIS-Somalia's remaining mountain villages in Bari region."}
+      - {name: "Bosaso", lat: 11.28, lng: 49.18, radius_km: 15, note: "Puntland's port and US base."}
+    timeline:
+      - {date: "2025-01-11", event: "Puntland reports capture of numerous ISIS bases in Operation Hilaac."}
+      - {date: "2026-08-02", event: "US and Puntland sign agreement to expand the Bosaso base."}
+    outlook: "Watch whether ISIS-Somalia rebuilds through foreign recruits and smuggling, and how US basing at Bosaso evolves."
+    sources:
+      - {label: "Wikipedia: Islamic State Somalia Province", url: "https://en.wikipedia.org/wiki/Islamic_State_%E2%80%93_Somalia_Province"}
+      - {label: "New America: AFRICOM confirms 63 strikes in Somalia in 2026 (29 May 2026)", url: "https://www.newamerica.org/insights/africom-confirms-63-strikes-in-somalia-in-2026/"}
+      - {label: "Critical Threats: Africa File (6 Aug 2026)", url: "https://www.criticalthreats.org/analysis/ethiopia-tplf-drc-fdlr-rwanda-red-sea-saudi-houthi-somalia-fgs-us-aussom-africa-file-august-6-2026"}
+
+  - id: libya-militia-conflict
+    name: "Libya: western militia clashes and east-west rivalry"
+    type: civil-war
+    intensity: low
+    status: active
+    started: "2025-05-12 (approximate; Tripoli clashes after the killing of SSA leader al-Kikli, followed by Zawiya fighting in 2026)"
+    countries: [LBY]
+    sides:
+      - name: "Western armed groups (nominally under the Tripoli-based GNU)"
+        members: ["Counter Security Threats Agency and First Support Force (Muhammed Bahroun, 'al-Far')", "Shuhada al-Nasr Brigade and Zawiya Petroleum Facilities Guard (Muhammad Kashlaf, 'al-Qasseb')", "Salem al-Latif group and al-Kabwat (103rd Infantry Battalion)", "52nd Infantry Brigade (Mahmoud Bin Rajab)"]
+        backers: ["Turkey (long-standing backer of Tripoli authorities)"]
+        leaders: ["Abdul Hamid Dbeibah (GNU Prime Minister)"]
+        strength: "Not public."
+      - name: "Libyan National Army (east and south)"
+        members: ["Libyan National Army (LNA)", "Subul al-Salam Brigade (Kufra)"]
+        backers: ["Russia (Africa Corps presence and high-level ties; Putin met Saddam Haftar on 21 Aug 2026)", "United States (engagement on unification talks)"]
+        leaders: ["Khalifa Haftar (LNA commander)", "Saddam Haftar (LNA chief of staff and apparent heir)"]
+        strength: "Not public."
+    summary: "Libya remains split between the Tripoli-based government and the Haftar family's Libyan National Army. Violence in 2026 has been mostly militia fighting in the west, including a May battle at Zawiya that shut the country's largest working refinery, alongside targeted killings in the east."
+    background: "Since the 2020 ceasefire Libya has had rival governments in Tripoli and the east. In the west, armed groups funded by the state compete for territory, smuggling routes and access to oil infrastructure; in the east, Khalifa Haftar's LNA controls Cyrenaica and much of the south and has grown close to Russia.\n\nThis matters for the wider region because southeastern Libya is a reported supply route for Sudan's RSF, and because Russia's position in Libya supports its operations across the Sahel."
+    year: "Saif al-Islam Gaddafi was shot dead in Zintan on 3 February 2026. In late February dozens of soldiers were killed on the Niger and Chad borders in an LNA-affiliated operation. On 5 to 10 May rival Zawiya militias fought around the refinery: the security directorate announced a campaign against criminal groups, mortars and artillery hit the refinery and nearby homes, and one side used improvised one-way attack drones on a scale not seen before in Libyan urban fighting. The refinery shut for two days. On 10 and 11 August drones struck the refinery three times in two days, and on 12 August an attack on a substation knocked out over 700 MW. The same day as the first drone attack, the LNA's intelligence chief Fawzi al-Mansouri was killed by a car bomb in Benghazi. On 21 August Putin met Saddam Haftar, and on 25 August the rival governments reached an initial agreement on overhauling the electoral system."
+    situation: "As of October 2026 western Libya remains a patchwork of militias, with Zawiya the most volatile flashpoint near Tripoli. US-led unification talks have reportedly considered elevating Saddam Haftar, which the International Crisis Group warned could provoke resistance in the west."
+    technical:
+      - "Zawiya, May 2026: mortars, artillery and improvised one-way attack drones; aviation kerosene tank No. 501 hit twice and No. 502 by gunfire; GECOL power plant damaged."
+      - "Casualties at Zawiya in May: 3 civilians killed and 9 injured (NIHRL); at least 10 militia fighters killed and 20 injured (local sources)."
+      - "Al-Qasseb has been under UN, US, EU and UK sanctions since 2018; his tribe, the Awlad Abu Hmeira, has controlled the refinery since 2011."
+      - "August 2026: three drone attacks on the Zawiya refinery in two days and a substation attack that took over 700 MW of 1,300 MW offline."
+      - "The Haftars brokered releases of a US missionary held by IS Sahel and of two Russian Africa Corps soldiers held by Mali's FLA in August 2026, reportedly including ransom."
+      - "Russian footprint: the Africa Corps replaced Wagner in Libya from spring 2024, with estimates of 800 to 1,800 personnel (Wikipedia); daily Russian military flights from Hmeimim in Syria to three Libyan bases began in mid-December 2024 after Assad's fall (CEPA); a University of Texas and NGA Tearline study (June 2026) found improvements at six Libyan air bases since April 2024 that support operations into the Sahel."
+      - "Moscow wants a naval base at Tobruk; Haftar had not approved one as of early 2025 (CEPA)."
+    casualties: "Low by regional standards; no national total found. Zawiya in May 2026 killed at least 3 civilians and 10 fighters."
+    displaced: "No significant new displacement figure found."
+    zones:
+      - {name: "Tripoli", lat: 32.89, lng: 13.19, radius_km: 25, note: "Seat of the GNU; militia rivalries."}
+      - {name: "Zawiya refinery and city", lat: 32.76, lng: 12.72, radius_km: 15, note: "Libya's largest working refinery; May 2026 battle and August drone attacks."}
+      - {name: "Benghazi", lat: 32.12, lng: 20.07, radius_km: 30, note: "LNA headquarters; LNA intelligence chief assassinated 10 Aug 2026."}
+      - {name: "Kufra and the Sudan-Chad border triangle (approx)", lat: 23.0, lng: 23.5, radius_km: 200, note: "LNA-held southeast; reported RSF logistics route and smuggling corridor."}
+    timeline:
+      - {date: "2026-02-03", event: "Saif al-Islam Gaddafi shot dead in Zintan."}
+      - {date: "2026-05-08", event: "Zawiya security campaign; shelling shuts the refinery."}
+      - {date: "2026-08-10", event: "LNA intelligence chief Fawzi al-Mansouri killed by a car bomb in Benghazi; first of three drone attacks on the Zawiya refinery."}
+      - {date: "2026-08-21", event: "Putin meets Saddam Haftar in Moscow."}
+      - {date: "2026-08-25", event: "Rival governments reach an initial agreement on electoral reform."}
+    outlook: "Watch Zawiya and Tripoli militia rivalries, any deal that elevates Saddam Haftar, and Russia's response to US-led unification efforts."
+    sources:
+      - {label: "Libya Analysis: Heavy fighting in Zawiyya (13 May 2026)", url: "https://libyaanalysis.substack.com/p/13-may-2026-heavy-fighting-between"}
+      - {label: "Libya Security Monitor: Zawiyya refinery damaged and closed for two days", url: "https://libyasecuritymonitor.com/zawiyya-refinery-damaged-closed-for-two-days-amid-heavy-fighting/"}
+      - {label: "Arab News (Reuters/AFP): Large-scale crackdown on crime in Libyan city (8 May 2026)", url: "https://www.arabnews.com/node/2642827/middle-east"}
+      - {label: "Wikipedia: 2026 in Libya", url: "https://en.wikipedia.org/wiki/2026_in_Libya"}
+      - {label: "Critical Threats: Africa File (27 Aug 2026)", url: "https://www.criticalthreats.org/analysis/ethiopia-tplf-fano-libya-lna-mali-fla-algeria-morocco-togo-congo-russia-africa-file-august-27-2026"}
+      - {label: "Wikipedia: Africa Corps (Russia)", url: "https://en.wikipedia.org/wiki/Africa_Corps_(Russia)"}
+      - {label: "CEPA: Putin's empire-building base hunt reaches Libya (Jan 2025)", url: "https://cepa.org/article/putins-empire-building-base-hunt-reaches-libya/"}
+      - {label: "UT Austin Intelligence Studies Project: Russian air base infrastructure in Libya (Jun 2026)", url: "https://intelligencestudies.utexas.edu/?p=6779"}
+      - {label: "Al Arabiya: Saif al-Islam Gaddafi has been killed (3 Feb 2026)", url: "https://english.alarabiya.net/News/north-africa/2026/02/03/saif-alislam-gaddafi-has-been-killed-gaddafi-family-source-tells-al-arabiya"}
+
+battles:
+  - id: fall-of-el-fasher
+    name: "Fall of El Fasher"
+    conflict: sudan-saf-rsf
+    tier: major
+    start: "2024-04-13"
+    end: "2025-10-27"
+    place: "El Fasher, North Darfur, Sudan"
+    lat: 13.63
+    lng: 25.35
+    sides: ["Rapid Support Forces", "SAF 6th Infantry Division and Joint Forces"]
+    outcome: "RSF captured the city and the 6th Division HQ on 26 Oct 2025 after an 18-month siege; mass killings followed."
+    forces: "SAF 6th Infantry Division with Joint Force units led by Juma'a Hagar, Al-Tijani Duhaib, Abboud Adam Khater and Hamid Jazm; RSF assault units with drone support."
+    losses: "At least 3,000 dead in the first days by Sudan War Monitor's preliminary estimate; WHO cited more than 460 killed at the Saudi Maternity Hospital; far higher estimates are disputed. About 36,000 fled from 26 to 29 Oct (IOM)."
+    significance: "Gave the RSF all five Darfur state capitals, freed RSF forces for Kordofan, and led a UN mission to cite 'hallmarks of genocide'."
+    sources:
+      - {label: "Sudan War Monitor: Fall of El Fasher", url: "https://sudanwarmonitor.com/p/fall-of-el-fasher"}
+      - {label: "Wikipedia: Siege of El Fasher", url: "https://en.wikipedia.org/wiki/Siege_of_El_Fasher"}
+
+  - id: battles-for-bara
+    name: "Battles for Bara"
+    conflict: sudan-saf-rsf
+    tier: major
+    start: "2025-10-25"
+    end: "2026-07-27"
+    place: "Bara, North Kordofan, Sudan"
+    lat: 13.7
+    lng: 30.37
+    sides: ["SAF, Joint Forces and allied militias", "Rapid Support Forces"]
+    outcome: "Changed hands repeatedly: RSF retook it in late Oct 2025 (more than 200 civilians reported killed), SAF briefly re-entered in Nov 2025 and on 5 Mar 2026, RSF returned on 16 Mar, and the SAF seized it with Um Sayala and Gebrat al-Sheikh in late July 2026."
+    forces: "SAF and Joint Forces (SLM and JEM Zaghawa units), Sudan Shield Forces, al-Baraa bin Malik; RSF units including 'Unit 449' in 2025."
+    losses: "More than 200 killed when the RSF retook Bara in Oct 2025 (Wikipedia timeline); RSF attacks on nearby villages killed at least 58 in mid-2026."
+    significance: "Bara controls the northern approach to El Obeid; its capture in July 2026 opened a direct El Obeid to Khartoum road and broke the RSF ring (ACLED)."
+    sources:
+      - {label: "ACLED: Does the capture of Bara signal a turning point for the SAF?", url: "https://acleddata.com/expert-comment/does-capture-bara-signal-turning-point-saf"}
+      - {label: "Wikipedia: Kordofan campaign", url: "https://en.wikipedia.org/wiki/Kordofan_campaign_(2023%E2%80%93present)"}
+
+  - id: fall-of-babanusa
+    name: "Fall of Babanusa"
+    conflict: sudan-saf-rsf
+    tier: major
+    start: "2024-01-22"
+    end: "2025-12-01"
+    place: "Babanusa, West Kordofan, Sudan"
+    lat: 11.33
+    lng: 27.82
+    sides: ["Rapid Support Forces", "SAF 22nd Infantry Division"]
+    outcome: "RSF overran the 22nd Infantry Division HQ on 1 Dec 2025 and claimed the town."
+    forces: "SAF 22nd Infantry Division and 170th Artillery Brigade elements; RSF forces under Abdel Rahim Dagalo's command."
+    losses: "Division commander Maj. Gen. Abdelmajid al-Haj and a brigadier of the 170th Artillery Brigade reportedly killed in an ambush while retreating toward Heglig on 2 Dec 2025."
+    significance: "Removed the last major SAF garrison in West Kordofan and opened the way to Heglig."
+    sources:
+      - {label: "Wikipedia: Siege of Babanusa", url: "https://en.wikipedia.org/wiki/Siege_of_Babanusa"}
+      - {label: "Wikipedia: Kordofan campaign", url: "https://en.wikipedia.org/wiki/Kordofan_campaign_(2023%E2%80%93present)"}
+
+  - id: capture-of-heglig
+    name: "Capture of the Heglig oilfield"
+    conflict: sudan-saf-rsf
+    tier: mid
+    start: "2025-12-08"
+    end: "2025-12-08"
+    place: "Heglig, West Kordofan, Sudan (approx)"
+    lat: 10.0
+    lng: 29.4
+    sides: ["Rapid Support Forces", "Sudanese Armed Forces"]
+    outcome: "SAF withdrew and the RSF took the oilfield; South Sudanese troops later deployed to secure it under a Kiir-Burhan-Hemedti arrangement."
+    forces: "RSF; SAF garrison; later SSPDF."
+    losses: "A follow-up SAF drone strike killed seven members of a Misseriya delegation and several dozen RSF fighters (Wikipedia)."
+    significance: "Heglig processes South Sudan's oil exports, so its fate affects both countries' revenue and drew Juba into the war's management."
+    sources:
+      - {label: "Wikipedia: Kordofan campaign", url: "https://en.wikipedia.org/wiki/Kordofan_campaign_(2023%E2%80%93present)"}
+
+  - id: kalogi-strike
+    name: "Kalogi drone strike"
+    conflict: sudan-saf-rsf
+    tier: mid
+    start: "2025-12-04"
+    end: "2025-12-04"
+    place: "Kalogi, South Kordofan, Sudan (approx)"
+    lat: 11.5
+    lng: 30.4
+    sides: ["Rapid Support Forces (blamed)", "Civilians"]
+    outcome: "Strike killed at least 116 people, including 43 children."
+    forces: "Drone strike attributed to the RSF."
+    losses: "At least 116 killed (Wikipedia, Kordofan campaign)."
+    significance: "One of the deadliest single strikes of the war, showing the RSF's reach into the Nuba Mountains. Coordinates are approximate."
+    sources:
+      - {label: "Wikipedia: Kordofan campaign", url: "https://en.wikipedia.org/wiki/Kordofan_campaign_(2023%E2%80%93present)"}
+
+  - id: singa-base-strike
+    name: "Drone strike on Singa army base"
+    conflict: sudan-saf-rsf
+    tier: mid
+    start: "2026-01-12"
+    end: "2026-01-12"
+    place: "Singa, Sennar State, Sudan"
+    lat: 13.15
+    lng: 33.93
+    sides: ["Rapid Support Forces", "Sudanese Armed Forces"]
+    outcome: "Strike hit a base during a meeting attended by the governors of White Nile, Sennar and Blue Nile, who survived."
+    forces: "RSF long-range attack drones."
+    losses: "At least 27 killed and 73 wounded (Wikipedia timeline)."
+    significance: "Showed RSF drones could reach leadership targets deep in SAF-held territory."
+    sources:
+      - {label: "Wikipedia: Timeline of the Sudanese civil war (2026)", url: "https://en.wikipedia.org/wiki/Timeline_of_the_Sudanese_civil_war_(2026)"}
+
+  - id: dilling-kadugli-sieges
+    name: "Relief and re-siege of Dilling and Kadugli"
+    conflict: sudan-saf-rsf
+    tier: major
+    start: "2026-01-26"
+    end: "ongoing"
+    place: "Dilling and Kadugli, South Kordofan, Sudan"
+    lat: 11.5
+    lng: 29.7
+    sides: ["Sudanese Armed Forces", "Rapid Support Forces and SPLM-N (al-Hilu)"]
+    outcome: "SAF lifted the Dilling siege (26 Jan 2026) and the Kadugli siege (3 Feb 2026); the RSF re-encircled Kadugli by taking El Kuweik in early March. SAF reported breaking the Dilling siege again in late June."
+    forces: "SAF Special Operations and Joint Force units; RSF and SPLM-N (al-Hilu)."
+    losses: "RSF drone strikes killed dozens in Dilling (28 Jan), 15 in Kadugli (4 Feb) and 22 at the Kouik military hospital (Feb 2026), per Wikipedia timeline."
+    significance: "Kadugli and Dilling are the SAF's anchors in the Nuba Mountains, where famine was declared in Dec 2025."
+    sources:
+      - {label: "Wikipedia: Timeline of the Sudanese civil war (2026)", url: "https://en.wikipedia.org/wiki/Timeline_of_the_Sudanese_civil_war_(2026)"}
+      - {label: "Rane Worldview: Sudan situation report (4 Feb 2026)", url: "https://worldview.ranenetwork.com/content/situation-report/sudan-us-advisor-claims-progress-toward-humanitarian-truce-despite-ongoing-saf-rsf"}
+
+  - id: battle-of-kurmuk-2026
+    name: "Battle of Kurmuk and the Blue Nile front"
+    conflict: sudan-saf-rsf
+    tier: mid
+    start: "2026-02-03"
+    end: "ongoing"
+    place: "Kurmuk, Blue Nile, Sudan"
+    lat: 10.55
+    lng: 34.28
+    sides: ["Rapid Support Forces and SPLM-N", "Sudanese Armed Forces"]
+    outcome: "RSF and SPLM-N took Deim Mansour (3 Feb) and Kurmuk (March); SAF retook Kurmuk in July; RSF retook it by 22 Aug 2026, claimed Geissan (14 Aug) and the Bakori and Sorkam bases; SAF 4th Infantry Division holds Ad-Damazin, reinforced by Joint Forces from 1 Sep."
+    forces: "RSF and SPLM-N reportedly staging from Ethiopian territory (Yale HRL found a buildup at the ENDF base in Asosa in Aug 2026); SAF 4th Infantry Division, Central Reserve Forces and allied movements."
+    losses: "No reliable totals; IOM counted about 2,500 displaced from Geissan in August, and 5,355 in four days in an earlier Geissan offensive."
+    significance: "Opened a southeastern front on the Ethiopian border that stretches the SAF and ties the war to Ethiopia."
+    sources:
+      - {label: "Wikipedia: Battle of Kurmuk", url: "https://en.wikipedia.org/wiki/Battle_of_Kurmuk"}
+      - {label: "Wikipedia: Timeline of the Sudanese civil war (2026)", url: "https://en.wikipedia.org/wiki/Timeline_of_the_Sudanese_civil_war_(2026)"}
+      - {label: "AllAfrica / Sudan Tribune: Blue Nile fighting and Yale HRL Asosa alert", url: "https://allafrica.com/stories/202609030540.html"}
+
+  - id: siege-of-el-obeid-2026
+    name: "Siege of El Obeid and SAF North Kordofan offensive"
+    conflict: sudan-saf-rsf
+    tier: major
+    start: "2026-05-01"
+    end: "2026-07-27"
+    place: "El Obeid, North Kordofan, Sudan"
+    lat: 13.18
+    lng: 30.22
+    sides: ["Rapid Support Forces", "SAF 5th Infantry Division and Sudan Shield Forces"]
+    outcome: "RSF encircled the city from the north, west and south with record drone strikes in June; the SAF offensive in late July broke the ring. Start date approximate."
+    forces: "SAF 5th Infantry Division, airbase, Sudan Shield Forces; RSF ground forces at Bara, Umm Sumeima and Kazgil and long-range drones."
+    losses: "At least 50 civilians killed in ten days of drone strikes (28-country statement, mid-2026); 27 drone strikes on Sheikan locality in June 2026 (ACLED)."
+    significance: "El Obeid links RSF-held Darfur and the SAF-held centre; holding it kept the RSF from a road east toward Khartoum."
+    sources:
+      - {label: "ACLED: Can the RSF seize El Obeid?", url: "https://acleddata.com/expert-comment/can-rsf-seize-el-obeid"}
+      - {label: "Al Jazeera: El-Obeid under siege by RSF", url: "https://www.aljazeera.com/amp/news/2026/7/6/el-obeid-under-siege-by-rsf-could-this-be-sudans-next-el-fasher"}
+      - {label: "ACLED: Can the SAF's latest advances reshape Sudan's war?", url: "https://acleddata.com/expert-comment/can-safs-latest-advances-reshape-sudans-war"}
+
+  - id: sodari-offensive
+    name: "SAF westward push to Sodari and Al-Mazroub"
+    conflict: sudan-saf-rsf
+    tier: mid
+    start: "2026-09-06"
+    end: "2026-10-02"
+    place: "Sodari, North Kordofan, Sudan"
+    lat: 14.42
+    lng: 29.08
+    sides: ["Sudanese Armed Forces", "Rapid Support Forces"]
+    outcome: "SAF took Hamrat al-Wiz (6 Sep), Sodari (25 Sep) and Al-Mazroub (2 Oct); RSF fell back toward En Nahud, Ghebeish and Wad Banda."
+    forces: "SAF ground forces with armour reinforcements under field commander Malik al-Burof; RSF units, some reportedly abandoning weapons."
+    losses: "RSF drone strike on a court house in Umm Ruwaba killed 13 (8 Sep 2026); eight civilians killed in drone strikes in Sodari district (28 Aug)."
+    significance: "Extends SAF control across western North Kordofan and threatens the RSF's routes into West Kordofan and Darfur."
+    sources:
+      - {label: "Wikipedia: Kordofan campaign", url: "https://en.wikipedia.org/wiki/Kordofan_campaign_(2023%E2%80%93present)"}
+      - {label: "Al Jazeera: The battle for Kordofan", url: "https://www.aljazeera.com/amp/news/2026/10/1/the-battle-for-kordofan-the-corridor-linking-sudans-east-and-west"}
+
+  - id: amiet-market-strike
+    name: "Drone strike on Amiet market"
+    conflict: sudan-saf-rsf
+    tier: major
+    start: "2026-10-19"
+    end: "2026-10-19"
+    place: "Amiet market, Abyei area (disputed Sudan / South Sudan) (approx)"
+    lat: 9.45
+    lng: 28.45
+    sides: ["Sudanese Armed Forces (accused; denies)", "Civilians and traders"]
+    outcome: "Multiple munitions hit the market and its fuel depot, burning businesses and vehicles."
+    forces: "A witness described a swarm of drones; an unnamed SAF officer told AP the target was fuel tankers bound for the RSF; three diplomatic sources told Reuters the depot was used by the RSF."
+    losses: "153 killed per Abyei officials, more than 80 per the UN; about 8,000 displaced."
+    significance: "The deadliest strike of the month and a cross-border shock: South Sudan summoned Sudan's ambassador and the UN called it part of a 'deeply concerning pattern'."
+    sources:
+      - {label: "Arab News / AP: Death toll rises to 153", url: "https://www.arabnews.pk/middle-east/death-toll-from-sudan-army-strike-in-disputed-territory-rises-to-153-local-authority-3004842"}
+      - {label: "Rio Times: Sudan drone strikes, 306 deaths in October", url: "https://www.riotimesonline.com/sudan-drone-strikes-306-deaths-october/"}
+
+  - id: jonglei-offensive-2026
+    name: "SPLA-IO Jonglei offensive and Operation Enduring Peace"
+    conflict: south-sudan-civil-conflict
+    tier: major
+    start: "2025-12-23"
+    end: "2026-02-04"
+    place: "Waat, Yuai and Pajut, Jonglei, South Sudan"
+    lat: 7.75
+    lng: 31.85
+    sides: ["SPLA-IO, Kit-Gwang faction and White Army", "SSPDF and allied militias"]
+    outcome: "SPLA-IO took Waat, Pathai, Yuai and Pajut; the SSPDF counteroffensive from 25 Jan retook them by early February. Coordinates are approximate for the Nyirol and Uror area."
+    forces: "SPLA-IO with about 1,000 SSOA defectors; SSPDF with air strikes and Johnson Olony's militia."
+    losses: "At least 200 dead including 40 civilians by late Jan 2026 (ACLED via Wikipedia); 280,000+ displaced."
+    significance: "Marked the return of large-scale manoeuvre warfare in South Sudan for the first time since 2018."
+    sources:
+      - {label: "Wikipedia: 2026 Jonglei offensive", url: "https://en.wikipedia.org/wiki/2026_Jonglei_offensive"}
+      - {label: "Wikipedia: Jonglei clashes", url: "https://en.wikipedia.org/wiki/Jonglei_clashes_(2025%E2%80%93present)"}
+
+  - id: battle-of-akobo-2026
+    name: "Battle of Akobo"
+    conflict: south-sudan-civil-conflict
+    tier: mid
+    start: "2026-03-10"
+    end: "2026-04-14"
+    place: "Akobo, Jonglei, South Sudan"
+    lat: 7.78
+    lng: 33.0
+    sides: ["SSPDF", "SPLA-IO"]
+    outcome: "SSPDF took Akobo by 14 March after ordering UN and aid staff out; SPLA-IO recaptured it on 13 to 14 April."
+    forces: "SSPDF ground forces; SPLA-IO and White Army."
+    losses: "No reliable figures; about 17,000 people had been displaced to Akobo by earlier fighting."
+    significance: "Akobo on the Ethiopian border is a key opposition hub; its recapture showed the limits of the government's offensive."
+    sources:
+      - {label: "Wikipedia: Jonglei clashes", url: "https://en.wikipedia.org/wiki/Jonglei_clashes_(2025%E2%80%93present)"}
+      - {label: "Wikipedia: 2026 in South Sudan", url: "https://en.wikipedia.org/wiki/2026_in_South_Sudan"}
+
+  - id: abiemnom-massacre
+    name: "Abiemnom massacre"
+    conflict: south-sudan-civil-conflict
+    tier: mid
+    start: "2026-03-01"
+    end: "2026-03-01"
+    place: "Abiemnom, Ruweng, South Sudan (approx)"
+    lat: 9.7
+    lng: 28.9
+    sides: ["Armed youths linked to a rebel faction", "Civilians"]
+    outcome: "Mass killing in Abiemnom County."
+    forces: "Armed youth fighters."
+    losses: "At least 169 to 178 killed (Wikipedia pages differ)."
+    significance: "One of the deadliest single attacks of the year, near the Sudan border and Heglig."
+    sources:
+      - {label: "Wikipedia: 2026 in South Sudan", url: "https://en.wikipedia.org/wiki/2026_in_South_Sudan"}
+      - {label: "Wikipedia: Jonglei clashes", url: "https://en.wikipedia.org/wiki/Jonglei_clashes_(2025%E2%80%93present)"}
+
+  - id: walgak-raid
+    name: "Capture of Walgak"
+    conflict: south-sudan-civil-conflict
+    tier: mid
+    start: "2026-07-05"
+    end: "2026-07-05"
+    place: "Walgak, Jonglei, South Sudan (approx)"
+    lat: 8.1
+    lng: 32.5
+    sides: ["SPLA-IO / rebels", "SSPDF"]
+    outcome: "Rebels seized Walgak Payam."
+    forces: "Opposition fighters against an SSPDF garrison."
+    losses: "44 soldiers killed (Wikipedia)."
+    significance: "Showed the SPLA-IO could still overrun garrisons months after the government's counteroffensive."
+    sources:
+      - {label: "Wikipedia: 2026 in South Sudan", url: "https://en.wikipedia.org/wiki/2026_in_South_Sudan"}
+
+  - id: tselemti-clashes
+    name: "Tselemti clashes"
+    conflict: ethiopia-tigray-war
+    tier: mid
+    start: "2026-01-29"
+    end: "2026-02-01"
+    place: "Mai Degusha, Tselemti, Tigray, Ethiopia (approx)"
+    lat: 13.35
+    lng: 38.1
+    sides: ["Tigrayan forces (TDF)", "ENDF and Amhara militias"]
+    outcome: "Tigrayan forces withdrew from Tselemti after several days; separately they briefly took Alamata and Korem."
+    forces: "TDF units; federal forces with Amhara militias."
+    losses: "No reliable figures."
+    significance: "First large-scale fighting between federal and Tigrayan forces since the 2022 Pretoria agreement."
+    sources:
+      - {label: "Wikipedia: Ethiopia-TPLF clashes", url: "https://en.wikipedia.org/wiki/Ethiopia-TPLF_clashes_(2026%E2%80%93present)"}
+
+  - id: humera-shererina-clash
+    name: "Battle near Humera (Shererina)"
+    conflict: ethiopia-tigray-war
+    tier: mid
+    start: "2026-08-01"
+    end: "2026-08-01"
+    place: "Shererina, near Humera, western Tigray, Ethiopia (approx)"
+    lat: 13.95
+    lng: 36.75
+    sides: ["ENDF and Amhara Tekeze Guard", "TPLF forces incl. 'Army 70' from eastern Sudan"]
+    outcome: "ENDF pushed TPLF units back toward Shererina; both sides then de-escalated."
+    forces: "Artillery and drones on both sides; first claimed TPLF use of one-way attack drones (unverified)."
+    losses: "Unverified claims of 500+ (pro-government) and 1,000+ (pro-TPLF) casualties."
+    significance: "Second major fighting of 2026 and a step toward full war; also shelled a refugee camp in Sudan."
+    sources:
+      - {label: "Critical Threats: Africa File (6 Aug 2026)", url: "https://www.criticalthreats.org/analysis/ethiopia-tplf-drc-fdlr-rwanda-red-sea-saudi-houthi-somalia-fgs-us-aussom-africa-file-august-6-2026"}
+
+  - id: alliance-offensive-sep-2026
+    name: "Alliance for Survival offensive (Abala, Kobo, Sekota)"
+    conflict: ethiopia-tigray-war
+    tier: major
+    start: "2026-09-22"
+    end: "2026-09-28"
+    place: "Kobo, North Wollo, Amhara, Ethiopia"
+    lat: 12.15
+    lng: 39.63
+    sides: ["TDF, ARDUF and AFNM", "ENDF and Tigray Peace Force"]
+    outcome: "Rebels took Abala, Erebti and Sekota and pushed down the A2 to Kobo; the ENDF halted them, retook Sekota on 27 Sep and took Alamata by 28 Sep."
+    forces: "TDF and ARDUF on the Afar axis; AFNM and TDF on the A2; ENDF with drones and artillery."
+    losses: "No totals; a drone strike on Alamata market reportedly killed more than 10 (pro-Fano claim)."
+    significance: "Opened the full-scale 2026 war and drew in Afar and Amhara."
+    sources:
+      - {label: "Critical Threats: Ethiopia War Security Review (29 Sep 2026)", url: "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/ethiopia-war-security-review-september-29-2026"}
+
+  - id: bishoftu-air-base-strike
+    name: "Strikes on Harar Meda Air Base (Bishoftu)"
+    conflict: ethiopia-tigray-war
+    tier: mid
+    start: "2026-09-27"
+    end: "2026-09-27"
+    place: "Bishoftu, Oromia, Ethiopia"
+    lat: 8.72
+    lng: 39.0
+    sides: ["Unclaimed (pro-TPLF media credited the Alliance for Survival)", "Ethiopian Air Force"]
+    outcome: "Numerous strikes hit the Ethiopian Air Force headquarters; Kombolcha airport was also hit and airport operations were halted."
+    forces: "Weapon type not confirmed in sources reviewed."
+    losses: "Multiple ENDF soldiers reportedly killed; possible damage to airport assets (satellite analysis by Rich Tedd)."
+    significance: "First strike of the war on Ethiopia's air force headquarters near the capital."
+    sources:
+      - {label: "Critical Threats: Ethiopia War Security Review (29 Sep 2026)", url: "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/ethiopia-war-security-review-september-29-2026"}
+
+  - id: fall-of-mekelle-2026
+    name: "Capture of Mekelle"
+    conflict: ethiopia-tigray-war
+    tier: major
+    start: "2026-10-03"
+    end: "2026-10-03"
+    place: "Mekelle, Tigray, Ethiopia"
+    lat: 13.5
+    lng: 39.48
+    sides: ["ENDF and Tigray Peace Force", "TDF / TPLF"]
+    outcome: "Federal forces took the airport and then the city after the TDF withdrew without significant resistance."
+    forces: "ENDF advancing from Afar and up the A2; TPF."
+    losses: "No significant fighting reported; looting of government facilities."
+    significance: "Restored federal control of the Tigray capital for the first time since 2021."
+    sources:
+      - {label: "Critical Threats: Ethiopia War Security Review (6 Oct 2026)", url: "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/october-6-2026"}
+      - {label: "ACLED: What happens now the government has regained control of Mekele?", url: "https://acleddata.com/expert-comment/what-happens-now-government-has-regained-control-mekele"}
+
+  - id: adwa-sheraro-airstrikes
+    name: "Air strikes on Adwa and Sheraro"
+    conflict: ethiopia-tigray-war
+    tier: mid
+    start: "2026-10-04"
+    end: "2026-10-05"
+    place: "Adwa, Tigray, Ethiopia"
+    lat: 14.17
+    lng: 38.9
+    sides: ["ENDF", "TDF and civilians"]
+    outcome: "Strikes damaged several hotels in Adwa; Sheraro was also hit."
+    forces: "ENDF air and drone strikes."
+    losses: "9 killed in Adwa and 8 in Sheraro (Reuters, citing a humanitarian bulletin)."
+    significance: "Part of the air campaign against the area where the TPLF leadership regrouped."
+    sources:
+      - {label: "Critical Threats: Africa File (8 Oct 2026)", url: "https://www.criticalthreats.org/analysis/Ethiopia-eritrea-tigray-tplf-egypt-somalia-sudan-saf-mali-fla-jnim"}
+
+  - id: adigrat-front-eritrean-incursion
+    name: "Adigrat front and reported Eritrean incursion"
+    conflict: ethiopia-eritrea-standoff
+    tier: major
+    start: "2026-10-07"
+    end: "2026-10-12"
+    place: "Adigrat, Idaga Hamus and Zalambessa, Tigray, Ethiopia"
+    lat: 14.28
+    lng: 39.46
+    sides: ["ENDF and Tigray Peace Force", "Eritrean forces (reported) and TDF"]
+    outcome: "Eritrean forces reported moving south of Adigrat withdrew north after Ethiopian drone strikes on 7 and 10 Oct; ENDF and TPF took Atsbi, Hawzen, Freweyni and Idaga Hamus, entered Adigrat without resistance on 9 to 10 Oct and reached the border at Zalambessa on 12 Oct as Eritrean units pulled back through it."
+    forces: "Ethiopian official claimed one mechanized and three infantry Eritrean divisions; a foreign security source told AFP Eritrea deployed thousands of troops; CTP found no large buildup in satellite imagery."
+    losses: "One Eritrean truck destroyed by an Ethiopian drone (geolocated by CTP and ISW); no other figures."
+    significance: "The closest the two states have come to direct combat since 2000, leaving Ethiopian and Eritrean troops facing each other at Zalambessa and Badme."
+    sources:
+      - {label: "Critical Threats: Ethiopia War Security Review (9 Oct 2026)", url: "https://www.criticalthreats.org/print/brf_6ac94ee9d6e71"}
+      - {label: "Critical Threats: Ethiopia War Security Review (13 Oct 2026)", url: "https://www.criticalthreats.org/print/brf_6aceabd6a3cfa"}
+      - {label: "Kuwait Times / AFP: Ethiopians welcome departure of Eritrean troops", url: "https://kuwaittimes.com/article/51864/world/in-tigray-ethiopians-welcome-departure-of-eritrean-troops/"}
+
+  - id: northern-tigray-sweep-2026
+    name: "Federal sweep of northern Tigray (Shire, Adwa, Axum)"
+    conflict: ethiopia-tigray-war
+    tier: major
+    start: "2026-10-06"
+    end: "2026-10-12"
+    place: "Shire, Adwa and Axum, Tigray, Ethiopia"
+    lat: 14.12
+    lng: 38.72
+    sides: ["ENDF and Tigray Peace Force", "TDF"]
+    outcome: "After brief TDF resistance at Adi Gebru (6 Oct), federal forces entered Shire (8 Oct), Adwa and Enticho (11 Oct) and Axum (12 Oct) with little fighting as the TDF withdrew toward Rama and the Eritrean border."
+    forces: "ENDF columns on the B30 across the Tekeze and on the C23 and A2; TPF; TDF rearguards."
+    losses: "No reliable figures; Adwa hospital and government offices reported looted (Al Jazeera)."
+    significance: "Ended organized TDF control of Tigray's towns within ten days of Mekelle's fall, pushing the war to the Eritrean border."
+    sources:
+      - {label: "Critical Threats: Ethiopia War Security Review (9 Oct 2026)", url: "https://www.criticalthreats.org/print/brf_6ac94ee9d6e71"}
+      - {label: "Critical Threats: Ethiopia War Security Review (13 Oct 2026)", url: "https://www.criticalthreats.org/print/brf_6aceabd6a3cfa"}
+      - {label: "Al Jazeera: Ethiopian forces enter strategic Tigray town of Adwa", url: "https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say"}
+
+  - id: fano-a2-offensive-oct-2026
+    name: "Fano captures of Wurgessa and Mehal Meda"
+    conflict: ethiopia-amhara-fano
+    tier: mid
+    start: "2026-10-03"
+    end: "2026-10-07"
+    place: "Mehal Meda, North Shewa, Amhara, Ethiopia"
+    lat: 10.32
+    lng: 39.67
+    sides: ["Amhara Fano National Movement", "ENDF"]
+    outcome: "AFNM took Wurgessa on the A2 (3 Oct) and Mehal Meda (7 Oct), attacked Dabat and contested Mekane Selam."
+    forces: "AFNM fighters against ENDF garrisons stretched by the Tigray campaign."
+    losses: "No reliable figures."
+    significance: "Threatens the army's main supply road to Tigray."
+    sources:
+      - {label: "Critical Threats: Africa File (8 Oct 2026)", url: "https://www.criticalthreats.org/analysis/Ethiopia-eritrea-tigray-tplf-egypt-somalia-sudan-saf-mali-fla-jnim"}
+
+  - id: operation-ayisha-seid
+    name: "Operation Ayisha Seid (election-day offensive)"
+    conflict: ethiopia-amhara-fano
+    tier: mid
+    start: "2026-06-01"
+    end: "2026-06-01"
+    place: "Amhara region, Ethiopia (regional centroid, approx)"
+    lat: 11.6
+    lng: 38.0
+    sides: ["Amhara Fano National Movement", "Ethiopian security forces"]
+    outcome: "At least 90 clashes across Amhara on election day, the most on any day since 2023."
+    forces: "AFNM units region-wide; government vehicle ban."
+    losses: "No fatality figure in ACLED's comment."
+    significance: "Showed Fano's ability to coordinate region-wide and disrupt the national election."
+    sources:
+      - {label: "ACLED: Did Ethiopia's elections worsen existing conflicts?", url: "https://acleddata.com/expert-comment/did-ethiopias-elections-worsen-existing-conflicts"}
+
+  - id: baidoa-takeover
+    name: "Federal takeover of Baidoa"
+    conflict: somalia-al-shabaab
+    tier: mid
+    start: "2026-03-30"
+    end: "2026-03-30"
+    place: "Baidoa, South West State, Somalia"
+    lat: 3.12
+    lng: 43.65
+    sides: ["Somali Armed Forces (federal)", "South West State administration of Abdiaziz Laftagareen"]
+    outcome: "Federal forces took the state capital; Laftagareen was forced out and a transitional head installed. Loyalist militias later attacked Baidoa and Buurhakaba."
+    forces: "Federal army units."
+    losses: "No casualties reported for the takeover itself."
+    significance: "Federal use of force against a member state, diverting troops from the fight against al-Shabaab."
+    sources:
+      - {label: "Wikipedia: 2026 in Somalia", url: "https://en.wikipedia.org/wiki/2026_in_Somalia"}
+      - {label: "Wikipedia: Somali Civil War", url: "https://en.wikipedia.org/wiki/Somali_Civil_War_(2009%E2%80%93present)"}
+
+  - id: mogadishu-clashes-june-2026
+    name: "Mogadishu clashes between government and opposition forces"
+    conflict: somalia-al-shabaab
+    tier: mid
+    start: "2026-06-03"
+    end: "2026-06-04"
+    place: "Howlwadaag district, Mogadishu, Somalia"
+    lat: 2.03
+    lng: 45.33
+    sides: ["Federal security forces, police and NISA", "Armed supporters of opposition leaders (Hassan Ali Khaire, Sheikh Sharif Sheikh Ahmed)"]
+    outcome: "Fighting around an arms-recovery raid on Khaire's residence ahead of an anti-government rally; the intelligence agency director mediated a halt."
+    forces: "Government security forces against opposition-aligned gunmen; mortar shells hit several buildings."
+    losses: "No official figures; the UN Secretary-General said the violence caused deaths and civilian injuries."
+    significance: "Armed confrontation in the capital over the president's disputed term, which US commanders link to al-Shabaab's battlefield gains."
+    sources:
+      - {label: "AP via News4Jax: Armed clashes erupt in Somalia's capital", url: "https://www.news4jax.com/news/world/2026/06/04/armed-clashes-erupt-in-somalias-capital-ahead-of-a-planned-anti-government-demonstration/"}
+      - {label: "Critical Threats: Africa File (6 Aug 2026)", url: "https://www.criticalthreats.org/analysis/ethiopia-tplf-drc-fdlr-rwanda-red-sea-saudi-houthi-somalia-fgs-us-aussom-africa-file-august-6-2026"}
+
+  - id: battle-of-teedaan
+    name: "Battle of Teedaan"
+    conflict: somalia-al-shabaab
+    tier: mid
+    start: "2026-08-01"
+    end: "2026-08-02"
+    place: "Teedaan, eastern Hiiraan, Somalia (approx; exact site unverified)"
+    lat: 4.1
+    lng: 45.9
+    sides: ["Al-Shabaab", "Somali government forces and clan militias"]
+    outcome: "Al-Shabaab took the village after nearly 24 hours of fighting; government forces withdrew and set up positions on the outskirts."
+    forces: "Al-Shabaab assault force; Somali army and local militias."
+    losses: "Both sides took casualties per locals; no figures. Al-Shabaab claimed captured weapons and vehicles."
+    significance: "Controls a road linking Hiiraan with Galgaduud and Middle Shabelle that al-Shabaab can use to move and tax traffic; came days after AFRICOM warned of reversals."
+    sources:
+      - {label: "Arab News / AFP: Somalia's Al-Shabab seize strategic town", url: "https://www.arabnews.com/node/2653276/world"}
+
+  - id: zawiya-refinery-battle
+    name: "Battle of the Zawiya refinery"
+    conflict: libya-militia-conflict
+    tier: mid
+    start: "2026-05-05"
+    end: "2026-05-10"
+    place: "Zawiya, Libya"
+    lat: 32.76
+    lng: 12.72
+    sides: ["Muhammed Bahroun ('al-Far') and the 'joint security forces'", "Muhammad Kashlaf ('al-Qasseb'), Shuhada al-Nasr Brigade and Zawiya PFG, with al-Latif and al-Kabwat"]
+    outcome: "Council of Elders brokered a ceasefire on the evening of 8 May; 52nd Infantry Brigade separated the sides; refinery restarted by 10 May."
+    forces: "Mortars, artillery and improvised one-way attack drones."
+    losses: "3 civilians killed and 9 injured (NIHRL); at least 10 fighters killed and 20 injured (local sources)."
+    significance: "Shut Libya's largest working refinery and introduced large-scale drone use to Libyan urban militia fighting."
+    sources:
+      - {label: "Libya Analysis: Heavy fighting in Zawiyya", url: "https://libyaanalysis.substack.com/p/13-may-2026-heavy-fighting-between"}
+      - {label: "Libya Security Monitor: Zawiyya refinery damaged", url: "https://libyasecuritymonitor.com/zawiyya-refinery-damaged-closed-for-two-days-amid-heavy-fighting/"}
+
+  - id: zawiya-drone-attacks-aug-2026
+    name: "Drone attacks on the Zawiya refinery"
+    conflict: libya-militia-conflict
+    tier: mid
+    start: "2026-08-10"
+    end: "2026-08-12"
+    place: "Zawiya, Libya"
+    lat: 32.76
+    lng: 12.72
+    sides: ["Unidentified attackers", "Zawia Oil Refining Company and GECOL facilities"]
+    outcome: "Three drone attacks on the refinery in two days and an attack on a substation south of Zawiya."
+    forces: "Drones; perpetrators not identified in sources reviewed."
+    losses: "No casualty figures; over 700 MW of a 1,300 MW plant taken offline."
+    significance: "Shows Zawiya's militia rivalry has moved to stand-off drone attacks on national energy infrastructure."
+    sources:
+      - {label: "Wikipedia: 2026 in Libya", url: "https://en.wikipedia.org/wiki/2026_in_Libya"}

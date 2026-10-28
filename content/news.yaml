@@ -19,6 +19,7 @@ news:
 - date: '2026-10-27'
   countries: [ETH]
   category: military
+  conflict: ethiopia-oromia-ola
   headline: Orthodox Church says 60 Christians killed in Oromia in a week
   summary: The Ethiopian Orthodox Tewahedo Church said at least 60 people, all Christians, were killed in attacks
     in Oromia over the previous week. It matters because insurgent and communal violence in Ethiopia's most populous
@@ -99,6 +100,7 @@ news:
 - date: '2026-10-26'
   countries: [SOM]
   category: diplomatic
+  conflict: somalia-al-shabaab
   headline: UN to end its Somalia transition mission on 31 October
   summary: The UN said support through its Transitional Assistance Mission in Somalia will end on 31 October, with
     smaller agencies continuing work. It matters because it closes decades of a dedicated UN political mission while
@@ -215,6 +217,7 @@ news:
 - date: '2026-10-25'
   countries: [COL]
   category: military
+  conflict: colombia-armed-conflict
   headline: Colombian army kills 10 ELN fighters including two leaders in Cauca
   summary: The government said an operation in El Tambo, Cauca, killed ten National Liberation Army members, including
     two key leaders. It matters as a sign the new government is pursuing a military line against the ELN.
@@ -358,6 +361,7 @@ news:
 - date: '2026-10-22'
   countries: [SDN]
   category: military
+  conflict: sudan-saf-rsf
   headline: Sudan's army retakes Bukuri base in Blue Nile
   summary: The Sudanese army said it recaptured two strategic areas in Blue Nile state, including the Bukuri base
     near Ad-Damazin, after repelling a joint RSF and SPLM-N assault; RSF drones knocked out power plants in White
@@ -515,6 +519,7 @@ news:
 - date: '2026-10-19'
   countries: [SDN, SSD]
   category: humanitarian
+  conflict: sudan-saf-rsf
   headline: Drone strike on Abyei market kills at least 153
   summary: A drone strike on the Amiet market in the disputed Abyei area killed at least 153 people, according to
     AP, and about 220 according to local authorities, one of the deadliest single attacks of Sudan's war. South
@@ -601,6 +606,7 @@ news:
 - date: '2026-10-18'
   countries: [HTI, SLV]
   category: military
+  conflict: haiti-gang-war
   headline: Haitian gangs ambush Salvadoran troops of the Gang Suppression Force
   summary: Gangs ambushed Salvadoran Air Force personnel serving with Haiti's Gang Suppression Force near Port-au-Prince;
     four went missing and were later said to be held hostage. President Bukele announced a rescue operation on 21
@@ -627,6 +633,7 @@ news:
 - date: '2026-10-18'
   countries: [TWN, CHN]
   category: military
+  conflict: taiwan-strait
   headline: Taiwan drives away 16 Chinese vessels near Pratas
   summary: Taiwan's coast guard expelled 16 Chinese coast guard, research and fishing vessels operating near Taiwan
     and Pratas Island, some inside restricted waters. It matters as continued grey-zone pressure on Taiwan ahead
@@ -731,6 +738,7 @@ news:
 - date: '2026-10-16'
   countries: [SDN]
   category: humanitarian
+  conflict: sudan-saf-rsf
   headline: Drone strike on Nyala cattle market kills 30
   summary: A drone strike on a cattle market in Nyala, the RSF's administrative hub in South Darfur, killed 30 people
     and injured 47. A further strike in Nyala on 26 October killed at least 21. It matters because both sides' drone
@@ -824,6 +832,7 @@ news:
 - date: '2026-10-14'
   countries: [SDN]
   category: military
+  conflict: sudan-saf-rsf
   headline: Sudan's army retakes Bir Kelekel in West Darfur
   summary: The Sudanese Armed Forces said they recaptured the Bir Kelekel area of West Darfur from the Rapid Support
     Forces, according to the state governor. It matters as a rare army gain in Darfur, most of which the RSF has

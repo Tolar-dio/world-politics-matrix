@@ -364,15 +364,17 @@ body[data-mode="conflict"] .mode-switch button[aria-checked="true"] { background
 .mk-battle { width: 18px; height: 18px; border-radius: 50%; background: #7E231C; color: #FFE8C2; box-shadow: 0 0 0 1.5px #FFF3E0, 0 1px 4px rgba(0,0,0,.45); }
 .mk-battle.mid { width: 13px; height: 13px; background: #B9473C; }
 .mk-battle svg { width: 70%; height: 70%; }
-.mk-base { width: 11px; height: 11px; border-radius: 2px; background: #1F2A33; box-shadow: 0 0 0 2px #C8962E; }
-.mk-base.critical { width: 13px; height: 13px; }
-.mk-base.choke { width: 18px; height: 18px; background: transparent; box-shadow: none; border-radius: 0; }
+.mk-base { width: 8px; height: 8px; border-radius: 2px; background: #1F2A33; box-shadow: 0 0 0 1.5px #C8962E; }
+.mk-base.critical { width: 11px; height: 11px; box-shadow: 0 0 0 2px #C8962E; }
+.mk-base.choke { width: 15px; height: 15px; background: transparent; box-shadow: none; border-radius: 0; }
 .mk-base.choke svg { width: 100%; height: 100%; }
 .zone-swatch { position: relative; overflow: hidden; }
 .zone-swatch::after { content: ""; position: absolute; inset: 3px; border-radius: 50%; background: var(--z); }
+.mk.dim { opacity: .28; }
+.mk.dim:hover { opacity: 1; }
 .mk:hover, .mk.is-selected { outline: 2px solid #F3D27A; outline-offset: 2px; z-index: 2; }
 .mk-demo { position: relative; display: inline-grid; place-items: center; flex: none; transform: none !important; }
-.legend-line { width: 18px; height: 0; border-top: 3px dashed #7E231C; flex: none; }
+.legend-line { width: 18px; height: 0; border-top: 3px dashed var(--ink); flex: none; }
 
 /* ---------- war intro + panels ---------- */
 .war-group { font-family: var(--sans); font-size: 13px; font-weight: 600; color: var(--ink-3); margin: 22px 0 6px; }

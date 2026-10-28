@@ -401,8 +401,8 @@ ERI:
   religion: Christian about half (Orthodox, Catholic, Protestant), Sunni Muslim about half
   system: one-party
   snapshot: >-
-    One of the world's most closed states, ruled since 1993 by Isaias Afwerki, where open talk of
-    war with Ethiopia over access to the Red Sea grew through 2026.
+    One of the world's most closed states, ruled since 1993 by Isaias Afwerki, which cut ties with
+    Ethiopia in October 2026 as Ethiopian troops reached its border.
   tags: [No elections since independence, Indefinite conscription, Mass emigration, Red Sea coast]
   culture: >-
     Eritrea's nine ethnic groups include Tigrinya-speaking highlanders and Tigre, Afar and other lowland peoples, with roughly equal Christian and Muslim populations. Asmara, built largely under Italian rule in the 1930s, is a UNESCO-listed showcase of modernist architecture, with Art Deco cinemas and cafés where espresso culture survives. Cycling is hugely popular, and Eritrean riders have competed in the Tour de France.
@@ -413,16 +413,20 @@ ERI:
     fought alongside Ethiopia's army in Tigray in 2020 to 2022, but the alliance has collapsed.
     Since Ethiopia's prime minister began insisting his landlocked country needs a Red Sea port, the
     Eritrean port of Assab has become a flashpoint, and through 2026 analysts warned of a growing
-    risk of war, with forces massing on both sides. The ruling PFDJ is the only legal party.
+    risk of war, with forces massing on both sides. In October 2026, as Ethiopian forces retook
+    Tigray and reached the border at Zalambessa, the two countries cut diplomatic ties, and Eritrea
+    asked the UN Security Council to act against Ethiopia. The ruling PFDJ is the only legal party.
   leaders: {state: "President Isaias Afwerki, since 1993", gov: "The president heads the government"}
   power: >-
     A one-party state with no national elections, no functioning legislature and a 1997 constitution
     that was never implemented. The president rules by decree with a small circle of party and
     military officials.
-  story: steady
+  story: war
   sources:
     - {label: "Africanews: fears of armed confrontation", url: "https://www.africanews.com/amp/2026/02/09/ethiopia-eritrea-tensions-fears-of-armed-confontation-grow/"}
     - {label: "News24: Assab becomes a flashpoint", url: "https://news24.com/world/africa/port-assab-becomes-flashpoint-for-ethiopiaeritrea-relations-20260116-0415"}
+    - {label: "Kuwait Times (AFP): In Tigray, Ethiopians welcome departure of Eritrean troops", url: "https://kuwaittimes.com/article/51864/world/in-tigray-ethiopians-welcome-departure-of-eritrean-troops/"}
+    - {label: "Critical Threats: Tigray threatens to spark the next Eritrean-Ethiopian war", url: "https://www.criticalthreats.org/analysis/africa-file-special-edition-tigray-threatens-to-spark-the-next-eritrean-ethiopian-war-and-plunge-the-horn-of-africa-into-crisis"}
 
 SWZ:
   pop: 1.2
@@ -454,14 +458,28 @@ ETH:
   religion: Orthodox Christian about 43%, Muslim about 34%, Protestant about 19%
   system: parliamentary
   system_note: A federation of ethnically defined regions.
-  story: election
+  story: war
   snapshot: >-
-    Abiy Ahmed's party took nearly 90 percent of seats in a June 2026 election held amid a crackdown, with insurgencies still burning in Amhara and Oromia.
+    Abiy Ahmed's party swept a June 2026 election held amid a crackdown; by October war had returned
+    to Tigray, and federal forces retook Mekelle and pushed to the Eritrean border.
   tags: [Never colonised, Coffee origin, Ethnic federalism, Grand Renaissance Dam, Insurgencies]
   culture: >-
     Ethiopia was never colonised, apart from a brief Italian occupation, and has its own calendar, its own script and one of the world's oldest Christian churches, whose rock-hewn churches at Lalibela still hold services. Coffee was first drunk here, and the coffee ceremony is a daily social ritual. Ethiopian distance runners are national heroes, and Amharic, Oromo and Tigrinya music fills Addis Ababa's bars.
   society: >-
     With some 135 million people, Ethiopia is Africa's second most populous country. State-led growth built roads, industrial parks and the Grand Ethiopian Renaissance Dam on the Blue Nile, inaugurated in 2025 over Egypt's objections. The 2020 to 2022 Tigray war killed hundreds of thousands. Inflation and a 2024 currency float have squeezed households.
+  update: >-
+    War returned to Tigray in late September. After the TPLF and allied armed groups attacked from
+    about 22 September, federal forces and the allied Tigray Peace Force retook Mekelle in early
+    October, then Shire, Adigrat, Adwa and Axum, and reached the Eritrean border at Zalambessa.
+    Ethiopia and Eritrea cut diplomatic ties on 1 October; Eritrean troops pulled back from Adigrat
+    but stayed dug in around Zalambessa and Badme. Addis Ababa has put Tigray under six months of
+    federal interim rule, while Fano keeps attacking supply lines in Amhara.
+  update_date: 2026-10-18
+  sources_extra:
+    - {label: "Africanews: Ethiopia's federal forces retake Tigrayan capital Mekelle", url: "https://www.africanews.com/2026/10/05/ethiopias-federal-forces-retake-tigrayan-capital-mekelle/"}
+    - {label: "Al Jazeera: Ethiopian troops capture Adwa without a fight", url: "https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say"}
+    - {label: "ACLED: What happens now the government has regained control of Mekele", url: "https://acleddata.com/expert-comment/what-happens-now-government-has-regained-control-mekele"}
+    - {label: "Critical Threats: Ethiopia war security review, 6 October 2026", url: "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/october-6-2026"}
 
 GAB:
   pop: 2.6
@@ -1016,6 +1034,16 @@ SDN:
     Sudan was home to the kingdoms of Kush and Meroë, whose pyramids outnumber Egypt's. Sudanese music, from the songs of Mohammed Wardi to the haqiba style, is loved across the Horn of Africa. Sufi dervishes still whirl in Omdurman on Friday afternoons. Arabic is the main language, alongside dozens of others in Darfur, Kordofan and the east.
   society: >-
     More than 12 million people have been displaced by the war that began in April 2023, and famine has been confirmed in several areas. The RSF has been accused of genocide against the Masalit and other non-Arab groups in Darfur. Gold, much of it smuggled to the UAE, finances both sides. Khartoum was heavily destroyed before the army retook it.
+  update: >-
+    The army's offensive from late July broke the RSF ring around El Obeid and pushed west into
+    Kordofan, while the RSF and its SPLM-N allies opened a front in Blue Nile around Kurmuk. Drones
+    are now the main killer of civilians: the UN counted 306 civilians killed by drone strikes
+    between 1 and 21 October alone. US-led Quad diplomacy has produced a draft truce text but no
+    ceasefire.
+  update_date: 2026-10-21
+  sources_extra:
+    - {label: "Rio Times (citing UN, Reuters, AP): Sudan drone strikes kill 306 in October", url: "https://www.riotimesonline.com/sudan-drone-strikes-306-deaths-october/"}
+    - {label: "Wikipedia: Sudanese civil war (2023 to present)", url: "https://en.wikipedia.org/wiki/Sudanese_civil_war_(2023%E2%80%93present)"}
 
 TZA:
   pop: 70.5

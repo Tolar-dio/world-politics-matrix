@@ -140,7 +140,7 @@
   const WAR_FILL = { 3: '#B9473C', 2: '#E08A4F', 1: '#E8C76A' };
   const WAR_TINT = { 3: '#E7B4A8', 2: '#EDCBA6', 1: '#EEE0B4' };
   const WAR_TINT_DARK = { 3: '#7A3A33', 2: '#7A5236', 1: '#6E6338' };
-  const ZONE_FILL = { high: 'rgba(170,52,40,0.62)', medium: 'rgba(214,118,52,0.6)', low: 'rgba(214,170,60,0.6)' };
+  const ZONE_FILL = { high: 'rgba(170,52,40,0.5)', medium: 'rgba(214,118,52,0.5)', low: 'rgba(214,170,60,0.5)' };
   const ZONE_EDGE = { high: 'rgba(120,30,24,0.85)', medium: 'rgba(150,72,28,0.8)', low: 'rgba(140,110,30,0.8)' };
 
   function capColor(f) {
@@ -149,6 +149,8 @@
       const hot = (state.hoverMil && state.hoverMil.type === 'conflict' && state.hoverMil.id === z.conflict)
         || (state.focus && state.focus.type === 'conflict' && state.focus.id === z.conflict);
       if (hot) return ZONE_EDGE[z.intensity];
+      const fc = focusConflict();
+      if (fc && z.conflict !== fc) return ZONE_FILL[z.intensity].replace(/[\d.]+\)$/, '0.1)');
       // Strike campaigns cover wide target areas, not front lines: draw them as a light wash.
       return z.strike ? ZONE_FILL[z.intensity].replace(/[\d.]+\)$/, '0.26)') : ZONE_FILL[z.intensity];
     }
@@ -182,9 +184,27 @@
       el.style.background = state.mode === 'conflict' ? warColor(e) : lensColor(e);
       el.classList.toggle('is-selected', el.dataset.id === state.selected);
     });
+    const fc = focusConflict();
     document.querySelectorAll('.mk').forEach((el) => {
       el.classList.toggle('is-selected', !!state.focus && state.focus.type === el.dataset.type && state.focus.id === el.dataset.id);
+      el.classList.toggle('dim', !!fc && el.dataset.conflict !== fc);
     });
+    world.pathColor(lineColor);
+  }
+
+  // The conflict in focus, if any: a conflict, or the conflict a focused battle belongs to.
+  function focusConflict() {
+    const f = state.focus;
+    if (!f) return null;
+    if (f.type === 'conflict') return f.id;
+    if (f.type === 'battle') { const b = battleById.get(f.id); return b ? b.conflict : null; }
+    return null;
+  }
+
+  function lineColor(p) {
+    const fc = focusConflict();
+    if (fc && p.conflict !== fc) return isDark() ? 'rgba(255,225,200,0.25)' : 'rgba(90,20,14,0.22)';
+    return isDark() ? '#FFE9CF' : '#1F2A33';
   }
 
   function applyTheme() {
@@ -221,8 +241,8 @@
       .htmlElement(markerFor)
       .pathsData([])
       .pathPoints('points').pathPointLat((p) => p[0]).pathPointLng((p) => p[1])
-      .pathColor(() => ['#3B0F0B', '#9B2A1F'])
-      .pathStroke(3)
+      .pathColor(lineColor)
+      .pathStroke(4)
       .pathPointAlt(0.016)
       .pathDashLength(reduceMotion ? 1 : 0.035).pathDashGap(reduceMotion ? 0 : 0.012)
       .pathDashAnimateTime(reduceMotion ? 0 : 14000)
@@ -245,7 +265,7 @@
     const controls = world.controls();
     controls.autoRotate = !reduceMotion;
     controls.autoRotateSpeed = 0.35;
-    controls.minDistance = 130;
+    controls.minDistance = 106;
     controls.maxDistance = 900;
     controls.addEventListener('start', () => { controls.autoRotate = false; });
 
@@ -284,6 +304,7 @@
     b.type = 'button';
     b.dataset.type = d.__type;
     b.dataset.id = d.id;
+    b.dataset.conflict = d.conflict || '';
     if (d.__type === 'battle') {
       b.className = `mk mk-battle ${d.tier}`;
       b.innerHTML = SWORDS;
@@ -295,6 +316,8 @@
       b.setAttribute('aria-label', d.name);
     }
     if (state.focus && state.focus.type === d.__type && state.focus.id === d.id) b.classList.add('is-selected');
+    const fc = focusConflict();
+    if (fc && d.conflict !== fc) b.classList.add('dim');
     b.addEventListener('mouseenter', () => setHoverMil({ type: d.__type, id: d.id }));
     b.addEventListener('mouseleave', () => setHoverMil(null));
     b.addEventListener('click', (ev) => { ev.stopPropagation(); d.__type === 'battle' ? openBattle(d.id) : openBase(d.id); });
@@ -866,7 +889,8 @@
 
   function flyToPoint(lat, lng, alt) {
     if (!world) return;
-    world.pointOfView({ lat, lng, altitude: alt + (mobileMQ.matches ? 0.5 : 0) }, reduceMotion ? 0 : 1100);
+    // Phones show a narrower globe, so pull the camera back in proportion.
+    world.pointOfView({ lat, lng, altitude: alt * (mobileMQ.matches ? 2.2 : 1) }, reduceMotion ? 0 : 1100);
   }
 
   function flyToConflict(c) {
@@ -880,7 +904,8 @@
     const lng = pts.reduce((a, p) => a + p[1], 0) / pts.length;
     const away = (p) => Math.hypot(p[0] - lat, (p[1] - lng) * Math.cos((lat * Math.PI) / 180));
     const spread = Math.max(0.5, ...pts.map(away), ...c.zones.map((z) => away([z.lat, z.lng]) + z.r / 111));
-    flyToPoint(lat, lng, Math.min(2.6, Math.max(0.35, 0.25 + spread / 8)));
+    // At altitude a, the view spans roughly 27a degrees each way from the centre.
+    flyToPoint(lat, lng, Math.min(2.6, Math.max(0.06, spread * 0.06)));
   }
 
   const panelTop = (title, meta, flag = '') => `
@@ -949,7 +974,7 @@
     const light = battleById.get(id);
     if (!light) return;
     focusMil('battle', id, light.name);
-    flyToPoint(light.lat, light.lng, 0.7);
+    flyToPoint(light.lat, light.lng, 0.3);
     const c = conflictById.get(light.conflict);
     let full = light;
     try {
@@ -977,7 +1002,7 @@
     const b = baseById.get(id);
     if (!b) return;
     focusMil('base', id, b.name);
-    flyToPoint(b.lat, b.lng, 0.75);
+    flyToPoint(b.lat, b.lng, 0.35);
     const host = b.country && byId.get(b.country);
     const facts = [
       ['Type', esc(KIND_LABEL[b.kind] || b.kind)],

@@ -365,7 +365,7 @@ def main() -> None:
         aka.setdefault(target, []).append(alias)
 
     try:
-        mil = military.build(CONTENT, DATA, ids, md_inline, paras, pretty_date)
+        mil = military.build(CONTENT, DATA, ids | set(territories), md_inline, paras, pretty_date)
     except military.BuildError as err:
         fail(str(err))
 
