@@ -60,7 +60,9 @@
 }
 
 * { box-sizing: border-box; }
-html, body { margin: 0; height: 100%; }
+html, body { margin: 0; height: 100%; touch-action: pan-x pan-y; }
+/* The globe handles its own gestures; nothing on it should scroll or zoom the page. */
+.globe, .globe * { touch-action: none; }
 body {
   background: var(--fog);
   color: var(--ink);

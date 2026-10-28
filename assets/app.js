@@ -270,6 +270,7 @@
     controls.minDistance = 106;
     controls.maxDistance = 900;
     controls.addEventListener('start', () => { controls.autoRotate = false; });
+    initZoom();
 
     sizeGlobe();
     applyTheme();
@@ -1101,6 +1102,47 @@
     if (mobileMQ.matches) alt += 0.55;
     world.pointOfView({ lat: e.lat, lng: e.lng, altitude: alt }, reduceMotion ? 0 : 1100);
   }
+
+  /* ---------- zoom: every pinch and scroll over the globe zooms the globe ---------- */
+  const MIN_ALT = 0.06, MAX_ALT = 8;
+  function zoomTo(alt) {
+    world.controls().autoRotate = false;
+    world.pointOfView({ altitude: Math.min(MAX_ALT, Math.max(MIN_ALT, alt)) }, 0);
+  }
+
+  function initZoom() {
+    const el = $('#globe');
+    // Wheel and trackpad. Scaling altitude (not distance) makes each notch feel the same
+    // near the ground as from space. Capture phase, so it also works over markers.
+    el.addEventListener('wheel', (ev) => {
+      ev.preventDefault();
+      ev.stopPropagation();
+      const dy = ev.deltaMode === 1 ? ev.deltaY * 16 : ev.deltaMode === 2 ? ev.deltaY * 400 : ev.deltaY;
+      const k = ev.ctrlKey ? 0.012 : 0.0018; // ctrl + wheel is a trackpad pinch
+      zoomTo(world.pointOfView().altitude * Math.exp(Math.max(-250, Math.min(250, dy)) * k));
+    }, { capture: true, passive: false });
+
+    // Two-finger pinch, wherever the fingers land (globe, markers, zones). OrbitControls
+    // would only see pinches that start on the bare canvas, so it hands them to us.
+    world.controls().touches.TWO = -1;
+    let pinch = null;
+    const span = (ts) => Math.max(1, Math.hypot(ts[0].clientX - ts[1].clientX, ts[0].clientY - ts[1].clientY));
+    el.addEventListener('touchstart', (ev) => {
+      if (ev.touches.length === 2) pinch = { d: span(ev.touches), alt: world.pointOfView().altitude };
+    }, { passive: true });
+    el.addEventListener('touchmove', (ev) => {
+      if (!pinch || ev.touches.length !== 2) return;
+      ev.preventDefault();
+      zoomTo(pinch.alt * (pinch.d / span(ev.touches)));
+    }, { passive: false });
+    const end = (ev) => { if (ev.touches.length < 2) pinch = null; };
+    el.addEventListener('touchend', end);
+    el.addEventListener('touchcancel', end);
+  }
+
+  // The page itself never zooms: block browser pinch-zoom (Safari gestures, ctrl + wheel).
+  ['gesturestart', 'gesturechange', 'gestureend'].forEach((type) => document.addEventListener(type, (ev) => ev.preventDefault(), { passive: false }));
+  document.addEventListener('wheel', (ev) => { if (ev.ctrlKey) ev.preventDefault(); }, { passive: false });
 
   /* ---------- sheet (bottom sheet on phones) ---------- */
   let offsetAnim = null;
