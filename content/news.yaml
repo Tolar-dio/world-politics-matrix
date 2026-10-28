@@ -25,8 +25,7 @@ news:
     in Oromia over the previous week. It matters because insurgent and communal violence in Ethiopia's most populous
     region is worsening.
   sources:
-  - label: 'Reuters: Attackers kill 60 people in Ethiopia''s conflict-hit Oromiya region, Orthodox church says (cited
-      via Wikipedia Current events)'
+  - label: 'Reuters: Attackers kill 60 people in Ethiopia''s conflict-hit Oromiya region, Orthodox church says'
     url: https://www.reuters.com/world/africa/attackers-kill-60-people-ethiopias-conflict-hit-oromiya-region-orthodox-church-2026-10-27/
 - date: '2026-10-27'
   countries: [CHN, IRN, USA]
@@ -93,9 +92,9 @@ news:
     Reuters. It matters because it sets up a legal and diplomatic clash with Washington, where Trump has called
     the election rigged.
   sources:
-  - label: 'Firstpost: Defeated Flavio Bolsonaro hands over passports (cited via Wikipedia Current events)'
+  - label: 'Firstpost: Defeated Flavio Bolsonaro hands over passports'
     url: https://www.firstpost.com/world/defeated-flavio-bolsonaro-hands-over-passports-calls-travel-ban-attempt-to-intimidate-14055559.html
-  - label: 'Reuters: Flavio Bolsonaro leaves Brazil for US after election defeat (cited via Wikipedia Current events)'
+  - label: 'Reuters: Flavio Bolsonaro leaves Brazil for US after election defeat'
     url: https://www.reuters.com/world/americas/flavio-bolsonaro-leaves-brazil-us-after-election-defeat-source-media-say-2026-10-27/
 - date: '2026-10-26'
   countries: [SOM]
@@ -137,7 +136,7 @@ news:
     url: https://www.pbs.org/newshour/world/brazil-votes-in-a-tense-lula-vs-bolsonaro-runoff-with-u-s-influence-over-latin-america-at-stake
   - label: 'The Rio Times: Brazil election results 2026'
     url: https://riotimesonline.com/brazil-election-results-2026
-  - label: 'Reuters: Brazil election live (cited via Wikipedia Current events)'
+  - label: 'Reuters: Brazil election live'
     url: https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/
 - date: '2026-10-25'
   countries: [SRB]
@@ -153,7 +152,7 @@ news:
     url: https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won
   - label: 'Al Jazeera: Serbia''s Vucic concedes election defeat to student-led movement'
     url: https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader
-  - label: 'RFE/RL: Serbia vote (cited via Wikipedia Current events)'
+  - label: 'RFE/RL: Serbia vote'
     url: https://www.rferl.org/a/serbia-vote-election-parliament-vucic-student-corruption/33883844.html
 - date: '2026-10-25'
   countries: [BGR]
@@ -165,20 +164,20 @@ news:
   sources:
   - label: 'CNN (AP): Bulgaria presidential race heads to runoff'
     url: https://www.cnn.com/2026/10/25/europe/bulgaria-presidential-race-heads-to-runoff-latam-intl
-  - label: 'Reuters: Bulgaria votes for president in wake of deadly Black Sea drone strikes (cited via Wikipedia
-      Current events)'
+  - label: 'Reuters: Bulgaria votes for president in wake of deadly Black Sea drone strikes'
     url: https://www.reuters.com/world/bulgaria-votes-president-wake-deadly-black-sea-drone-strikes-2026-10-25/
   - label: 'Wikipedia: 2026 Bulgarian presidential election'
     url: https://en.wikipedia.org/wiki/2026_Bulgarian_presidential_election
 - date: '2026-10-25'
   countries: [DZA, NER]
   category: military
+  conflict: sahel-jihadist-insurgency
   headline: Algeria approves first foreign troop deployment since 1973, to Niger
   summary: Algeria's parliament approved sending army units to Madama in northern Niger to protect energy infrastructure,
     the country's first military deployment abroad since 1973. It matters as a major shift in Algeria's non-intervention
     doctrine and in the Sahel security map after the departure of French and US forces.
   sources:
-  - label: 'BBC: Algeria approves deployment to Niger (cited via Wikipedia Current events; not fetched directly)'
+  - label: 'BBC: Algeria approves deployment to Niger'
     url: https://www.bbc.com/news/articles/cm4g14n1e5wko
 - date: '2026-10-25'
   countries: [FRA]
@@ -187,8 +186,7 @@ news:
   summary: National Rally leader Marine Le Pen announced her presidential campaign after her party congress in Orleans,
     as protests shook the country. It matters because she is the front-runner in polls for the 2027 election.
   sources:
-  - label: 'Reuters: France''s Le Pen launches presidential bid as protests rattle nation (cited via Wikipedia Current
-      events)'
+  - label: 'Reuters: France''s Le Pen launches presidential bid as protests rattle nation'
     url: https://www.reuters.com/world/frances-le-pen-launches-presidential-bid-protests-rattle-nation-2026-10-25/
   - label: 'Euronews: Thousands protest against far-right National Rally congress in France'
     url: https://www.euronews.com/2026/10/24/thousands-protest-against-far-right-national-rally-congress-in-france
@@ -199,7 +197,7 @@ news:
   summary: Opposition leader and Nobel Peace laureate Maria Corina Machado announced she had returned to Venezuela.
     It matters because her presence tests whether the authorities will tolerate open opposition activity.
   sources:
-  - label: 'CNN: Machado returns to Venezuela (cited via Wikipedia Current events; not fetched directly)'
+  - label: 'CNN: Machado returns to Venezuela'
     url: https://edition.cnn.com/2026/10/25/americas/machado-returns-venezuela-latam-intl
 - date: '2026-10-25'
   countries: [PSE, ISR]
@@ -222,7 +220,7 @@ news:
   summary: The government said an operation in El Tambo, Cauca, killed ten National Liberation Army members, including
     two key leaders. It matters as a sign the new government is pursuing a military line against the ELN.
   sources:
-  - label: 'AP: Colombia ELN army guerrilla killed leaders (cited via Wikipedia Current events)'
+  - label: 'AP: Colombia ELN army guerrilla killed leaders'
     url: https://apnews.com/article/colombia-eln-army-guerrilla-killed-leaders-marcos-7ad9b570a1b6a12ddfd3d50dbcd1cbc4
 - date: '2026-10-24'
   countries: [CAN]
@@ -232,14 +230,14 @@ news:
     a century and ending nine years of NDP rule; Premier David Eby resigned as NDP leader. It matters as part of
     a wave of provincial upheaval in Canada this month alongside Quebec and Alberta.
   sources:
-  - label: 'Reuters: Conservative party wins first election in nearly a century in British Columbia (cited via Wikipedia
-      Current events)'
+  - label: 'Reuters: Conservative party wins first election in nearly a century in British Columbia'
     url: https://www.reuters.com/legal/litigation/conservative-party-wins-first-election-nearly-century-british-columbia-2026-10-25/
   - label: 'CBC: BC provincial election results'
     url: https://www.cbc.ca/news/canada/british-columbia/livestory/bc-provincial-election-results-live-updates-2026-9.7389208
 - date: '2026-10-24'
   countries: [NGA]
   category: military
+  conflict: nigeria-middle-belt-violence
   headline: Gunmen massacre villagers in Nigeria's Taraba state
   summary: Gunmen attacked a village in Taraba State; police first reported at least 10 dead, and by 27 October
     AP put the toll at 62 killed and 52 wounded. It matters as one of the deadliest attacks this year in Nigeria's
@@ -247,7 +245,7 @@ news:
   sources:
   - label: 'Al Jazeera: Gunmen kill at least 10 people in eastern Nigeria, police say'
     url: https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say
-  - label: 'AP: Nigeria gunmen attack (cited via Wikipedia Current events)'
+  - label: 'AP: Nigeria gunmen attack'
     url: https://apnews.com/article/nigeria-gunmen-attack-ecc5e9432b73275371b8490c775320dc
 - date: '2026-10-24'
   countries: [ESP, ITA]
@@ -370,8 +368,7 @@ news:
   sources:
   - label: 'Sudan Tribune: Sudanese army recaptures strategic military base in Blue Nile region from RSF alliance'
     url: https://sudantribune.com/article/320301
-  - label: 'Reuters: Drone strikes cut power across southeast Sudan, operator says (cited via Wikipedia Current
-      events)'
+  - label: 'Reuters: Drone strikes cut power across southeast Sudan, operator says'
     url: https://www.reuters.com/business/energy/drone-strikes-cut-power-across-southeast-sudan-operator-says-2026-10-26/
 - date: '2026-10-22'
   countries: [ECU]
@@ -381,7 +378,7 @@ news:
     money laundering in campaign financing. It matters because it removes the main left-wing opposition figure under
     Daniel Noboa and will be read by supporters as political persecution.
   sources:
-  - label: 'Reuters: Former presidential candidate Gonzalez arrested in Ecuador (cited via Wikipedia Current events)'
+  - label: 'Reuters: Former presidential candidate Gonzalez arrested in Ecuador'
     url: https://www.reuters.com/world/americas/former-presidential-candidate-gonzalez-arrested-ecuador-2026-10-22/
 - date: '2026-10-21'
   countries: [RUS, UKR, USA]
@@ -395,8 +392,7 @@ news:
   sources:
   - label: 'Al Jazeera: Putin and Zelenskyy back three-way US peace talks on Ukraine'
     url: https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy
-  - label: 'Reuters: Putin hosts Trump envoy for new Ukraine peace talks, frees US citizen (cited via Wikipedia
-      Current events)'
+  - label: 'Reuters: Putin hosts Trump envoy for new Ukraine peace talks, frees US citizen'
     url: https://www.reuters.com/world/europe/putin-hosts-trump-envoy-new-ukraine-peace-talks-frees-us-citizen-held-russia-2026-10-21/
 - date: '2026-10-21'
   countries: [SAU, USA, YEM]
@@ -410,7 +406,7 @@ news:
   sources:
   - label: 'Al Jazeera: US orders departure of personnel from Saudi Arabia citing Houthi threat'
     url: https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat
-  - label: 'BBC: Houthi attack on Dammam airport (cited via Wikipedia Current events)'
+  - label: 'BBC: Houthi attack on Dammam airport'
     url: https://www.bbc.com/news/articles/cqwy71ww156ro
   - label: 'Wikipedia: 2026 Houthi attacks on Saudi airports'
     url: https://en.wikipedia.org/wiki/2026_Houthi_attacks_on_Saudi_airports
@@ -453,7 +449,7 @@ news:
   summary: Emirati diplomat Lana Nusseibeh announced her candidacy to succeed Antonio Guterres. It matters because
     the 2026 selection, decided by the Security Council, will shape the UN's response to multiple wars.
   sources:
-  - label: 'Reuters: Senior UAE diplomat Lana Nusseibeh enters race for UN chief (cited via Wikipedia Current events)'
+  - label: 'Reuters: Senior UAE diplomat Lana Nusseibeh enters race for UN chief'
     url: https://www.reuters.com/world/senior-uae-diplomat-lana-nusseibeh-enters-race-un-chief-2026-10-21/
 - date: '2026-10-20'
   countries: [ROU]
@@ -464,8 +460,7 @@ news:
     stakes and then ousted him in a no-confidence vote. It matters because Romania faces one of the EU's largest
     deficits and needed a functioning government.
   sources:
-  - label: 'Reuters: Romanian parliament confirms new prime minister after months of deadlock (cited via Wikipedia
-      Current events)'
+  - label: 'Reuters: Romanian parliament confirms new prime minister after months of deadlock'
     url: https://www.reuters.com/world/europe/romanian-parliament-confirms-new-prime-minister-after-months-deadlock-2026-10-20/
   - label: 'Wikipedia: 2026 Romanian political crisis'
     url: https://en.wikipedia.org/wiki/2026_Romanian_political_crisis
@@ -478,10 +473,9 @@ news:
     Saudi cities and infrastructure from Houthi missiles and drones. It matters as the first Western combat deployment
     into the renewed Houthi-Saudi war.
   sources:
-  - label: 'BBC: UK to deploy RAF Typhoons to Saudi Arabia (cited via Wikipedia Current events)'
+  - label: 'BBC: UK to deploy RAF Typhoons to Saudi Arabia'
     url: https://www.bbc.com/news/articles/ckr5yqe1r1llo
-  - label: 'Reuters: UK to fly RAF missions defending Saudi Arabia against Houthi attacks (cited via Wikipedia Current
-      events)'
+  - label: 'Reuters: UK to fly RAF missions defending Saudi Arabia against Houthi attacks'
     url: https://www.reuters.com/business/aerospace-defense/uk-fly-raf-missions-defending-saudi-arabia-against-houthi-attacks-bloomberg-2026-10-20/
 - date: '2026-10-20'
   countries: [LBY, TUR]
@@ -491,7 +485,7 @@ news:
     and repealed its 2020 rejection. It matters because it brings Haftar's camp into line with Ankara and is likely
     to anger Greece, Cyprus and Egypt over Eastern Mediterranean claims.
   sources:
-  - label: 'Reuters: Eastern Libya parliament approves maritime deal with Turkey (cited via Wikipedia Current events)'
+  - label: 'Reuters: Eastern Libya parliament approves maritime deal with Turkey'
     url: https://www.reuters.com/world/europe/eastern-libya-parliament-approves-maritime-deal-with-turkey-lifts-2020-boycott-2026-10-20/
 - date: '2026-10-20'
   countries: [MYS]
@@ -501,7 +495,7 @@ news:
     breaches, so its parties cannot contest coming elections under one banner. It matters because it weakens the
     main challenger to Anwar Ibrahim's government as elections approach.
   sources:
-  - label: 'Reuters: Malaysia de-registers main opposition bloc as elections loom (cited via Wikipedia Current events)'
+  - label: 'Reuters: Malaysia de-registers main opposition bloc as elections loom'
     url: https://www.reuters.com/world/asia-pacific/malaysia-de-registers-main-opposition-bloc-elections-loom-2026-10-20/
 - date: '2026-10-20'
   countries: [NGA, KEN, UGA]
@@ -531,8 +525,7 @@ news:
     url: https://www.news4jax.com/news/world/2026/10/20/drone-strike-on-a-market-in-disputed-african-region-of-abyei-kills-at-least-153/
   - label: 'Sudans Post: Abyei drone attack death toll reaches 220'
     url: https://www.sudanspost.com/abyei-drone-attack-death-toll-reaches-220/
-  - label: 'Reuters: Drone strike in disputed Sudan-South Sudan area kills dozens, minister says (cited via Wikipedia
-      Current events)'
+  - label: 'Reuters: Drone strike in disputed Sudan-South Sudan area kills dozens, minister says'
     url: https://www.reuters.com/world/africa/drone-strike-disputed-sudan-south-sudan-area-kills-dozens-minister-says-2026-10-20/
 - date: '2026-10-19'
   countries: [YEM]
@@ -543,8 +536,7 @@ news:
     soldiers according to early Reuters reporting; later tallies cited on Wikipedia put the toll at 58 dead and
     more than 200 wounded. It matters as the deadliest single blow to government forces in this phase of the war.
   sources:
-  - label: 'Reuters: At least 18 killed in Houthi attack on Yemeni government military camp in Shabwa (cited via
-      Wikipedia Current events)'
+  - label: 'Reuters: At least 18 killed in Houthi attack on Yemeni government military camp in Shabwa'
     url: https://www.reuters.com/world/least-18-killed-houthi-attack-yemeni-government-military-camp-shabwa-sources-say-2026-10-19/
 - date: '2026-10-19'
   countries: [CAN]
@@ -554,9 +546,9 @@ news:
     future independence referendum. It matters because it defuses, for now, the western separatist push, even as
     Quebec's new Parti Quebecois government takes office.
   sources:
-  - label: 'BBC: Alberta independence referendum result (cited via Wikipedia Current events)'
+  - label: 'BBC: Alberta independence referendum result'
     url: https://www.bbc.com/news/articles/cxr5yqqd7nlpo
-  - label: 'Reuters: Alberta votes on leaving Canada (cited via Wikipedia Current events)'
+  - label: 'Reuters: Alberta votes on leaving Canada'
     url: https://www.reuters.com/world/americas/alberta-votes-leaving-canada-separatist-movement-likely-outlast-expected-defeat-2026-10-19/
 - date: '2026-10-19'
   countries: [CUB, USA]
@@ -613,10 +605,9 @@ news:
     October and sent 100 special forces on 22 October. It matters because it is the most serious blow yet to the
     UN-authorised force and could pull El Salvador deeper into Haiti.
   sources:
-  - label: 'Reuters: Four Salvadoran air force members missing after gang ambush in Haiti (cited via Wikipedia Current
-      events)'
+  - label: 'Reuters: Four Salvadoran air force members missing after gang ambush in Haiti'
     url: https://www.reuters.com/business/aerospace-defense/four-salvadoran-air-force-members-missing-after-gang-ambush-haiti-2026-10-19/
-  - label: 'AP: El Salvador sends special forces to Haiti (cited via Wikipedia Current events)'
+  - label: 'AP: El Salvador sends special forces to Haiti'
     url: https://apnews.com/article/el-salvador-haiti-special-forces-gangs-03ec2bf89616d8b313c54da34c24eab1
 - date: '2026-10-18'
   countries: [IRN]
@@ -627,8 +618,7 @@ news:
     Ebn-e-Reza. It matters as a wartime change at the top of Iran's military-industrial apparatus while renewed
     US strikes are openly discussed.
   sources:
-  - label: 'Reuters: Iran''s parliament approves Mehrdad Akhlaqi as defence minister (cited via Wikipedia Current
-      events)'
+  - label: 'Reuters: Iran''s parliament approves Mehrdad Akhlaqi as defence minister'
     url: https://www.reuters.com/world/middle-east/irans-parliament-approves-mehrdad-akhlaqi-minister-defence-state-media-2026-10-18/
 - date: '2026-10-18'
   countries: [TWN, CHN]
@@ -660,7 +650,7 @@ news:
     third; it was the first time governing parties won no seat in a Czech Senate election. It matters as a strong
     mid-term rebuke of the Babis government and strengthens the opposition's hold on the upper house.
   sources:
-  - label: 'AP: Czech Republic Senate election (cited via Wikipedia Current events)'
+  - label: 'AP: Czech Republic Senate election'
     url: https://apnews.com/article/czech-republic-senate-election-babis-d206f3edbc7ea0f73b0dbd07b339820b
 - date: '2026-10-17'
   countries: [FRA]
@@ -699,7 +689,7 @@ news:
     arrested 10 suspects on 19 October. It matters because settler violence is now reaching foreign officials and
     adding to European pressure on Israel.
   sources:
-  - label: 'AP: West Bank settlers attack European diplomats (cited via Wikipedia Current events)'
+  - label: 'AP: West Bank settlers attack European diplomats'
     url: https://apnews.com/article/west-bank-israel-european-diplomats-settlers-89ebd068167669db357ad1fa4f3a8758
   - label: 'France 24 (AFP): Israel announces arrests after West Bank settler attacks on Westerners'
     url: https://www.france24.com/en/live-news/20261019-israel-announces-arrests-after-west-bank-settler-attacks-on-westerners
@@ -723,7 +713,7 @@ news:
     with Hungary lifting objections to further EU accession talks for Ukraine after progress on ethnic Hungarian
     minority rights. It matters because Hungary under Orban was the main veto on Ukraine's EU path.
   sources:
-  - label: 'Reuters: Hungary, Ukraine agree to reset ties, Magyar says (cited via Wikipedia Current events)'
+  - label: 'Reuters: Hungary, Ukraine agree to reset ties, Magyar says'
     url: https://www.reuters.com/world/hungary-ukraine-agree-reset-ties-magyar-says-2026-10-16/
 - date: '2026-10-16'
   countries: [MAR]
@@ -775,8 +765,7 @@ news:
   sources:
   - label: 'Al Jazeera: Houthis target Yemen''s presidential palace in Aden with missiles'
     url: https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles
-  - label: 'Reuters: Saudi-led coalition says Houthis attempted attack on dozens of Saudi facilities (cited via
-      Wikipedia Current events)'
+  - label: 'Reuters: Saudi-led coalition says Houthis attempted attack on dozens of Saudi facilities'
     url: https://www.reuters.com/world/middle-east/saudi-led-coalition-says-houthis-attempted-attack-dozens-saudi-facilities-2026-10-15/
 - date: '2026-10-15'
   countries: [SWE]
@@ -800,8 +789,7 @@ news:
     and a half years for plotting, on Iran's behalf, to assassinate Josef Schuster, head of the Central Council
     of Jews in Germany. It matters as further evidence of Iranian external operations in Europe during the war.
   sources:
-  - label: 'Reuters: German court sentences two for plotting to kill leader of German Jewish community for Iran
-      (cited via Wikipedia Current events)'
+  - label: 'Reuters: German court sentences two for plotting to kill leader of German Jewish community for Iran'
     url: https://www.reuters.com/world/middle-east/german-court-sentences-two-plotting-kill-leader-german-jewish-community-for-iran-2026-10-15/
 - date: '2026-10-14'
   countries: [IRN, SGP, ATG]
@@ -815,8 +803,7 @@ news:
   sources:
   - label: 'The Guardian: Container ship sinks in Strait of Hormuz amid surge in Iranian attacks'
     url: https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections
-  - label: 'Reuters: Container ship sinks near Hormuz after being hit by projectile (cited via Wikipedia Current
-      events)'
+  - label: 'Reuters: Container ship sinks near Hormuz after being hit by projectile'
     url: https://www.reuters.com/world/asia-pacific/container-ship-sinks-near-hormuz-after-being-hit-by-projectile-sources-say-2026-10-14/
 - date: '2026-10-14'
   countries: [UKR, RUS]
@@ -827,7 +814,7 @@ news:
     1,000 residential buildings without heating as winter approaches. It matters because Russia's campaign against
     Ukraine's energy grid continued throughout the new US peace push.
   sources:
-  - label: 'BBC: Russian strike on Kyiv power station (cited via Wikipedia Current events)'
+  - label: 'BBC: Russian strike on Kyiv power station'
     url: https://www.bbc.com/news/articles/ck20r9qpw505o
 - date: '2026-10-14'
   countries: [SDN]
@@ -850,8 +837,7 @@ news:
     as a sharp reversal of the Petro government's 2024 break with Israel and a sign of the new Colombian government's
     alignment with Washington and Israel.
   sources:
-  - label: 'Reuters: Colombia opens embassy in Jerusalem, restores free trade deal with Israel (cited via Wikipedia
-      Current events)'
+  - label: 'Reuters: Colombia opens embassy in Jerusalem, restores free trade deal with Israel'
     url: https://www.reuters.com/world/americas/colombia-opens-embassy-jerusalem-restores-free-trade-deal-with-israel-2026-10-14/
 - date: '2026-10-14'
   countries: [TUR]
@@ -861,7 +847,7 @@ news:
     administrators took over. It matters as a further narrowing of independent media in Turkey, weeks before Antalya
     hosts COP31.
   sources:
-  - label: 'BBC: Halk TV raided (cited via Wikipedia Current events)'
+  - label: 'BBC: Halk TV raided'
     url: https://www.bbc.com/news/articles/crx23y3d970vo
 - date: '2026-10-14'
   countries: [IRL]
@@ -871,11 +857,12 @@ news:
     pay talks. It matters as one of several cost-of-living revolts across Europe in October, driven partly by fuel
     prices from the Iran war.
   sources:
-  - label: 'Reuters: Irish public sector workers strike for first time since 2009 (cited via Wikipedia Current events)'
+  - label: 'Reuters: Irish public sector workers strike for first time since 2009'
     url: https://www.reuters.com/business/world-at-work/irish-public-sector-workers-strike-first-time-since-2009-over-pay-deadlock-2026-10-14/
 - date: '2026-10-14'
   countries: [COD, RWA, UGA, BDI, TZA]
   category: diplomatic
+  conflict: eastern-drc-m23-war
   headline: UN envoy sees 'window of opportunity' for eastern Congo peace
   summary: UN Great Lakes envoy Huang Xia told the Security Council that the US-led and Qatar-led processes had
     made notable progress but that security on the ground kept worsening, and announced a UN-facilitated meeting
@@ -910,7 +897,7 @@ news:
     and further drone strikes on ships followed off Romania on 15 and 23 October. It matters because the Ukraine
     war's maritime front is now hitting NATO members' waters and shipping.
   sources:
-  - label: 'Reuters: Drone sinks ship off Bulgaria coast, prime minister says (cited via Wikipedia Current events)'
+  - label: 'Reuters: Drone sinks ship off Bulgaria coast, prime minister says'
     url: https://www.reuters.com/world/europe/drone-sinks-ship-off-bulgaria-coast-prime-minister-says-2026-10-13/
   - label: 'Kyiv Independent: Ukraine war latest, 23 Oct (Khoryv sinking off Romania)'
     url: https://kyivindependent.com/ukraine-war-latest-ukraine-russia-agree-to-local-ceasefire-for-russian-occupied-oleshky-mediated-by-melania-trump/
@@ -932,7 +919,7 @@ news:
     to speed up the trial, and the Senate approved the move. It matters because the outcome could bar a leading
     2028 presidential contender from office.
   sources:
-  - label: 'AP: Philippines vice president Sara Duterte impeachment trial (cited via Wikipedia Current events)'
+  - label: 'AP: Philippines vice president Sara Duterte impeachment trial'
     url: https://apnews.com/article/philippines-vice-president-sara-duterte-impeachment-trial-485ba92d586801b695df6e7abd886959
 - date: '2026-10-13'
   countries: [ALB]
@@ -944,7 +931,7 @@ news:
     and corruption, spread to other cities and continued daily. It matters because it is the most serious challenge
     yet to Edi Rama's long rule in an EU candidate country.
   sources:
-  - label: 'AP: Albania protests, students, Flamingo, Edi Rama (cited via Wikipedia Current events)'
+  - label: 'AP: Albania protests, students, Flamingo, Edi Rama'
     url: https://apnews.com/article/albania-protests-students-flamingo-edi-rama-0d94664379a2b470a1f7d95429c4e446
   - label: 'Al Jazeera: ''Boiling point'': Why students are protesting against Albania''s Edi Rama'
     url: https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama
@@ -966,6 +953,7 @@ news:
 - date: '2026-10-12'
   countries: [COD, RWA]
   category: military
+  conflict: eastern-drc-m23-war
   headline: Joseph Kabila launches armed coalition with M23 to topple Tshisekedi
   summary: Former president Joseph Kabila announced in Goma a political-military coalition, the Front for the Refoundation
     of the Nation, uniting the M23, Corneille Nangaa's Congo River Alliance and Twirwaneho, with the stated aim
@@ -973,7 +961,7 @@ news:
     chief. It matters because it gives the Rwanda-backed rebellion a national political figurehead and complicates
     the Doha and Washington peace tracks, although the coalition says it will honour Doha commitments.
   sources:
-  - label: 'BBC: Kabila announces rebel coalition (cited via Wikipedia Current events, 12 Oct)'
+  - label: 'BBC: Kabila announces rebel coalition'
     url: https://www.bbc.com/news/articles/c8y56re7ldqyo
   - label: 'Al Jazeera: UN official says ''window of opportunity'' for peace in DR Congo'
     url: https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo

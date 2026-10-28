@@ -838,6 +838,18 @@ NER:
     Niger's main peoples, the Hausa, Zarma-Songhai, Tuareg and Fulani, have distinct traditions. The Wodaabe Fulani's Gerewol festival, where young men in elaborate makeup dance to be chosen by women, is world-famous. Agadez, a Saharan crossroads with a towering mud minaret, is UNESCO-listed, and Tuareg guitar bands like Bombino carry desert blues abroad.
   society: >-
     Niger has the world's highest birth rate and one of its lowest literacy rates. Most people farm or herd in a harsh climate. Uranium mined in the north long supplied French reactors; the junta nationalised Orano's local subsidiary. Jihadist groups linked to al-Qaeda and Islamic State have killed thousands of soldiers and civilians.
+  update: >-
+    On 29 August mutinous soldiers fired on the airport area, the presidential palace and the state
+    broadcaster in Niamey before the junta regained control; state television said dozens of
+    soldiers were killed or arrested, and Russia's ambassador said Africa Corps had been asked to
+    help put the mutiny down. Algeria, long at odds with the Sahel juntas, sent combat aircraft in
+    support, and in October its parliament approved deploying army units to Madama in northern
+    Niger.
+  update_date: 2026-10-25
+  sources_extra:
+    - {label: "Sahara Reporters: Niger arrests dozens of soldiers over attempted coup", url: "https://saharareporters.com/2026/08/30/niger-republic-arrests-dozens-soldiers-over-attempted-coup-nigeria-calls-constitutional"}
+    - {label: "RFI via Modern Ghana: Niger coup attempt, 'Russians saved the day'", url: "https://www.modernghana.com/news/1523862/niger-coup-attempt-russians-saved-the-day-analy.html"}
+    - {label: "BBC: Algeria approves deployment to Niger", url: "https://www.bbc.com/news/articles/cm4g14n1e5wko"}
 
 NGA:
   pop: 237

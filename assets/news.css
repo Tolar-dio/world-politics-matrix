@@ -55,8 +55,13 @@ body.news-page { overflow: auto; height: auto; }
 @media (max-width: 899px) {
   .news-layout { grid-template-columns: 1fr; gap: 28px; }
   .news-side { position: static; order: -1; }
+  .upcoming.is-clipped li:nth-child(n+4) { display: none; }
+  .up-more { display: block; }
   .news-head-inner { padding: 12px 16px; }
   .news-main { padding: 24px 16px 60px; }
   .news-nav { gap: 14px; font-size: 14px; }
   .item-h { font-size: 18px; }
 }
+
+.up-more { display: none; margin-top: 10px; font: inherit; font-weight: 600; color: var(--ink); background: none; border: 1px solid var(--rule); border-radius: 999px; padding: 6px 14px; cursor: pointer; }
+.up-more:focus-visible { outline: 2px solid var(--brass); outline-offset: 2px; }

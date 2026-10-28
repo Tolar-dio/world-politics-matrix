@@ -1,0 +1,2238 @@
+conflicts:
+- id: sahel-jihadist-insurgency
+  name: Sahel jihadist insurgency (Mali, Burkina Faso, Niger)
+  type: insurgency
+  intensity: high
+  status: active
+  started: 2025-09-03 (JNIM fuel-blockade phase; the wider insurgency dates to 2012)
+  countries:
+  - MLI
+  - BFA
+  - NER
+  sides:
+  - name: Alliance of Sahel States (AES) juntas and Russia
+    members:
+    - Malian Armed Forces (FAMa)
+    - Burkina Faso army and Volunteers for the Defence of the Homeland (VDP)
+    - Niger Armed Forces and Domol Leydi volunteer self-defence groups (from March 2026)
+    - Dozo hunter militias and Dan Na Ambassagou (central Mali)
+    - AES unified force (launched 21 Dec 2025)
+    backers:
+    - 'Russia: Africa Corps (ground troops, helicopters, convoy escort, air strikes)'
+    - Turkey (armed drones operated by the juntas; Akinci reported at Sevare, drones at Niamey airport)
+    - Algeria (four Su-30 jets sent to Niamey after the Aug 2026 coup attempt)
+    leaders:
+    - Assimi Goita (Mali president, defence minister since 4 May 2026)
+    - Ibrahim Traore (Burkina Faso president)
+    - Abdourahamane Tiani (Niger president)
+    - Gen. Daouda Traore (AES unified force commander)
+    - Andrey Averyanov (Russian general overseeing Africa Corps)
+    strength: Africa Corps in Mali estimated at 2,500-3,500 (Critical Threats, Apr 2026); Wikipedia cites about 1,000 (Dec 2024) to about 2,000 Russians after Wagner left (June 2025). Africa Corps in Niger about 100-300. Burkina Faso aims to train 100,000 reservists by end 2026 (Wikipedia, 2026 in Burkina Faso).
+  - name: JNIM (al-Qaeda in the Sahel)
+    members:
+    - Jama'at Nusrat al-Islam wal-Muslimin
+    - Katiba Macina
+    - Ansarul Islam (absorbed by JNIM)
+    backers:
+    - al-Qaeda (affiliation)
+    - Self-financed through ransoms, gold, road taxation and fuel trade
+    leaders:
+    - Iyad Ag Ghali (emir)
+    - Amadou Koufa (Katiba Macina)
+    - Abu al-Bara al-Sahrawi (senior leader)
+    - Bina Diarra (spokesman)
+    - Abou Houzeifa al-Bambari (spokesman who announced the blockade)
+    strength: Roughly 6,000 fighters and probably growing (Critical Threats, Apr 2026). Africa Corps claimed 10,000-12,000 JNIM and FLA fighters took part in the April 2026 offensive (unverified).
+  - name: Islamic State Sahel Province (ISSP)
+    members:
+    - ISSP fighters in Menaka (Mali), Tillaberi and Tahoua (Niger), and Burkina's Sahel region
+    - Defectors from JNIM, including Est commander Sadou Samahouna (early 2026)
+    backers:
+    - Islamic State (Al Furqan regional office)
+    leaders:
+    - No current leader reliably named in sources found
+    strength: No reliable figure found.
+  summary: Al-Qaeda's JNIM and the rival Islamic State Sahel Province are fighting the military juntas of Mali, Burkina Faso and Niger, which lean on Russia's Africa Corps and Turkish-made drones. Since September 2025 JNIM has waged economic siege warfare, choking fuel into Bamako, and in April 2026 it joined Tuareg rebels in the biggest offensive of the war, killing Mali's defence minister. The Sahel was Africa's deadliest militant Islamist theatre in 2025 with 9,826 deaths (Africa Center).
+  background: 'The current war grew out of the 2012 Tuareg rebellion and jihadist takeover of northern Mali, then spread into central Mali, Burkina Faso and western Niger. Coups in 2021 (Mali), 2022 (Burkina Faso) and 2023 (Niger) brought juntas that expelled French forces, turned to Russia (first Wagner, then from June 2025 the state-run Africa Corps) and formed the Alliance of Sahel States. JNIM, an al-Qaeda coalition formed in 2017, is the strongest armed actor; ISSP is its bitter rival, and their clashes since 2019 have killed more than 2,100 people (ACLED via Reuters).
+
+
+    The two groups fight in different ways. JNIM embeds with rural communities, taxes and governs, negotiates local deals, and uses blockades and mass-casualty raids on bases. ISSP is more brutal toward civilians and concentrated in the Mali-Niger borderlands around Menaka and Tillaberi, which in 2025 was the deadliest region in the central Sahel (more than 1,200 fatalities, ACLED). Why it matters: the juntas promised to restore security and instead the violence has hit record levels, while the insurgency is pushing south toward the coastal states.'
+  year: 'The year opened with JNIM''s fuel blockade at its peak. After announcing it on 3 Sept 2025, JNIM burned more than 300 tankers on the Senegal, Cote d''Ivoire and Guinea corridors, forced Mali to close schools nationwide from 26 Oct to 9 Nov 2025, and prompted the US and about a dozen states to tell citizens to leave. Convoys of 1,200+ tankers got through under Malian and Russian escort from late October, and JNIM extended the blockade to Niger-bound trucks on 1 Nov. On 7 Nov 2025 JNIM hit the Soumpi base in Tombouctou region, claiming 48 soldiers killed, and attacked Chinese-run mines near Bamako. Mali imposed fuel rationing on 22 Jan 2026.
+
+
+    On 29 Jan 2026 ISSP stormed Niamey''s airport and Air Base 101 with small arms, explosives and armed drones, its first known drone use in Niger. In Burkina Faso JNIM, after diverting fighters to the Mali blockade, launched a coordinated wave from mid-February (Titao base, an ambush near Fada N''Gourma that killed about 50 forest guards); ACLED''s Heni Nsaibia counted over 130 dead. A senior JNIM commander in the Est, Sadou Samahouna, defected to ISSP. JNIM raided Benin (Kofouno, Pendjari) in early March and ISSP hit the drone base at Tahoua airport on 8 March.
+
+
+    The turning point came on 25 April 2026, when JNIM and the Tuareg FLA attacked Kati, Bamako''s air base, Sevare, Mopti, Gao and Kidal at once, using suicide car bombs, armed drones and fighters in Malian uniforms. Defence Minister Sadio Camara was killed in Kati and the intelligence chief badly wounded. Malian and Russian forces negotiated withdrawals from Kidal, Tessit, Ber and Intahaka and abandoned Labbezanga to ISSP. JNIM then declared a full blockade of Bamako (28 April), and in May launched an offensive against Dozo militias in Mopti and Segou regions. In Niger, JNIM killed 67 at a military engineering camp at Garbougna (14 May), ISSP overran camps at In-Ates and Banibangou (17 June), JNIM attacked Niamey airport again (18 June, 13 killed), and on 30 June JNIM struck simultaneously across the Burkina-Niger border. An ambush near Doungourou on the Bankilare-Tera road on 17 July killed 16 soldiers officially, 47 according to RFI.
+
+
+    In August JNIM hit San, and Niger''s junta survived a coup attempt on 29-30 Aug 2026 only with Africa Corps help. On 10 Sept JNIM overran the Dioura camp in central Mali, killing around 100 soldiers and five Africa Corps personnel and taking dozens prisoner. On 6 Oct a Malian and Russian convoy reoccupied Kidal after the FLA withdrew.'
+  situation: As of late October 2026 the juntas hold the capitals, regional towns and main bases, and Mali has regained Kidal, but JNIM dominates much of rural central and southern Mali, northern and eastern Burkina Faso, and the roads around Bamako, where its declared blockade persists. ISSP holds sway in the Menaka-Tillaberi-Tahoua borderlands and competes violently with JNIM. Niger's junta is weakened by the August coup attempt and two attacks on Niamey airport, and Mali's by the loss of its defence minister and a string of base overruns (Dioura in September). The dry season, which favours large offensives, starts in November.
+  technical:
+  - 'JNIM blockade method: ambush escorted tanker convoys, burn trucks, set roadside ''tax'' checkpoints, kidnap drivers, and coerce transport firms (Diarra Transport was forced to accept JNIM rules on gender segregation). More than 300 tankers destroyed; 50+ burned on the Kolondieba-Kadiana road on 17-21 Oct 2025 alone (Wikipedia, Mali fuel blockade).'
+  - 'Targeted corridors: Senegal road RN1 via Kayes (Kaniara-Lakamane), Sikasso-Zegoua, Niono-Segou, Neguela-Soribougou, Kolondieba-Kadiana. After April 2026 JNIM roadblocks were reported at Soribougou (west of Bamako), Narena (southwest) and Ouelessebougou (south).'
+  - 25 April 2026 commando raids on Kati and Bamako's air base used suicide vehicle-borne IEDs, armed drones and attackers disguised in Malian uniforms; the targets were leadership (Defence Minister Camara killed, intelligence chief Modibo Kone wounded) and air assets (Critical Threats).
+  - Critical Threats assessed most of Mali's air and drone fleet was concentrated at Sevare and the Bamako air base, both hit on 25 April; a source cited by CTP refers to Turkish Akinci combat drones at Sevare.
+  - 'Africa Corps aviation losses in 2026: a Mi-35 shot down in Gao region in April (crew and mobile fire group killed), a Mi-24 shot down near Tabrichat on 5 July; Russian equipment convoyed from Lome port reached Bamako on 25 July 2026.'
+  - 'ISSP''s 29 Jan 2026 Niamey airport raid: 30+ gunmen with small arms, explosives and armed drones; an ammunition depot destroyed and civilian aircraft hit; Niger said 20 attackers killed, 11 captured, 4 soldiers wounded. Kanuri-speaking fighters on video suggest ISWAP help (LWJ; ACLED).'
+  - 'Niger''s airports are now a target set: Niamey (ISSP 29 Jan, JNIM 18 June) and the military drone base at Tahoua airport (8 March, motorcycle-borne attackers). Coup plotters in August reportedly seized Turkish drones at Niamey airport.'
+  - 'Typical base-raid pattern (Dioura, Garbougna, Doungourou, In-Ates): large motorcycle columns plus armed pickups, overrun in hours, loot vehicles and weapons, film prisoners for propaganda, withdraw before air response. Dioura (10 Sept 2026): 100+ soldiers killed, 80+ captured, vehicles and weapons displayed by JNIM.'
+  - 'JNIM economic targeting extends to foreign mining: attacks on Chinese-run sites near Bamako (7 Nov 2025) and at Koniko, Sikasso (27 Nov 2025, one Chinese killed, six abducted); Morila gold mine hostages (3 Jan 2026). A reported USD 50-70 million ransom was paid for two Emiratis (ACLED).'
+  - 'JNIM vs ISSP: ISSP killed 40+ JNIM fighters in Burkina''s Sahel region on 9-10 Feb 2026; the JNIM Est commander Sadou Samahouna defected to ISSP near Boni, Niger (ACLED). JNIM and ISSP first fought each other inside Niger in April 2026 (Reuters).'
+  - Burkina Faso claims to control 74% of its territory and to have retaken 600 villages (Feb 2026); it claimed 400+ militants killed and 353 weapons seized repelling JNIM at Sebba, Solhan and Gayeri on 30 June 2026 (government claims).
+  - Djibo, capital of Soum, has been under JNIM blockade since 2020; in 2025, 70% of JNIM attacks around Djibo hit multiple troop positions at once, up from 20% in 2024 (ACLED via CTP, in ACCORD).
+  - Niger answered with volunteer militias ('Domol Leydi', 28 March 2026); Mali relies on Dozo militias, which JNIM targeted in a May 2026 offensive in Bandiagara, Bankass and Djenne cercles; about 12 Bankass villages handed weapons to JNIM.
+  - 'Civilian harm by state forces: HRW attributes a 15 June 2026 airstrike at Kyrnia/Kimya near Hombori (8 civilians) to Africa Corps; HRW reported Africa Corps summarily killed nine civilians including four children in July 2026.'
+  casualties: 'Africa Center (2025 calendar year): 9,826 militant Islamist-linked deaths in the Sahel, about 50% in Burkina Faso, over 29% in Mali and 17% in Niger; Niger''s violent activity rose 51%. ACLED: Tillaberi had 1,200+ fatalities in 2025, the most of any central Sahel region; Burkina''s conflict has killed more than 26,000 since 2015 (ACLED via AFP, May 2025). Incident-level 2026 figures: Kati 25 April, 23 killed (hospital source); Garbougna, 67 killed (14 May); Niamey airport 18 June, 11 soldiers and 2 civilians killed; Doungourou 17 July, 16 (official) or 47 (RFI) soldiers; Dioura 10 Sept, about 100 soldiers (RFI) plus 5 Africa Corps. Government and Russian claims of insurgent dead (Africa Corps: 1,000+ in April 2026) are unverified. No rolling Oct 2025-Oct 2026 total was found; deaths almost certainly exceeded 10,000 across the three countries but this is an inference from 2025 data and 2026 trends.'
+  displaced: 'No current national IDP totals were retrieved for this file. Incident data: more than 2,500 displaced after JNIM''s 3 Nov 2025 attack on Lere, Tombouctou region (ACLED). Djibo''s population swelled from about 30,000 to 300,000 because of displacement under siege (The New Humanitarian, 2024, via ACCORD). Kouakourou''s population fled after JNIM took it on 18 July 2026 (Wikipedia).'
+  zones:
+  - name: Bamako blockade ring
+    lat: 12.64
+    lng: -8.0
+    radius_km: 80
+    note: JNIM checkpoints at Soribougou, Narena and Ouelessebougou after the 28 Apr 2026 blockade declaration; Kati and the air base were hit on 25 April.
+  - name: Kayes-Senegal fuel corridor (RN1)
+    lat: 14.2
+    lng: -10.3
+    radius_km: 150
+    note: Main import route from Dakar; repeated tanker ambushes including 29 Jan 2026 (15 killed) and a bus mine near Bamako on 1 Jun 2026.
+  - name: Sikasso-Bougouni-Kolondieba corridor
+    lat: 11.2
+    lng: -6.6
+    radius_km: 120
+    note: Cote d'Ivoire and Guinea fuel routes; dozens of tankers burned Oct-Nov 2025; record violence in Sikasso region in Oct 2025 (ACLED).
+  - name: Central Mali (Mopti, Segou, Bandiagara, Djenne)
+    lat: 14.3
+    lng: -4.3
+    radius_km: 160
+    note: Katiba Macina heartland; JNIM offensive against Dozo militias in May 2026; Dioura camp overrun 10 Sept 2026; Kouakourou fell in July.
+  - name: Menaka-Tillaberi-Tahoua ISSP zone
+    lat: 15.0
+    lng: 2.0
+    radius_km: 220
+    note: ISSP stronghold straddling Mali and Niger; Labbezanga taken by ISSP 27 Apr 2026; In-Ates and Banibangou camps overrun June 2026.
+  - name: Tera-Bankilare (Niger)
+    lat: 14.2
+    lng: 0.75
+    radius_km: 90
+    note: Tera department had the highest violence in Tillaberi in 2025; Doungourou ambush 17 July 2026.
+  - name: Makalondi-Torodi-Say (Niger, JNIM)
+    lat: 12.95
+    lng: 1.9
+    radius_km: 100
+    note: JNIM front facing Niamey from the southwest; Torodi prefect killed 4 Jan 2026; Garbougna and Kirtachi attacks May 2026; Makalondi, Torodi, Diagourou hit 30 June 2026.
+  - name: Niamey and Air Base 101
+    lat: 13.48
+    lng: 2.18
+    radius_km: 20
+    note: Airport and base hosting Africa Corps and the AES command; attacked 29 Jan and 18 Jun 2026; seized briefly by mutineers 29 Aug 2026.
+  - name: Soum and Djibo (Burkina Faso)
+    lat: 14.1
+    lng: -1.63
+    radius_km: 100
+    note: JNIM blockade since 2020; mass-casualty raids in 2025; JNIM moves openly through Soum (CTP).
+  - name: Burkina Est and W-Arly-Pendjari forests
+    lat: 11.9
+    lng: 1.3
+    radius_km: 170
+    note: JNIM safe haven and launch pad into Benin, Niger and Togo; gold and timber income; Feb 2026 ambush killed about 50 forest guards near Fada N'Gourma.
+  - name: Burkina north (Titao, Seguenega, Ouahigouya)
+    lat: 13.6
+    lng: -2.2
+    radius_km: 90
+    note: Titao base attacked 15 Feb 2026; linked to JNIM's Malian command.
+  timeline:
+  - date: '2025-09-03'
+    event: JNIM announces a fuel blockade targeting supplies to Bamako and other cities.
+  - date: '2025-10-26'
+    event: Mali closes schools nationwide until 9 Nov because of fuel shortages.
+  - date: '2025-10-28'
+    event: US tells its citizens to leave Mali immediately.
+  - date: '2025-11-01'
+    event: JNIM extends its blockade to trucks coming from Niger.
+  - date: '2025-11-07'
+    event: JNIM attacks the Soumpi army base (Tombouctou), claiming 48 soldiers killed; simultaneous attacks on Chinese-run mines near Bamako.
+  - date: '2025-12-21'
+    event: Mali, Burkina Faso and Niger launch a joint AES force under Gen. Daouda Traore.
+  - date: '2026-01-22'
+    event: Mali imposes nationwide fuel rationing.
+  - date: '2026-01-29'
+    event: ISSP assaults Niamey's airport and Air Base 101 with drones and gunmen.
+  - date: '2026-02-15'
+    event: JNIM attacks Titao base and ambushes forest guards near Fada N'Gourma during a coordinated Burkina offensive (130+ killed over 12-22 Feb).
+  - date: '2026-03-08'
+    event: Gunmen attack the military drone base at Tahoua airport, Niger.
+  - date: '2026-04-25'
+    event: Joint JNIM-FLA offensive across Mali; Defence Minister Sadio Camara killed in Kati; Kidal falls.
+  - date: '2026-04-28'
+    event: JNIM declares a full blockade of Bamako.
+  - date: '2026-05-14'
+    event: JNIM ambush at Garbougna military engineering camp, Tillaberi, kills 67.
+  - date: '2026-06-18'
+    event: JNIM attacks Niamey airport; 11 soldiers and 2 civilians killed per government.
+  - date: '2026-06-30'
+    event: JNIM coordinated attacks on Makalondi, Torodi, Diagourou (Niger) and Sebba, Solhan, Gayeri (Burkina Faso).
+  - date: '2026-07-17'
+    event: Ambush near Doungourou on the Bankilare-Tera road kills 16 (official) to 47 (RFI) Nigerien soldiers.
+  - date: '2026-08-29'
+    event: Coup attempt in Niamey put down with Africa Corps support.
+  - date: '2026-09-10'
+    event: JNIM overruns the Dioura camp in central Mali; about 100 soldiers killed.
+  - date: '2026-10-06'
+    event: Malian and Russian forces reoccupy Kidal after an FLA withdrawal.
+  outlook: Watch the November-May dry season for large JNIM offensives, possible retaliation for the loss of Kidal, and whether the Bamako blockade tightens again. Watch for renewed JNIM-ISSP fighting in Niger and Menaka, further attacks on airbases and drone assets, and the political stability of the Niamey and Bamako juntas after the 2026 coup attempt and the Camara assassination. Critical Threats assesses JNIM aims to shape a new Bamako authority rather than seize the whole country.
+  sources:
+  - label: 'Wikipedia: Mali fuel blockade'
+    url: https://en.wikipedia.org/wiki/Mali_fuel_blockade
+  - &id001
+    label: 'Wikipedia: 2026 Mali offensives'
+    url: https://en.wikipedia.org/wiki/2026_Mali_offensives
+  - &id002
+    label: 'Critical Threats: Fall of northern Mali, JNIM-FLA offensive'
+    url: https://www.criticalthreats.org/analysis/fall-of-northern-mali-jnim-fla-offensive-russia-issp-camara
+  - &id005
+    label: 'Africa Center for Strategic Studies: Widening militant Islamist threat (2025 data)'
+    url: https://africacenter.org/spotlight/2026a-mig-widening-militant-islamist-threat/
+  - &id027
+    label: 'Long War Journal: Islamic State claims assault on airport in Niger''s capital'
+    url: https://www.longwarjournal.org/archives/2026/02/islamic-state-claims-assault-on-airport-in-nigers-capital.php
+  - &id029
+    label: 'TimesLive (Reuters): Al-Qaeda-linked militants claim attack on Niger airport that killed 13'
+    url: https://www.timeslive.co.za/news/africa/2026-06-19-al-qaeda-linked-militants-claim-attack-on-niger-airport-that-killed-13/
+  - &id010
+    label: 'The Defense Post (AFP): Jihadist offensive in Burkina Faso'
+    url: https://thedefensepost.com/2026/02/27/jihadist-offensive-burkina-faso/amp/
+  - label: 'ACCORD/ecoi.net: Burkina Faso, control over greater Djibo since 2025'
+    url: https://www.ecoi.net/en/document/2140610.html
+  - &id030
+    label: 'AllAfrica (RFI): Niger, many soldiers killed in attack in the west'
+    url: https://fr.allafrica.com/stories/202607200134.html
+  - &id023
+    label: 'Dakaractu (RFI): Dioura toll rises to about 100 soldiers killed'
+    url: https://www.dakaractu.com/Mali-le-bilan-de-l-attaque-des-jihadistes-du-Jnim-a-Dioura-s-alourdit-a-une-centaine-de-militaires-tues_a276175.html
+  - &id024
+    label: 'Wikipedia: 2026 Dioura attack'
+    url: https://en.wikipedia.org/wiki/2026_Dioura_attack
+  - &id003
+    label: 'Wikipedia: Africa Corps (Russia)'
+    url: https://en.wikipedia.org/wiki/Africa_Corps_(Russia)
+  - &id031
+    label: 'Wikipedia: 2026 Nigerien coup attempt'
+    url: https://en.wikipedia.org/wiki/2026_Nigerien_coup_attempt
+  - &id028
+    label: 'Wikipedia: 2026 in Niger'
+    url: https://en.wikipedia.org/wiki/2026_in_Niger
+  - &id004
+    label: 'Wikipedia: 2026 in Mali'
+    url: https://en.wikipedia.org/wiki/2026_in_Mali
+  - label: 'Wikipedia: 2026 in Burkina Faso'
+    url: https://en.wikipedia.org/wiki/2026_in_Burkina_Faso
+  - label: 'Wikipedia: 2025 in Burkina Faso'
+    url: https://en.wikipedia.org/wiki/2025_in_Burkina_Faso
+  - &id008
+    label: 'ACLED: Africa Overview, November 2025'
+    url: https://acleddata.com/update/africa-overview-november-2025
+  - &id011
+    label: 'ACLED: Africa Overview, December 2025'
+    url: https://acleddata.com/update/africa-overview-december-2025
+  - &id012
+    label: 'ACLED: Africa Overview, January 2026'
+    url: https://acleddata.com/update/africa-overview-january-2026
+  - &id009
+    label: 'ACLED: Africa Overview, March 2026'
+    url: https://acleddata.com/update/africa-overview-march-2026
+  - &id006
+    label: 'ACLED: Africa Overview, April 2026'
+    url: https://acleddata.com/update/africa-overview-april-2026
+  - &id007
+    label: 'ACLED: Africa Overview, June 2026'
+    url: https://acleddata.com/update/africa-overview-june-2026
+  - &id013
+    label: 'ACLED: Africa Overview, July 2026'
+    url: https://acleddata.com/update/africa-overview-july-2026
+  - label: 'eNCA (AFP): Jihadist attack kills several dozen in Burkina Faso'
+    url: https://www.enca.com/news/jihadist-attack-kills-several-dozen-burkina-faso
+- id: northern-mali-fla-rebellion
+  name: Azawad Liberation Front (FLA) rebellion in northern Mali
+  type: civil-war
+  intensity: high
+  status: active
+  started: 2026-04-25 (joint FLA-JNIM offensive; the Tuareg rebellion resumed in 2023)
+  countries:
+  - MLI
+  sides:
+  - name: Malian government and Russia
+    members:
+    - Malian Armed Forces (FAMa)
+    - GATIA and MSA Tuareg/Arab militias integrated with FAMa
+    - Gen. El Hadj Ag Gamou's forces (Kidal governor)
+    backers:
+    - 'Russia: Africa Corps (ground troops, helicopters, air strikes)'
+    - Algeria (mediated the April 2026 withdrawal from Kidal)
+    leaders:
+    - Assimi Goita (president and defence minister)
+    - Gen. Oumar Diarra (army chief, then minister delegate)
+    - Gen. El Hadj Ag Gamou (Kidal governor)
+    strength: No figures for northern deployments found; the 6 Oct 2026 Kidal convoy had about 120 vehicles (Connection Ivoirienne).
+  - name: Azawad Liberation Front (FLA)
+    members:
+    - FLA (merger of Tuareg separatist groups)
+    - 'Tactical partner: JNIM (joint operations openly confirmed in April 2026)'
+    backers:
+    - No state backer documented in sources found
+    leaders:
+    - Alghabass Ag Intalla
+    - Bilal Ag Acherif (FLA president)
+    - Mohamed Elmaouloud Ramadane (spokesman)
+    strength: No reliable figure found; Africa Corps claimed 10,000-12,000 JNIM and FLA fighters joined the April offensive (unverified).
+  summary: 'Tuareg separatists of the FLA, openly allied with JNIM since April 2026, took Kidal and forced Malian and Russian troops out of much of the far north, then fought a seesaw summer campaign around Anefis. On 6 Oct 2026 a Malian and Africa Corps convoy reoccupied Kidal after the FLA pulled out, citing air strikes. The town is symbolic: Russia''s 2023 capture of Kidal was the junta''s showcase victory.'
+  background: 'Northern Mali (Azawad to the separatists) has seen Tuareg rebellions since independence. The 2015 Algiers peace deal collapsed after the UN mission left in 2023; the junta, with Wagner, then retook Kidal in November 2023 and scrapped the accord. Tuareg factions regrouped and merged into the FLA, whose first big success was the Anoumalane ambush on 13 June 2025 that killed about 45 Malian and Russian personnel, Africa Corps'' first major defeat after replacing Wagner.
+
+
+    The key change in 2026 is that the secular-separatist FLA and al-Qaeda''s JNIM publicly confirmed joint operations for the first time in the war, and agreed a softer local form of sharia in FLA areas. Why it matters: the alliance combines FLA''s local legitimacy and desert mobility with JNIM''s numbers and explosives, and it reversed Russia''s only real battlefield gains in Mali.'
+  year: 'On 25 April 2026 FLA and JNIM fighters entered Kidal at dawn; checkpoints changed hands within an hour and the FLA took the governor''s residence while Gen. Ag Gamou sheltered in the former UN camp. By 26-27 April Malian and Russian troops left Kidal under an FLA-negotiated deal with Algerian mediation, and then left Aguelhok and Tessalit; FLA and JNIM took the Tessalit base on 1 May. Gao city was largely in rebel hands while FAMa held its airport. The army bombed Kidal with drones and Su-24s on 27 May, damaging FLA leader Bilal Ag Acherif''s home.
+
+
+    On 4 July the FLA renewed its offensive, took most of Anefis in about two hours and besieged the base; a relief column was routed at Tabrichat on 5 July and a Mi-24 was shot down. A second FAMa-Africa Corps convoy retook Anefis on 9 July. The FLA ambushed a convoy returning from Anefis on 17 July, killing about 50 soldiers and capturing 20 (RFI). In August the FLA released 82 Malian prisoners and later about 60 more in exchange for one of its generals. After weeks of air strikes, about 120 vehicles of FAMa, Africa Corps, GATIA and MSA drove from Anefis to Kidal on 6 Oct and entered the town without major ground combat after the FLA announced a ''strategic and controlled withdrawal''.'
+  situation: Kidal town is back under Malian and Russian control as of 6 Oct 2026, but the FLA says the pullback is temporary and it keeps its forces intact. Analysts call the recapture symbolic rather than decisive (Control Risks via Reuters). Government forces hold bases at Anefis and Kidal and Gao airport, while ACLED analysts note they did not control the terrain around Anefis or the supply corridor; FLA and JNIM remain active in the Adrar des Ifoghas, around Tessalit-Aguelhok and on the RN18 corridor.
+  technical:
+  - Kidal fell in under 48 hours on 25-27 April 2026; Africa Corps confirmed its withdrawal around 27 April after Algerian mediation (France 24 via Wikipedia).
+  - Negotiated weapons-for-safe-passage withdrawals by Malian and Russian forces from Tessit, Ber, Lere and the Intahaka gold mine; Labbezanga abandoned to ISSP (Wikipedia; Critical Threats).
+  - Bourem and Gao sit on the RN18 north-south road and the RN33/RN16 east-west junctions; holding them cut Malian and Russian reinforcement routes to the far north (Critical Threats).
+  - 'Air power is the government''s main tool: drones and Su-24 strikes on Kidal (27 May), strikes on Ouertedjach east of Aguelhok (4 Sept); the FLA cited ''disproportionate use of aerial assets'' by Africa Corps for its October withdrawal.'
+  - 'FLA air defence capability: video of a Mi-35 downed in Gao region in April and a Mi-24 shot down at Tabrichat on 5 July 2026; a Malian Mi-24 was reportedly captured on the ground.'
+  - 'Anefis (4-9 July): FLA took the town in about two hours; first relief convoy from Gao intercepted at Tabrichat 55 km south; second convoy retook the town; government claimed about 30 to 80 soldiers killed (figures differ), 100+ rebels and 12 rebel vehicles destroyed.'
+  - 'Convoy war: the FLA''s signature tactic since Anoumalane (June 2025) is ambushing long logistics convoys on desert tracks with IEDs and mobile fire teams, as on 17 July 2026 (about 50 soldiers killed, 20 captured).'
+  - '6 Oct 2026 Kidal convoy: about 120 vehicles left Anefis for Kidal (about 100 km), including FAMa, Africa Corps and allied GATIA and MSA fighters; no major ground fighting reported.'
+  - 'Prisoner diplomacy: FLA released 82 Malian POWs on 13 Aug 2026 and about 60 more in late August in exchange for one of its generals; the FLA had claimed 200+ soldiers captured at Kidal in April.'
+  casualties: 'No consolidated toll. Claims: FLA said several dozen Malian soldiers killed and 200+ captured at Kidal (April); Africa Corps claimed 1,000+ insurgents killed across Mali in the April offensive, including 200 at Kidal and 500 at Gao (unverified, includes JNIM); Anefis: government said about 30 soldiers killed and 60 wounded (Wikipedia infobox says about 80) and 100+ rebels; 17 July ambush: about 50 soldiers killed (RFI). The ''high'' rating is an estimate: combined FLA-JNIM northern fighting and air strikes in April-October 2026 plausibly exceeded 1,000 deaths, but FLA-only deaths cannot be separated from JNIM''s.'
+  displaced: No figures for northern Mali displacement in 2026 were found in the sources retrieved.
+  zones:
+  - name: Kidal town
+    lat: 18.4411
+    lng: 1.4078
+    radius_km: 25
+    note: FLA-JNIM held from 25 Apr to 6 Oct 2026; reoccupied by FAMa and Africa Corps 6 Oct.
+  - name: Adrar des Ifoghas and rural Kidal region
+    lat: 19.0
+    lng: 1.7
+    radius_km: 150
+    note: FLA heartland; FLA retreated here from Kidal in October.
+  - name: Tessalit-Aguelhok
+    lat: 19.8
+    lng: 0.95
+    radius_km: 90
+    note: Bases abandoned by Malian and Russian forces in late April; FLA and JNIM took the Tessalit base 1 May 2026.
+  - name: Anefis-Tabrichat corridor
+    lat: 17.8
+    lng: 0.5
+    radius_km: 70
+    note: FAMa holds the Anefis base; FLA contests terrain and convoys; Mi-24 shot down at Tabrichat 5 July 2026.
+  - name: Gao and Bourem (RN18)
+    lat: 16.6
+    lng: -0.15
+    radius_km: 90
+    note: Gao city largely rebel-held on 25 April while FAMa kept the airport; Bourem base overrun in April.
+  timeline:
+  - date: '2025-06-13'
+    event: 'Background: FLA ambush at Anoumalane kills about 45 Malian and Russian personnel.'
+  - date: '2026-04-25'
+    event: FLA and JNIM seize Kidal and much of Gao.
+  - date: '2026-04-27'
+    event: Africa Corps confirms withdrawal from Kidal; Aguelhok and Tessalit also evacuated.
+  - date: '2026-05-01'
+    event: FLA and JNIM take the Tessalit military base.
+  - date: '2026-05-27'
+    event: Malian drones and Su-24s bomb Kidal.
+  - date: '2026-07-04'
+    event: FLA renews offensive and takes most of Anefis.
+  - date: '2026-07-05'
+    event: Relief convoy routed at Tabrichat; Mi-24 shot down.
+  - date: '2026-07-09'
+    event: FAMa and Africa Corps retake Anefis.
+  - date: '2026-07-17'
+    event: FLA ambushes convoy returning from Anefis; about 50 soldiers killed.
+  - date: '2026-08-13'
+    event: FLA releases 82 Malian prisoners.
+  - date: '2026-10-06'
+    event: FLA announces strategic withdrawal; FAMa and Africa Corps enter Kidal.
+  outlook: Watch whether the FLA returns to convoy ambushes on the Anefis-Kidal and Gao-Kidal roads now that government lines are longer, whether Tessalit and Aguelhok are retaken, how JNIM reacts in the north, and whether Algeria resumes mediation. Possible friction between the FLA and JNIM over governance, and between JNIM and ISSP around Tessit and Menaka, are also key.
+  sources:
+  - *id001
+  - *id002
+  - &id022
+    label: 'Wikipedia: Battle of Anefis (2026)'
+    url: https://en.wikipedia.org/wiki/Battle_of_An%C3%A9fis_(2026)
+  - label: 'Wikipedia: Battle of Anoumalane'
+    url: https://en.wikipedia.org/wiki/Battle_of_Anoumalane
+  - &id026
+    label: 'AllAfrica (Reuters): Mali junta forces retake strategic town of Kidal'
+    url: https://allafrica.com/stories/202610070174.html
+  - &id025
+    label: 'Connection Ivoirienne: Kidal repasse sous controle des FAMa, le FLA annonce un repli strategique'
+    url: https://connectionivoirienne.net/2026/10/07/mali-kidal-repasse-sous-controle-des-fama-le-fla-annonce-un-repli-strategique/
+  - *id003
+  - &id017
+    label: 'ACLED: Africa Overview, May 2026'
+    url: https://acleddata.com/update/africa-overview-may-2026
+  - *id004
+- id: coastal-west-africa-spillover
+  name: Jihadist spillover into coastal West Africa (Benin, Togo)
+  type: insurgency
+  intensity: medium
+  status: active
+  started: 2025-10-28 (JNIM's first claimed attack in Nigeria; attacks in northern Benin and Togo date back to 2021-22)
+  countries:
+  - BEN
+  - TGO
+  - NGA
+  - BFA
+  - NER
+  sides:
+  - name: Coastal state security forces
+    members:
+    - Benin Armed Forces (northern anti-jihadist force)
+    - Togolese Armed Forces (Operation Koundjoare, Savanes region)
+    - Nigerian Armed Forces in Kwara and Niger states (Operation Savanna Shield from Feb 2026)
+    backers:
+    - No major external military deployment documented in sources found
+    leaders:
+    - Romuald Wadagni (Benin president from 24 May 2026)
+    - Patrice Talon (Benin president until May 2026)
+    - Faure Gnassingbe (Togo)
+    strength: 'Benin: 3,000-troop northern force since 2022 plus 5,000 more recruits for the north (Africanews, Mar 2026).'
+  - name: JNIM
+    members:
+    - JNIM units based in Burkina Faso's Est region and the W-Arly-Pendjari forests
+    - JNIM emir for Benin (appointed per UN reporting)
+    backers:
+    - al-Qaeda (affiliation)
+    leaders:
+    - Unnamed senior eastern leader tasked with expansion into Benin, Cote d'Ivoire, Ghana, Niger and Togo (UN report via AFP)
+    strength: No reliable figure found.
+  summary: JNIM is pushing south from Burkina Faso's eastern forests into northern Benin and Togo and, since October 2025, into western Nigeria. Benin had its deadliest year on record in 2025 with 305 militant-linked deaths (Africa Center) and lost 15 soldiers in a single raid in March 2026. It matters because these are relatively stable coastal states with ports that feed the whole Sahel.
+  background: 'The W, Arly and Pendjari parks, a forest complex shared by Benin, Burkina Faso and Niger, give JNIM cover from air strikes and income from poaching, timber and artisanal gold. From there it has staged into Benin''s Alibori and Atacora departments and Togo''s Savanes region since 2021-22. Benin''s worst single loss came in April 2025, when JNIM killed 54 soldiers in W National Park.
+
+
+    UN reporting says JNIM appointed a senior eastern commander for expansion into Benin, Cote d''Ivoire, Ghana, Niger and Togo, and an emir for Benin. Why it matters: the coastal states'' northern borderlands have long-standing grievances (herder-farmer tensions, park evictions) that JNIM exploits, and the corridor reaches toward Nigeria''s Kainji Lake area, where several jihadist groups now overlap.'
+  year: JNIM claimed its first attack inside Nigeria on 28 Oct 2025 at Nuku, Kwara state, killing one soldier and seizing weapons (ACLED). Benin survived a coup attempt against President Talon on 7 Dec 2025. JNIM's regional offensive from early February 2026 reached Benin with ambushes on patrols and attacks on police and customs posts, a Chinese-run construction site and a school, then large raids on army positions at Kofouno (Alibori) and the former Pendjari Lodge (Atacora) on 4 and 7 March; the army said 15 soldiers died at Kofouno, JNIM claimed 11 across both, and JNIM seized an M113 armoured personnel carrier. In late May JNIM attacked positions in Koualou, a disputed border enclave with Burkina Faso, killing several soldiers and civilians. Benin held elections in January (parliament, where the ruling bloc won all 109 seats) and April (presidency, won by Romuald Wadagni). In Togo, the Africa Center counted at least 54 civilians and 8 soldiers killed in the year to early 2026.
+  situation: As of late October 2026, JNIM is entrenched in the parks along Benin's northern border and active in Togo's Savanes and the Benin-Nigeria-Niger borderlands. Benin's new president inherits a northern front with repeated base raids. No peace process exists. The Kainji/Borgu zone in Nigeria, where JNIM, Boko Haram cells, Lakurawa and Mahmuda all operate, is the next frontier (see the Nigeria northwest entry).
+  technical:
+  - JNIM uses the W-Arly-Pendjari forest complex as a sanctuary; forests provide cover from air strikes plus income from illegal timber and gold (Defense Post/AFP).
+  - 4 and 7 Mar 2026 raids on Kofouno and the former Pendjari Lodge destroyed infrastructure and seized weapons and an M113 APC; Benin said its aircraft killed at least four attackers as they withdrew, and 21 militants in total (ACLED; Africanews).
+  - 'Early-2026 JNIM campaign in Benin also hit soft targets: police and customs posts, a Chinese-run construction site and a school (ACLED).'
+  - 'Benin''s force posture: a 3,000-troop northern force created in 2022 plus 5,000 additional recruits for the north (Africanews).'
+  - Togo's northern operation is called Operation Koundjoare (Benin Web TV).
+  - JNIM's Benin push followed the defection to ISSP of Sadou Samahouna, a senior JNIM Est commander and brother of JNIM's Niger emir (ACLED).
+  - 'First claimed JNIM attack in Nigeria: Nuku, Kwara state, 28 Oct 2025, one soldier killed, weapons and equipment seized (ACLED).'
+  - Koualou, a disputed Benin-Burkina border enclave, was attacked in May 2026 with weapons and materiel seized (ACLED).
+  casualties: 'Africa Center (2025 data): Benin 305 militant-linked fatalities, up 76% and its deadliest year on record; Togo at least 54 civilians and 8 soldiers killed over the past year. 2026 incidents: Kofouno, 15 soldiers killed and 5 wounded (Benin army, March 2026). No rolling 12-month total found.'
+  displaced: No figures found in sources retrieved for northern Benin or Togo.
+  zones:
+  - name: W-Arly-Pendjari forest complex
+    lat: 11.6
+    lng: 1.9
+    radius_km: 130
+    note: JNIM sanctuary straddling Benin, Burkina Faso and Niger; site of the April 2025 attack that killed 54 Beninese soldiers and of the March 2026 Pendjari Lodge raid.
+  - name: Alibori border with Niger (Karimama, Kofouno)
+    lat: 12.0
+    lng: 3.0
+    radius_km: 60
+    note: Kofouno base raided 4 Mar 2026.
+  - name: Togo Savanes region (Dapaong)
+    lat: 10.86
+    lng: 0.2
+    radius_km: 60
+    note: JNIM infiltration from Burkina Faso; Operation Koundjoare area.
+  - name: Koualou enclave
+    lat: 11.2
+    lng: 0.9
+    radius_km: 25
+    note: Disputed Benin-Burkina border area; JNIM attack May 2026 (location approximate).
+  timeline:
+  - date: '2025-04-17'
+    event: 'Background: JNIM kills 54 Beninese soldiers in W National Park.'
+  - date: '2025-10-28'
+    event: JNIM claims first attack in Nigeria, at Nuku, Kwara state.
+  - date: '2025-12-07'
+    event: Failed coup attempt against Benin's President Talon.
+  - date: '2026-03-04'
+    event: JNIM raids Kofouno army position in Alibori; 15 soldiers killed.
+  - date: '2026-03-07'
+    event: JNIM raids the former Pendjari Lodge position in Atacora.
+  - date: '2026-04-12'
+    event: Romuald Wadagni wins Benin's presidential election.
+  - date: '2026-05-29'
+    event: JNIM attack on military positions in Koualou reported.
+  outlook: Watch the dry season for further base raids in Alibori and Atacora, any JNIM attacks further south or in Togo's Savanes, cooperation (or not) between Benin and the Sahel juntas, and whether JNIM consolidates in Nigeria's Kainji-Borgu belt.
+  sources:
+  - *id005
+  - &id032
+    label: 'Africanews: 15 soldiers killed in jihadist attack in northern Benin'
+    url: https://africanews.com/2026/03/06/15-soldiers-killed-in-jihadist-attack-in-northern-benin
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - label: 'Wikipedia: 2026 in Benin'
+    url: https://en.wikipedia.org/wiki/2026_in_Benin
+  - label: 'Wikipedia: 2025 in Benin'
+    url: https://en.wikipedia.org/wiki/2025_in_Benin
+  - label: 'Benin Web TV: Faure Gnassingbe visits troops of Operation Koundjoare'
+    url: https://beninwebtv.bj/togo-faure-gnassingbe-en-operation-de-charme-vers-les-militaires-de-loperation-koundjoare/
+- id: nigeria-northeast-jihadist-insurgency
+  name: Northeast Nigeria jihadist insurgency (ISWAP and Boko Haram)
+  type: insurgency
+  intensity: high
+  status: active
+  started: 2009-07-26 (Boko Haram uprising; current phase marked by ISWAP's 2025-26 base offensive)
+  countries:
+  - NGA
+  sides:
+  - name: Nigerian government
+    members:
+    - Nigerian Army (Operation Hadin Kai, Joint Task Force North-East)
+    - Nigerian Air Force and Army Aviation
+    - Nigerian Army Remotely Piloted Aircraft (NARPAS) Regiment
+    - Civilian Joint Task Force and hunters
+    backers:
+    - United States (Christmas 2025 strikes, ISR flights, small training and intelligence team, joint raid of 16 May 2026)
+    - Multinational Joint Task Force partners (Niger, Cameroon, Chad)
+    leaders:
+    - Bola Tinubu (president)
+    - Christopher Musa (defence minister)
+    - Gen. Dagvin Anderson (AFRICOM commander, US side)
+    strength: No current figures found.
+  - name: Islamic State West Africa Province (ISWAP)
+    members:
+    - ISWAP
+    backers:
+    - Islamic State (Al Furqan office; its head Abu Bilal al-Minuki was killed 16 May 2026)
+    leaders:
+    - Abu Musab (leader, described as taking a wider regional role)
+    - Abu Saleem (Wali of South Lake Chad, targeted 18 Oct 2026)
+    strength: No reliable figure found.
+  - name: Boko Haram (JAS)
+    members:
+    - Jama'atu Ahlis Sunna lid-Da'awati wal-Jihad, including the Lake Chad faction of Bakura Doro
+    backers:
+    - None documented
+    leaders:
+    - Bakura Doro (Lake Chad faction leader)
+    strength: No reliable figure found.
+  summary: ISWAP has spent 2025-26 overrunning Nigerian army bases in Borno and Yobe, killing several battalion commanders and adding armed drones to its arsenal, while its rival Boko Haram (JAS) has returned to suicide bombings in Maiduguri. The US entered the fight with Christmas 2025 strikes and a May 2026 raid that killed senior IS official Abu Bilal al-Minuki. The Lake Chad Basin saw 4,779 militant-linked deaths in 2025, 87% of them in Nigeria (Africa Center).
+  background: 'Boko Haram''s insurgency began in 2009. In 2016 it split: ISWAP, loyal to the Islamic State, built a disciplined proto-state around Lake Chad that taxes fishermen and farmers, while Abubakar Shekau''s JAS kept its indiscriminate violence until Shekau died in 2021 fighting ISWAP. JAS survives in the Mandara mountains and the Lake Chad islands under Bakura Doro.
+
+
+    From 2025 ISWAP shifted to a campaign of night raids on army ''super camps'' and forward bases, looting weapons and vehicles and filming the results. Why it matters: the strategy wears down Nigeria''s ability to hold ground outside towns, keeps roads like Maiduguri-Damboa unsafe, and has drawn in Washington, whose politics around ''Christian genocide'' now shape Nigeria''s security relationship with the US.'
+  year: 'In early November 2025 Bakura''s JAS faction attacked ISWAP positions in Abadan and Kukawa with land and boat assaults (50-200 killed, ACLED). ISWAP claimed to have captured and killed an army brigadier-general near Wajiroko on 17 Nov 2025 (unverified). After President Trump designated Nigeria a country of particular concern and ordered the US military to prepare options, US forces struck IS targets in Sokoto state on 25 Dec 2025 in a joint operation with Nigeria.
+
+
+    ISWAP''s base campaign intensified in January 2026: armed drones against troops in the Timbuktu Triangle, at least 20 soldiers killed at Malam-Fatori and an army major killed near Damasak on 23 Jan, and a drone attack on Sabon Gari base (11 killed) on 29 Jan. AFRICOM confirmed a small US team in Nigeria on 3 Feb. During Ramadan ISWAP raided bases at Mayanti (1 Mar), Konduga, Mainok, Jakana and Marte (5-6 Mar) and Kukawa and Goniri (9 Mar), killing two lieutenant colonels commanding battalions. JAS suicide bombers killed 23 in Maiduguri on 16 Mar, the fifth suicide attack of 2026. About 300 people were abducted at Ngoshe on 6 Mar. A Nigerian air strike on a Yobe market blamed on a misfire killed more than 100 on 11 Apr.
+
+
+    On 16 May a joint US-Nigerian operation killed Abu Bilal al-Minuki, head of IS''s Al Furqan regional office, and AFRICOM struck again on 17 May. The same day militants killed at least 17 police trainees at the Special Forces school in Buni Yadi (Yobe). The US withdrew most deployed troops on 3 July while keeping intelligence support. Raids continued through mid-2026 (Gajiganna, Biu, Magumeri). From 10-18 Oct 2026 the army claimed seven air strikes killed 103 ISWAP fighters around Monguno and Guzamala and hit the residence of ISWAP''s Wali of South Lake Chad.'
+  situation: As of late October 2026 the army holds Maiduguri, the state capitals and garrison towns, but ISWAP dominates the Lake Chad shoreline and islands, the Timbuktu Triangle and parts of Sambisa, and continues to raid bases in northern Borno and Yobe. JAS remains active in the Mandara/Gwoza area and on Lake Chad, and fights ISWAP. US involvement has scaled down to intelligence support after the July withdrawal. The army is pressing an air campaign in Monguno and Guzamala LGAs.
+  technical:
+  - 'ISWAP armed-drone use: attacks on troops in the Timbuktu Triangle (mid-Jan 2026) and on Sabon Gari base (29 Jan 2026, at least 11 killed); Premium Times reported ISWAP acquired 35 drones via Lake Chad (ADF Magazine; Wikipedia).'
+  - 'Drone payloads are improvised: mortar bombs and grenades attached to commercial quadcopters (ADF Magazine). Nigeria counters with the domestic Damisa explosive drone and Lithuanian DM4S SkyWiper jammers.'
+  - 'ISWAP night raids on bases in a coordinated wave: Konduga (222 Battalion), Mainok and Jakana (5 Mar, about 22:30) and Marte (6 Mar, about 03:00); Lt. Col. S.I. Iliyasu killed (ICIR).'
+  - 'Commanders killed in 2026: an army major near Damasak (23 Jan); FOB commander Umar Ibrahim Mairiga at Mayanti (1 Mar); Lt. Col. Iliyasu at Konduga (5-6 Mar); Lt. Col. Umar Farouq at Kukawa (9 Mar) (ICIR).'
+  - 'JAS returned to suicide bombing in Maiduguri: three bombers hit the post office, Monday market and University of Maiduguri Teaching Hospital gate on 16 Mar 2026 (23 killed); about 68 killed in Maiduguri over four months (ACLED).'
+  - 'JAS-ISWAP war: Bakura''s JAS launched land and naval attacks on ISWAP in Abadan and Kukawa LGAs on 5-8 Nov 2025 (50-200 killed), despite an early-October truce; seven clashes recorded in early 2026 (ACLED).'
+  - 'US kinetic role: Christmas 2025 strikes (more than a dozen missiles, ship-launched per Pentagon video) in Sokoto; 16 May 2026 joint operation killed Abu Bilal al-Minuki and several other senior IS figures; 17 May AFRICOM strikes on militants on bicycles; US ISR flights from Ghana since late Nov 2025 (ACLED; LWJ; Stars and Stripes; AllAfrica/Reuters).'
+  - 'US footprint: AFRICOM confirmed a small team on 3 Feb 2026; reported as about 100 (Wikipedia) or about 200 (Stars and Stripes) trainers and intelligence enablers; most withdrawn 3 July 2026.'
+  - 'Nigerian air campaign, 10-18 Oct 2026: seven strikes by Army Aviation, the NARPAS drone regiment and other air assets including a ''Guardian'' ISR asset; claimed 103 ISWAP killed, nine boat engines destroyed (army claim).'
+  - 'Air-strike errors: a market strike in Yobe on 11 Apr 2026 killed more than 100 (blamed on a misfire) (Wikipedia, 2026 in Nigeria).'
+  - 'ISWAP finance: ransoms, taxation and checkpoints enforced by mobile courts, cross-border smuggling, and loot from bases (HumAngle, cited in notes).'
+  - Abu Bilal al-Minuki's Al Furqan office oversaw IS activity in the Sahel, West and North Africa and Sudan; AFRICOM credited him with advising on drones and explosives (LWJ).
+  casualties: 'Africa Center (2025 data): Lake Chad Basin 4,779 militant-linked deaths (+28%), 87% in Nigeria (about 4,160), with battle deaths up 62%. ACLED: over 85% of Islamist-related incidents in Nigeria in 2025 were in the northeast. 2026 incidents include: Malam-Fatori 20+ soldiers (23 Jan), Sabon Gari 11 (29 Jan) and 25 workers (29-30 Jan), Maiduguri 23 (16 Mar), Yobe market air strike 100+ (11 Apr), Buni Yadi 17 police trainees (16 May). No rolling Oct 2025-Oct 2026 total found.'
+  displaced: No current IDP totals were retrieved. Borno is closing IDP camps in Maiduguri without provision for new camps (HumAngle report on 2025 raids, noted for context).
+  zones:
+  - name: Lake Chad shore and islands (ISWAP core)
+    lat: 13.3
+    lng: 13.7
+    radius_km: 90
+    note: ISWAP administrative heartland; Malam-Fatori, Kukawa, Monguno and Marte bases repeatedly attacked.
+  - name: Monguno-Guzamala
+    lat: 12.75
+    lng: 13.4
+    radius_km: 50
+    note: Target of the Oct 2026 army air campaign (Badu, Arina Woje, Mairari, Gudumbali).
+  - name: Timbuktu Triangle and Sambisa Forest
+    lat: 11.3
+    lng: 13.2
+    radius_km: 80
+    note: ISWAP and JAS forest bases; ISWAP drone attacks on advancing troops in Jan 2026.
+  - name: Maiduguri and Konduga ring
+    lat: 11.8
+    lng: 13.25
+    radius_km: 40
+    note: State capital; JAS suicide bombings in 2026; Konduga, Mainok and Jakana bases raided in March.
+  - name: Mandara Mountains and Gwoza (JAS)
+    lat: 11.1
+    lng: 13.75
+    radius_km: 50
+    note: Boko Haram (JAS) stronghold on the Cameroon border; Ngoshe abductions March 2026.
+  - name: Southern Yobe (Buni Yadi, Goniri)
+    lat: 11.4
+    lng: 12.0
+    radius_km: 60
+    note: Buni Yadi Special Forces school attacked 16 May 2026; Goniri base raided 9 Mar.
+  timeline:
+  - date: '2025-11-05'
+    event: JAS offensive against ISWAP in Abadan and Kukawa LGAs begins (50-200 killed).
+  - date: '2025-11-17'
+    event: ISWAP claims capture and killing of a brigadier-general near Wajiroko (unverified).
+  - date: '2025-12-24'
+    event: Mosque bombing in Maiduguri kills at least 7.
+  - date: '2025-12-25'
+    event: US strikes IS targets in Sokoto state jointly with Nigeria.
+  - date: '2026-01-23'
+    event: ISWAP attacks Malam-Fatori base (20+ soldiers killed).
+  - date: '2026-01-29'
+    event: ISWAP drone attack on Sabon Gari base kills at least 11.
+  - date: '2026-02-03'
+    event: AFRICOM confirms a US military team is in Nigeria.
+  - date: '2026-03-05'
+    event: ISWAP Ramadan raids on Konduga, Mainok, Jakana and Marte bases.
+  - date: '2026-03-16'
+    event: Triple suicide bombing in Maiduguri kills 23.
+  - date: '2026-04-11'
+    event: Nigerian air strike on a Yobe market kills more than 100 (misfire).
+  - date: '2026-05-16'
+    event: Joint US-Nigerian operation kills Abu Bilal al-Minuki; attack on Buni Yadi police school kills 17.
+  - date: '2026-07-03'
+    event: US withdraws most deployed forces; intelligence support continues.
+  - date: '2026-10-18'
+    event: Army strike on residence of ISWAP's Wali of South Lake Chad, Abu Saleem (army claim).
+  outlook: Watch whether ISWAP's drone and base-raid campaign resumes in the dry season, whether JAS suicide bombings in Maiduguri continue, whether the US resumes strikes after the July drawdown, and the ISWAP-JAS rivalry on Lake Chad. Mass-casualty air-strike errors remain a risk to the government's legitimacy.
+  sources:
+  - label: 'Wikipedia: Boko Haram insurgency'
+    url: https://en.wikipedia.org/wiki/Boko_Haram_insurgency
+  - *id005
+  - &id034
+    label: 'ICIR: Timeline of Boko Haram and ISWAP attacks on Nigerian military bases since 2025'
+    url: https://www.icirnigeria.org/timeline-boko-haram-iswap-attacks-on-nigerian-military-bases-since-2025/
+  - label: 'Africa Defense Forum: ISWAP turns to armed drones'
+    url: https://adf-magazine.com/2026/02/iswap-turns-to-armed-drones/
+  - *id011
+  - *id012
+  - *id006
+  - &id016
+    label: 'AllAfrica (Reuters): US dispatches military forces to Nigeria'
+    url: https://allafrica.com/stories/202602040086.html
+  - &id036
+    label: 'Stars and Stripes: AFRICOM conducts new strikes in Nigeria'
+    url: https://www.stripes.com/theaters/africa/2026-05-18/africom-nigeria-strikes-21706559.html
+  - &id035
+    label: 'Long War Journal: US, Nigerian forces kill senior Islamic State leader'
+    url: https://www.longwarjournal.org/archives/2026/05/us-nigerian-forces-kill-senior-islamic-state-leader.php
+  - &id037
+    label: 'Arise News: Nigerian army says air strikes kill 103 ISWAP fighters in Borno, Adamawa'
+    url: https://www.arise.tv/nigerian-army-says-air-strikes-kill-103-iswap-fighters-in-borno-adamawa/
+  - &id014
+    label: 'Wikipedia: 2026 in Nigeria'
+    url: https://en.wikipedia.org/wiki/2026_in_Nigeria
+  - &id015
+    label: 'Wikipedia: 2025 in Nigeria'
+    url: https://en.wikipedia.org/wiki/2025_in_Nigeria
+- id: nigeria-northwest-banditry-and-jihadists
+  name: Northwest Nigeria banditry, Lakurawa and the Kainji-Borgu jihadist belt
+  type: criminal
+  intensity: high
+  status: active
+  started: 2025-12-25 (first US strikes in Nigeria, against IS-linked Lakurawa in Sokoto; banditry escalated from about 2011)
+  countries:
+  - NGA
+  sides:
+  - name: Nigerian government
+    members:
+    - Nigerian Army and Air Force
+    - Operation Savanna Shield (Kwara, from Feb 2026)
+    - Police and state vigilante and community guard forces
+    backers:
+    - United States (Christmas 2025 strikes in Sokoto, ISR flights)
+    leaders:
+    - Bola Tinubu (president)
+    strength: No figures found.
+  - name: Armed bandit groups
+    members:
+    - Fulani-led bandit gangs in Zamfara, Katsina, Sokoto, Kebbi, Niger and Kaduna states, e.g. the group of Kachalla Chimmo (Sokoto)
+    backers:
+    - Self-financed through ransom kidnapping, cattle theft and illegal mining levies
+    leaders:
+    - Kachalla Chimmo (named by ACLED for a June 2026 Sokoto attack)
+    strength: No reliable figure found.
+  - name: Jihadist groups in the northwest and Kainji-Borgu belt
+    members:
+    - Lakurawa (linked to Islamic State Sahel)
+    - Islamic State Sahel Province (first Nigerian claims since 2019 in 2026)
+    - JNIM (first claimed Nigerian attack Oct 2025)
+    - Boko Haram (JAS) cells in the Borgu forests
+    - Mahmuda group
+    backers:
+    - Islamic State and al-Qaeda networks (affiliation)
+    leaders:
+    - '''Sadiku'', leader of the JAS cell blamed for the Woro massacre (Wikipedia)'
+    strength: No reliable figure found.
+  summary: Armed bandit gangs, now overlapping with Islamic State-linked Lakurawa, ISSP, JNIM and a Boko Haram cell, have made Nigeria's northwest and the Kainji-Borgu forests among the deadliest places in West Africa. Sokoto alone recorded more than 900 conflict deaths between July 2025 and June 2026, double the previous year (ACLED), and the Woro massacre in Kwara (Feb 2026) killed 162 to 200+. It is where the US carried out its first-ever strikes in Nigeria.
+  background: 'Rural banditry in the northwest grew out of herder-farmer conflict, cattle rustling and illegal gold mining into an industry of mass kidnapping for ransom, with gangs taxing villages and fighting vigilantes. Since about 2023 jihadist actors have moved in: Lakurawa (fighters linked to IS Sahel) along the Niger border in Sokoto and Kebbi, JNIM and ISSP probing from Niger and Benin, and a Boko Haram cell in the Borgu forests near Kainji Lake.
+
+
+    Why it matters: the merging of criminal and jihadist networks gives jihadists cash and local reach, links the Sahel insurgency to Nigeria''s heartland, and puts Abuja''s capital region within reach. Mass school abductions keep the crisis in the national and international spotlight.'
+  year: 'The window opened with JNIM''s first claimed Nigerian attack (Nuku, Kwara, 28 Oct 2025) and a wave of abductions: 25 schoolgirls from a boarding school in Kebbi (15 Nov 2025), 38 worshippers in Eruku, Kwara (18 Nov) and 303 students and 12 teachers from St Mary''s Catholic School, Papiri, Niger state (21 Nov), all later freed by 21 Dec. On 25 Dec US forces fired more than a dozen missiles at Lakurawa/IS targets in Sokoto. Attacks in 2026 included Kasuwan-Daji, Borgu (50 killed, 3 Jan), the abduction of about 177 worshippers in Kurmin Wali, Kaduna (18 Jan), the Woro and Nuku massacre in Kwara (3-4 Feb, 162 to 200+ killed), three Borgu villages (46 killed, 14 Feb), Lakurawa raids in Arewa LGA, Kebbi (34 killed, 18-19 Feb) and Tungan Dutse, Zamfara (50+ killed, 19 Feb). ISSP claimed attacks in Kebbi (24 Mar, 10 soldiers) and Sokoto (16 May, 7 soldiers), its first in Nigeria since 2019. An air strike at Tumfa, Zamfara killed at least 72 civilians on 10 May. June 2026 was the deadliest month on record in Sokoto. Lakurawa clashed with the Mahmuda group in Niger state in August.'
+  situation: As of late October 2026 bandits dominate much of rural Zamfara, Katsina, Sokoto and western Niger state, with highway attacks and kidnappings continuing (Katsina residents protested in September). Lakurawa and ISSP operate along the Niger border in Sokoto and Kebbi; the Kainji-Borgu forests host overlapping jihadist cells. Government operations rely heavily on air power with repeated civilian casualties.
+  technical:
+  - 'First US strikes in Nigeria (25 Dec 2025): more than a dozen missiles hit Warriya, Alkasim and forest areas at Kawuri, Malgum and Bauni in Sokoto; some munitions landed elsewhere without detonating (ACLED). Nigeria called it a joint operation using Nigerian intelligence.'
+  - ACLED had recorded 56 Islamist-related political violence incidents in Sokoto since 2024, all attributed to Lakurawa, before the US strikes.
+  - 'ISSP''s first claimed Nigerian operations since 2019: near Giro Masa, Shanga LGA, Kebbi (24 Mar 2026, 10 soldiers killed) and near Rumji Dan Tudu, Illela LGA, Sokoto (16 May 2026, 7 soldiers killed) (ACLED).'
+  - Lakurawa coordinated raids on villages in Arewa LGA, Kebbi (18 Feb 2026) killed 34 and took cattle (Peoples Gazette).
+  - Woro massacre attackers had sent warning letters, including one in Boko Haram's formal name and that of its Lake Chad leader Bakura Doro; soldiers requested earlier had withdrawn after weeks (Wikipedia, citing Amnesty).
+  - 'Mass school abductions remain a signature tactic: Papiri (303 students, 12 teachers, Nov 2025), Kebbi boarding school (25 girls, Nov 2025), Askira/Uba (42 children, May 2026, northeast), Kaura Namoda students (June 2026).'
+  - 'Bandits use IEDs on roads: several devices on the Magami-Yar''Tasha-Dansadau highway in Zamfara killed at least 10 (27 Dec 2025).'
+  - 'Air-strike errors: Tumfa, Zamfara (10 May 2026, at least 72 civilians) and Niger state the same day (13 civilians) during anti-bandit operations (Wikipedia).'
+  - 'Pro-government militia abuses: a militia with Beninese vigilantes killed 41 Fulani herders in Borgu on 30 Apr 2026 (Wikipedia).'
+  - 'Jihadist-on-jihadist competition: Lakurawa clashed with Mahmuda militants around Dikera and Binzi, Niger state (22 Aug 2026).'
+  casualties: 'ACLED: over 900 fatalities in Sokoto alone between July 2025 and June 2026, more than double the previous 12 months; June 2026 the deadliest month in Sokoto since 1997. Africa Center: Lakurawa accounted for 299 deaths in 2025. Major incidents: Woro and Nuku 162 (Red Cross) to 200+; Kasuwan-Daji 50; Tungan Dutse 50+; Borgu 46; Kebbi Arewa 34; Tumfa air strike 72+. Combined with Zamfara, Katsina and Niger state, the 12-month total is very likely well over 1,000 (inference).'
+  displaced: No current figures retrieved. Residents fled Arewa LGA communities after the February 2026 Lakurawa raids (Peoples Gazette).
+  zones:
+  - name: Sokoto-Kebbi border belt (Lakurawa, ISSP)
+    lat: 13.0
+    lng: 4.6
+    radius_km: 120
+    note: Lakurawa camps; US strikes 25 Dec 2025; ISSP attacks in Shanga and Illela LGAs in 2026; Sokoto's record violence.
+  - name: Zamfara bandit heartland
+    lat: 12.2
+    lng: 6.2
+    radius_km: 120
+    note: Mass kidnapping, highway IEDs, Tungan Dutse massacre (Feb 2026), Tumfa air strike (May 2026).
+  - name: Katsina frontier
+    lat: 12.6
+    lng: 7.4
+    radius_km: 90
+    note: Bandit raids in Faskari and Jibia; residents protested rising attacks in Sept 2026.
+  - name: Kainji-Borgu forests (Niger and Kwara states)
+    lat: 9.9
+    lng: 4.2
+    radius_km: 110
+    note: Overlap of JNIM, JAS cell, Lakurawa and Mahmuda; Woro massacre; Kasuwan-Daji and Borgu village attacks; Papiri abduction.
+  - name: Northern Kaduna (Kajuru, Kauru)
+    lat: 10.3
+    lng: 7.9
+    radius_km: 60
+    note: Church attacks and mass abductions (Kurmin Wali, Jan 2026).
+  timeline:
+  - date: '2025-10-28'
+    event: JNIM claims its first attack in Nigeria (Nuku, Kwara).
+  - date: '2025-11-21'
+    event: 303 students and 12 teachers abducted from St Mary's, Papiri, Niger state.
+  - date: '2025-12-21'
+    event: Remaining St Mary's students and teachers freed.
+  - date: '2025-12-25'
+    event: US strikes IS-linked targets in Sokoto state.
+  - date: '2026-01-18'
+    event: About 177 worshippers abducted from three churches at Kurmin Wali, Kaduna.
+  - date: '2026-02-03'
+    event: Woro and Nuku massacre in Kwara begins (162 to 200+ killed).
+  - date: '2026-02-19'
+    event: Lakurawa raids in Kebbi (34 killed); 50+ killed at Tungan Dutse, Zamfara.
+  - date: '2026-03-24'
+    event: ISSP attack near Giro Masa, Kebbi kills 10 soldiers.
+  - date: '2026-05-10'
+    event: Air strike at Tumfa, Zamfara kills at least 72 civilians.
+  - date: '2026-05-16'
+    event: ISSP attack near Rumji Dan Tudu, Sokoto kills 7 soldiers.
+  - date: '2026-08-22'
+    event: Lakurawa and Mahmuda clash around Dikera and Binzi, Niger state.
+  outlook: Watch whether Lakurawa and ISSP keep expanding along the Niger border, whether JNIM deepens its presence in Kainji-Borgu, whether US strikes resume, and further mass school kidnappings. Peace deals with bandit leaders have repeatedly broken down.
+  sources:
+  - *id012
+  - *id013
+  - *id007
+  - *id008
+  - *id005
+  - &id033
+    label: 'Wikipedia: 2026 Kwara State attacks'
+    url: https://en.wikipedia.org/wiki/2026_Kwara_State_attacks
+  - label: 'Peoples Gazette: Lakurawa terrorists kill 34 villagers in Kebbi'
+    url: https://gazettengr.com/lakurawa-terrorists-storm-kebbi-communities-kill-34-villagers-in-coordinated-attacks/
+  - *id014
+  - *id015
+  - *id016
+- id: nigeria-middle-belt-violence
+  name: Middle Belt communal and herder-farmer violence (Plateau, Benue, southern Kaduna)
+  type: intercommunal
+  intensity: high
+  status: active
+  started: 2025-04-01 (2025-26 escalation in Plateau and Benue; conflict dates back decades)
+  countries:
+  - NGA
+  sides:
+  - name: Armed herder groups (mostly Fulani)
+    members:
+    - Armed pastoralist militias and gangs
+    backers: []
+    leaders:
+    - No unified leadership
+    strength: No figures.
+  - name: Farming-community militias and state forces
+    members:
+    - Community vigilantes
+    - Operation Rainbow (Plateau state militia; about 1,400 recruits added end 2025)
+    - Nigerian Army and police
+    backers: []
+    leaders:
+    - State governments of Plateau and Benue
+    strength: Operation Rainbow added about 1,400 fighters at end 2025 (ACLED).
+  summary: Raids on villages in Plateau, Benue and southern Kaduna, usually attributed to armed Fulani herders, and reprisals by farming-community militias continue to kill dozens at a time. ACLED recorded a 70%+ rise in Plateau's political violence in 2025 and its highest monthly level ever in April 2026. The violence is at the centre of US claims about persecution of Christians, which monitoring groups dispute.
+  background: 'The Middle Belt is where Nigeria''s mostly Muslim north meets the mostly Christian south and where cattle routes cross expanding farmland. Land pressure, climate stress, the collapse of grazing reserves and weak policing have turned disputes into cycles of massacre and reprisal, mixed with banditry and kidnapping.
+
+
+    Why it matters: religious framing of the killings drove the US to designate Nigeria a ''country of particular concern'' in late 2025 and fed the Christmas strikes debate, while ACLED and other monitors find that both Christians and Muslims are victims and that most jihadist victims in the northeast are Muslim.'
+  year: 'Attacks continued through the window: at least 12 killed at a Plateau mining site (16 Dec 2025); about 20 killed in an ambush on security forces at Kanam, Plateau (13 Mar 2026); 30 killed in Jos North on 29 Mar (ACLED cites 33 in a Palm Sunday Jos attack); at least 20 killed over several hours in Kwatas ward, Bokkos (9 Apr) with no security response; 20 at Kawel, Bokkos (21 Jun); and attacks around Otukpo in Benue (13 and 28 Jul, 8 and 14 killed) and Naridon, Kauru, Kaduna (27 Jul, 30 killed). April 2026 recorded the most political violence incidents in Plateau since ACLED coverage began in 1997, almost 60% of them attacks on civilians. Nine people were charged in Feb 2026 for a 2025 massacre that killed 150.'
+  situation: As of late October 2026 violence remains endemic in Plateau's Bokkos, Bassa, Mangu and Jos areas, Benue's Otukpo and Guma areas and southern Kaduna, with state-backed militias growing and federal forces stretched. No overarching peace process exists.
+  technical:
+  - 'Attack pattern: night raids by armed groups on motorcycles on isolated villages, lasting hours, often without security response (ACLED on Kwatas, Bokkos, 9 Apr 2026).'
+  - Attacks on civilians made up almost 60% of violent incidents in Plateau in April 2026 (ACLED).
+  - Plateau's political violence rose more than 70% in 2025 compared with 2024 (ACLED).
+  - 'State responses lean on militias: Plateau recruited about 1,400 fighters for Operation Rainbow at end 2025 (ACLED).'
+  - Benue's Otukpo-Makurdi highway is a kidnapping corridor (bus passengers abducted 16 Apr 2026).
+  - Ambushes on security forces also occur, e.g. Kanam, Plateau, about 20 killed (13 Mar 2026).
+  - 'Religious framing is contested: ACLED says most victims of jihadist violence in the northeast are Muslims, and monitors find no evidence that Christians are killed more than Muslims nationally (as reported by the BBC and ACLED).'
+  casualties: No consolidated 12-month toll found. Listed incidents in the sources total several hundred deaths (Plateau, Benue, southern Kaduna), and ACLED reports record levels in Plateau in April 2026. The 'high' rating is an estimate based on these trends and is uncertain.
+  displaced: No current figures retrieved.
+  zones:
+  - name: Plateau (Bokkos, Mangu, Bassa, Jos)
+    lat: 9.5
+    lng: 8.9
+    radius_km: 70
+    note: Record violence in April 2026; Jos North, Kwatas and Kawel attacks.
+  - name: Benue (Otukpo, Guma, Makurdi)
+    lat: 7.5
+    lng: 8.3
+    radius_km: 90
+    note: Village raids and highway kidnappings; Otukpo attacks July 2026.
+  - name: Southern Kaduna (Kauru, Kajuru)
+    lat: 10.0
+    lng: 8.2
+    radius_km: 60
+    note: Naridon attack (30 killed) July 2026; church abductions.
+  timeline:
+  - date: '2025-12-16'
+    event: Attack on a Plateau mining site kills at least 12.
+  - date: '2026-03-13'
+    event: Ambush on security forces at Kanam, Plateau kills about 20.
+  - date: '2026-03-29'
+    event: 30 killed in an attack in Jos North.
+  - date: '2026-04-09'
+    event: At least 20 killed in Kwatas ward, Bokkos; April becomes Plateau's most violent month on record.
+  - date: '2026-06-21'
+    event: At least 20 killed at Kawel, Bokkos.
+  - date: '2026-07-27'
+    event: At least 30 killed at Naridon, Kauru, Kaduna.
+  outlook: Watch the dry-season migration period (roughly November to April), when clashes typically rise, the growth of state militias, and how US religious-freedom pressure shapes Abuja's response.
+  sources:
+  - *id017
+  - *id014
+  - *id015
+- id: lake-chad-basin-cameroon-chad
+  name: Lake Chad Basin insurgency outside Nigeria (Cameroon Far North, Chad Lac, Niger Diffa)
+  type: insurgency
+  intensity: medium
+  status: active
+  started: '2014-01-01 (approximate: Boko Haram spillover into Cameroon and Chad from 2014)'
+  countries:
+  - CMR
+  - TCD
+  - NER
+  sides:
+  - name: Lake Chad states
+    members:
+    - Cameroon Armed Forces (Far North region)
+    - Chadian Armed Forces (Lac province)
+    - Niger Armed Forces (Diffa region)
+    - Vigilance committees
+    backers:
+    - United States (exploring expanded cooperation with Cameroon; AFRICOM met President Biya in May 2026)
+    leaders:
+    - Paul Biya (Cameroon president, re-elected Oct 2025)
+    - Mahamat Idriss Deby (Chad president)
+    - Abdourahamane Tiani (Niger)
+    strength: No figures found.
+  - name: Jihadist groups
+    members:
+    - Boko Haram (JAS), including Bakura Doro's Lake Chad faction
+    - ISWAP
+    backers:
+    - Islamic State (ISWAP)
+    leaders:
+    - Bakura Doro (JAS Lake Chad faction)
+    strength: No reliable figure found.
+  summary: Boko Haram and ISWAP raid across Nigeria's borders into Cameroon's Far North, Chad's Lake Chad islands and Niger's Diffa region, mixing attacks on army posts with kidnapping and looting of villages. Cameroon recorded 425 militant-linked deaths in 2025 (Africa Center), and Boko Haram killed 23 Chadian soldiers on Barka Tolorom island in May 2026. The theatre matters because the lake's islands and marshes are the shared rear base for both jihadist factions.
+  background: 'The insurgency spilled out of northeast Nigeria from 2014, drawing Cameroon, Chad and Niger into the Multinational Joint Task Force. Lake Chad''s shrinking, island-studded basin is ideal terrain for small boats and hideouts, and the fishing and smuggling economy funds ISWAP. Boko Haram''s Bakura Doro faction is based on the lake islands and has also fought ISWAP there.
+
+
+    In Cameroon the Far North (Mayo-Sava, Mayo-Tsanaga, Logone-et-Chari) sees frequent raids, kidnappings for ransom and attacks on vigilance committees. Why it matters: the four states'' cooperation has frayed (Niger''s junta has cooled on Western partners) while the US is exploring new security ties with Cameroon.'
+  year: Violence continued at a lower but steady level. In Chad, Boko Haram attacked a garrison on Barka Tolorom island on 4 May 2026, killing 23 soldiers. In Cameroon's Far North, insurgents targeted civilians, looted and kidnapped for ransom; June 2026 recorded the most violence in Mayo-Tsanaga since July 2025, and the US explored expanded military cooperation after an AFRICOM meeting with President Biya in May and an envoy visit in June (ACLED). In Niger's Diffa region, a separate rebel group, the Patriotic Liberation Movement for Justice, sabotaged the Niger-Benin oil pipeline near Agadem with an IED on 16 Nov 2025 and followed up with IEDs on patrols (ACLED). Cameroon's disputed October 2025 election, with protests in Garoua and Maroua in the north, added political stress.
+  situation: 'As of late October 2026 the jihadist threat in the three countries is chronic rather than escalating: small-unit raids, kidnappings and periodic attacks on island garrisons. Chad is also stretched by Sudan war spillover on its eastern border, and Cameroon by the Anglophone conflict.'
+  technical:
+  - Barka Tolorom (Chad) island garrison attack on 4 May 2026 killed 23 soldiers, showing JAS's continued capacity for boat-borne assaults on the lake (Wikipedia, 2026 in Chad).
+  - 'Cameroon''s Far North: insurgents kidnap for ransom and loot; Mayo-Tsanaga saw its most violence since July 2025 in June 2026 (ACLED).'
+  - ISWAP foreign fighters are reported in Niger's Bosso area near the lake (HumAngle).
+  - 'Niger''s Diffa region also hosts non-jihadist rebels: the Patriotic Liberation Movement for Justice IED attack on the Niger-Benin pipeline near Agadem (16 Nov 2025), and an IED on a vehicle carrying Chinese civilians between Agadem and Koulele (ACLED).'
+  - 'Chad''s army is also fighting Sudan spillover: RSF cross-border attack on Birak garrison (15 Jan 2026, 7 soldiers killed) and a drone strike on Tine (18 Mar 2026, 17 killed) (Wikipedia, 2026 in Chad).'
+  - Cameroon recorded 425 militant-linked deaths in 2025, a decline from earlier years (Africa Center).
+  casualties: 'Africa Center (2025): Cameroon 425 militant Islamist-linked deaths (declining). Chad: 23 soldiers killed at Barka Tolorom (May 2026). No consolidated 12-month total for Chad or Niger''s Diffa found.'
+  displaced: No current figures retrieved.
+  zones:
+  - name: Lake Chad islands (Chad and Niger shores)
+    lat: 13.4
+    lng: 14.0
+    radius_km: 80
+    note: JAS and ISWAP island bases; Barka Tolorom garrison attacked May 2026.
+  - name: Cameroon Far North (Mayo-Sava, Mayo-Tsanaga)
+    lat: 10.9
+    lng: 14.0
+    radius_km: 70
+    note: Raids and kidnappings from the Mandara mountains; record violence in Mayo-Tsanaga in June 2026.
+  - name: Logone-et-Chari (Cameroon)
+    lat: 12.2
+    lng: 14.6
+    radius_km: 60
+    note: ISWAP presence along the Chari and lake shore.
+  - name: Diffa and Bosso (Niger)
+    lat: 13.4
+    lng: 12.9
+    radius_km: 70
+    note: ISWAP presence near the lake; pipeline sabotage further north near Agadem by a separate rebel group.
+  timeline:
+  - date: '2025-10-27'
+    event: Cameroon's Constitutional Council declares Biya re-elected; protests in Douala, Garoua and Maroua (at least 48 killed nationally, ACLED).
+  - date: '2025-11-16'
+    event: Pipeline sabotaged near Agadem, Diffa region, Niger, by the Patriotic Liberation Movement for Justice.
+  - date: '2026-05-04'
+    event: Boko Haram attack on Barka Tolorom island garrison in Chad kills 23 soldiers.
+  - date: '2026-06-30'
+    event: June ends as the most violent month in Mayo-Tsanaga, Cameroon, since July 2025.
+  outlook: Watch the dry season (lake levels fall and mobility rises), ISWAP-JAS fighting on the islands, the shape of any new US-Cameroon security cooperation, and whether Chad's attention is diverted further by the Sudan war.
+  sources:
+  - *id005
+  - *id013
+  - *id008
+  - *id011
+  - &id038
+    label: 'Wikipedia: 2026 in Chad'
+    url: https://en.wikipedia.org/wiki/2026_in_Chad
+  - &id018
+    label: 'Wikipedia: 2025 in Cameroon'
+    url: https://en.wikipedia.org/wiki/2025_in_Cameroon
+  - label: 'HumAngle: ISWAP overruns key Borno sites in coordinated assault'
+    url: https://humanglemedia.com/iswap-overruns-key-borno-sites-in-coordinated-assault/
+- id: cameroon-anglophone-crisis
+  name: Anglophone Crisis (Ambazonia separatist conflict), Cameroon
+  type: civil-war
+  intensity: medium
+  status: active
+  started: 2017-10-01 (Ambazonian declaration of independence; conflict began after 2016 protests)
+  countries:
+  - CMR
+  sides:
+  - name: Government of Cameroon
+    members:
+    - Cameroon Armed Forces incl. Rapid Intervention Brigade (BIR)
+    - Gendarmerie
+    backers: []
+    leaders:
+    - Paul Biya (president)
+    strength: 'Older infobox estimate: 12,500 troops and 9,000 militia (Wikipedia, 2019 data).'
+  - name: Ambazonian separatists
+    members:
+    - Ambazonia Defence Forces (armed wing of the Ambazonia Governing Council)
+    - Interim Government of Ambazonia and its forces
+    - Local militias such as Bui Unity Warriors, Donga Mantung Unity Warriors, Unity Warriors of Fako, Ambazonia State Army
+    backers:
+    - Diaspora fundraising (ADF commanders Benedict Nwana Kuah and Pascal Kikishy Wongbi arrested in Minnesota in Sept 2025)
+    leaders:
+    - Ayaba Cho Lucas (Ambazonia Governing Council)
+    - Sisiku Julius Ayuk Tabe (jailed 'Nera 10' leader; life sentence annulled March 2026, retrial ordered)
+    strength: Older estimate 2,000-4,000 fighters (Wikipedia, May 2019); no current figure.
+  summary: Separatists in Cameroon's English-speaking Northwest and Southwest regions have fought the state since 2017, now as a fragmented, low-level guerrilla war of ambushes, IEDs, kidnappings for ransom and army raids that kill fighters and civilians alike. Fighting continued through the October 2025 election and into 2026, interrupted only by a three-day ceasefire for Pope Leo XIV's April 2026 visit to Bamenda. It matters because it has displaced hundreds of thousands and has no peace process.
+  background: 'The crisis began with lawyers'' and teachers'' protests in 2016 against the marginalisation of the Anglophone minority, which the government met with force. Separatists declared the independent state of ''Ambazonia'' on 1 October 2017 and took up arms. Swiss-mediated talks in 2019 failed, as did the government''s 2019 ''Major National Dialogue''.
+
+
+    The movement has fractured into many local militias and rival diaspora leaderships, and the war has become partly criminal (kidnapping for ransom). Why it matters: there is no credible negotiating partner on either side, and civilians are squeezed by separatist lockdowns and by army raids.'
+  year: 'Separatists (the Ambazonia Governing Council and Ayaba Cho Lucas) declared a week-long lockdown from 6-12 Oct 2025 around the presidential election; Anglophone towns were largely deserted on 12 Oct. Attacks followed: a livestock ministry official was shot dead in Bamenda (28 Oct), four gendarmes were killed in an ambush in Tubah/Bambili (5 Nov), suspected separatists killed four worshippers at a mosque in Sabga (13 Nov), and IEDs killed soldiers in Bamenda (30 Nov) and Bangshie (17 Dec). Army raids in Bafut killed nine people including four civilians (5 Dec 2025) and a commander, ''General Jakaban'' (14 Mar 2026). Gunmen killed at least 15 at Gidado, Ndu (14 Jan 2026). On 19 Mar 2026 the Supreme Court annulled the life sentences of the ''Nera 10'' leaders and ordered a retrial. A separatist alliance declared a ceasefire for 15-17 April for Pope Leo XIV''s visit to Bamenda; fighting resumed afterwards, and an army raid at Ndzerem-Nyam, Jakiri killed at least 14 fighters and 6 civilians (26 Apr). Ambushes and shootings continued in Belo, Bambui and Noni into June 2026.'
+  situation: As of late October 2026 the conflict is a grinding low-intensity guerrilla war concentrated in Mezam (Bamenda, Bafut, Tubah), Bui, Boyo and Donga-Mantung in the Northwest, and Fako and Meme in the Southwest. Kidnappings for ransom, IEDs and small ambushes are the main separatist tools; army raids on hideouts often kill civilians. No negotiations are under way; the Nera 10 retrial is the one notable legal development.
+  technical:
+  - Separatists rely heavily on IEDs, including against soldiers in Bamenda (30 Nov 2025), Bangshie (17 Dec 2025) and Mile 6 Nkwen (28 Dec 2025) (Wikipedia timelines).
+  - '''Ghost town'' lockdowns are a political weapon: a strict one-week lockdown was imposed for 6-12 Oct 2025 around the presidential vote.'
+  - 'Kidnapping for ransom is routine: a CPDM MP (Oct 2025), a journalist (Dec 2025), students in Bambili (Dec 2025), about 12 bus passengers at Sabga (June 2026).'
+  - 'Army raids on hideouts are lethal for civilians: Bafut (5 Dec 2025, 5 fighters and 4 civilians killed), Ndzerem-Nyam (26 Apr 2026, 14 fighters and 6 civilians killed, 38 motorcycles burned).'
+  - 'Command decapitation: ''General Jakaban'' killed in Bafut on 14 Mar 2026.'
+  - 'Diaspora finance: two ADF commanders were arrested in Minnesota on 5 Sept 2025 and charged in the US.'
+  - The April 2026 papal ceasefire (15-17 April) was the first coordinated separatist truce noted in the sources, and broke down within days.
+  casualties: 'No 12-month total found. Incident-level deaths in the Wikipedia timelines for Oct 2025 to June 2026 total several dozen to over 100, and these lists are incomplete. Intensity ''medium'' is an estimate. Long-run: thousands killed since 2017 (International Crisis Group, as cited by Wikipedia).'
+  displaced: More than half a million people forced from their homes (International Crisis Group, 2019, cited by Wikipedia); no current figure retrieved. NRC has ranked Cameroon's displacement crisis among the world's most neglected.
+  zones:
+  - name: Mezam (Bamenda, Bafut, Tubah, Bambili)
+    lat: 5.96
+    lng: 10.15
+    radius_km: 30
+    note: Most frequent IED attacks, kidnappings and army raids.
+  - name: Bui, Ndu and Donga-Mantung
+    lat: 6.3
+    lng: 10.75
+    radius_km: 45
+    note: Jakiri raid (Apr 2026), Noni bar shooting (Jun 2026), Gidado massacre at Ndu (Jan 2026).
+  - name: Boyo and Belo (Fundong)
+    lat: 6.2
+    lng: 10.3
+    radius_km: 30
+    note: Ambushes on soldiers in Belo (Mar and Jun 2026) and Fundong (Dec 2025).
+  - name: Southwest (Fako, Meme, Muyuka)
+    lat: 4.35
+    lng: 9.4
+    radius_km: 50
+    note: Separatist attack at Ikata, Muyuka (Mar 2026); Unity Warriors of Fako.
+  timeline:
+  - date: '2025-10-06'
+    event: Separatists impose a one-week lockdown around the presidential election.
+  - date: '2025-11-05'
+    event: Four gendarmes killed in an ambush in Tubah.
+  - date: '2025-11-13'
+    event: Four worshippers killed at a mosque in Sabga.
+  - date: '2025-12-05'
+    event: Army raid in Bafut kills five fighters and four civilians; two soldiers killed in Fundong.
+  - date: '2026-01-14'
+    event: At least 15 killed by gunmen at Gidado, Ndu.
+  - date: '2026-03-19'
+    event: Supreme Court annuls Nera 10 life sentences and orders a retrial.
+  - date: '2026-04-15'
+    event: Three-day separatist ceasefire for Pope Leo XIV's visit to Bamenda.
+  - date: '2026-04-26'
+    event: Army raid at Ndzerem-Nyam, Jakiri kills 14 fighters and 6 civilians.
+  - date: '2026-06-10'
+    event: Two soldiers and two civilians shot dead at a bar in Noni, Bui.
+  outlook: Watch the Nera 10 retrial, whether the papal truce precedent leads to any talks, separatist lockdowns around the legislative elections postponed to 20 Dec 2026, and continued kidnapping-for-ransom.
+  sources:
+  - &id039
+    label: 'Wikipedia: Timeline of the Anglophone Crisis (2026)'
+    url: https://en.wikipedia.org/wiki/Timeline_of_the_Anglophone_Crisis_(2026)
+  - label: 'Wikipedia: Timeline of the Anglophone Crisis (2025)'
+    url: https://en.wikipedia.org/wiki/Timeline_of_the_Anglophone_Crisis_(2025)
+  - label: 'Wikipedia: Anglophone Crisis'
+    url: https://en.wikipedia.org/wiki/Anglophone_Crisis
+  - label: 'Wikipedia: 2026 in Cameroon'
+    url: https://en.wikipedia.org/wiki/2026_in_Cameroon
+  - *id018
+- id: eastern-drc-m23-war
+  name: Eastern DR Congo war (M23/AFC, now FRN, vs Kinshasa)
+  type: civil-war
+  intensity: high
+  status: active
+  started: 2025-01-27 (M23 capture of Goma; M23 resurgence began in late 2021)
+  countries:
+  - COD
+  - RWA
+  - BDI
+  sides:
+  - name: DRC government coalition
+    members:
+    - Armed Forces of the DRC (FARDC), incl. 'Black Mambas' special forces
+    - Wazalendo militias (pro-government armed groups)
+    - Burundi National Defence Force (FDNB)
+    - FDLR and Nyatura fighters (alleged)
+    - 'Private military contractors: Vectus Global (Erik Prince), Colombian mercenaries'
+    backers:
+    - Burundi (troops)
+    - Turkey and China (TAI Anka, TB2 alleged, CH-4 drones supplied)
+    - United States (diplomatic and economic leverage via the Washington accords and sanctions on Rwanda and M23 figures)
+    leaders:
+    - Felix Tshisekedi (president)
+    - Evariste Ndayishimiye (Burundi president)
+    - Erik Prince (Vectus Global owner)
+    strength: No reliable current FARDC/Wazalendo figure found. Burundi had about 18,000 troops in South Kivu before Uvira fell (CTP, Dec 2025); about 4,000-5,000 fighting alongside FARDC in Feb-Apr 2026 (Wikipedia timeline).
+  - name: M23 / AFC, rebranded FRN from 12 Oct 2026
+    members:
+    - March 23 Movement (M23) and its army, the ARC
+    - Alliance Fleuve Congo (AFC), political wing until Oct 2026
+    - Front pour la Refondation de la Nation (FRN)
+    - Twirwaneho (Banyamulenge militia, South Kivu highlands)
+    - RED-Tabara (Burundian rebels, reported alongside Twirwaneho)
+    backers:
+    - 'Rwanda: Rwanda Defence Force troops, command support and logistics (UN assessments; Rwanda acknowledged ''security coordination'' with AFC/M23 in Jan 2026)'
+    leaders:
+    - Joseph Kabila (FRN president, former DRC president)
+    - Corneille Nangaa (FRN vice-president)
+    - Bertrand Bisimwa (FRN vice-president)
+    - Gen. Sultani Makenga (ARC chief of staff)
+    - Lawrence Kanyuka (spokesman)
+    strength: 'About 30,000 combatants (UN Group of Experts, June 2026), possibly approaching 40,000 after a July 2026 graduation of 9,318 recruits (unverified, KT Press). RDF in DRC: 3,000-4,000 (UN, 2024) to 4,000-7,000 (2025 estimate cited by Wikipedia).'
+  summary: Rwanda-backed M23 rebels hold Goma, Bukavu and much of North and South Kivu after their 2025 offensive, and briefly took Uvira in December 2025 before withdrawing under US pressure. Since then a FARDC-Burundian-Wazalendo coalition, backed by Chinese and Turkish drones and Western contractors, has been fighting M23 to a bloody stalemate on several axes. On 12 Oct 2026 former president Joseph Kabila became leader of a rebranded M23 political front, the FRN, which vowed to topple Tshisekedi by force.
+  background: 'M23 is a mainly Congolese Tutsi rebel movement that first seized Goma in 2012 and re-emerged in late 2021. UN experts have repeatedly found that Rwanda commands and supports its operations, which Kigali frames as defence against the FDLR, a militia descended from perpetrators of the 1994 genocide. In January and February 2025 M23 and Rwandan forces captured Goma and Bukavu, the capitals of North and South Kivu, and set up parallel administrations, financed partly by the Rubaya coltan mines (about 15% of world supply; at least US$800,000 a month to M23 per UN).
+
+
+    Two diplomatic tracks followed: a US-brokered DRC-Rwanda deal (signed by Tshisekedi and Kagame in Washington on 4 Dec 2025) linking Rwandan withdrawal, FDLR neutralisation and minerals investment, and Qatar-mediated DRC-M23 talks (Doha framework, 15 Nov 2025). Why it matters: the war involves at least three national armies, threatens a regional conflict with Burundi, and sits on minerals central to US supply-chain strategy.'
+  year: 'M23 kept attacking despite the Washington signing: it took Lubarika (2 Dec 2025), Luvungi (4 Dec) and Sange (8 Dec) and entered Uvira on 9-10 Dec, pushing south along Lake Tanganyika to Makobola; Burundian, FARDC and Wazalendo forces fled, about 200,000 people were displaced and at least 400 were killed. Under US pressure M23 announced a pullback, and FARDC re-entered Uvira on 18 Jan 2026; 171 bodies were later found in two mass graves there. In January Rwanda''s ambassador acknowledged ''security coordination'' with M23 to the US Congress.
+
+
+    February 2026 saw the most air and drone strikes ever recorded in a month in the DRC (ACLED): FARDC used CH-4 and Anka drones, jets and helicopters, and a drone killed M23 spokesman Willy Ngoma near Rubaya on 24 Feb. M23 answered with kamikaze drones on Kisangani airport, the FARDC command hub, from 31 Jan, and counterattacked in late February. The US sanctioned the Rwandan army and four officers in March, Joseph Kabila in April and M23''s intelligence chief in June; Rubio told Congress he expected Rwanda out by mid-July. M23 withdrew from the Ruzizi Plain in May. On 26 June the DRC took Rwanda to the ICJ.
+
+
+    From mid-August a government offensive with contractors pushed on Minembwe; on 17 Sept FRN/Twirwaneho fighters ambushed Vectus Global contractors near Mulima, wounding ex-Green Beret Tim Kennedy and killing a New Zealander. In September FARDC and Wazalendo made notable gains in southern Masisi (Kazinga, a hill near Kibabi, the Ufamandu villages) while the RP529 and RP1030 axes changed hands repeatedly. Burundian and Rwandan troops exchanged fire across the Kagera River on 5 Sept. On 12 Oct Kabila launched the FRN in Goma; the same week FRN fought a ten-day battle in the Kaziba and Walungu highlands, displacing 12,000+ households, and announced plans to march on Uvira and Kalemie.'
+  situation: 'As of late October 2026 M23/FRN controls Goma, Bukavu, Rutshuru, most of Masisi and Kalehe, the Rubaya mines and the Walungu-Kamanyola area, while the government holds Uvira, the Ruzizi Plain, Walikale and the Beni-Butembo axis. Active fronts: southern Masisi near Ngungu and Rubaya, the RP529 (Kibati, Nyabiondo) and RP1030 (Minjenje, Malemo toward Pinga) axes, the Kaziba-Walungu highlands toward Kamanyola and Luvungi, and the Minembwe highlands (Point Zero, Mulima, Rugezi, Gipimo). A Doha meeting was planned for late October and AU facilitators visited Kinshasa from 8 Oct, but FRN''s creation may derail talks.'
+  technical:
+  - 'M23/ARC force generation: Tchanzu graduations of 9,350 (Oct 2025), 7,532 (Feb 2026) and 9,318 (about 20 July 2026); Rumangabo graduations of 7,437 (Sept 2025) and 1,518 special forces (Mar 2026) (KT Press, citing ceremony figures).'
+  - UN Group of Experts (June 2026) estimated about 30,000 M23 combatants, including former FARDC, police and militia members.
+  - 'M23 long-range strike: kamikaze drones carrying submunitions against Kisangani''s Bangoka airport from 31 Jan 2026 (eight drones reportedly neutralised on the first night), roughly 1,000 km from the front (Wikipedia timeline; ACLED).'
+  - One-way attack (OWA) drones are now used by both sides; FRN used them on Ufamandu (15 Oct 2026) and government forces on Mukoko, Rugezi, Point Zero and Kibati (CTP).
+  - 'Government drone fleet: Chinese CH-4 and Turkish TAI Anka (ACLED); Bayraktar TB2 use alleged around Minembwe in June 2026; a Chinese CH-10 tilt-rotor drone alleged in Oct 2026 (unverified).'
+  - February 2026 was the record month for air and drone strikes in the DRC (ACLED); a FARDC drone killed M23 military spokesman Willy Ngoma near Rubaya on 24 Feb 2026.
+  - 'Contractors: Vectus Global (Erik Prince) supports operations, deployed around Kalemie for about a year; ambushed near Mulima on 17 Sept 2026 (20+ casualties); Prince negotiating a ~$200m helicopter support contract (CTP, citing NYT and Africa Intelligence).'
+  - 'Air defence on the rebel side: Twirwaneho reportedly captured a Chinese Yitian short-range air defence system abandoned by contractors; a Russian-made Antonov cargo plane was reportedly shot down over Minembwe in late Aug 2026 (CTP, single-source).'
+  - 'Burundian commitment: about 18,000 FDNB troops in South Kivu before Uvira fell (CTP); about 5,000 fighting with FARDC in Feb 2026, about 4,000 in Fizi/Mwenga in Apr 2026, and up to 1,300 more deployed in May 2026 (Wikipedia timeline).'
+  - 'Rwandan role: the US sanctioned the RDF and four senior officers (Mar 2026); the RDF was accused of building a base at Mumosho near Bukavu (Apr 2026); Rwandan forces reportedly tracked a contractor drone before the Mulima ambush (Reuters via CTP).'
+  - M23 freed more than 5,000 captured FARDC soldiers to the ICRC at Rumangabo in early Mar 2026 (Wikipedia timeline).
+  - 'Economic war: Rubaya supplies about 15% of world coltan and earns M23 at least US$800,000 a month (UN via ACLED); Kinshasa promised Rubaya to the US in a minerals deal (5 Feb 2026).'
+  - 'Front-line pattern: hills and villages change hands within days (Kibati changed control at least three times in Sept 2026; Minjenje several times), so control should be mapped as contested belts.'
+  - 'Regional escalation risk: Burundian and Rwandan troops exchanged fire near the Kagera River on 5 Sept 2026; Burundi deployed hundreds of soldiers and Imbonerakure along the border (CTP).'
+  casualties: 'No consolidated toll for the window. Uvira offensive (Dec 2025): at least 400 killed (regional authorities and UN); 171 bodies found in two mass graves in Uvira (Feb 2026). ACLED: political violence in North and South Kivu rose 70% in 2025 vs 2024. Unverified claims include up to 470 government soldiers killed in Fizi in early Sept 2026 (M23-aligned outlet). A drone strike in Goma on 11 Mar 2026 killed three including a UNICEF staffer. Deaths in the window very likely exceeded 1,000 (inference from the Uvira toll and the scale of 2026 fighting).'
+  displaced: About 200,000 displaced by the Uvira offensive (Dec 2025, Reuters headline via Wikipedia); more than 12,000 households displaced in Kaziba in Oct 2026 (Actualite.cd via CTP); new displacement waves from Masisi and Walikale in Sept 2026 (AllAfrica). Rwanda said at least 3,000 Congolese refugees had returned in 2026, with 10,000 more planned in H2 2026. No current national IDP total retrieved.
+  zones:
+  - name: Goma and Nyiragongo (M23/FRN)
+    lat: -1.68
+    lng: 29.22
+    radius_km: 25
+    note: M23 capital since Jan 2025; FRN launched here on 12 Oct 2026; drone strikes in March 2026.
+  - name: Rutshuru-Kiwanja (M23/FRN)
+    lat: -1.18
+    lng: 29.45
+    radius_km: 35
+    note: M23 rear base and Tchanzu/Rumangabo training camps; Wazalendo raids near Nyamilima and Kiseguro.
+  - name: Masisi-Rubaya (contested)
+    lat: -1.58
+    lng: 28.85
+    radius_km: 30
+    note: Coltan mines; Sept-Oct 2026 FARDC-Wazalendo push near Kibabi, Ngungu and Ufamandu.
+  - name: RP529 axis, Nyabiondo-Kibati (contested)
+    lat: -1.35
+    lng: 28.6
+    radius_km: 30
+    note: Kibati and Mahanga changed hands repeatedly in Sept-Oct 2026.
+  - name: RP1030 axis toward Pinga (contested)
+    lat: -1.1
+    lng: 28.6
+    radius_km: 35
+    note: Minjenje, Malemo, Chanjikiro and Buhimba fought over; M23 aims at Pinga and Walikale.
+  - name: Kalehe (M23 with Wazalendo pockets)
+    lat: -2.1
+    lng: 28.9
+    radius_km: 35
+    note: Wazalendo retook villages near Tushunguti in Sept 2026.
+  - name: Bukavu (M23/FRN)
+    lat: -2.51
+    lng: 28.86
+    radius_km: 25
+    note: Taken Feb 2025; RDF accused of building a base at nearby Mumosho.
+  - name: Walungu-Kaziba-Kamanyola highlands (contested)
+    lat: -2.85
+    lng: 28.92
+    radius_km: 30
+    note: FRN offensive from 11 Oct 2026; FRN says it will march on Uvira.
+  - name: Uvira and Ruzizi Plain (government)
+    lat: -3.2
+    lng: 29.12
+    radius_km: 35
+    note: Held by M23 10 Dec 2025 to Jan 2026; government since; M23 left the plain in May 2026.
+  - name: Minembwe and Itombwe highlands (contested)
+    lat: -3.55
+    lng: 28.9
+    radius_km: 45
+    note: Twirwaneho vs FARDC, FDNB, Wazalendo and contractors; Point Zero, Mulima, Rugezi, Gipimo.
+  - name: Kisangani (government rear)
+    lat: 0.48
+    lng: 25.34
+    radius_km: 20
+    note: FARDC command and drone hub; hit by M23 kamikaze drones from Jan 2026.
+  timeline:
+  - date: '2025-11-15'
+    event: DRC and M23 sign the Doha framework agreement with eight protocols.
+  - date: '2025-12-04'
+    event: Tshisekedi and Kagame sign the Washington peace accords with Trump presiding.
+  - date: '2025-12-10'
+    event: M23 seizes Uvira.
+  - date: '2026-01-18'
+    event: FARDC re-enters Uvira after M23 withdrawal.
+  - date: '2026-01-31'
+    event: M23 kamikaze drones strike Kisangani airport.
+  - date: '2026-02-24'
+    event: FARDC drone kills M23 spokesman Willy Ngoma near Rubaya.
+  - date: '2026-04-13'
+    event: 'Montreux round of the Doha process: MoU on FARDC prisoner transfer; ceasefire monitoring expanded.'
+  - date: '2026-04-30'
+    event: US sanctions Joseph Kabila.
+  - date: '2026-05-09'
+    event: M23 withdraws from the Ruzizi Plain.
+  - date: '2026-06-26'
+    event: DRC files an ICJ case against Rwanda.
+  - date: '2026-09-05'
+    event: Burundian and Rwandan troops exchange fire near the Kagera River.
+  - date: '2026-09-17'
+    event: Vectus Global contractors ambushed near Mulima, South Kivu.
+  - date: '2026-10-12'
+    event: Joseph Kabila launches the FRN in Goma as its president.
+  - date: '2026-10-16'
+    event: FRN announces plans to march on Uvira and Kalemie.
+  outlook: Watch whether FRN attacks toward Uvira and the Ruzizi Plain, whether the late-October Doha meeting and a December round in Tanzania happen, whether Washington follows its sanctions with further pressure on Rwanda after the missed mid-July withdrawal expectation, the Burundi-Rwanda border, and the impact of the Ebola outbreak on operations in North Kivu.
+  sources:
+  - &id042
+    label: 'Wikipedia: Timeline of the M23 campaign (2026)'
+    url: https://en.wikipedia.org/wiki/Timeline_of_the_M23_campaign_(2026)
+  - &id040
+    label: 'Wikipedia: M23 campaign (2022-present)'
+    url: https://en.wikipedia.org/wiki/M23_campaign_(2022%E2%80%93present)
+  - &id041
+    label: 'Critical Threats: M23 captures Uvira, what''s next?'
+    url: https://www.criticalthreats.org/briefs/africa-file/m23-captures-uvira-whats-next-693c2950ac297
+  - label: 'Critical Threats: DRC-M23 Doha peace framework leaves a long road ahead'
+    url: https://www.criticalthreats.org/briefs/africa-file/drc-m23-doha-peace-framework-leaves-a-long-road-ahead
+  - &id043
+    label: 'Critical Threats: Congo War Security Review, 11 Sept 2026'
+    url: https://www.criticalthreats.org/print/brf_6aa46baf50128
+  - &id044
+    label: 'Critical Threats: Congo War Security Review, 18 Sept 2026'
+    url: https://www.criticalthreats.org/print/brf_6aada7804deab
+  - &id021
+    label: 'Critical Threats: Congo War Security Review, 21 Oct 2026'
+    url: https://www.criticalthreats.org/briefs/congo-war-security-review/october-21-2026
+  - label: 'KT Press (Rwandan outlet): AFC/M23 military strength grows to nearly 40,000'
+    url: https://www.ktpress.rw/2026/07/in-eastern-congo-afc-m23-military-strength-grows-to-nearly-40000-troops/
+  - &id045
+    label: 'Koaci: Violent fighting between AFC/M23 and government forces in Masisi'
+    url: https://www.koaci.com/article/2026/09/23/congo-rdc/politique/rdc-violents-combats-entre-lafcm23-et-les-forces-gouvernementales-a-masisi_200850.html
+  - *id012
+  - *id009
+  - &id019
+    label: 'Wikipedia: 2026 in the Democratic Republic of the Congo'
+    url: https://en.wikipedia.org/wiki/2026_in_the_Democratic_Republic_of_the_Congo
+  - &id020
+    label: 'Wikipedia: 2025 in the Democratic Republic of the Congo'
+    url: https://en.wikipedia.org/wiki/2025_in_the_Democratic_Republic_of_the_Congo
+  - label: 'AllAfrica: New waves of displaced after M23-FARDC fighting in Masisi and Walikale'
+    url: https://fr.allafrica.com/stories/202609080349.html
+- id: drc-adf-insurgency
+  name: ADF (Islamic State Central Africa) insurgency in Ituri and North Kivu
+  type: insurgency
+  intensity: high
+  status: active
+  started: '2019-04-01 (approximate: Islamic State began claiming ADF attacks in 2019; the ADF has been active since the 1990s)'
+  countries:
+  - COD
+  - UGA
+  sides:
+  - name: DRC and Uganda
+    members:
+    - FARDC
+    - Uganda People's Defence Force (Operation Shujaa)
+    - Local Wazalendo and self-defence groups
+    backers:
+    - MONUSCO (UN mission, protection role)
+    leaders:
+    - Felix Tshisekedi (DRC)
+    - Gen. Muhoozi Kainerugaba (Ugandan army chief)
+    strength: Uganda had about 5,000 troops in the region by Feb 2025 (Wikipedia).
+  - name: Allied Democratic Forces / Islamic State Central Africa Province (ISCAP)
+    members:
+    - ADF
+    backers:
+    - Islamic State (affiliation, propaganda via Amaq)
+    leaders:
+    - Musa Baluku (leader)
+    strength: 1,500-2,000 fighters (Wikipedia infobox).
+  summary: The Islamic State-affiliated ADF carries out the deadliest massacres of civilians in eastern DR Congo, killing with machetes and guns in Beni, Lubero, Irumu and Mambasa, and in 2026 pushed north into Haut-Uele for the first time in 15 years. ACLED counted at least 1,370 ADF-linked deaths in 2025, more than the M23 war, and 149 civilians killed in Ituri in May 2026 alone. It matters because the fighting has merged with the Ebola outbreak in Ituri.
+  background: 'The ADF began as a Ugandan Islamist rebel group in the 1990s and moved into the forests around Beni. It pledged to the Islamic State, which brands it Islamic State Central Africa Province. Since late 2021 Uganda''s army has fought it inside the DRC under Operation Shujaa, taking its main Madina and Apakwang camps in July 2025, but the operation scattered fighters into undefended areas, which raised attacks on civilians.
+
+
+    The ADF''s method is terror: roadblocks before massacres, fighters disguised as soldiers or Wazalendo, attacks on hospitals and churches, and abductions for labour and recruitment. Why it matters: it is the deadliest killer of civilians in eastern Congo, and Washington''s focus on M23 leaves this front comparatively neglected.'
+  year: ADF killed 19 civilians at Mukondo (13 Oct 2025), at least 17 to 29 at Byambwe/Biambe hospital in Lubero (14-15 Nov 2025) and at least 50 at Matoto and Makoko (20 Nov). In 2026 it killed at least 16 in Lubero villages (2 Jan), 25 in Ituri (25 Jan), 66 in Irumu territory (8 Feb), at least 43 in Mambasa (2 Apr), 26-40 in Ituri and North Kivu (7 May), 20 in Beni territory (31 May), 10-30 near Beni (3 June) and 13 at Banana Ecole near Mambasa (8 Aug). Congolese and Ugandan forces freed at least 200 captives along the Epulu river (20 Apr). On 30 Apr the ADF clashed with Congolese forces at Suka na Mboka in Haut-Uele, about 50 km north of Ituri, near the Kibali gold mine. From 15 May an Ebola (Bundibugyo) outbreak in Ituri became the deadliest in DRC history (2,325+ deaths by 17 Aug), with mobs burning health facilities in Irumu and Djugu.
+  situation: As of late October 2026 the ADF remains active in Beni and Lubero territories and has shifted weight north into Irumu and Mambasa (Ituri) and toward Haut-Uele. UPDF-FARDC operations continue but have not stopped massacres. Ebola transmission is rising again in North Kivu (Bloomberg via CTP), complicating both security and humanitarian operations.
+  technical:
+  - 'Massacre method: roadblocks on main roads, then killings of trapped civilians with machetes and knives, sometimes beheadings; burning of homes and health centres (Wikipedia; ACLED).'
+  - 'Disguise: fighters pose as soldiers, security officers or Wazalendo to gain access (Wikipedia).'
+  - Drones used for surveillance in most ADF camps; an attempted drone-delivered IED in Aug 2024 failed (Wikipedia).
+  - 'Fragmentation: ADF splits into small groups to avoid military positions after Operation Shujaa pressure (Wikipedia).'
+  - 'Geographic shift: 149 civilian deaths in Ituri in May 2026 equalled the Jan-Apr total; Irumu and Mambasa are hotspots; first ADF violence in Haut-Uele in 15 years (Suka na Mboka, 30 Apr 2026) (ACLED).'
+  - 'Hospitals targeted: Byambwe/Biambe health centre in Lubero (Nov 2025).'
+  - 'Operation Shujaa: UPDF-FARDC strikes on Madina camp from 6 July 2025; Apakwang camp, holding 1,000-1,500 fighters and dependants, claimed on 10 July 2025, but most fighters escaped (Wikipedia).'
+  - 'Hostage-holding: joint forces freed at least 200 civilians along the Epulu river on 20 Apr 2026.'
+  - 'Local politics: civil society in Baswagha chiefdom, Lubero, accused the UPLC militia of supporting the ADF (ACLED).'
+  casualties: 'ACLED: at least 1,370 ADF-linked fatalities in 2025; Long War Journal: at least 967 civilians killed by the ADF in 2025 (both via Wikipedia). ACLED: 149 civilian deaths from ADF attacks in Ituri in May 2026. Incident totals Nov 2025-Aug 2026 in the sources exceed 400. Separately, CODECO killed at least 69 in Ituri on 9 May 2026.'
+  displaced: No current figures retrieved; ADF attacks routinely empty villages (e.g. Suka na Mboka, Haut-Uele, Apr 2026).
+  zones:
+  - name: Beni territory
+    lat: 0.5
+    lng: 29.47
+    radius_km: 45
+    note: Historic ADF heartland; repeated raids in 2026.
+  - name: Lubero (Baswagha chiefdom)
+    lat: -0.25
+    lng: 29.1
+    radius_km: 40
+    note: Byambwe hospital attack Nov 2025; Kilonge, Katanga, Maendeleo killings Jan 2026.
+  - name: Irumu territory (Ituri)
+    lat: 1.35
+    lng: 29.85
+    radius_km: 45
+    note: 66 killed 8 Feb 2026; Ebola epicentre area.
+  - name: Mambasa territory (Ituri)
+    lat: 1.36
+    lng: 29.05
+    radius_km: 60
+    note: 43 killed 2 Apr 2026; Banana Ecole 13 killed 8 Aug; Epulu river hostages freed.
+  - name: Haut-Uele frontier (Suka na Mboka)
+    lat: 2.7
+    lng: 29.2
+    radius_km: 50
+    note: ADF clash 30 Apr 2026, about 50 km north of Ituri (location approximate); Kibali gold mine region.
+  timeline:
+  - date: '2025-10-13'
+    event: ADF kills 19 civilians at Mukondo, North Kivu.
+  - date: '2025-11-14'
+    event: ADF attack on Byambwe hospital, Lubero, kills at least 17.
+  - date: '2025-11-20'
+    event: At least 50 civilians killed at Matoto and Makoko.
+  - date: '2026-02-08'
+    event: ADF kills 66 in Irumu territory.
+  - date: '2026-04-02'
+    event: ADF kills at least 43 in Mambasa, Ituri.
+  - date: '2026-04-20'
+    event: Congolese and Ugandan forces free 200+ ADF captives along the Epulu river.
+  - date: '2026-04-30'
+    event: ADF clashes with FARDC at Suka na Mboka, Haut-Uele.
+  - date: '2026-05-15'
+    event: Ebola outbreak confirmed in Ituri.
+  - date: '2026-08-08'
+    event: ADF kills 13 at Banana Ecole near Mambasa.
+  outlook: Watch the ADF's northward drift toward Haut-Uele and the Kibali mine, any change in Ugandan force posture, and the interaction of ADF attacks with the Ebola response in Ituri and North Kivu.
+  sources:
+  - label: 'Wikipedia: Allied Democratic Forces insurgency'
+    url: https://en.wikipedia.org/wiki/Allied_Democratic_Forces_insurgency
+  - *id011
+  - *id017
+  - *id007
+  - *id019
+  - *id020
+  - *id021
+- id: central-african-republic-conflict
+  name: Central African Republic armed-group conflict
+  type: civil-war
+  intensity: medium
+  status: active
+  started: '2025-07-11 (current phase: Chad-mediated UPC and 3R disarmament deals; civil war since 2012)'
+  countries:
+  - CAF
+  sides:
+  - name: Government and allies
+    members:
+    - Central African Armed Forces (FACA)
+    - 'Russian forces: Wagner Group and Africa Corps'
+    - Azande Ani Kpi Gbe militia (formerly Wagner-trained ally, now partly hostile)
+    backers:
+    - Russia (Wagner remains the main force, regime protection, resource concessions)
+    - MINUSCA (UN peacekeeping mission)
+    leaders:
+    - Faustin-Archange Touadera (president, re-elected Dec 2025)
+    strength: Russian personnel about 1,500 mercenaries (2025) per Wikipedia infobox, which also lists 1,500-2,000 Africa Corps; MINUSCA about 14,000 military (2025, attribution unclear in source).
+  - name: Armed groups
+    members:
+    - Remnants of the Coalition of Patriots for Change (CPC)
+    - MPC
+    - UPC and 3R holdouts (both signed disarmament deals in July 2025)
+    - Azande Ani Kpi Gbe (AAKG) in Haut-Mbomou, at odds with the government since the 2025 UPC deal
+    backers:
+    - No state backer documented in sources found
+    leaders:
+    - Gen. Limane (AAKG leader)
+    strength: AAKG 1,000+ (Wikipedia); no figures for other groups.
+  summary: After a decade of civil war, the CAR government, propped up by Wagner and Africa Corps, struck Chad-mediated disarmament deals with the UPC and 3R rebels in July 2025 and re-elected President Touadera in December 2025. Violence has shifted to the southeast, where the Azande militia AAKG, once Wagner-trained, clashed with government forces in Haut-Mbomou in January 2026. It is a lower-intensity war than its neighbours, but the far southeast remains unstable and the Russian security model there is a template for the Sahel.
+  background: 'The CAR collapsed into war in 2012-13 when the mostly Muslim Seleka coalition took Bangui and anti-balaka militias retaliated. Since 2018 Russia''s Wagner Group has been Touadera''s guarantor, beating back the CPC rebel coalition in 2021 and receiving mining concessions. Moscow has pushed for Wagner to be replaced by the state-run Africa Corps, but as of August 2026 Wagner had kept its position.
+
+
+    In Haut-Mbomou, the Azande Ani Kpi Gbe militia (founded 2023, also called ''Wagner Ti Azande'') fought the Fulani-led UPC; it saw the government''s 2025 deal with the UPC as betrayal. Why it matters: CAR shows both the durability and the costs of a Russian-run security model (regime survival, mining access, abuse allegations) that the Sahel juntas have copied.'
+  year: Opposition parties boycotted the 28 Dec 2025 general election; Touadera won a third term with 77.9% (Constitutional Court, 19 Jan 2026) on 52.4% turnout, and the African Union said voting was peaceful except in Haut-Mbomou. AAKG fighters clashed with government forces in Haut-Mbomou in January 2026. Legislative and local runoffs were held on 26 Apr 2026. In justice, the Special Criminal Court began the in-absentia trial of ex-president Francois Bozize on 16 June 2026, and the ICC convicted former Seleka commander Mahamat Said Abdel Kani of crimes against humanity on 23 Sept 2026.
+  situation: As of late October 2026 Bangui and the main towns are under government and Russian protection, the UPC and 3R are formally disarming, and the main hotspot is Haut-Mbomou in the southeast, where the AAKG, UPC remnants and the army contest the Zemio-Mboki-Obo area near South Sudan. Data on violence in 2026 is sparse in the sources retrieved.
+  technical:
+  - UPC and 3R signed disarmament agreements on 11 July 2025, mediated and guaranteed by Chad, committing to 'totally disarm, dissolve and reintegrate' (Wikipedia).
+  - Wagner, not Africa Corps, remains the main Russian force in CAR as of August 2026, providing regime security and involved in resource exploitation (Wikipedia, Africa Corps).
+  - AAKG (Azande Ani Kpi Gbe) was trained by Wagner from March to May 2024; about 100 members joined FACA; its integration was suspended after the 2025 UPC deal (Wikipedia).
+  - AAKG is headquartered at Bambouti and active in Haut-Mbomou and Mbomou; it is alleged to have joined Azande-Balanda fighting in South Sudan's Western Equatoria in Feb 2025 (Wikipedia).
+  - 'Election security: 58 voter registration centres were still closed by violence in Feb 2025; the AU singled out Haut-Mbomou as the only area of election-day violence (Wikipedia).'
+  - 'Accountability: ICC conviction of ex-Seleka commander Mahamat Said Abdel Kani (23 Sept 2026) and the in-absentia trial of Bozize at the Special Criminal Court (from 16 June 2026).'
+  casualties: No 12-month fatality figure found in the sources retrieved. Intensity 'medium' is an estimate based on persistent armed-group activity in the southeast and CAR's historical levels; it could be lower given the 2025 disarmament deals.
+  displaced: More than 1.1 million people have fled their homes in a country of about 5 million (Wikipedia, undated figure).
+  zones:
+  - name: Haut-Mbomou (Zemio, Mboki, Obo, Bambouti)
+    lat: 5.3
+    lng: 25.9
+    radius_km: 130
+    note: AAKG, UPC remnants and FACA/Russian forces; January 2026 clashes; only area of election-day violence.
+  - name: Bangui
+    lat: 4.39
+    lng: 18.56
+    radius_km: 20
+    note: Seat of government protected by Wagner and FACA.
+  - name: Former UPC zone (Ouaka, Bambari)
+    lat: 5.77
+    lng: 20.67
+    radius_km: 100
+    note: UPC disarmament under the July 2025 deal.
+  - name: Former 3R zone (northwest, Ouham-Pende)
+    lat: 7.0
+    lng: 15.8
+    radius_km: 100
+    note: 3R disarmament under the July 2025 deal.
+  timeline:
+  - date: '2025-07-11'
+    event: UPC and 3R sign Chad-mediated disarmament agreements.
+  - date: '2025-12-28'
+    event: General election; opposition bloc boycotts.
+  - date: '2026-01-19'
+    event: Constitutional Court confirms Touadera's re-election with 77.9%.
+  - date: '2026-04-26'
+    event: Legislative and local runoffs.
+  - date: '2026-06-16'
+    event: In-absentia trial of ex-president Bozize opens at the Special Criminal Court.
+  - date: '2026-09-23'
+    event: ICC convicts ex-Seleka commander Mahamat Said Abdel Kani.
+  outlook: Watch whether UPC and 3R disarmament holds, AAKG-government relations in Haut-Mbomou, spillover from South Sudan and Sudan, and whether Russia finally swaps Wagner for Africa Corps.
+  sources:
+  - label: 'Wikipedia: Central African Republic Civil War'
+    url: https://en.wikipedia.org/wiki/Central_African_Republic_Civil_War
+  - label: 'Wikipedia: 2025 Central African general election'
+    url: https://en.wikipedia.org/wiki/2025_Central_African_general_election
+  - label: 'Wikipedia: 2026 in the Central African Republic'
+    url: https://en.wikipedia.org/wiki/2026_in_the_Central_African_Republic
+  - *id003
+  - label: 'Wikipedia: Azande Ani Kpi Gbe'
+    url: https://en.wikipedia.org/wiki/Azande_Ani_Kpi_Gbe
+- id: mozambique-cabo-delgado-insurgency
+  name: Cabo Delgado insurgency (Islamic State Mozambique), Mozambique
+  type: insurgency
+  intensity: medium
+  status: active
+  started: 2017-10-05 (Mocimboa da Praia attack; IS Mozambique Province split from ISCAP in May 2022)
+  countries:
+  - MOZ
+  - TZA
+  sides:
+  - name: Mozambique and partners
+    members:
+    - Mozambique Defence Armed Forces (FADM), incl. navy; Northern Operation Theater HQ moved to Mocimboa da Praia in July 2026
+    - Local Force militia (under military command since 2023)
+    - Rwanda Defence Force (RDF) contingent
+    - Tanzanian troops in Nangade border area
+    backers:
+    - Rwanda (troops)
+    - European Union, Rwanda and Algeria (training of FADM units)
+    - TotalEnergies (LNG project whose security underpins a long-term international presence)
+    leaders:
+    - Daniel Chapo (Mozambique president)
+    strength: No figures for RDF or FADM in the sources retrieved.
+  - name: Islamic State Mozambique (ISM)
+    members:
+    - ISM (Islamic State Mozambique Province)
+    backers:
+    - Islamic State (affiliation)
+    leaders:
+    - Abu Yasir Hassan (leader, US-designated in 2021)
+    strength: No overall figure; a Niassa raiding force numbered up to 150 fighters in July 2026 (ACLED).
+  summary: Islamic State's Mozambique branch keeps a stubborn insurgency alive in Cabo Delgado's coastal districts, mixing abductions for ransom, ambushes on the N380 highway and long-range raids into Niassa, while Rwandan and Mozambican forces guard towns and the LNG zone. Militant-linked deaths rose 51% to 531 in 2025 (Africa Center), and attacks on civilians climbed from 9 in July to 19 in September 2026 (ACLED). It matters because TotalEnergies restarted its giant LNG project at Afungi in January 2026, after a five-year suspension caused by the 2021 Battle of Palma.
+  background: 'The insurgency began in October 2017 in Mocimboa da Praia, and peaked with the 2021 capture of Palma, which froze TotalEnergies'' LNG project. Rwanda''s July 2021 intervention and a southern African mission (SAMIM, since withdrawn) retook the main towns, but ISM adapted into small mobile groups based in forests like Catupa and coastal areas such as Quiterajo.
+
+
+    Why it matters: the LNG project is one of Africa''s largest energy investments, and ISM''s survival despite years of Rwandan operations shows the limits of a town-guarding strategy. ISM also targets fishers and traders on the coast, while Mozambican forces have been accused of killing fishers at sea.'
+  year: RDF forces killed at least 35 ISM fighters near Cogolo around 30 Nov 2025 and set up a post at Pangane; ISM killed five RDF soldiers at Cogolo on 24 Dec. TotalEnergies, having lifted force majeure in Oct 2025, restarted the LNG project on 27 Jan 2026. ISM overran two FADM positions in the Catupa forest on 31 Jan 2026 and held the forest through weeks of fighting (at least 15 killed on 23 Feb, including three Rwandan soldiers). On 15 Mar a FADM navy vessel fired on six fishing boats in Calugo bay, killing 13 fishers; commanders admitted responsibility. In July the military's northern headquarters moved to Mocimboa da Praia. An ISM force of up to 150 fighters crossed into Montepuez and Niassa from 27 July; FADM killed at least 16 at Shamba Kubwa on 1 Aug, and on 3 Sept ISM raided a hunting camp near Nanlixa, Marrupa, killing two staff and taking three hostages, released on 4 Oct for about US$53,000. Attacks on civilians, many involving abductions for ransom, rose to 19 in September across Macomia, Mocimboa da Praia, Muidumbe and Nangade; ISM claimed an IED on an RDF patrol on the Chinda-Mbau road on 16 Sept.
+  situation: As of late October 2026 ISM is active in the Macomia coast and Quiterajo, around Mocimboa da Praia, Muidumbe and Nangade, and has shown it can move south toward Ancuabe and west into Niassa. RDF and FADM conduct sporadic operations, including marine operations, from Mbau and Mocimboa da Praia; Tanzanian troops operate in Nangade. TotalEnergies is considering accelerating LNG expansion with about 10,000 workers on site. The US advised against all travel to Niassa in August 2026.
+  technical:
+  - 'ISM attacks on civilians in Macomia, Mocimboa da Praia, Muidumbe and Nangade: 9 (July), 11 (August), 19 (September 2026); 11 of September''s involved abductions, with ransoms of 1,500 to 70,000 meticais (ACLED).'
+  - 'Niassa raid: up to 150 fighters reached Ntola (Montepuez) on 27 July 2026, fought FADM on 30 July, were hit at Shamba Kubwa on 1 Aug (16+ killed), split into small groups and moved toward Balama and Marrupa; about 30 entered Marrupa on 31 Aug (ACLED).'
+  - 'Hostage economy: three hunters'' camp hostages released 4 Oct 2026 for about 3.2 million meticais (about US$53,000) (ACLED).'
+  - 'IED use: ISM IED on a Rwandan vehicle in Macomia (9 Jan 2026) and on an RDF patrol on the Chinda-Mbau road (16 Sept 2026).'
+  - 'Catupa forest near the N380 is a key ISM base: two FADM positions overrun on 31 Jan 2026; ambush on a commercial convoy near Quinto Congresso on 22 Feb (4 killed) (ACLED; Wikipedia).'
+  - 'Coastal raiding: abductions of fishers off Macomia and Mocimboa da Praia, incl. Tambuzi Island (Aug 2026); mortar fire on Pangane (Jan 2026).'
+  - 'Security-force abuses: FADM navy killed 13 fishers in Calugo bay (15 Mar 2026); at least 85 fishers killed in 10 incidents since Jan 2024 (ACLED).'
+  - 'Force posture: Northern Operation Theater HQ moved from Pemba to Mocimboa da Praia (July 2026); FADM blocks routes along the Lugenda river and R698; RDF guards the Mbau area and raids Quiterajo; Tanzanian troops killed two cross-border insurgents in Nangade (20 Sept 2026).'
+  - 'ISM logistics: supply networks inside Mocimboa da Praia (arrests over deliveries to Malinde, Aug 2026); possible support from Tanzania via Nangade (ACLED).'
+  - 'LNG: TotalEnergies lifted force majeure in Oct 2025, restarted on 27 Jan 2026, and was considering accelerated expansion with about 10,000 workers on site (30 Sept 2026).'
+  casualties: 'Africa Center (2025 data): 531 militant Islamist-linked deaths in northern Mozambique, up 51%, of which 260 civilians. Incident data 2026: at least 15 killed at Catupa on 23 Feb (incl. 3 Rwandan soldiers); 13 fishers killed by the navy on 15 Mar; 16+ militants killed at Shamba Kubwa on 1 Aug; 2 camp staff killed on 3 Sept. No rolling 12-month figure found.'
+  displaced: Over 700 people fled after attacks at Litandacua (N380) and Pangane in Aug-Sept 2026 (IOM via ACLED). No current provincial IDP total retrieved.
+  zones:
+  - name: Macomia coast and Quiterajo
+    lat: -11.85
+    lng: 40.4
+    radius_km: 30
+    note: ISM entrenched at Quiterajo; RDF outpost at Pangane; fisher abductions.
+  - name: Mocimboa da Praia
+    lat: -11.35
+    lng: 40.35
+    radius_km: 30
+    note: Military northern HQ since July 2026; ISM support networks and abductions in town.
+  - name: Catupa forest and N380
+    lat: -11.85
+    lng: 40.15
+    radius_km: 20
+    note: ISM base; convoy ambushes and FADM positions overrun in early 2026.
+  - name: Muidumbe and Mbau
+    lat: -11.75
+    lng: 39.95
+    radius_km: 30
+    note: RDF-guarded Mbau area; IED on the Chinda-Mbau road Sept 2026.
+  - name: Nangade (Tanzania border)
+    lat: -11.1
+    lng: 39.7
+    radius_km: 35
+    note: ISM returned Sept 2026; Tanzanian troops active.
+  - name: Palma and Afungi LNG site
+    lat: -10.8
+    lng: 40.48
+    radius_km: 25
+    note: TotalEnergies Mozambique LNG, restarted Jan 2026; heavy security presence.
+  - name: Montepuez-Niassa raid corridor
+    lat: -12.9
+    lng: 38.6
+    radius_km: 130
+    note: 'ISM incursion July-Sept 2026: Ntola, Shamba Kubwa, Balama, Marrupa; US travel warning for Niassa.'
+  timeline:
+  - date: '2025-11-30'
+    event: RDF kills at least 35 ISM fighters near Cogolo (approximate date).
+  - date: '2025-12-24'
+    event: ISM kills five RDF soldiers at Cogolo.
+  - date: '2026-01-27'
+    event: TotalEnergies restarts the Mozambique LNG project.
+  - date: '2026-01-31'
+    event: ISM overruns two FADM positions in the Catupa forest.
+  - date: '2026-02-23'
+    event: At least 15 killed in clashes in Catupa, including three Rwandan soldiers.
+  - date: '2026-03-15'
+    event: FADM navy kills 13 fishers in Calugo bay.
+  - date: '2026-07-27'
+    event: ISM force of up to 150 reaches Ntola, Montepuez, starting the Niassa incursion.
+  - date: '2026-08-01'
+    event: FADM kills 16+ ISM fighters at Shamba Kubwa.
+  - date: '2026-09-03'
+    event: ISM raids a hunting camp in Marrupa, Niassa; two staff killed, three hostages taken.
+  - date: '2026-10-04'
+    event: Niassa hostages released for about US$53,000.
+  outlook: Watch the rainy season (from about December), which usually reduces ISM mobility, whether ISM keeps expanding into Niassa and Nangade, the scale of abductions for ransom, Rwanda's commitment as Kigali faces pressure over DRC, and security around the accelerating LNG build-out.
+  sources:
+  - &id048
+    label: 'ACLED: Mozambique Conflict Monitor Update, October 2026'
+    url: https://acleddata.com/update/mozambique-conflict-monitor-update-october-2026
+  - &id047
+    label: 'ACLED: Mozambique Conflict Monitor Update, September 2026'
+    url: https://acleddata.com/update/mozambique-conflict-monitor-update-september-2026
+  - label: 'ACLED: Mozambique Conflict Monitor (Cabo Ligado)'
+    url: https://acleddata.com/monitor/mozambique-conflict-monitor-cabo-ligado
+  - *id012
+  - *id009
+  - *id006
+  - *id005
+  - &id046
+    label: 'Wikipedia: Insurgency in Cabo Delgado'
+    url: https://en.wikipedia.org/wiki/Insurgency_in_Cabo_Delgado
+  - label: 'Wikipedia: 2026 in Mozambique'
+    url: https://en.wikipedia.org/wiki/2026_in_Mozambique
+  - label: 'Wikipedia: Islamic State - Mozambique Province'
+    url: https://en.wikipedia.org/wiki/Islamic_State_%E2%80%93_Mozambique_Province
+battles:
+- id: soumpi-base-attack-2025
+  name: Attack on Soumpi army base
+  conflict: sahel-jihadist-insurgency
+  tier: mid
+  start: '2025-11-07'
+  end: '2025-11-07'
+  place: Soumpi, Niafunke cercle, Tombouctou region, Mali (coordinates approximate)
+  lat: 15.85
+  lng: -4.1
+  sides:
+  - JNIM
+  - Malian Armed Forces
+  outcome: Attack repelled with drone strikes after heavy losses.
+  forces: JNIM assault force (size unknown); FAMa garrison supported by drones.
+  losses: JNIM claimed 48 soldiers killed and over 100 wounded (ACLED).
+  significance: The single deadliest event of 2025 in Tombouctou region, and part of November 2025, the region's deadliest month in two years; it showed JNIM could hit the north while running the fuel blockade in the south.
+  sources:
+  - *id011
+- id: kati-bamako-attacks-2026
+  name: Kati and Bamako commando attacks (killing of Sadio Camara)
+  conflict: sahel-jihadist-insurgency
+  tier: major
+  start: '2026-04-25'
+  end: '2026-04-26'
+  place: Kati and Bamako-Senou air base, Koulikoro region, Mali
+  lat: 12.7441
+  lng: -8.0726
+  sides:
+  - JNIM (with FLA in the north)
+  - Malian Armed Forces, Africa Corps
+  outcome: Attackers repelled from Kati and Bamako by end of day, but Defence Minister Camara killed and air assets hit; JNIM declared a Bamako blockade three days later.
+  forces: JNIM commandos with suicide VBIEDs, armed drones and fighters disguised in Malian uniforms; Malian forces with helicopters; Africa Corps.
+  losses: 'Kati: 23 killed, 16 wounded (hospital source); Sadio Camara, his wife and two grandchildren killed; intelligence chief Modibo Kone wounded. Africa Corps claimed 300 attackers killed at Kati and 200 at Bamako (unverified).'
+  significance: The deadliest blow ever struck at a Malian regime's leadership; it exposed the junta's core and Russia's inability to protect it, and opened the way to the northern collapse.
+  sources:
+  - *id001
+  - *id002
+  - *id017
+- id: fall-of-kidal-2026
+  name: Fall of Kidal and the northern collapse
+  conflict: northern-mali-fla-rebellion
+  tier: major
+  start: '2026-04-25'
+  end: '2026-05-01'
+  place: Kidal, Kidal region, Mali
+  lat: 18.4411
+  lng: 1.4078
+  sides:
+  - FLA and JNIM
+  - Malian Armed Forces, Africa Corps
+  outcome: 'FLA-JNIM victory: negotiated Malian-Russian withdrawal from Kidal (26-27 Apr), then from Aguelhok and Tessalit; Tessalit base taken 1 May.'
+  forces: FLA and JNIM fighters (Africa Corps claimed 10,000-12,000 nationally); Malian garrison and Africa Corps in the former MINUSMA camp.
+  losses: FLA claimed several dozen soldiers killed and 200+ captured; Africa Corps claimed 200 insurgents killed at Kidal (both unverified).
+  significance: Reversed Russia's signature 2023 victory and pushed the state out of most of the far north for over five months.
+  sources:
+  - *id001
+  - *id002
+  - *id017
+- id: central-mali-dozo-offensive-2026
+  name: JNIM offensive against Dozo militias in central Mali
+  conflict: sahel-jihadist-insurgency
+  tier: mid
+  start: '2026-05-06'
+  end: '2026-05-31'
+  place: Bandiagara, Bankass and Djenne cercles, Mopti region, Mali (centred on Bankass)
+  lat: 14.0783
+  lng: -3.5172
+  sides:
+  - JNIM (Katiba Macina)
+  - Dozo militias and Dan Na Ambassagou
+  outcome: JNIM gains; around 12 villages in Bankass cercle surrendered weapons to JNIM.
+  forces: JNIM raiding groups; local Dozo self-defence militias.
+  losses: 30+ killed in Korikori and Gomossogou (7 May); 40 in Kouroude and Dougara (8 May) (Wikipedia); at least one Dozo leader killed (ACLED).
+  significance: JNIM used the post-April momentum to dismantle the junta's militia allies in the centre, a precondition for controlling the Bamako-Mopti axis.
+  sources:
+  - *id007
+  - *id001
+  - *id004
+- id: battle-of-anefis-2026
+  name: Battle of Anefis
+  conflict: northern-mali-fla-rebellion
+  tier: major
+  start: '2026-07-04'
+  end: '2026-07-09'
+  place: Anefis and Tabrichat, Kidal and Gao regions, Mali
+  lat: 18.05
+  lng: 0.6
+  sides:
+  - FLA (with JNIM)
+  - Malian Armed Forces, Africa Corps
+  outcome: 'Inconclusive: government retook Anefis town on 9 July but FLA held surrounding terrain and the Tabrichat area.'
+  forces: FLA mobile columns; two FAMa-Africa Corps relief convoys from Gao with Mi-24 helicopter support.
+  losses: 'Government claim: about 30 soldiers killed (infobox: about 80) and 60 wounded; 100+ rebels and 12 rebel vehicles destroyed; one Mi-24 shot down.'
+  significance: Showed the FLA could take a town in hours and down helicopters, and that government control of bases did not extend to the roads between them.
+  sources:
+  - *id022
+  - *id001
+  - *id003
+- id: anefis-convoy-ambush-2026
+  name: Ambush of the convoy returning from Anefis
+  conflict: northern-mali-fla-rebellion
+  tier: mid
+  start: '2026-07-17'
+  end: '2026-07-18'
+  place: Road south of Anefis, Gao region, Mali (coordinates approximate)
+  lat: 17.6
+  lng: 0.4
+  sides:
+  - FLA and JNIM
+  - Malian Armed Forces, Africa Corps
+  outcome: FLA victory.
+  forces: Returning FAMa-Africa Corps convoy; FLA ambush teams.
+  losses: About 50 soldiers killed and 20 captured (RFI via Wikipedia); 2026 in Mali lists more than 50 soldiers and Africa Corps killed.
+  significance: One of the deadliest ambushes on government forces in the north, reinforcing that convoys are the weak point.
+  sources:
+  - *id001
+  - *id004
+- id: dioura-attack-2026
+  name: Attack on Dioura army camp
+  conflict: sahel-jihadist-insurgency
+  tier: major
+  start: '2026-09-10'
+  end: '2026-09-10'
+  place: Dioura, Tenenkou cercle, Mopti region, Mali (coordinates approximate)
+  lat: 14.84
+  lng: -5.25
+  sides:
+  - JNIM
+  - Malian Armed Forces, Africa Corps
+  outcome: JNIM overran and looted the camp, then withdrew; camp still abandoned a week later.
+  forces: JNIM first wave on the base plus fighters arriving from the east on motorcycles and heavily armed vehicles.
+  losses: At least 100 soldiers killed (RFI, multiple sources), 5 Africa Corps killed, 80+ captured; vehicles and large weapons stocks seized. JNIM losses unknown.
+  significance: Among the deadliest single attacks on the Malian army; propaganda videos of captured soldiers undercut the junta after the April shocks.
+  sources:
+  - *id023
+  - *id024
+- id: kidal-recapture-2026
+  name: Malian recapture of Kidal
+  conflict: northern-mali-fla-rebellion
+  tier: major
+  start: '2026-10-06'
+  end: '2026-10-06'
+  place: Kidal, Kidal region, Mali
+  lat: 18.4411
+  lng: 1.4078
+  sides:
+  - Malian Armed Forces, Africa Corps, GATIA, MSA
+  - FLA
+  outcome: Government reoccupation after FLA 'strategic and controlled withdrawal'; no major ground combat.
+  forces: About 120-vehicle convoy from Anefis (about 100 km) with Africa Corps air support.
+  losses: No casualty figures reported.
+  significance: Restores the junta's symbolic hold on the rebel capital, but analysts call it symbolic rather than decisive and the FLA preserved its forces.
+  sources:
+  - *id025
+  - *id026
+- id: niamey-airport-issp-2026
+  name: ISSP assault on Niamey airport and Air Base 101
+  conflict: sahel-jihadist-insurgency
+  tier: major
+  start: '2026-01-29'
+  end: '2026-01-29'
+  place: Diori Hamani International Airport and Air Base 101, Niamey, Niger
+  lat: 13.4815
+  lng: 2.1836
+  sides:
+  - Islamic State Sahel Province
+  - Niger Armed Forces, Africa Corps
+  outcome: Attack repelled, but an ammunition depot destroyed and aircraft and air force infrastructure damaged.
+  forces: 30+ gunmen with small arms, explosives and armed drones (ISSP's first drone use in Niger).
+  losses: 'Niger: 20 attackers killed, 11 captured, 4 soldiers wounded (official).'
+  significance: First jihadist assault on the capital's airport; showed ISSP freedom of movement up to Niamey and possible ISWAP involvement.
+  sources:
+  - *id027
+  - label: 'ACLED: Africa Overview, February 2026'
+    url: https://acleddata.com/update/africa-overview-february-2026
+  - *id028
+- id: garbougna-attack-2026
+  name: Garbougna military engineering camp attack
+  conflict: sahel-jihadist-insurgency
+  tier: mid
+  start: '2026-05-14'
+  end: '2026-05-14'
+  place: Garbougna, Tillaberi region, Niger (coordinates approximate, placed near Kirtachi)
+  lat: 12.9
+  lng: 2.4
+  sides:
+  - JNIM
+  - Niger Armed Forces
+  outcome: Camp destroyed.
+  forces: JNIM ambush and assault force; army engineer camp.
+  losses: 67 killed including several civilians (Wikipedia, 2026 in Niger).
+  significance: Part of JNIM's May offensive along the Niger River south of Niamey, alongside the overrun of a National Guard camp at Kirtachi (12+ soldiers killed, 7 captured).
+  sources:
+  - *id028
+  - *id007
+  - *id013
+- id: niamey-airport-jnim-2026
+  name: JNIM attack on Niamey airport
+  conflict: sahel-jihadist-insurgency
+  tier: mid
+  start: '2026-06-18'
+  end: '2026-06-18'
+  place: Diori Hamani International Airport and air base, Niamey, Niger
+  lat: 13.4815
+  lng: 2.1836
+  sides:
+  - JNIM
+  - Niger Armed Forces
+  outcome: Repelled after more than two hours of fighting.
+  forces: JNIM assault team; airport garrison.
+  losses: 11 security personnel and 2 civilians killed, 22 attackers killed, about 20 arrested (government).
+  significance: 'Second attack on the capital''s airport in six months, this time by JNIM, a day after ISSP overran In-Ates and Banibangou: evidence the rivals are competing through spectacular attacks.'
+  sources:
+  - *id029
+  - *id013
+  - *id028
+- id: doungourou-ambush-2026
+  name: Doungourou ambush on the Bankilare-Tera road
+  conflict: sahel-jihadist-insurgency
+  tier: mid
+  start: '2026-07-17'
+  end: '2026-07-17'
+  place: Near Doungourou, Tera department, Tillaberi region, Niger (coordinates approximate)
+  lat: 14.3
+  lng: 0.75
+  sides:
+  - Jihadist militants (group not named)
+  - Niger Armed Forces
+  outcome: Heavy army losses; attackers withdrew under air attack.
+  forces: Army detachment with air support in the counterattack.
+  losses: 'Official: 16 soldiers killed, 23 wounded; RFI: at least 47 killed including the detachment commander, 50+ wounded; government says 15 attackers killed.'
+  significance: Illustrates the gap between official and independent tolls in Niger's deadliest region.
+  sources:
+  - *id030
+- id: niamey-coup-attempt-2026
+  name: Niamey coup attempt
+  conflict: sahel-jihadist-insurgency
+  tier: mid
+  start: '2026-08-29'
+  end: '2026-08-30'
+  place: Niamey (presidency, Air Base 101, state broadcaster), Niger
+  lat: 13.5137
+  lng: 2.1098
+  sides:
+  - Mutinous army units (Ouallam, Tera, Dosso)
+  - Presidential Guard, Africa Corps
+  outcome: Coup failed; Base 101 recaptured on 29 Aug with Russian support.
+  forces: Mutineers reportedly seized the airport, Turkish drones there, state TV and radio; Africa Corps gave air and ground support to Tiani.
+  losses: No official toll; some mutineers killed; several Russians reportedly captured during the attempt.
+  significance: Revealed frontline anger over the Presidential Guard's privileges, and that Russia is now a regime-protection force in Niger; Algeria sent Su-30s afterwards.
+  sources:
+  - *id031
+  - *id028
+- id: burkina-february-offensive-2026
+  name: JNIM February offensive in Burkina Faso (Titao and Tandjari)
+  conflict: sahel-jihadist-insurgency
+  tier: major
+  start: '2026-02-12'
+  end: '2026-02-22'
+  place: Titao (Nord) and Tandjari near Fada N'Gourma (Est), Burkina Faso; mapped at Titao
+  lat: 13.7667
+  lng: -2.0667
+  sides:
+  - JNIM
+  - Burkina Faso army, VDP, forest guards
+  outcome: JNIM claimed heavy losses inflicted; Titao base attacked.
+  forces: Coordinated JNIM attacks, at least 10 claimed and 30+ recorded by ACLED across Est, Centre-Nord and Nord.
+  losses: About 50 forest guards killed at Tandjari; about 10 civilians at Titao including seven Ghanaian traders; over 130 killed overall (ACLED's Nsaibia); 120+ soldiers, forest guards and VDP (ACLED).
+  significance: Marked JNIM's return to large operations in Burkina after months focused on the Mali blockade.
+  sources:
+  - *id010
+  - *id009
+- id: tri-border-coordinated-attacks-2026
+  name: JNIM coordinated attacks across the Burkina-Niger border
+  conflict: sahel-jihadist-insurgency
+  tier: mid
+  start: '2026-06-30'
+  end: '2026-06-30'
+  place: Sebba, Solhan, Gayeri (Burkina Faso) and Makalondi, Torodi, Diagourou (Niger); mapped at Sebba
+  lat: 13.4364
+  lng: 0.5306
+  sides:
+  - JNIM
+  - Burkina Faso and Niger armed forces
+  outcome: Most attacks repelled; Diagourou not repelled.
+  forces: Simultaneous JNIM assaults on six positions in two countries.
+  losses: Burkina claimed 400+ militants killed, 250+ motorcycles and 353 weapons seized (government claim, ACLED-reported).
+  significance: Shows cross-border command and control by JNIM on both sides of the frontier.
+  sources:
+  - *id013
+- id: kofouno-pendjari-raids-2026
+  name: JNIM raids on Kofouno and Pendjari Lodge positions
+  conflict: coastal-west-africa-spillover
+  tier: mid
+  start: '2026-03-04'
+  end: '2026-03-07'
+  place: Kofouno, Alibori, and former Pendjari Lodge, Atacora, Benin (mapped at Kofouno, approximate)
+  lat: 11.95
+  lng: 3.05
+  sides:
+  - JNIM
+  - Benin Armed Forces
+  outcome: Bases pillaged and burned; attackers withdrew under air attack.
+  forces: JNIM assault groups; Benin garrisons with air support.
+  losses: 'Benin army: 15 soldiers killed and 5 wounded at Kofouno; 21 militants killed in total. JNIM claimed 11 soldiers killed across both. An M113 APC seized.'
+  significance: Benin's deadliest raid of 2026, during its election season, showing JNIM's ability to hit fixed positions along the Niger border.
+  sources:
+  - *id032
+  - *id006
+- id: papiri-school-abduction-2025
+  name: St Mary's Catholic School abduction, Papiri
+  conflict: nigeria-northwest-banditry-and-jihadists
+  tier: mid
+  start: '2025-11-21'
+  end: '2025-12-21'
+  place: Papiri, Agwara LGA, Niger state, Nigeria (coordinates approximate)
+  lat: 10.6
+  lng: 4.7
+  sides:
+  - Armed gang (unclaimed)
+  - Nigerian security forces
+  outcome: 50 students escaped within two days; the remaining 130 students and teachers were freed by 21 Dec 2025.
+  forces: Gunmen raiding a boarding school.
+  losses: 303 students and 12 teachers abducted (Wikipedia, 2025 in Nigeria).
+  significance: One of the largest school abductions in Nigeria's history; it came amid US 'Christian persecution' claims and fed pressure for US action.
+  sources:
+  - *id015
+- id: us-strikes-sokoto-2025
+  name: US strikes on Islamic State-linked camps in Sokoto
+  conflict: nigeria-northwest-banditry-and-jihadists
+  tier: mid
+  start: '2025-12-25'
+  end: '2025-12-25'
+  place: Warriya, Alkasim and Kawuri, Malgum and Bauni forests near Jabo, Sokoto state, Nigeria (coordinates approximate)
+  lat: 12.45
+  lng: 4.85
+  sides:
+  - United States (with Nigerian intelligence)
+  - Lakurawa / IS-linked militants
+  outcome: Strikes carried out; US claimed multiple militants killed; some munitions failed to detonate.
+  forces: More than a dozen ship-launched missiles (ACLED; Pentagon video).
+  losses: 'US: ''multiple'' ISIS fatalities (unverified); a local witness denied fighters were killed.'
+  significance: The first US strikes in Nigeria in ACLED's records since 1997; opened a phase of direct US military involvement.
+  sources:
+  - *id012
+  - *id016
+- id: woro-nuku-massacre-2026
+  name: Woro and Nuku massacre
+  conflict: nigeria-northwest-banditry-and-jihadists
+  tier: major
+  start: '2026-02-03'
+  end: '2026-02-04'
+  place: Woro and Nuku, Kaiama LGA, Kwara state, Nigeria
+  lat: 9.74
+  lng: 4.2058
+  sides:
+  - Boko Haram (JAS) cell in the Borgu forests (blamed by Tinubu and analysts)
+  - Villagers
+  outcome: Massacre; Operation Savanna Shield launched in response.
+  forces: Jihadist gunmen attacking from about 17:30 to about 03:00.
+  losses: 162 killed (Red Cross, state officials), later reported over 200; 38 abducted; about 38 homes and the Woro ruler's palace destroyed. About 95% of victims reportedly Muslim.
+  significance: One of Nigeria's deadliest single attacks in years, far from the northeast, showing jihadist reach into the Kainji-Borgu belt near Benin.
+  sources:
+  - *id033
+  - *id014
+- id: iswap-ramadan-base-raids-2026
+  name: ISWAP Ramadan raids on Borno and Yobe bases
+  conflict: nigeria-northeast-jihadist-insurgency
+  tier: major
+  start: '2026-03-01'
+  end: '2026-03-09'
+  place: Mayanti, Konduga, Mainok, Jakana, Marte, Kukawa (Borno) and Goniri (Yobe), Nigeria; mapped at Konduga
+  lat: 11.6517
+  lng: 13.4178
+  sides:
+  - ISWAP
+  - Nigerian Army (Operation Hadin Kai)
+  outcome: Several bases breached; army claimed 'scores' of militants killed; Goniri attack repelled.
+  forces: Coordinated night attacks on at least six positions including the 222 Battalion at Konduga.
+  losses: At least 14 soldiers killed on 4-5 Mar (Wikipedia); Lt. Col. S.I. Iliyasu (Konduga), Lt. Col. Umar Farouq (Kukawa) and FOB commander Umar Ibrahim Mairiga (Mayanti) killed; 12 soldiers and 3 civilians killed on 9 Mar.
+  significance: Three unit commanders killed in about a week, a sign of ISWAP's ability to synchronise raids across the theatre.
+  sources:
+  - *id034
+  - *id014
+- id: maiduguri-bombings-2026
+  name: Maiduguri triple suicide bombing
+  conflict: nigeria-northeast-jihadist-insurgency
+  tier: mid
+  start: '2026-03-16'
+  end: '2026-03-16'
+  place: Maiduguri, Borno state, Nigeria
+  lat: 11.8333
+  lng: 13.15
+  sides:
+  - Boko Haram (JAS)
+  - Civilians, Nigerian security forces
+  outcome: Bombings at the post office, Monday market and the teaching hospital gate; ISWAP clashed with forces on the outskirts the same day.
+  forces: Three suicide bombers.
+  losses: At least 23 killed (ACLED).
+  significance: Fifth suicide attack of 2026 and evidence of renewed urban terrorism in the state capital.
+  sources:
+  - *id006
+  - *id014
+- id: minuki-raid-2026
+  name: US-Nigerian operation killing Abu Bilal al-Minuki
+  conflict: nigeria-northeast-jihadist-insurgency
+  tier: mid
+  start: '2026-05-16'
+  end: '2026-05-17'
+  place: Northeastern Nigeria, Lake Chad Basin (exact location not disclosed; coordinates approximate)
+  lat: 13.2
+  lng: 13.8
+  sides:
+  - United States, Nigerian Armed Forces
+  - Islamic State (Al Furqan office), ISWAP
+  outcome: Al-Minuki and several senior IS figures reported killed; follow-up AFRICOM strikes 17 May.
+  forces: Joint US-Nigerian operation ordered by President Trump.
+  losses: Al-Minuki and unnamed senior leaders (AFRICOM; IS has not confirmed).
+  significance: Removed the head of IS's regional office for the Sahel, West and North Africa, possibly the head of its global provinces directorate; demonstrated a US kinetic role in Nigeria.
+  sources:
+  - *id035
+  - *id036
+- id: monguno-guzamala-air-campaign-2026
+  name: Nigerian air campaign in Monguno and Guzamala
+  conflict: nigeria-northeast-jihadist-insurgency
+  tier: mid
+  start: '2026-10-10'
+  end: '2026-10-18'
+  place: Badu, Arina Woje (Monguno LGA), Mairari, Gudumbali (Guzamala LGA), Borno; Duste Uku, Adamawa (mapped at Monguno)
+  lat: 12.6744
+  lng: 13.6119
+  sides:
+  - Nigerian Army Aviation, NARPAS regiment, air component
+  - ISWAP
+  outcome: Seven strikes; logistics hubs, boat engines and motorcycles destroyed (army claim).
+  forces: Army Aviation, Remotely Piloted Aircraft regiment, a 'Guardian' ISR asset.
+  losses: 103 ISWAP fighters killed (army claim, unverified), including about 30 at a gathering on 13 Oct; ISWAP Wali Abu Saleem's chief guard and a Shura member reported killed on 18 Oct.
+  significance: The latest large Nigerian air operation in the window, targeting ISWAP's South Lake Chad leadership.
+  sources:
+  - *id037
+- id: barka-tolorom-attack-2026
+  name: Boko Haram attack on Barka Tolorom island garrison
+  conflict: lake-chad-basin-cameroon-chad
+  tier: mid
+  start: '2026-05-04'
+  end: '2026-05-04'
+  place: Barka Tolorom island, Lac province, Chad (coordinates approximate)
+  lat: 13.4
+  lng: 14.1
+  sides:
+  - Boko Haram (JAS)
+  - Chadian Armed Forces
+  outcome: Garrison attacked; heavy army losses.
+  forces: Boat-borne JAS fighters; island garrison.
+  losses: 23 soldiers killed (Wikipedia, 2026 in Chad).
+  significance: Chad's deadliest jihadist attack in the window, showing JAS's continued strength on the lake islands.
+  sources:
+  - *id038
+- id: ndzerem-nyam-raid-2026
+  name: Army raid at Ndzerem-Nyam, Jakiri
+  conflict: cameroon-anglophone-crisis
+  tier: mid
+  start: '2026-04-26'
+  end: '2026-04-26'
+  place: Ndzerem-Nyam, Jakiri, Bui division, Northwest region, Cameroon (coordinates approximate)
+  lat: 6.1
+  lng: 10.65
+  sides:
+  - Cameroon Armed Forces
+  - Ambazonian separatists
+  outcome: Separatist camp raided.
+  forces: Army raiding force.
+  losses: At least 14 separatist fighters and 6 civilians killed; 38 motorcycles burned (Wikipedia timeline).
+  significance: Deadliest single event in the conflict found for the window; came days after the papal ceasefire ended.
+  sources:
+  - *id039
+- id: fall-of-uvira-2025
+  name: M23 Uvira offensive and capture of Uvira
+  conflict: eastern-drc-m23-war
+  tier: major
+  start: '2025-12-02'
+  end: '2025-12-11'
+  place: Uvira and the Ruzizi Plain, South Kivu, DR Congo
+  lat: -3.3953
+  lng: 29.1378
+  sides:
+  - M23 with Rwandan army support
+  - FARDC, Wazalendo, Burundian FDNB
+  outcome: M23 took Lubarika (2 Dec), Luvungi (4 Dec), Sange (8 Dec) and Uvira (9-10 Dec), advancing to Makobola; it withdrew under US pressure in January and FARDC returned on 18 Jan 2026.
+  forces: M23 with 'significant Rwandan army support' (CTP); about 18,000 Burundian troops in South Kivu at the time.
+  losses: At least 400 killed (regional authorities and UN); about 200,000 displaced; M23 said it captured several hundred Burundian soldiers; 171 bodies later found in mass graves.
+  significance: Came days after the Washington accords were signed; took the last government stronghold in South Kivu and the gateway to Burundi, triggering the worst Burundi-Rwanda tension in years.
+  sources:
+  - *id040
+  - *id041
+  - *id012
+  - *id020
+  - *id019
+- id: kisangani-drone-attacks-2026
+  name: M23 kamikaze drone attacks on Kisangani airport
+  conflict: eastern-drc-m23-war
+  tier: mid
+  start: '2026-01-31'
+  end: '2026-03-02'
+  place: Bangoka International Airport, Kisangani, Tshopo, DR Congo
+  lat: 0.4817
+  lng: 25.338
+  sides:
+  - M23/AFC
+  - FARDC
+  outcome: Repeated strikes on the FARDC command and drone hub; first wave of eight drones reportedly neutralised.
+  forces: Kamikaze drones with submunitions.
+  losses: No casualties reported in the first attack.
+  significance: The deepest strike of the war, showing M23 can reach the government's rear air bases.
+  sources:
+  - *id042
+  - *id009
+  - *id019
+- id: rubaya-drone-strike-2026
+  name: FARDC drone strike killing M23 spokesman Willy Ngoma
+  conflict: eastern-drc-m23-war
+  tier: mid
+  start: '2026-02-24'
+  end: '2026-02-24'
+  place: Near Rubaya mines (Kishusha), Masisi, North Kivu, DR Congo
+  lat: -1.555
+  lng: 28.887
+  sides:
+  - FARDC
+  - M23
+  outcome: Ngoma and several senior figures killed.
+  forces: FARDC armed drones (CH-4 and Anka in service per ACLED).
+  losses: Willy Ngoma and at least eight to nine others killed.
+  significance: Highlight of the record February 2026 air campaign; M23 counterattacked in late February.
+  sources:
+  - *id009
+  - *id019
+  - *id042
+- id: southern-masisi-offensive-2026
+  name: Government offensive in southern Masisi
+  conflict: eastern-drc-m23-war
+  tier: major
+  start: '2026-09-07'
+  end: ongoing
+  place: Kazinga, Kibabi, Ufamandu and Katoyi, Masisi, North Kivu, DR Congo (mapped near Kibabi, approximate)
+  lat: -1.58
+  lng: 28.84
+  sides:
+  - FARDC (incl. 'Black Mambas'), Wazalendo, possibly FDLR/Nyatura
+  - M23/FRN
+  outcome: 'Government gains: Kazinga (12 Sept), hill near Kibabi (15 Sept), Katuunda, Kaleta, Miano, Muhororo, Kasake (16 Sept), Kasake, Shovu, Kawele, Nyakigano (8 Oct); M23 counterattacks continue around Ngungu and Remeka.'
+  forces: FARDC special forces and Wazalendo; M23 reinforcements from Rutshuru.
+  losses: No reliable figures; displacement waves reported.
+  significance: The most notable government ground gains against M23 since early 2025, pressing toward the Rubaya coltan mines.
+  sources:
+  - *id043
+  - *id044
+  - *id021
+  - *id045
+- id: mulima-vectus-ambush-2026
+  name: Ambush of Vectus Global contractors near Mulima
+  conflict: eastern-drc-m23-war
+  tier: mid
+  start: '2026-09-17'
+  end: '2026-09-17'
+  place: Mulima, near Point Zero, Minembwe highlands, South Kivu, DR Congo (coordinates approximate)
+  lat: -3.55
+  lng: 29.0
+  sides:
+  - FRN/M23 and Twirwaneho
+  - FARDC with Vectus Global contractors
+  outcome: Contractor column ambushed while moving to encircle Minembwe.
+  forces: Vectus Global contractor contingent; Twirwaneho fighters.
+  losses: At least 20 killed or wounded, including Tim Kennedy (wounded, evacuated) and New Zealander Justin Conaglen (killed). Several Colombian mercenaries killed earlier in September (NYT via CTP).
+  significance: Exposed the Western private-military role in Kinshasa's war; Reuters reported Rwandan forces may have tracked a contractor drone to the site.
+  sources:
+  - *id021
+- id: kaziba-walungu-offensive-2026
+  name: FRN offensive in the Kaziba and Walungu highlands
+  conflict: eastern-drc-m23-war
+  tier: major
+  start: '2026-10-11'
+  end: ongoing
+  place: Kaziba, Muhumba, Mitimbili and Munanira, Walungu territory, South Kivu, DR Congo (coordinates approximate)
+  lat: -2.88
+  lng: 28.93
+  sides:
+  - FRN/M23
+  - FARDC and Wazalendo
+  outcome: Ten-plus days of fighting; FRN dislodged Wazalendo from several hills near Kaziba centre and pushed toward Kamanyola; FARDC reinforced Luvungi and Lubarika after retaking Muhungu.
+  forces: FRN infantry with drones; FARDC drones; Wazalendo militias.
+  losses: No figures; more than 12,000 households displaced in Kaziba (Actualite.cd via CTP).
+  significance: First major FRN offensive after Kabila took over; FRN says its aim is Uvira and then Kalemie.
+  sources:
+  - *id021
+- id: irumu-adf-attack-2026
+  name: ADF massacre in Irumu territory
+  conflict: drc-adf-insurgency
+  tier: mid
+  start: '2026-02-08'
+  end: '2026-02-08'
+  place: Irumu territory, Ituri, DR Congo (exact villages not given; mapped at Irumu town)
+  lat: 1.4497
+  lng: 29.8694
+  sides:
+  - ADF/ISCAP
+  - Civilians
+  outcome: Massacre.
+  forces: ADF raiders.
+  losses: 66 killed (Wikipedia, 2026 in the DRC).
+  significance: Deadliest ADF attack found in the window; part of the group's northward shift into Ituri.
+  sources:
+  - *id019
+- id: mambasa-adf-attack-2026
+  name: ADF massacre in Mambasa
+  conflict: drc-adf-insurgency
+  tier: mid
+  start: '2026-04-02'
+  end: '2026-04-02'
+  place: Mambasa territory, Ituri, DR Congo
+  lat: 1.3597
+  lng: 29.0386
+  sides:
+  - ADF/ISCAP
+  - Civilians
+  outcome: Massacre.
+  forces: ADF raiders.
+  losses: At least 43 civilians killed (Wikipedia, 2026 in the DRC).
+  significance: Marked Mambasa as a new ADF hotspot ahead of May's spike (149 civilian deaths in Ituri).
+  sources:
+  - *id019
+  - *id007
+- id: catupa-forest-fighting-2026
+  name: Battles for the Catupa forest
+  conflict: mozambique-cabo-delgado-insurgency
+  tier: mid
+  start: '2026-01-31'
+  end: '2026-02-23'
+  place: Catupa forest near the N380 and Quinto Congresso, Macomia/Muidumbe, Cabo Delgado, Mozambique (coordinates approximate)
+  lat: -11.85
+  lng: 40.15
+  sides:
+  - Islamic State Mozambique
+  - FADM, Rwanda Defence Force, police, Local Force
+  outcome: ISM overran two FADM positions, retook the Catupa position (8 Feb) and still controls the forest.
+  forces: ISM fighters; FADM positions; RDF and police reinforcements.
+  losses: IS claimed 9 FADM killed (31 Jan); 5 FADM and 3 militants killed (8 Feb); 4 killed in convoy ambush incl. a child (22 Feb); at least 15 killed incl. 3 Rwandan soldiers (23 Feb).
+  significance: Showed ISM can hold ground next to the main N380 highway as the LNG project restarted.
+  sources:
+  - *id046
+  - *id009
+- id: calugo-bay-killing-2026
+  name: FADM navy shooting of fishers in Calugo bay
+  conflict: mozambique-cabo-delgado-insurgency
+  tier: mid
+  start: '2026-03-15'
+  end: '2026-03-15'
+  place: Calugo bay near Mocimboa da Praia, Cabo Delgado, Mozambique (coordinates approximate)
+  lat: -11.4
+  lng: 40.4
+  sides:
+  - Mozambique navy (FADM)
+  - Civilian fishers
+  outcome: Commanders admitted responsibility at a public meeting on 25 Mar.
+  forces: FADM vessel; six fishing boats.
+  losses: At least 13 fishers killed, 3 injured (ACLED; Wikipedia).
+  significance: Part of a pattern of at least 85 fishers killed by security forces since Jan 2024, which feeds coastal grievances ISM exploits.
+  sources:
+  - *id006
+  - *id046
+- id: niassa-incursion-2026
+  name: ISM incursion into Montepuez and Niassa
+  conflict: mozambique-cabo-delgado-insurgency
+  tier: mid
+  start: '2026-07-27'
+  end: '2026-10-04'
+  place: Ntola and Shamba Kubwa (Montepuez, Cabo Delgado) to Marrupa (Niassa), Mozambique; mapped near Shamba Kubwa/Nairoto, approximate
+  lat: -12.45
+  lng: 39.1
+  sides:
+  - Islamic State Mozambique
+  - FADM
+  outcome: ISM force split into small groups after FADM attacks but raided a hunting camp and extracted a ransom.
+  forces: ISM force of up to 150 fighters; FADM blocking forces on the Lugenda river and R698.
+  losses: 16+ ISM killed at Shamba Kubwa (1 Aug); 2 hunting camp staff killed (3 Sept); 3 hostages freed for about US$53,000 (4 Oct).
+  significance: ISM's first incursion into Niassa since May 2025 and evidence of a support network deep inland; led to a US 'do not travel' warning for Niassa.
+  sources:
+  - *id047
+  - *id048

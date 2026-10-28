@@ -51,7 +51,7 @@ Keep `news:` to the last 365 days. Move older items into `content/news-archive/<
 
 ## 2. Conflicts and battles
 
-Conflict data lives in `content/military/*.yaml` (one file per region) and bases in `content/bases.yaml`. The schemas are in the comments at the top of those files and in `scripts/military.py`.
+Conflict data lives in `content/military/*.yaml`, one file per region: `europe-russia-ukraine`, `middle-east-iran-gulf-yemen`, `middle-east-levant-iraq`, `africa-east-north`, `africa-west-central`, `asia-pacific` and `americas`. Bases and chokepoints are in `content/bases.yaml`. The schemas are in `scripts/military.py`; copy the shape of an existing entry when you add one.
 
 For every conflict that today's news touches:
 

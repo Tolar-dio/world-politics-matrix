@@ -42,6 +42,20 @@
         <p>${u.event}</p>
         <p class="up-ctry">${u.countries.map((iso) => byId.get(iso)).filter(Boolean).map((e) => `<a href="./#${e.id}">${esc(e.flag)} ${esc(e.name)}</a>`).join(' ')}</p>
       </li>`).join('') : '<li><p>Nothing scheduled yet.</p></li>';
+    // Phones show the calendar above the feed, so keep it short until asked.
+    const extra = news.upcoming.length - 3;
+    const more = $('#upcoming-more');
+    if (more) more.remove();
+    if (extra > 0) {
+      $('#upcoming').classList.add('is-clipped');
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.id = 'upcoming-more';
+      btn.className = 'up-more';
+      btn.textContent = `Show ${extra} more`;
+      btn.addEventListener('click', () => { $('#upcoming').classList.remove('is-clipped'); btn.remove(); });
+      $('#upcoming').after(btn);
+    }
   }
 
   async function boot() {
