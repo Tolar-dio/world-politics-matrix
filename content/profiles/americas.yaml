@@ -148,12 +148,21 @@ CAN:
   system: const-monarchy
   story: shock
   snapshot: >-
-    Canada walked out of trade talks and hit back with tariffs of its own after Trump imposed 50 percent duties, with three in four Canadians backing the fight.
+    Canada hit back with tariffs of its own after Trump imposed 50 percent duties; in October 2026 Albertans voted three to one to stay in Canada as trade talks picked up.
   tags: [Trade war with the US, Multicultural, Hockey, Resource economy, Bilingual]
   culture: >-
     Canada defines itself by its bilingualism, with French-speaking Quebec a distinct nation within it, and by an official multiculturalism; more than a fifth of residents were born abroad. Hockey is the national passion. First Nations, Inuit and Métis cultures have gained recognition after a reckoning with residential schools. Toronto and Montreal are major hubs for film, music and AI research.
   society: >-
     Canada exports oil, minerals, timber and cars, three-quarters of them to the United States, which makes the trade war an existential threat. Housing costs have soared, especially in Toronto and Vancouver. Public healthcare is a point of national pride, though waiting times are long. Immigration targets were cut in 2024 after a population surge.
+  update: >-
+    On 19 October Albertans voted by about three to one to stay in Canada in a provincial referendum, a result
+    Prime Minister Mark Carney hailed as a choice for unity. On 23 October Trump said he would lift some of his
+    50 percent tariffs on Canadian goods while adding new tariffs on dozens of other products, and on 26 October
+    Carney said trade talks had picked up because Washington was moving toward Canada's position.
+  update_date: 2026-10-26
+  sources_extra:
+    - {label: "PBS (AP): Alberta voters reject independence from Canada", url: "https://www.pbs.org/newshour/world/alberta-voters-reject-independence-from-canada-in-victory-for-carney"}
+    - {label: "ABC News (AP): Carney says Trump moving closer to Canada's trade demands", url: "https://abcnews.com/Business/wireStory/carney-trump-moving-closer-canadas-trade-demands-midterms-137585685"}
 
 CHL:
   pop: 19.9

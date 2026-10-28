@@ -77,12 +77,23 @@ ISR:
   system: parliamentary
   story: election
   snapshot: >-
-    Israelis vote on 27 October 2026 in the first election after a full term since 1988, with Naftali Bennett leading a merged opposition against Benjamin Netanyahu.
+    Israel voted on 27 October 2026 on record turnout; Netanyahu's bloc leads the count but is short of a majority, setting up hard coalition talks.
   tags: [Election day 27 October, Gaza war aftermath, Iran war, Tech hub, Deep divisions]
   culture: >-
     Israel's culture mixes Jewish traditions from Europe, the Middle East and North Africa, Hebrew revived as a spoken language, and a large Arab minority. Shabbat shapes the week. Tel Aviv is a secular tech and nightlife hub, while Jerusalem holds sites sacred to Jews, Christians and Muslims. Israeli TV dramas like "Fauda" and "Shtisel" have found global audiences.
   society: >-
     Israel is a high-tech economy with mandatory military service for most Jewish citizens. Ultra-Orthodox exemption from the draft, judicial reform and the role of religion divide society. The 7 October 2023 Hamas attack, which killed about 1,200 people, and the war in Gaza that followed, which killed tens of thousands of Palestinians, transformed politics and Israel's standing in the world.
+  update: >-
+    Israelis voted on 27 October with turnout of 77.7 percent, the highest since 1999. With about three quarters
+    of votes counted, Netanyahu's bloc was on course for about 54 of 120 seats, the opposition led by Gadi
+    Eisenkot for 47 to 49 and Arab-led parties for 17 to 19, leaving no bloc with a majority. Netanyahu said he
+    would form a right-wing government and ruled out depending on Arab parties. Official results are due on 4
+    November, after which President Herzog consults party leaders; Netanyahu remains prime minister until a new
+    government is sworn in.
+  update_date: 2026-10-28
+  sources_extra:
+    - {label: "Al Jazeera: Five key takeaways from Israel's parliamentary elections", url: "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections"}
+    - {label: "Times of Israel: election count liveblog, 28 October 2026", url: "https://www.timesofisrael.com/liveblog-october-28-2026/"}
 
 JOR:
   pop: 11.5
@@ -260,6 +271,14 @@ ARE:
     In half a century the Emirates went from pearl-diving villages to a global crossroads; around nine in ten residents are foreigners, and Dubai's malls, the Burj Khalifa and Abu Dhabi's Louvre symbolise the transformation. Emirati culture keeps falconry, camel racing and the kandura and abaya dress. The UAE has promoted itself as a hub for religious tolerance, building the Abrahamic Family House.
   society: >-
     Oil wealth, concentrated in Abu Dhabi, funds the federation, while Dubai lives from trade, aviation, property and tourism. The UAE has invested heavily in AI, space and renewable energy. Political parties are banned and critics jailed. It normalised ties with Israel in 2020 and has backed forces in Sudan, Libya and Yemen.
+  update: >-
+    On 9 October a laden supertanker anchored about 13 nautical miles off the UAE coast was hit by an
+    unidentified projectile amid a wave of attacks on Gulf shipping. Oil from the tanker reached the shore, and
+    on 23 October the environment ministry closed all beaches in Umm Al Quwain.
+  update_date: 2026-10-23
+  sources_extra:
+    - {label: "Arab News (Reuters): Oil tanker struck by projectile off UAE coast", url: "https://www.arabnews.com/middle-east/oil-tanker-struck-by-projectile-off-uae-coast-amid-surge-in-attacks-3005496"}
+    - {label: "Baird Maritime (Reuters): Tanker oil spill off UAE forces full shutdown of local beaches", url: "https://www.bairdmaritime.com/security/emergency-services/pollution-control/tanker-oil-spill-off-uae-forces-full-shutdown-of-local-beaches"}
 
 YEM:
   pop: 41.8

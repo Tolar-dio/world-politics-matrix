@@ -1,5 +1,114 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-10-28'
+  countries: [ISR]
+  category: political
+  headline: "Israel count shows Netanyahu bloc ahead but short of a majority"
+  summary: "With about three quarters of votes counted, Netanyahu's bloc was on course for about 54 of 120 seats, the Eisenkot-led opposition for 47 to 49 and Arab-led parties for 17 to 19, so no side has 61. Turnout was 77.7 percent, the highest since 1999. Netanyahu said he would form a 'right-wing, national' government and ruled out relying on Arab parties; official results are due on 4 November, after which President Herzog consults party leaders."
+  sources:
+  - label: "Al Jazeera: Five key takeaways from Israel's parliamentary elections"
+    url: https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections
+  - label: "Times of Israel: Likud-led bloc leads count with 54 seats, short of majority"
+    url: https://www.timesofisrael.com/liveblog-october-28-2026/
+  - label: "CNN: Israel election results live"
+    url: https://www.cnn.com/2026/10/28/world/live-news/israel-election-result-live-latest-netanyahu-eisenkot-intl
+- date: '2026-10-28'
+  countries: [SYR, JOR]
+  category: diplomatic
+  conflict: syria-transition-conflict
+  headline: "Syria-Jordan border reopens as the two set up a probe into Jordanian strikes"
+  summary: "The Nassib crossing reopened after Syria and Jordan agreed to form a joint security committee to investigate Jordan's 26 October strikes on suspected Islamic State sites, which Syria says killed at least seven civilians. Jordan's foreign minister expressed 'deep regret' over civilian deaths. It matters because it contains a rift that had closed Jordan's only crossing with Syria."
+  sources:
+  - label: "Al Jazeera: Syria-Jordan border reopens amid probe into deadly air strikes"
+    url: https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes
+- date: '2026-10-27'
+  countries: [USA, IRN, SAU, ARE, QAT]
+  category: military
+  conflict: iran-war-2026
+  headline: "US reportedly tells Gulf states to prepare for short, intense Iran campaign after midterms"
+  summary: "The Wall Street Journal reported that Washington told Gulf governments to prepare for a short but intense campaign against Iran after the 3 November midterms, possibly targeting infrastructure and nuclear sites, with a Patriot battery moving from Texas and another carrier group due in November. Trump has reportedly not decided and mediators are still seeking a deal. It matters because it is the clearest sign yet that the war could resume within weeks."
+  sources:
+  - label: "Ynet: US urges Gulf allies to prepare for possible Iran strikes after midterms, report says"
+    url: https://www.ynetnews.com/article/s1c65jkazg
+  - label: "Anadolu: US warns Gulf states of possible 'short, intense' Iran war after midterms"
+    url: https://www.aa.com.tr/en/americas/us-warns-gulf-states-of-possible-short-intense-iran-war-after-midterms-report/4103239
+- date: '2026-10-27'
+  countries: [QAT, IRN, RUS]
+  category: diplomatic
+  conflict: iran-war-2026
+  headline: "Qatar's emir meets Iran's president at Moscow gas summit"
+  summary: "Sheikh Tamim bin Hamad Al Thani met President Pezeshkian on the sidelines of the Gas Exporting Countries Forum summit hosted by Putin, Iranian state media said; no agreements were announced. Qatar's foreign ministry urged Iran to stop threatening Gulf states. It matters because Qatar is a lead mediator on reopening Hormuz before any post-midterm US strikes."
+  sources:
+  - label: "Al Jazeera (AFP): Qatar's Emir meets Iran's Pezeshkian in Moscow"
+    url: https://www.aljazeera.com/news/2026/10/27/qatars-emir-meets-irans-pezeshkian-in-moscow
+- date: '2026-10-27'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Oleshky ceasefire begins as Russia hits Kyiv's Southern Bridge"
+  summary: "A localised humanitarian ceasefire in Russian-occupied Oleshky took effect at 03:00 Kyiv time, two days earlier than the White House had said, and runs to 1 November; ISW said both sides appeared to observe it. Overnight Russia fired 16 ballistic missiles and more than 280 drones, mainly at Kyiv, closing the Southern Bridge and hitting rescuers at a university campus in a follow-up strike. It matters because the strikes on logistics continued alongside the first ceasefire of any kind in months."
+  sources:
+  - label: "ISW/Critical Threats: Russian Offensive Campaign Assessment, October 27, 2026"
+    url: https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-27-2026-6ae13feb115c7
+  - label: "Al Jazeera: Kremlin downplays rare Putin call from leaders of Finland and Norway"
+    url: https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin
+- date: '2026-10-27'
+  countries: [RUS, FIN, NOR, UKR]
+  category: diplomatic
+  conflict: russia-ukraine-war
+  headline: "Finland's and Norway's leaders hold rare call with Putin"
+  summary: "President Stubb and Prime Minister Store called Putin from Helsinki ahead of the planned Abu Dhabi talks, pressing for fewer strikes on Ukraine's energy system and saying they spoke for their own countries, not Europe. Putin restated that a deal must reflect 'realities on the ground' and NATO expansion. It matters as the first direct contact in months between Nordic leaders and the Kremlin."
+  sources:
+  - label: "Al Jazeera: Kremlin downplays rare Putin call from leaders of Finland and Norway"
+    url: https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin
+  - label: "ISW/Critical Threats: Russian Offensive Campaign Assessment, October 27, 2026"
+    url: https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-27-2026-6ae13feb115c7
+- date: '2026-10-27'
+  countries: [COD, UGA]
+  category: humanitarian
+  headline: "Congo's Ebola outbreak passes 10,000 cases"
+  summary: "Congo's health ministry reported 10,060 confirmed cases and 4,887 deaths in the Bundibugyo Ebola outbreak declared in May, now in 66 health zones across eight provinces. It is the second-largest Ebola outbreak on record, and about 80 percent of new cases come from outside known transmission chains. It matters because there is no approved vaccine for this strain and the virus has reached Uganda, Kenya and Nigeria."
+  sources:
+  - label: "Al Jazeera (AP, Reuters): Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak"
+    url: https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak
+- date: '2026-10-27'
+  countries: [EGY]
+  category: political
+  headline: "Egyptian court orders closure of independent news site Mada Masr"
+  summary: "A New Cairo court ordered Mada Masr closed for operating without a licence, confiscated its equipment and fined editor Lina Attalah 3 million Egyptian pounds; she was briefly detained. Mada Masr says its licence applications have gone unanswered since 2018, and Amnesty called the ruling a 'crushing blow' to press freedom. It matters because it silences one of the last independent outlets in Egypt."
+  sources:
+  - label: "Al Jazeera: Egypt orders closure of leading independent news site Mada Masr"
+    url: https://www.aljazeera.com/news/2026/10/27/egypt-orders-closure-of-leading-independent-news-site-mada-masr
+- date: '2026-10-27'
+  countries: [PAK, AFG]
+  category: military
+  conflict: pakistan-afghanistan-war
+  headline: "Border fire at Angoor Adda kills a civilian, Pakistan says"
+  summary: "Pakistani officials said Afghan Taliban mortar fire hit homes and a bazaar at Angoor Adda in South Waziristan, killing one civilian and wounding five members of a family, and that the army destroyed several Afghan posts in response. The Taliban had not commented. It matters because border clashes have continued since Moscow talks ended without agreement."
+  sources:
+  - label: "Express Tribune: Army destroys Afghan border check posts after 5 of a family injured, one killed in Angoor Adda"
+    url: https://tribune.com.pk/story/2637240/army-destroys-afghan-border-check-posts-after-5-of-a-family-injured-one-killed-in-angoor-adda
+- date: '2026-10-26'
+  countries: [SDN]
+  category: military
+  conflict: sudan-saf-rsf
+  headline: "RSF drones black out eastern Sudan; Nyala market strike kills at least 21"
+  summary: "RSF drones hit power stations in Al-Jazira, Gedaref and White Nile states, leaving millions without electricity, and on 27 October struck the Al-Markhiyat transformer station that feeds Khartoum. A drone strike on a market in RSF-held Nyala killed at least 21 people and wounded 40, a hospital medic told AFP; a Sudanese rights group reported a much higher toll. It matters because both sides are now using drones against infrastructure and crowded markets."
+  sources:
+  - label: "Dawn (AFP): Sudan drone strikes kill 21, cause mass outages in east"
+    url: https://www.dawn.com/news/2040194
+  - label: "Africanews (AFP): Sudan experiences massive power outages after RSF drone strikes"
+    url: https://www.africanews.com/amp/2026/10/26/sudan-experiences-massive-power-outages-after-rsf-drone-strikes/
+  - label: "Washington Post: More than 100 people killed in Sudanese army drone attack on market, rights group says"
+    url: https://www.washingtonpost.com/world/2026/10/27/sudan-power-outage-capital-drone/1d4f0d34-d237-11f1-9931-2a41b76fc976_story.html
+- date: '2026-10-26'
+  countries: [SRB]
+  category: political
+  headline: "Protesters storm pro-Vucic Informer TV after election defeat"
+  summary: "About 30 people burst into the Belgrade newsroom of Informer TV during a second night of celebrations over the Student List's victory, surrounding its owner and editor; police cordoned off Pink TV. Vucic called it an attack on press freedom, and the Student List's lead candidate Ilija Srdanovic urged supporters to stay calm. It matters because the transfer of power after 14 years of SNS rule is still being negotiated."
+  sources:
+  - label: "Al Jazeera: Protesters storm Serbian pro-Vucic TV station after his loss at polls"
+    url: https://www.aljazeera.com/news/2026/10/27/protesters-storm-serbian-pro-vucic-tv-station-after-his-loss-at-polls
 - date: '2026-10-27'
   countries: [ISR]
   category: political
@@ -991,16 +1100,15 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
-- date: '2026-10-28'
-  countries: [ISR]
-  event: Israeli election results and start of President Herzog's consultations on who should form a government;
-    Netanyahu stays caretaker until a new government is sworn in
 - date: '2026-10-29'
-  countries: [UKR, RUS]
-  event: Oleshky humanitarian ceasefire due to start according to the White House (Russia announced it from 27 October)
+  countries: [CHN]
+  event: Chinese Communist Party Central Committee fifth plenum closes (opened 26 October)
 - date: '2026-10-31'
   countries: [SOM]
   event: UN Transitional Assistance Mission in Somalia support ends
+- date: '2026-11-01'
+  countries: [UKR, RUS]
+  event: Oleshky humanitarian ceasefire due to end at 22:59 Kyiv time (it began on 27 October)
 - date: '2026-11-01'
   countries: [BGR]
   event: Bulgarian presidential runoff, Iliana Iotova vs Andrey Gyurov
@@ -1011,6 +1119,10 @@ upcoming:
   countries: [USA, IRN, ISR]
   event: Period after the midterms flagged by Trump and reporting as when renewed US or Israeli strikes on Iran
     could come if mediation fails
+- date: '2026-11-04'
+  countries: [ISR]
+  event: Official publication of Israel's election results; President Herzog then consults party leaders on who
+    should form a government, with Netanyahu caretaker until a new government is sworn in
 - date: '2026-11-05'
   countries: [GRD]
   event: Grenada parliamentary election

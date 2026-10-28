@@ -121,6 +121,17 @@ BEL:
     Belgium is split between Dutch-speaking Flanders, French-speaking Wallonia and bilingual Brussels, with a small German-speaking community. It gave the world Tintin, the Smurfs, René Magritte, Art Nouveau architecture, and a beer culture that is UNESCO-listed. Cycling, especially the Tour of Flanders, is a religion in Flanders.
   society: >-
     Brussels hosts the EU institutions and NATO. Politics is fragmented along language lines, and forming governments can take more than a year. The economy is rich but carries high public debt, which De Wever's coalition is trying to cut. Flemish nationalism has grown, and Wallonia has struggled since its heavy industry declined.
+  update: >-
+    Budget talks in Bart De Wever's five-party coalition stalled in October, forcing him to cancel his 13
+    October State of the Union address and drop a contested VAT rise in favour of a one-year plan for 2027
+    saving about 3 to 4 billion euros, with a proposed 'debt brake' if no multi-year deal is reached by
+    December. As of 22 October there was still no agreement, with Vooruit pressing for higher taxes on the
+    wealthy and the liberal MR opposing tax rises, while public-sector unions struck again on 12 October.
+  update_date: 2026-10-22
+  sources_extra:
+    - {label: "Brussels Signal: Belgium settles for a one-year budget as full agreement stays out of reach", url: "https://brusselssignal.eu/2026/10/belgium-settles-for-a-one-year-budget-as-full-agreement-stays-out-of-reach/"}
+    - {label: "VRT: Noch immer kein Haushalt", url: "https://www.vrt.be/vrtnws/de/2026/10/22/noch-immer-kein-haushalt-die-belgische-regierung-findet-keinen/"}
+    - {label: "US News (Reuters): Belgium strike partly shuts public sector as budget deal delayed", url: "https://www.usnews.com/news/world/articles/2026-10-12/belgium-strike-partly-shuts-public-sector-as-budget-deal-delayed"}
 
 BIH:
   pop: 3.1
