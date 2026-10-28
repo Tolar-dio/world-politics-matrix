@@ -234,7 +234,8 @@
       })
       .onPolygonClick((f) => {
         if (!f) return;
-        if (f.properties.zone) openConflict(f.properties.conflict);
+        if (markerClaimed()) return;
+        if (f.properties.zone) openConflict(f.properties.conflict, { fromGlobe: true });
         // Country pages belong to Politics mode; in Conflicts a miss near a marker does nothing.
         else if (f.properties.id && state.mode === 'politics') select(f.properties.id);
       })
@@ -250,7 +251,7 @@
       .pathDashAnimateTime(reduceMotion ? 0 : 14000)
       .pathTransitionDuration(0)
       .onPathHover((p) => setHoverMil(p ? { type: 'conflict', id: p.conflict, line: p.name } : null))
-      .onPathClick((p) => p && openConflict(p.conflict))
+      .onPathClick((p) => p && !markerClaimed() && openConflict(p.conflict, { fromGlobe: true }))
       .ringsData([])
       .ringColor(() => (t) => `rgba(185,71,60,${Math.max(0, 0.55 * (1 - t))})`)
       .ringMaxRadius('maxR').ringPropagationSpeed('speed').ringRepeatPeriod(2200).ringAltitude(0.0125)
@@ -271,6 +272,7 @@
     controls.maxDistance = 900;
     controls.addEventListener('start', () => { controls.autoRotate = false; });
     initZoom();
+    initMarkerPicking();
 
     sizeGlobe();
     applyTheme();
@@ -323,7 +325,12 @@
     if (fc && d.conflict !== fc) b.classList.add('dim');
     b.addEventListener('mouseenter', () => setHoverMil({ type: d.__type, id: d.id }));
     b.addEventListener('mouseleave', () => setHoverMil(null));
-    b.addEventListener('click', (ev) => { ev.stopPropagation(); d.__type === 'battle' ? openBattle(d.id) : openBase(d.id); });
+    // The globe listens for presses on its whole container, so without this a click on a
+    // marker also counts as a click on the zone or country underneath it.
+    ['pointerdown', 'pointerup', 'pointermove'].forEach((type) => b.addEventListener(type, (ev) => ev.stopPropagation()));
+    // Pointer and touch presses are resolved by pickMarker (nearest marker wins);
+    // this handler only serves keyboard activation, which reports detail 0.
+    b.addEventListener('click', (ev) => { ev.stopPropagation(); if (ev.detail === 0) openMarker(d.__type, d.id); });
     return b;
   }
 
@@ -891,13 +898,16 @@
     document.title = `${title}, World Politics Matrix`;
   }
 
-  function flyToPoint(lat, lng, alt) {
+  // closerOnly: centre on the target but never pull the camera back out.
+  function flyToPoint(lat, lng, alt, { closerOnly = false } = {}) {
     if (!world) return;
     // Phones show a narrower globe, so pull the camera back in proportion.
-    world.pointOfView({ lat, lng, altitude: alt * (mobileMQ.matches ? 2.2 : 1) }, reduceMotion ? 0 : 1100);
+    let altitude = alt * (mobileMQ.matches ? 2.2 : 1);
+    if (closerOnly) altitude = Math.min(altitude, world.pointOfView().altitude);
+    world.pointOfView({ lat, lng, altitude }, reduceMotion ? 0 : 1100);
   }
 
-  function flyToConflict(c) {
+  function flyToConflict(c, opts = {}) {
     const pts = c.zones.map((z) => [z.lat, z.lng]).concat(...c.lines.map((l) => l.points));
     if (!pts.length) {
       const e = byId.get(c.countries[0]);
@@ -909,7 +919,7 @@
     const away = (p) => Math.hypot(p[0] - lat, (p[1] - lng) * Math.cos((lat * Math.PI) / 180));
     const spread = Math.max(0.5, ...pts.map(away), ...c.zones.map((z) => away([z.lat, z.lng]) + z.r / 111));
     // At altitude a, the view spans roughly 27a degrees each way from the centre.
-    flyToPoint(lat, lng, Math.min(2.6, Math.max(0.06, spread * 0.06)));
+    flyToPoint(lat, lng, Math.min(2.6, Math.max(0.06, spread * 0.06)), opts);
   }
 
   const panelTop = (title, meta, flag = '') => `
@@ -928,11 +938,12 @@
   const section = (title, inner) => (inner ? `<section><h2>${title}</h2>${inner}</section>` : '');
   const pList = (list) => (list && list.length ? list.map((p) => `<p>${p}</p>`).join('') : '');
 
-  async function openConflict(id, { fly = true } = {}) {
+  async function openConflict(id, { fly = true, fromGlobe = false } = {}) {
     const light = conflictById.get(id);
     if (!light) return;
     focusMil('conflict', id, light.name);
-    if (fly) flyToConflict(light);
+    // Clicked on the map: stay where you are. Picked from a list: frame the whole war.
+    if (fly && !fromGlobe) flyToConflict(light);
     showPanel(`<p class="lead-in">Loading ${esc(light.name)}</p>`);
     let d;
     try { d = await loadConflict(id); } catch (err) {
@@ -978,7 +989,7 @@
     const light = battleById.get(id);
     if (!light) return;
     focusMil('battle', id, light.name);
-    flyToPoint(light.lat, light.lng, 0.3);
+    flyToPoint(light.lat, light.lng, 0.3, { closerOnly: true });
     const c = conflictById.get(light.conflict);
     let full = light;
     try {
@@ -1006,7 +1017,7 @@
     const b = baseById.get(id);
     if (!b) return;
     focusMil('base', id, b.name);
-    flyToPoint(b.lat, b.lng, 0.35);
+    flyToPoint(b.lat, b.lng, 0.35, { closerOnly: true });
     const host = b.country && byId.get(b.country);
     const facts = [
       ['Type', esc(KIND_LABEL[b.kind] || b.kind)],
@@ -1101,6 +1112,54 @@
     let alt = Math.min(2.4, Math.max(1.1, 0.9 + Math.sqrt(area) / 1400));
     if (mobileMQ.matches) alt += 0.55;
     world.pointOfView({ lat: e.lat, lng: e.lng, altitude: alt }, reduceMotion ? 0 : 1100);
+  }
+
+  /* ---------- marker picking: a press opens the marker whose centre is nearest ---------- */
+  // Markers in hot spots (Donbas, Gaza, the Red Sea coast) sit a few pixels apart, so
+  // hit areas would overlap and the topmost marker would steal the press. Instead, any
+  // press over the globe that lands within reach of a marker opens the closest one.
+  // Set when a press opens a marker; the globe's own click for the same press (which can
+  // arrive a frame or more later) sees it and stands down. Cleared by the next press.
+  let claimed = false;
+  const markerClaimed = () => { const c = claimed; claimed = false; return c; };
+
+  function openMarker(type, id) {
+    if (type === 'battle') openBattle(id); else openBase(id);
+  }
+
+  function initMarkerPicking() {
+    const el = $('#globe');
+    const down = new Map();
+    let multi = false;
+    el.addEventListener('pointerdown', (ev) => {
+      if (!down.size) claimed = false;
+      down.set(ev.pointerId, { x: ev.clientX, y: ev.clientY });
+      if (down.size > 1) multi = true;
+    }, true);
+    const lift = (ev) => {
+      const start = down.get(ev.pointerId);
+      down.delete(ev.pointerId);
+      const wasMulti = multi;
+      if (!down.size) multi = false;
+      if (!start || wasMulti || state.mode !== 'conflict') return;
+      if (Math.hypot(ev.clientX - start.x, ev.clientY - start.y) > 8) return; // a drag, not a press
+      const reach = ev.pointerType === 'touch' ? 24 : 14;
+      let best = null, bestD = reach;
+      el.querySelectorAll('.mk').forEach((m) => {
+        if (m.style.visibility === 'hidden') return;
+        const r = m.getBoundingClientRect();
+        const dist = Math.hypot(ev.clientX - (r.left + r.width / 2), ev.clientY - (r.top + r.height / 2)) - r.width / 2;
+        if (dist < bestD) { bestD = dist; best = m; }
+      });
+      if (!best) return;
+      claimed = true;
+      openMarker(best.dataset.type, best.dataset.id);
+    };
+    el.addEventListener('pointerup', lift, true);
+    // A tap is followed by a synthetic click at the same spot. By then the panel has slid up
+    // under the finger, so that click would land on a link in it. Cancel it.
+    el.addEventListener('touchend', (ev) => { if (claimed) ev.preventDefault(); }, { capture: true, passive: false });
+    el.addEventListener('pointercancel', (ev) => { down.delete(ev.pointerId); if (!down.size) multi = false; }, true);
   }
 
   /* ---------- zoom: every pinch and scroll over the globe zooms the globe ---------- */
