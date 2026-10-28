@@ -370,6 +370,10 @@ body[data-mode="conflict"] .mode-switch button[aria-checked="true"] { background
 .mk-base.choke svg { width: 100%; height: 100%; }
 .zone-swatch { position: relative; overflow: hidden; }
 .zone-swatch::after { content: ""; position: absolute; inset: 3px; border-radius: 50%; background: var(--z); }
+/* Invisible padding around each marker so near-misses still land on it. */
+.mk::before { content: ""; position: absolute; inset: -7px; border-radius: 50%; }
+.mk-base:not(.choke)::before { inset: -9px; }
+@media (pointer: coarse) { .mk::before { inset: -12px; } .mk-base:not(.choke)::before { inset: -14px; } }
 .mk.dim { opacity: .28; }
 .mk.dim:hover { opacity: 1; }
 .mk:hover, .mk.is-selected { outline: 2px solid #F3D27A; outline-offset: 2px; z-index: 2; }

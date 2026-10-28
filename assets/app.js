@@ -172,7 +172,7 @@
     const id = f.properties.id;
     if (!id) return 0.004;
     if (id === state.selected) return 0.045;
-    if (id === state.hovered) return 0.02;
+    if (id === state.hovered && state.mode === 'politics') return 0.02;
     return 0.008;
   }
 
@@ -225,6 +225,7 @@
       .atmosphereAltitude(0.13)
       .polygonsData(currentFeatures())
       .polygonCapCurvatureResolution(3)
+      .showPointerCursor((type, d) => type !== 'polygon' || state.mode === 'politics' || !!(d && d.properties && d.properties.zone))
       .polygonsTransitionDuration(reduceMotion ? 0 : 260)
       .polygonLabel(() => '')
       .onPolygonHover((f) => {
@@ -234,7 +235,8 @@
       .onPolygonClick((f) => {
         if (!f) return;
         if (f.properties.zone) openConflict(f.properties.conflict);
-        else if (f.properties.id) select(f.properties.id);
+        // Country pages belong to Politics mode; in Conflicts a miss near a marker does nothing.
+        else if (f.properties.id && state.mode === 'politics') select(f.properties.id);
       })
       .htmlElementsData(htmlData())
       .htmlLat('lat').htmlLng('lng').htmlAltitude((d) => (d.__type === 'micro' ? 0.012 : 0.02))
@@ -423,7 +425,8 @@
     const e = state.hovered && byId.get(state.hovered);
     if (!e || mobileMQ.matches) { tip.hidden = true; return; }
     const color = state.mode === 'conflict' ? warColor(e) : lensColor(e);
-    const snap = e.kind === 'territory' ? e.note : e.snapshot;
+    // In Conflicts mode the country card stays small so it doesn't crowd the markers.
+    const snap = state.mode === 'conflict' ? '' : e.kind === 'territory' ? e.note : e.snapshot;
     tip.innerHTML = `
       <div class="tip-name">${esc(e.flag)} ${esc(e.name)}</div>
       <div class="tip-key"><span class="swatch" style="background:${color}"></span>${esc(state.mode === 'conflict' ? warLine(e) : state.lens === 'tenure' && e.kind === 'country' ? tenureLine(e) : lensLabel(e))}</div>
@@ -1050,6 +1053,8 @@
   async function select(id, { fly = true } = {}) {
     const e = byId.get(id);
     if (!e) return;
+    // Opening a country (search, a link, a #ISO address) always means Politics mode.
+    if (state.mode === 'conflict') setMode('politics', { keepPanel: true });
     state.selected = id;
     state.focus = null;
     if (world) world.controls().autoRotate = false;
