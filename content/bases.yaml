@@ -1749,3 +1749,33 @@ bases:
     sources:
       - {label: "Wikipedia: Operation Absolute Resolve", url: "https://en.wikipedia.org/wiki/Operation_Absolute_Resolve"}
       - {label: "The War Zone: Destruction seen at Caracas base that was a focus of the US military operation", url: "https://www.twz.com/news-features/major-damage-seen-in-caracas-after-u-s-op-to-capture-maduro"}
+
+  - id: niamey-air-base-101
+    name: "Niamey Air Base 101"
+    kind: air
+    country: NER
+    operators: ["Niger Air Force", "Russian forces (Africa Corps)"]
+    lat: 13.4817
+    lng: 2.1703
+    tier: important
+    why: "Niger's main military air base, sharing a runway with the capital's airport. It was the hub of the US and French drone war in the Sahel until both were expelled in 2023 and 2024; Russian troops moved in after them, and it now holds the junta's drones and the Africa Corps headquarters in Niger. Whoever holds it holds the skies over Niamey."
+    assets: "Niger Air Force ISR aircraft and drones, including Turkish-made drones; Russian Africa Corps detachment in a hangar since May 2024. US MQ-9s left in July 2024 and French forces in December 2023."
+    year: "Attacked three times in 2026: by Islamic State Sahel Province on 29 January, in its first drone use in Niger; by JNIM on 18 June, when 11 soldiers and two civilians were killed; and in the 29 August mutiny, when rebel soldiers fired on the airport area and the presidential palace before Russian-backed forces put them down."
+    sources:
+      - {label: "Wikipedia: Diori Hamani International Airport", url: "https://en.wikipedia.org/wiki/Diori_Hamani_International_Airport"}
+      - {label: "Sahara Reporters: Niger arrests dozens of soldiers over attempted coup", url: "https://saharareporters.com/2026/08/30/niger-republic-arrests-dozens-soldiers-over-attempted-coup-nigeria-calls-constitutional"}
+
+  - id: bosaso-airport
+    name: "Bosaso Airport"
+    kind: logistics
+    country: SOM
+    operators: ["United Arab Emirates (reported)", "Puntland authorities"]
+    lat: 11.2756
+    lng: 49.15
+    tier: important
+    why: "A small airport in Somalia's semi-autonomous Puntland that has become one of the most important logistics nodes in Sudan's war. Reporting describes it as a UAE-run transit point for weapons and foreign fighters bound for the RSF, which is why Sudan asked Somalia to shut it down and why it matters far beyond Somalia."
+    assets: "Cargo apron reported to handle Emirati military flights; transit point for Colombian mercenaries bound for Sudan (AP, 2026). Puntland also hosts US-backed counter-ISIS operations in the Cal Miskaad mountains."
+    year: "Sudan asked Somalia in September 2025 to stop the flights; AP reported in 2026 that Colombian fighters transited Bosaso on their way to the RSF."
+    sources:
+      - {label: "Wikipedia: Bosaso Airport", url: "https://en.wikipedia.org/wiki/Bosaso_Airport"}
+      - {label: "Wikipedia: Foreign involvement in the Sudanese civil war", url: "https://en.wikipedia.org/wiki/Foreign_involvement_in_the_Sudanese_civil_war_(2023%E2%80%93present)"}
