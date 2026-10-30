@@ -1,5 +1,133 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-10-29'
+  countries: [ISR]
+  category: political
+  headline: "Israel's count ends with no majority as Likud claims, without evidence, the vote was stolen"
+  summary: "With more than 99 percent of ballots tallied, Netanyahu's bloc had 53 of 120 seats, the Eisenkot-led opposition 48 and Arab-led parties a record 19, so no side has the 61 needed to govern. Likud alleged that Arab parties 'stole' the election with foreign help; police said there was no supporting evidence, while the election committee chair passed a letter alleging foreign interference to the Shin Bet to check. It matters because the opposition can only reach a majority with Arab party support, which Eisenkot has ruled out."
+  sources:
+  - label: "Al Jazeera: Israel election result shows no overall majority as vote count complete"
+    url: https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete
+  - label: "Times of Israel: Police dismiss Likud's claim that election was 'stolen' by Arab parties"
+    url: https://www.timesofisrael.com/liveblog_entry/police-dismiss-likuds-claim-that-election-was-stolen-by-arab-parties-no-substantiation/
+  - label: "Arab News: Netanyahu bloc leads Israel election but falls short of majority as Likud claims vote was stolen"
+    url: https://www.arabnews.com/middle-east/netanyahu-bloc-leads-israel-election-but-falls-short-of-majority-as-likud-claims-vote-was-stolen-3008934
+- date: '2026-10-29'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russian drone kills at least 13 on a crowded Dnipro train platform"
+  summary: "A jet-powered Russian drone hit an open platform in Dnipro as passengers boarded a train for Zaporizhzhia, killing at least 13 people, President Zelensky said; the rail operator said sirens had sounded but the drone arrived too fast to clear the platform. Zelensky questioned whether Russian strikes had grown since the US eased sanctions on some Russian oligarchs and energy firms. It matters because it is one of the deadliest single strikes on civilians this autumn, during a local ceasefire elsewhere on the front."
+  sources:
+  - label: "US News (Reuters): Russian drone attack on train station kills 13 in Ukraine's Dnipro"
+    url: https://www.usnews.com/news/world/articles/2026-10-29/russian-drone-attack-on-train-station-kills-13-in-ukraines-dnipro
+  - label: "Scripps News: Russian drone strikes crowded Ukraine train platform, killing at least 13"
+    url: https://www.scrippsnews.com/investigations/russia-ukraine-war-on-the-ground/russian-drone-strikes-crowded-ukraine-train-platform-killing-at-least-13
+- date: '2026-10-28'
+  countries: [UKR, RUS]
+  category: humanitarian
+  conflict: russia-ukraine-war
+  headline: "Oleshky truce holds and Kherson falls quiet"
+  summary: "Ukraine's human rights commissioner said the first 30 hours of the humanitarian ceasefire around Russian-occupied Oleshky passed without a single incident, and Kherson's governor reported no shelling of the city for a day. The truce runs to 22:59 on 1 November to allow demining, aid deliveries and voluntary evacuation of the 1,700 to 2,000 people the White House estimates remain. It matters as what one Ukrainian faction leader called the largest de-escalation since 2022."
+  sources:
+  - label: "Kyiv Post: Oleshky truce holds for 30 hours as Kherson falls quiet"
+    url: https://www.kyivpost.com/post/88413
+  - label: "LBC: No breaches in first 30 hours of Oleshky ceasefire, Ukraine says"
+    url: https://www.lbc.co.uk/world-news/no-breaches-in-first-30-hours-of-oleshky-ceasefire-ukraine-says/
+- date: '2026-10-29'
+  countries: [IRN, OMN, USA]
+  category: military
+  conflict: strait-of-hormuz-shipping-war
+  headline: "Iran says tankers hit mines in Hormuz; UKMTO confirms a tanker struck off Oman"
+  summary: "Iran's navy and Revolutionary Guards said three or four tankers hit mines and caught fire on the southern route Tehran calls unauthorised; AP could not confirm the claim and the IRGC challenged CENTCOM, which says the recognised routes are mine-free, to prove it. UKMTO separately confirmed a tanker was hit by an unidentified projectile near Khasab, Oman, with no injuries, and a dhow sank nearby after catching fire. It matters because every new incident narrows the room for the 'timeout' US envoy Tom Barrack says is 'very close'."
+  sources:
+  - label: "Gulf News: Iran claims tankers hit mines in Strait of Hormuz, UKMTO confirms strike off Oman"
+    url: https://gulfnews.com/world/mena/middle-east-war-iran-claims-tankers-hit-mines-in-strait-of-hormuz-ukmto-confirms-strike-off-oman-fired-us-general-reportedly-admitted-iran-leaks-1.500729137
+  - label: "CBS News: Tankers strike mines in Strait of Hormuz, Iran says, as Hegseth fires top general"
+    url: https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/
+- date: '2026-10-28'
+  countries: [USA, IRN]
+  category: military
+  conflict: iran-war-2026
+  headline: "Pentagon puts US cost of the Iran war above 47 billion dollars"
+  summary: "A Pentagon estimate given to Congress put US spending on the war at more than 47 billion dollars, over 25 percent above July's 37.5 billion, including more than 29 billion to replace munitions and 6 billion for lost equipment and aircraft; base repairs do not appear to be counted. The same day Defense Secretary Hegseth removed Lt. Gen. Brett Sylvia, the Joint Staff's head of strategy and plans, who was accused of leaking classified material on the war. It matters as the Pentagon plans for renewed heavy fighting after the 3 November midterms if ordered."
+  sources:
+  - label: "Daily Maverick (Reuters): US costs of Iran war rise to over $47 billion, according to Pentagon estimate"
+    url: https://www.dailymaverick.co.za/article/2026-10-28-us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate/
+  - label: "CBS News: Iran war live updates, 28 to 29 October"
+    url: https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/
+- date: '2026-10-29'
+  countries: [USA, IRN, QAT]
+  category: diplomatic
+  conflict: iran-war-2026
+  headline: "Vance letter to Iran's Rezaei goes unanswered as Qatar presses a new draft deal"
+  summary: "Vice President Vance sent a letter through Qatari mediators to Iranian security official Mohsen Rezaei proposing an early meeting; Trump said the outreach was about getting medical supplies into Iran, and Tasnim said Tehran had not replied and would not drop its core conditions. Qatar reportedly delivered a new draft deal on 25 October, which an Iranian official called 'unacceptable', with Iran's answer expected by the weekend. It matters because it is the main channel left before the post-midterm window for renewed strikes."
+  sources:
+  - label: "CBS News: Iran war live updates, 28 to 29 October"
+    url: https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/
+  - label: "Gulf News: Middle East war live, 29 to 30 October"
+    url: https://gulfnews.com/world/mena/middle-east-war-iran-claims-tankers-hit-mines-in-strait-of-hormuz-ukmto-confirms-strike-off-oman-fired-us-general-reportedly-admitted-iran-leaks-1.500729137
+- date: '2026-10-29'
+  countries: [PRK, KOR, JPN]
+  category: military
+  conflict: korean-peninsula
+  headline: "North Korea fires about 10 ballistic missiles from near Wonsan"
+  summary: "South Korea's Joint Chiefs said North Korea fired about 10 short-range ballistic missiles into the sea off its east coast at about 12:30 local time; Japan said the launch landed outside its exclusive economic zone. It came amid a row over a September DMZ landmine blast that wounded three South Korean soldiers, which Pyongyang denies causing, and a day after Trump suggested he might meet Kim Jong Un this year. It matters as one of the largest salvos of the year at a time when Seoul fears being sidelined in any US-North Korea talks."
+  sources:
+  - label: "Al Jazeera: North Korea fires missiles as row over landmine blast intensifies"
+    url: https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies
+  - label: "NK News: North Korea fires salvo of around 10 ballistic missiles toward sea"
+    url: https://www.nknews.org/2026/10/north-korea-fires-unidentified-projectile-toward-sea-rok-military/
+- date: '2026-10-29'
+  countries: [CHN]
+  category: political
+  headline: "Communist Party plenum expels about three dozen officials and promotes the PLA's graft chief"
+  summary: "The Central Committee's fifth plenum closed in Beijing with a communique confirming the expulsion of about three dozen members, 33 by several counts and including 16 generals according to the South China Morning Post. Zhang Shengmin, Central Military Commission vice chairman and the military's anti-corruption chief, was raised to the Politburo; only 279 of the 376 members installed in 2022 attended. It matters because the purge has removed most of the uniformed members of the Central Committee and is read as groundwork for prolonged Xi rule."
+  sources:
+  - label: "Christian Science Monitor: After purges, China's Central Committee praises the party's 'rigorous self-governance'"
+    url: https://www.csmonitor.com/World/Asia-Pacific/2026/1029/china-communist-party-purges-plenum
+  - label: "SCMP: China widens PLA anti-graft campaign, expelling corporate chiefs, 16 generals from party"
+    url: https://www.scmp.com/news/china/military/article/3372704/china-widens-pla-anti-graft-campaign-expelling-corporate-chiefs-16-generals-party
+- date: '2026-10-28'
+  countries: [HTI, SLV]
+  category: political
+  conflict: haiti-gang-war
+  headline: "Haiti delays its first election in a decade to July 2027 as El Salvador sends 2,000 troops"
+  summary: "Haiti's electoral council moved the first round of presidential and parliamentary elections from 13 December 2026 to 18 July 2027, with a runoff and local polls on 4 October 2027. El Salvador said it would send more than 2,000 soldiers to search for four aviation technicians missing since a gang ambush in Croix-des-Bouquets on 18 October and to fight gangs; it is unclear whether they will join the Gang Suppression Force. It matters because insecurity has again pushed back the vote meant to restore elected government."
+  sources:
+  - label: "Yahoo News (Al Jazeera, AFP, Reuters): El Salvador pledges more than 2,000 soldiers as Haiti delays elections"
+    url: https://www.yahoo.com/news/world/articles/el-salvador-pledges-more-2-073638689.html
+  - label: "US News (Reuters): Haiti postpones first presidential election in a decade to July 2027"
+    url: https://www.usnews.com/news/world/articles/2026-10-28/haiti-postpones-first-presidential-election-in-a-decade-to-july-2027
+- date: '2026-10-28'
+  countries: [ESP]
+  category: humanitarian
+  headline: "High-speed train collision near Toledo kills at least 68"
+  summary: "A RENFE train hit a stopped IRYO train between Urda and Los Yebenes in Toledo province, killing at least 68 people. The transport minister blamed the central control centre, which he said cleared the train to proceed at full speed after a signalling failure, not the drivers. It matters because it is Spain's second deadly high-speed crash this year and comes a month before the 29 November general election; Sanchez declared three days of mourning."
+  sources:
+  - label: "AJC (AP): Deadly train collision in Spain due to error by central control center, not conductors, transport minister says"
+    url: https://www.ajc.com/news/2026/10/deadly-train-collision-in-spain-due-to-error-by-central-control-center-not-conductors-transport-minister-says/
+  - label: "AJC (AP): At least 68 dead in Spain after one high-speed train slams into another"
+    url: https://www.ajc.com/news/2026/10/at-least-68-dead-in-spain-after-one-high-speed-train-slams-into-another-stopped-on-tracks/
+- date: '2026-10-28'
+  countries: [CUB, USA]
+  category: diplomatic
+  headline: "Support for UN vote against the Cuba embargo falls sharply as US expels a Cuban diplomat"
+  summary: "The UN General Assembly condemned the US embargo for the 34th year by 130 votes to 17 with 25 abstentions, down from 165 to 7 last year, as Germany, Italy and South Korea were among countries that shifted. The US said it was expelling Richard Tur de la Concepcion of Cuba's UN mission for assaulting a US diplomat during the debate. It matters as a sign of Washington's growing pressure on governments over Cuba."
+  sources:
+  - label: "TimesLive (Reuters): US persuades more nations to oppose UN Cuba embargo vote"
+    url: https://www.timeslive.co.za/news/world/2026-10-28-us-persuades-more-nations-to-oppose-un-cuba-embargo-vote/
+- date: '2026-10-29'
+  countries: [YEM, SAU]
+  category: military
+  conflict: yemen-civil-war
+  headline: "Saudi Arabia downs more Houthi missiles fired at Riyadh"
+  summary: "The Saudi-led coalition said it destroyed two Houthi ballistic missiles fired toward Riyadh on 29 October and a drone over the Makkah region on 30 October; falling debris caused a minor injury and damaged a house. Two days earlier explosions were heard over Riyadh as five Houthi missiles were intercepted, and the Houthis claimed hits on the defence ministry and the Ras Tanura refinery, which AP could not verify. It matters because the Houthis are answering the Saudi-backed offensive around Taiz and Marib by striking the Saudi capital."
+  sources:
+  - label: "Gulf News: Middle East war live, 29 to 30 October"
+    url: https://gulfnews.com/world/mena/middle-east-war-iran-claims-tankers-hit-mines-in-strait-of-hormuz-ukmto-confirms-strike-off-oman-fired-us-general-reportedly-admitted-iran-leaks-1.500729137
+  - label: "WFTV (AP): Explosions heard over Riyadh as Saudi authorities say Houthi missiles downed"
+    url: https://www.wftv.com/news/world/houthis-say-2-dead/5ZXMA66CIYYI5KENJ7M4FH5FZY/
 - date: '2026-10-28'
   countries: [ISR]
   category: political
@@ -1145,3 +1273,6 @@ upcoming:
 - date: '2026-12-27'
   countries: [SRB]
   event: Deadline for Serbia's early presidential election triggered by Vucic's resignation
+- date: '2027-07-18'
+  countries: [HTI]
+  event: Haiti presidential and parliamentary election, first round (moved from 13 December 2026; runoff and local polls 4 October 2027)

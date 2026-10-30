@@ -364,13 +364,15 @@ HTI:
   society: >-
     Haiti is the poorest country in the Americas. Since the assassination of President Jovenel Moïse in 2021, gang coalitions have taken most of the capital and spread to the countryside, and more than a million people have been displaced. A Kenyan-led security mission struggled for lack of funds before the UN approved a new gang suppression force.
   update: >-
-    On 18 October gangs ambushed Salvadoran air force personnel serving with the UN-authorised Gang
-    Suppression Force near Port-au-Prince and took four hostage. President Bukele sent 100 special
-    forces on 22 October for a rescue operation.
-  update_date: 2026-10-22
+    On 28 October the electoral council postponed the first national elections in a decade from 13
+    December 2026 to 18 July 2027, with a runoff and local polls on 4 October 2027. The same day El
+    Salvador said it would send more than 2,000 soldiers to search for four air force technicians taken
+    in a gang ambush on the Gang Suppression Force in Croix-des-Bouquets on 18 October, and to fight gangs.
+  update_date: 2026-10-30
   sources_extra:
     - {label: "Reuters: Four Salvadoran air force members missing after gang ambush in Haiti", url: "https://www.reuters.com/business/aerospace-defense/four-salvadoran-air-force-members-missing-after-gang-ambush-haiti-2026-10-19/"}
     - {label: "AP: El Salvador sends special forces to Haiti", url: "https://apnews.com/article/el-salvador-haiti-special-forces-gangs-03ec2bf89616d8b313c54da34c24eab1"}
+    - {label: "Yahoo News (Al Jazeera, AFP, Reuters): El Salvador pledges more than 2,000 soldiers as Haiti delays elections", url: "https://www.yahoo.com/news/world/articles/el-salvador-pledges-more-2-073638689.html"}
 
 HND:
   pop: 11.0

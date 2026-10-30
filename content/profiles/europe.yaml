@@ -324,6 +324,14 @@ DEU:
     Germany's culture spans Goethe and Beethoven, the Bauhaus, Berlin's techno clubs and a beer and sausage tradition with regional variations. Football, especially the Bundesliga, is the top sport. Remembrance of the Holocaust is built into schooling and public life. Christmas markets and Oktoberfest are global exports.
   society: >-
     Germany is Europe's largest economy, built on cars, machinery and chemicals, but it barely grew from 2023 to 2025 as cheap Russian gas vanished and Chinese competition rose. It took in more than a million refugees in 2015 to 2016 and again from Ukraine. The east, once communist, is poorer and older, and the AfD is strongest there.
+  update: >-
+    On 12 October Baerbel Bas resigned as labour minister and SPD co-leader, citing her stepdaughter's death
+    and public attacks, including from within the coalition partner. Alexander Schweitzer, former premier of
+    Rhineland-Palatinate, took over the ministry, and the SPD will re-elect its whole leadership at a special
+    conference at the end of the year. Merz's coalition trails in the polls after September state election losses.
+  update_date: 2026-10-30
+  sources_extra:
+    - {label: "Oman Observer (Reuters): Germany's coalition hit by turmoil as labour minister quits", url: "https://www.omanobserver.om/article/1197678/world/europe/germanys-coalition-hit-by-turmoil-as-labour-minister-quits"}
 
 GRC:
   pop: 10.4
