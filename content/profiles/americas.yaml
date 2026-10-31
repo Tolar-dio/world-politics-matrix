@@ -412,6 +412,15 @@ MEX:
     Mexico's culture draws on Aztec, Maya and other Indigenous civilisations and on Spanish colonial heritage. Día de Muertos, mariachi, lucha libre and a cuisine on UNESCO's heritage list are global icons. Frida Kahlo and Diego Rivera's murals defined modern Mexican art, and its filmmakers, like Guillermo del Toro and Alfonso Cuarón, lead Hollywood.
   society: >-
     Mexico is the United States' largest trading partner, and its factories are deeply woven into North American supply chains. Cartels control territory, extort businesses and drive a homicide rate that has topped 30,000 a year. More than 100,000 people are officially missing. Morena's dominance and a judicial overhaul have raised concerns about checks and balances.
+  update: >-
+    Guadalupe Taddei resigned as head of the National Electoral Institute on 26 October after reports of
+    irregular contracts prompted a federal audit, the first such resignation since 1990, with federal
+    elections due on 6 June 2027. Opposition pioneer Cuauhtemoc Cardenas died on 28 October aged 92.
+  update_date: 2026-10-31
+  sources_extra:
+    - {label: "Mexico News Daily: INE president resigns", url: "https://mexiconewsdaily.com/politics/ine-president-resigns/"}
+    - {label: "La Jornada: Recibe Camara de Diputados oficio de renuncia de Guadalupe Taddei al INE", url: "https://www.jornada.com.mx/noticia/2026/10/26/politica/recibe-camara-de-diputados-oficio-de-guadalupe-taddei-de-renuncia-al-ine"}
+    - {label: "Mexico News Daily: Sheinbaum pays tribute to Cuauhtemoc Cardenas", url: "https://mexiconewsdaily.com/politics/sheinbaum-tribute-cuauhtemoc-cardenas-october-29-mananera/"}
 
 NIC:
   pop: 7.0

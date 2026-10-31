@@ -564,6 +564,17 @@ MDA:
     Most Moldovans speak Romanian, and many hold Romanian passports. Moldova's wine cellars, including Mileștii Mici with some 200 kilometres of tunnels, are among the world's largest. Folk music, embroidered shirts and hospitality are central. A Russian-speaking minority and the Gagauz, a Turkic Christian people, add diversity.
   society: >-
     Moldova is one of Europe's poorest countries, and a quarter of its people have emigrated. Transnistria, a breakaway strip with Russian troops, has been outside government control since 1992. Russia-linked networks have been accused of vote-buying in referendums and elections, and Sandu's party won a majority again in 2025.
+  update: >-
+    Prime Minister Alexandru Munteanu resigned on 3 July 2026, bringing down his government. Parliament
+    approved investor Vasile Tofan as prime minister on 21 July, and his cabinet has kept EU accession
+    by 2028 as its central goal.
+  update_date: 2026-10-31
+  sources_extra:
+    - {label: "Al Jazeera: Moldova's prime minister quits, triggering government's resignation", url: "https://www.aljazeera.com/news/2026/7/3/moldovas-prime-minister-quits-triggering-governments-resignation"}
+    - {label: "Internazionale (Reuters): Moldova approves new government led by Vasile Tofan", url: "https://www.internazionale.it/ultime-notizie-reuters/2026/07/21/moldova-approves-new-government-led-by-vasile-tofan"}
+    - {label: "WTOP (AP): Moldova's parliament elects investor Vasile Tofan as prime minister", url: "https://wtop.com/europe/2026/07/moldovas-parliament-elects-investor-vasile-tofan-as-prime-minister-to-push-eu-membership-bid/"}
+  holders: >-
+    President Maia Sandu (PAS), since 2020; Prime Minister Vasile Tofan, since July 2026.
 
 MCO:
   pop: 0.038
@@ -672,6 +683,16 @@ POL:
     Poland's Catholicism, anchored by John Paul II, the first Polish pope, and the shrine at Częstochowa, is woven into national identity. Chopin, Marie Curie and the Solidarity movement are national icons. The memory of partition, Nazi occupation and communism shapes politics. Pierogi, the Christmas Eve Wigilia supper and a booming video game industry, from The Witcher, are national pride.
   society: >-
     Poland has been one of Europe's fastest-growing economies since 1989 and now spends more on defence, as a share of GDP, than any other NATO member. It took in millions of Ukrainian refugees in 2022. Society is divided between a liberal, urban west and a conservative, Catholic east, mirrored in the Tusk versus Law and Justice rivalry.
+  update: >-
+    On 30 October the Constitutional Tribunal suspended its president, Bogdan Swieczkowski, after
+    Justice Minister Waldemar Zurek accused him of blocking judges elected by the current parliament,
+    and Anna Korwin-Piotrowska, one of the judges President Nawrocki had refused to swear in, took
+    charge. Riot police secured the building amid PiS-backed protests, and Nawrocki cut short a trip
+    to Senegal, deepening the government-president standoff over the courts.
+  update_date: 2026-10-31
+  sources_extra:
+    - {label: "Al Jazeera: Polish police deployed to top court after head judge suspended", url: "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended"}
+    - {label: "France 24 (AFP): Polish riot police deployed as deposed court chief sets off crisis", url: "https://www.france24.com/en/live-news/20261030-polish-riot-police-deployed-after-court-chief-suspended"}
 
 PRT:
   pop: 10.7

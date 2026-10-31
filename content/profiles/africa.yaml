@@ -604,12 +604,19 @@ KEN:
   system: presidential
   story: election
   snapshot: >-
-    The 2027 race has started early: Ruto's sacked deputy Rigathi Gachagua now leads a united opposition trying to take his Mount Kenya votes away.
+    The 2027 race has started early: Ruto's sacked deputy Rigathi Gachagua is trying to unite a fractious opposition behind one candidate to take his Mount Kenya votes away.
   tags: [East Africa's hub, Gen Z protests, Silicon Savannah, Distance runners, Ethnic coalitions]
   culture: >-
     Kenya is home to more than 40 ethnic groups, with Swahili and English as national languages and Sheng, a Nairobi street mix, as the language of youth. Its distance runners, mostly from the Kalenjin highlands, have dominated world athletics for decades. Nairobi's matatu minibuses, painted with graffiti and blasting music, are a mobile art form. Ngũgĩ wa Thiong'o made it a centre of African literature.
   society: >-
     Nairobi is East Africa's business and tech hub, home of the M-Pesa mobile money system used by most adults. Tourism, tea, flowers and remittances are big earners. Heavy debt has driven unpopular tax rises, and the 2024 Gen Z protests against a finance bill, in which dozens were killed, showed a new, cross-ethnic youth politics.
+  update: >-
+    No joint opposition candidate has been named for 2027. In late October Rigathi Gachagua proposed
+    naming one five months before the vote, while Ndindi Nyoro's party openly feuded with Gachagua's
+    allies.
+  update_date: 2026-10-31
+  sources_extra:
+    - {label: "The Star (Kenya): DCP, Ruto's allies gang up on Nyoro", url: "https://www.the-star.co.ke/news/2026-10-31-dcp-rutos-allies-gang-up-on-nyoro"}
 
 LSO:
   pop: 2.4
@@ -667,6 +674,15 @@ LBY:
     Libya's coast holds some of the best-preserved Roman cities anywhere, at Leptis Magna and Sabratha, though war has kept tourists away. Tribal and family ties are central to identity and politics. Amazigh, Tebu and Tuareg minorities have revived their languages and culture since 2011 after decades of suppression under Gaddafi.
   society: >-
     Africa's largest proven oil reserves fund public salaries and subsidies for most Libyans, but militias, rival central bank claims and blockades disrupt income. Libya is a main departure point for migrants crossing to Italy, many held in abusive detention centres. Floods in Derna in 2023 killed thousands after dams burst.
+  update: >-
+    On 7 October the eastern-based House of Representatives voted to remove Aguila Saleh, its speaker
+    for 12 years, and elected Al-Salhin Abdelnabi al-Obeidi in his place, a move analysts link to Saddam
+    Haftar's consolidation of power in the east. The UN-mediated plan for elections within two years
+    still stands.
+  update_date: 2026-10-31
+  sources_extra:
+    - {label: "Al Jazeera: Libya's parliament removes speaker Aguila Saleh after 12 years", url: "https://www.aljazeera.com/news/2026/10/7/libyas-parliament-removes-speaker-aguila-saleh-after-12-years"}
+    - {label: "The National: Libya replaces parliamentary speaker Aguila Saleh after 12 years", url: "https://www.thenationalnews.com/news/mena/2026/10/07/libya-replaces-parliamentary-speaker-aguila-saleh-after-12-years/"}
 
 MDG:
   pop: 32.7
@@ -777,10 +793,15 @@ MAR:
   society: >-
     The king controls defence, foreign policy and religion, and is officially Commander of the Faithful. Morocco is building high-speed rail and stadiums for the 2030 World Cup it will co-host with Spain and Portugal. Youth unemployment is high, and the 2025 Gen Z 212 protests contrasted stadium spending with crumbling hospitals. Its claim to Western Sahara has won growing international backing.
   update: >-
-    On 16 October the four-party coalition government of Fatima Ezzahra El Mansouri took office. The
-    king named her head of government on 29 September, making her the first woman to hold the post.
-  update_date: 2026-10-16
+    On 30 October Russia vetoed a US draft at the UN Security Council that would have renewed the
+    Western Sahara mission MINURSO while endorsing Morocco's autonomy plan as the only basis for talks,
+    and a Russian rival draft failed. With the mandate expiring on 31 October, the royal palace welcomed
+    the non-renewal and said mission staff should leave. Fatima Ezzahra El Mansouri's government, the
+    first led by a woman, took office on 16 October.
+  update_date: 2026-10-31
   sources_extra:
+    - {label: "UN Press: Security Council fails to adopt resolution to extend MINURSO", url: "https://press.un.org/en/2026/sc16498"}
+    - {label: "The Star (Reuters): Russia, US veto rival UN Western Sahara resolutions", url: "https://www.thestar.com.my/news/world/2026/10/31/russia-us-veto-rival-un-western-sahara-resolutions-leaving-peacekeeping-mission-in-limbo"}
     - {label: "Morocco World News: The Mansouri government", url: "https://www.moroccoworldnews.com/2026/10/342507/the-mansouri-government-when-ministry-names-become-a-map-of-the-morocco-being-built/"}
   holders: >-
     King Mohammed VI, since 1999; Head of Government Fatima Ezzahra El Mansouri, whose coalition
@@ -872,6 +893,14 @@ NGA:
     Nigeria is Africa's cultural superpower. Nollywood is one of the world's largest film industries by output, and Afrobeats stars like Burna Boy, Wizkid and Tems fill stadiums worldwide. Its writers, from Chinua Achebe and Wole Soyinka to Chimamanda Ngozi Adichie, define African literature. More than 500 languages are spoken, with Hausa, Yoruba and Igbo the largest.
   society: >-
     Lagos is one of Africa's biggest cities and its fintech capital. Oil dominates exports, but the end of fuel subsidies in 2023 and a currency collapse pushed inflation above 30 percent. Jihadists in the north-east, bandit gangs that kidnap for ransom in the north-west, herder-farmer violence and separatists in the south-east strain the army.
+  update: >-
+    President Tinubu launched his re-election campaign at a rally in Kaduna on 24 October, ahead of a
+    presidential election AP puts in January 2027, with the cost-of-living crisis testing his support.
+    Atiku Abubakar and Peter Obi are his main expected rivals.
+  update_date: 2026-10-31
+  sources_extra:
+    - {label: "ABC News (AP): Nigerian president launches reelection bid amid cost of living crisis", url: "https://abcnews.com/International/wireStory/nigerian-president-launches-reelection-bid-cost-living-crisis-137541806"}
+    - {label: "US News (Reuters): Nigeria's Tinubu launches re-election campaign as economic pain tests support", url: "https://www.usnews.com/news/world/articles/2026-10-24/nigerias-tinubu-launches-re-election-campaign-as-economic-pain-tests-support"}
 
 RWA:
   pop: 14.6

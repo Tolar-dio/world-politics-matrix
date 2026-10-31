@@ -149,6 +149,15 @@ LBN:
     Beirut has long been the Arab world's publishing, nightlife and fashion capital, and Lebanese cuisine, from mezze to manakish, is loved worldwide. Fairuz's songs play every morning across the region. The country's 18 recognised religious sects shape marriage, schooling and politics. The Lebanese diaspora, larger than the population at home, is a lifeline.
   society: >-
     A 2019 financial collapse wiped out savings and pushed most people into poverty, and the 2020 Beirut port explosion killed over 200 people. The state shares power by sect: the president is Maronite Christian, the prime minister Sunni and the speaker Shia. Lebanon hosts more than a million Syrian refugees.
+  update: >-
+    Large-scale fighting has largely paused since June under a US-brokered framework, but Israeli troops
+    remain in the south and Israeli strikes continue. On 26 October Reuters, citing Lebanese security
+    sources, reported that Hezbollah is rearming with Iranian money; its leader Naim Qassem rejects
+    disarmament, and Beirut is pressing diplomatically for Israeli withdrawal.
+  update_date: 2026-10-31
+  sources_extra:
+    - {label: "Arab News: Lebanon bets on diplomacy to avert another war amid reports of Hezbollah preparing for battle", url: "https://www.arabnews.com/middle-east/lebanon-bets-on-diplomacy-to-avert-another-war-amid-reports-of-hezbollah-preparing-for-battle-3008917"}
+    - {label: "Khaleej Times: Hezbollah prepares for regional war as Iran funds rebuild", url: "https://www.khaleejtimes.com/world/mena/hezbollah-prepares-regional-war-iran-funds"}
 
 OMN:
   pop: 5.5

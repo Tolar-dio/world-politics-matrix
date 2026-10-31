@@ -154,6 +154,13 @@ KAZ:
     Kazakhstan is the world's largest landlocked country, and nomadic culture, horses, yurts and eagle hunting, is central to national identity. Kazakh is the state language, but Russian is widely spoken, especially in cities. Astana's futuristic skyline was built from scratch as a new capital in 1997. Nauryz, the spring new year, is the biggest holiday.
   society: >-
     Oil, gas and uranium have made Kazakhstan Central Asia's richest country; it is the world's biggest uranium producer. Deadly unrest in January 2022 ended Nursultan Nazarbayev's behind-the-scenes rule. The country balances between Russia, China and the West and has become a key route for trade bypassing Russia.
+  update: >-
+    The new constitution is now in force: the single-chamber Kurultai elected under it confirmed Erlan
+    Karin as vice president on 31 August 2026 and reappointed Olzhas Bektenov as prime minister.
+  update_date: 2026-10-31
+  sources_extra:
+    - {label: "Times of Central Asia: Kazakhstan vice president and prime minister approved", url: "https://timesca.com/kazakhstan-vice-president-prime-minister-approved/"}
+    - {label: "Euronews: Kazakhstan enters a new political era after historic parliamentary reform", url: "https://www.euronews.com/2026/09/01/kazakhstan-enters-a-new-political-era-after-historic-parliamentary-reform"}
 
 KGZ:
   pop: 7.3
@@ -210,12 +217,20 @@ MYS:
   system_note: A federal monarchy whose king rotates among nine state rulers.
   story: steady
   snapshot: >-
-    Anwar Ibrahim's unity government faces corruption rows and ethnic tension ahead of an election due by early 2027.
+    Anwar Ibrahim's unity government faces corruption rows and ethnic tension ahead of an election due by early 2028.
   tags: [Rotating monarchy, Multi-ethnic, Semiconductors, Palm oil]
   culture: >-
     Malaysia's Malay, Chinese and Indian communities each keep their own festivals, cuisines and languages, and "open house" visits during Hari Raya, Chinese New Year and Deepavali bring them together. Hawker food, from nasi lemak to char kway teow, is a shared passion. Its king is chosen every five years from nine hereditary sultans.
   society: >-
     Malaysia is a major hub for chip packaging and testing, and exports palm oil and gas. Policies favouring ethnic Malays, known as bumiputera, have shaped politics since 1971. The 1MDB scandal, in which billions were looted from a state fund, sent former prime minister Najib Razak to prison.
+  update: >-
+    Parliament's term runs to December 2027, so the next general election is due by about February 2028,
+    not early 2027 as earlier reporting suggested. Anwar Ibrahim's Pakatan Harapan is campaigning for
+    the Melaka state election on 14 November 2026.
+  update_date: 2026-10-31
+  sources_extra:
+    - {label: "Malay Mail: We still have until February 2028, Pakatan sec-gen says as GE16 chatter grows", url: "https://www.malaymail.com/amp/news/malaysia/2026/09/12/we-still-have-until-february-2028-pakatan-sec-gen-says-as-ge16-chatter-grows/234955"}
+    - {label: "Malay Mail: Anwar calls for service over rhetoric as Pakatan targets Melaka victory", url: "https://www.malaymail.com/news/malaysia/2026/10/26/anwar-calls-for-service-over-rhetoric-as-pakatan-targets-melaka-victory/240627"}
 
 MDV:
   pop: 0.53

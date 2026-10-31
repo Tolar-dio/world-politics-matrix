@@ -1,5 +1,124 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-10-30'
+  countries: [POL]
+  category: political
+  headline: "Poland's top court chief is suspended and riot police guard the tribunal as Nawrocki flies home"
+  summary: "Poland's Constitutional Tribunal announced that its president, Bogdan Swieczkowski, had been suspended, after Justice Minister Waldemar Zurek accused him of blocking judges elected by the current parliament and sought to lift his and his deputy's immunity. Judge Anna Korwin-Piotrowska, one of the judges President Nawrocki had refused to swear in, was put in charge. PiS supporters protested outside, police said they detained three people after objects were thrown, and Nawrocki turned back his plane from a trip to Senegal. It matters as the sharpest clash yet between the Tusk government and the PiS-aligned president over control of the courts."
+  sources:
+  - label: "Al Jazeera: Polish police deployed to top court after head judge suspended"
+    url: https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended
+  - label: "France 24 (AFP): Polish riot police deployed as deposed court chief sets off crisis"
+    url: https://www.france24.com/en/live-news/20261030-polish-riot-police-deployed-after-court-chief-suspended
+  - label: "Washington Post: Police secure Poland's Constitutional Tribunal as protests erupt over court chief's suspension"
+    url: https://www.washingtonpost.com/world/2026/10/30/poland-european-union-justice-protests-police-tribunal/bc1d5aa6-d49e-11f1-9931-2a41b76fc976_story.html
+- date: '2026-10-30'
+  countries: [MAR, DZA, RUS, USA]
+  category: diplomatic
+  headline: "Rival vetoes leave the UN's Western Sahara mission without a mandate"
+  summary: "Russia vetoed a US draft that would have renewed MINURSO for a year while endorsing Morocco's autonomy plan as the only basis for talks and dropping the referendum from the mission's name; the vote was 11 in favour, 1 against and 3 abstentions. A Russian draft for a plain one-year extension got only 3 votes, with the US voting against. The mandate expires on 31 October, and Morocco's royal palace said mission staff and equipment should leave in the coming days. It matters because it ends, at least for now, the UN's 35-year monitoring presence in the territory, which the Polisario Front and Algeria back as a route to self-determination."
+  sources:
+  - label: "UN Press: Security Council fails to adopt resolution to extend UN Mission for Referendum in Western Sahara"
+    url: https://press.un.org/en/2026/sc16498
+  - label: "The Star (Reuters): Russia, US veto rival UN Western Sahara resolutions, leaving peacekeeping mission in limbo"
+    url: https://www.thestar.com.my/news/world/2026/10/31/russia-us-veto-rival-un-western-sahara-resolutions-leaving-peacekeeping-mission-in-limbo
+- date: '2026-10-29'
+  countries: [BGR, GRC, RUS, UKR]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Sea drones sink a Greek-operated container ship off Bulgaria"
+  summary: "Three sea drones hit the Liberian-flagged Contship Jet, sailing from Haifa to Constanta with 421 containers, in Bulgaria's exclusive economic zone, and it sank; all 18 crew were rescued and taken to Varna. No one has claimed it: Moscow denies involvement in recent attacks, while the risk firm Ambrey says the drone looks derived from the Russian Murena-300S design and Bulgaria's prime minister said some attacks appear to benefit Russia. At least six ships have been hit off Bulgaria this month, and Greece's prime minister called for a global maritime truce. It matters because the shipping war is now reaching NATO members' waters."
+  sources:
+  - label: "Insurance Journal (Reuters): Greek container ship sinks after drone attack off Bulgaria"
+    url: https://www.insurancejournal.com/news/international/2026/10/30/890853.htm
+  - label: "ThePrint (Reuters): Greek container ship sinks after drone attack off Bulgaria"
+    url: https://theprint.in/world/greek-container-ship-sinks-after-drone-attack-off-bulgaria/3085055/
+  - label: "Reuters: Greece's Mitsotakis calls for global maritime truce, condemns attacks on shipping"
+    url: https://www.reuters.com/world/greeces-mitsotakis-calls-global-maritime-truce-condemns-attacks-shipping-2026-10-29/
+- date: '2026-10-30'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russia hits Dnipro station again as the platform strike toll reaches 15"
+  summary: "A day after a drone strike on a crowded platform, Russian forces hit Dnipro's railway station again, starting a fire and injuring a woman; the rail operator had evacuated passengers into underground shelters beforehand. The death toll from the 29 October strike rose to 15, with 14 wounded. Russian Deputy Prime Minister Alexander Novak said three refineries and a gas-chemical plant were attacked overnight, with two people killed at Novokuybyshevsk, although the Wall Street Journal reported that Ukraine had quietly paused refinery strikes under US pressure. It matters because both sides' strike campaigns continue around a local truce at Oleshky."
+  sources:
+  - label: "Kyiv Independent: Russia strikes Dnipro railway station again, day after attack killed 15"
+    url: https://kyivindependent.com/ukraine-war-latest-russia-strikes-dnipro-railway-station-again-day-after-attack-killed-15/
+  - label: "Wall Street Journal: Ukraine pauses strikes on Russian refineries after pressure from US"
+    url: https://www.wsj.com/world/ukraine-pauses-strikes-on-russian-refineries-after-pressure-from-u-s-a9e512f8
+- date: '2026-10-30'
+  countries: [UKR, RUS]
+  category: humanitarian
+  conflict: russia-ukraine-war
+  headline: "Evacuation convoys leave Russian-held Oleshky as the truce passes 80 hours"
+  summary: "Ukraine's ombudsman said the Oleshky ceasefire had held for 80 hours, and buses carrying residents left the town and split at Armiansk in occupied Crimea, some heading for Ukrainian-held territory and some for Russia, according to officials on both sides. Aid of food and medicine was also on its way. The truce, brokered with the involvement of Melania Trump after earlier efforts by the UN, the ICRC and Pope Leo XIV, runs until late on 1 November. It matters as the first organised evacuation across the Dnipro front line."
+  sources:
+  - label: "Kyiv Independent: Ukraine war latest, 30 October"
+    url: https://kyivindependent.com/ukraine-war-latest-russia-strikes-dnipro-railway-station-again-day-after-attack-killed-15/
+  - label: "Reuters: Aid convoy sets off for Russian-held town of Oleshky in Ukraine, Izvestia says"
+    url: https://www.reuters.com/world/europe/aid-convoy-sets-off-russian-held-town-oleshky-ukraine-izvestia-says-2026-10-30/
+- date: '2026-10-30'
+  countries: [QAT, IRN, USA]
+  category: diplomatic
+  conflict: iran-war-2026
+  headline: "Qatari mediators return to Tehran as the US war death toll reaches 23"
+  summary: "A Qatari delegation led by a senior adviser to the prime minister returned to Tehran for talks that an official said were coordinated with Washington, with Iran expected to answer a revised proposal by the weekend; Tehran still wants the US port blockade and oil sanctions lifted first. Trump said the war would end 'soon' without saying how. The Pentagon raised the US military death toll to 23, 11 killed by enemy fire and 12 in non-hostile incidents. It matters because this round comes days before the 3 November midterms, after which Washington has told allies to expect possible renewed strikes."
+  sources:
+  - label: "CBS News: Iran war updates, Trump says war going to end soon as Qatar pushes for a deal"
+    url: https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/
+  - label: "ABC News: Iran live updates, Qatari delegation arrives in Iran to continue talks"
+    url: https://abcnews.com/International/live-updates/iran-live-updates-houthis-claim-new-attack-riyadh/?id=137563447
+- date: '2026-10-30'
+  countries: [IRN, OMN]
+  category: military
+  conflict: strait-of-hormuz-shipping-war
+  headline: "Limpet charges set a tanker ablaze off Oman as Iran reports more tanker 'incidents'"
+  summary: "UKMTO said a small boat attached two explosive devices to a tanker's hull about 25 nautical miles northeast of Khasab, Oman, starting an engine-room fire; the crew was safe and the ship, named by the Financial Times as Louise 1, resumed its voyage. On 30 October the Revolutionary Guards said two more tankers on routes Tehran calls unauthorised had 'encountered incidents' and been stopped, and Oman's navy evacuated 25 crew from a burning Panama-flagged ship off Musandam. CENTCOM says the main lanes are clear of mines. It matters because attacks are now hitting the southern route Washington has encouraged ships to use."
+  sources:
+  - label: "Euronews: Iran's Revolutionary Guard reports tankers on fire in Strait of Hormuz as talks continue"
+    url: https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu
+  - label: "CBS News: Iran war updates, 30 October"
+    url: https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/
+- date: '2026-10-30'
+  countries: [YEM, SAU]
+  category: military
+  conflict: yemen-civil-war
+  headline: "Houthis deny launching a drone that Saudi forces say they downed over Makkah"
+  summary: "The Saudi-led coalition said it intercepted and destroyed a Houthi drone over the Makkah region. Houthi military spokesman Yahya Saree denied any attack, saying the group targets only Saudi oil facilities and military bases. It matters because a strike near Islam's holiest city would be a major escalation, and the denial suggests the Houthis want to avoid that charge while still firing missiles at Riyadh."
+  sources:
+  - label: "Reuters: Yemen's Houthis deny launching drone after coalition reports interception over Mecca"
+    url: https://www.reuters.com/world/middle-east/yemens-houthis-deny-launching-drone-after-coalition-reports-interception-mecca-2026-10-30/
+  - label: "CBS News: Iran war updates, 30 October"
+    url: https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/
+- date: '2026-10-29'
+  countries: [SDN, ETH]
+  category: military
+  conflict: sudan-saf-rsf
+  headline: "Sudan accuses Ethiopia of letting 162 drone attacks be launched from its soil"
+  summary: "At a government briefing, Sudanese officials said 162 drone attacks launched from Ethiopian territory, including from Assosa and Bahir Dar, had killed more than 400 civilians and 102 soldiers and destroyed schools, hospitals and fuel stations. The figures have not been independently verified, and Ethiopia has previously rejected claims that it backs the RSF. It matters because the accusation deepens a feud in which Addis Ababa accuses Khartoum of backing Tigrayan forces, raising the risk of the two wars merging."
+  sources:
+  - label: "Dabanga: Sudan accuses Ethiopia of launching 162 drone attacks from its territory"
+    url: https://www.dabangasudan.org/en/all-news/article/sudan-accuses-ethiopia-of-launching-162-drone-attacks-from-its-territory
+  - label: "Addis Standard: Sudan once again accuses Ethiopia of involvement in drone strikes"
+    url: https://addisstandard.com/sudan-once-again-accuses-ethiopia-of-involvement-in-drone-strikes-targeting-power-stations-civilian-sites/
+- date: '2026-10-29'
+  countries: [PRK]
+  category: economic
+  headline: "Hackers linked to North Korea steal about 6 billion dollars from Binance"
+  summary: "Binance halted trading, deposits and withdrawals after the largest crypto theft on record, saying it would cover user losses; the blockchain analytics firm TRM Labs attributed about 6.3 billion dollars stolen to North Korean hackers, and more than 2.5 billion was initially frozen. It matters because crypto theft is a main source of hard currency for North Korea's weapons programmes, and this haul is several times its previous record."
+  sources:
+  - label: "Axios: Binance cyberattack crypto heist"
+    url: https://www.axios.com/2026/10/29/binance-cyberattack-crypto-heist
+  - label: "Times of Israel: Liveblog, 30 October 2026"
+    url: https://www.timesofisrael.com/liveblog-october-30-2026/
+- date: '2026-10-30'
+  countries: [RUS]
+  category: political
+  headline: "Novaya Gazeta says it will close on 9 November"
+  summary: "Russia's best-known independent newspaper, published for more than 30 years and edited by Nobel laureate Dmitry Muratov, said it would shut down, citing state prosecutions of senior journalists and the loss of financial support and its office. Six of its journalists have been murdered. It matters as the end of one of the last independent news outlets still operating inside Russia."
+  sources:
+  - label: "Reuters: Russian investigative newspaper Novaya Gazeta says it is shutting down"
+    url: https://www.reuters.com/business/media-telecom/russian-investigative-newspaper-novaya-gazeta-says-it-is-shutting-down-after-2026-10-30/
 - date: '2026-10-29'
   countries: [ISR]
   category: political
@@ -1260,6 +1379,12 @@ upcoming:
 - date: '2026-11-09'
   countries: [TUR]
   event: COP31 UN climate conference opens in Antalya, Turkey (9-20 November)
+- date: '2026-11-09'
+  countries: [RUS]
+  event: Novaya Gazeta due to cease publication
+- date: '2026-11-10'
+  countries: [ISR]
+  event: New Knesset sworn in after the 27 October election
 - date: '2026-11-10'
   countries: [USA, RUS, UKR]
   event: Earliest date Putin gave for resumed US-Russia-Ukraine talks; Abu Dhabi floated as venue, Kremlin aide
