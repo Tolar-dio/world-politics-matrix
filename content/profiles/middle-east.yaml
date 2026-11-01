@@ -28,14 +28,18 @@ IRN:
   society: >-
     Iran has a young, highly educated population, with more women than men in universities, yet faces mandatory hijab laws that sparked the 2022 "Woman, Life, Freedom" protests. Sanctions and mismanagement have driven high inflation and a collapsing currency. The Revolutionary Guard controls large parts of the economy. Ethnic Kurds, Baluch, Azeris and Arabs have their own grievances.
   update: >-
-    The war is in a tense stalemate. The US blockade of Iranian ports continues, which CENTCOM says
-    has cost Iran about 25 billion dollars in oil exports, and Iran keeps Hormuz all but closed,
-    with seven tankers hit on 22 October alone. Parliament confirmed Mehrdad Akhlaghi as defence
-    minister on 18 October. On 26 October Saudi, Pakistani and Turkish envoys met President
-    Pezeshkian in Tehran, as Washington signalled renewed strikes could come after the 3 November
-    midterms.
-  update_date: 2026-10-26
+    The war is in a tense stalemate. The US blockade of Iranian ports continues and Iran keeps Hormuz
+    all but closed, saying it is mining unauthorised routes. Washington has told Gulf allies to expect
+    possible strikes after the 3 November midterms, and on 31 October Supreme Leader Mojtaba Khamenei
+    ordered forces to be ready to retaliate 'without geographical restriction'. Diplomacy runs through
+    Qatar and Pakistan: after Qatari mediators visited Tehran, an Iranian delegation went to Doha on 31
+    October, and Foreign Minister Araghchi said on 1 November that Hormuz could reopen within two days
+    if the US lifts sanctions, restores oil waivers, releases frozen funds and recognises the Iran-Oman
+    shipping route.
+  update_date: 2026-11-01
   sources_extra:
+    - {label: "Al Jazeera: Iran warns of unfettered retaliation", url: "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace"}
+    - {label: "Middle East Eye: Araghchi on a two-day Hormuz plan", url: "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-says-hormuz-could-be-reopened-two-days-if-conditions-met"}
     - {label: "Reuters: Iran's parliament approves Mehrdad Akhlaqi as defence minister", url: "https://www.reuters.com/world/middle-east/irans-parliament-approves-mehrdad-akhlaqi-minister-defence-state-media-2026-10-18/"}
     - {label: "CTP-ISW: Iran Update, 26 October 2026", url: "https://www.criticalthreats.org/analysis/iran-update-october-26-2026"}
     - {label: "Al Jazeera: Mecca defence alliance members in Tehran", url: "https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions"}

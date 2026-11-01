@@ -325,12 +325,15 @@ DEU:
   society: >-
     Germany is Europe's largest economy, built on cars, machinery and chemicals, but it barely grew from 2023 to 2025 as cheap Russian gas vanished and Chinese competition rose. It took in more than a million refugees in 2015 to 2016 and again from Ukraine. The east, once communist, is poorer and older, and the AfD is strongest there.
   update: >-
-    On 12 October Baerbel Bas resigned as labour minister and SPD co-leader, citing her stepdaughter's death
-    and public attacks, including from within the coalition partner. Alexander Schweitzer, former premier of
-    Rhineland-Palatinate, took over the ministry, and the SPD will re-elect its whole leadership at a special
-    conference at the end of the year. Merz's coalition trails in the polls after September state election losses.
-  update_date: 2026-10-30
+    On 31 October 'Gen Z' protests against education and social cuts, living costs and conscription drew
+    tens of thousands in more than 30 cities and turned violent in the evening in Frankfurt, Berlin,
+    Cologne, Hamburg and Bremen, with looting in Frankfurt and dozens of officers hurt; Hesse's interior
+    minister blamed left-wing extremists. Earlier in October Baerbel Bas resigned as labour minister and
+    SPD co-leader, replaced at the ministry by Alexander Schweitzer. Merz's coalition trails in the
+    polls after September state election losses.
+  update_date: 2026-11-01
   sources_extra:
+    - {label: "Daily Sabah: riots and looting mar Gen Z protests", url: "https://www.dailysabah.com/world/europe/mass-riots-looting-in-germany-mar-nationwide-gen-z-protests"}
     - {label: "Oman Observer (Reuters): Germany's coalition hit by turmoil as labour minister quits", url: "https://www.omanobserver.om/article/1197678/world/europe/germanys-coalition-hit-by-turmoil-as-labour-minister-quits"}
 
 GRC:
@@ -684,13 +687,17 @@ POL:
   society: >-
     Poland has been one of Europe's fastest-growing economies since 1989 and now spends more on defence, as a share of GDP, than any other NATO member. It took in millions of Ukrainian refugees in 2022. Society is divided between a liberal, urban west and a conservative, Catholic east, mirrored in the Tusk versus Law and Justice rivalry.
   update: >-
-    On 30 October the Constitutional Tribunal suspended its president, Bogdan Swieczkowski, after
-    Justice Minister Waldemar Zurek accused him of blocking judges elected by the current parliament,
-    and Anna Korwin-Piotrowska, one of the judges President Nawrocki had refused to swear in, took
-    charge. Riot police secured the building amid PiS-backed protests, and Nawrocki cut short a trip
-    to Senegal, deepening the government-president standoff over the courts.
-  update_date: 2026-10-31
+    The fight over the courts has become an open confrontation. On 30 October the Constitutional
+    Tribunal announced the suspension of its president, Bogdan Swieczkowski, whom the government accuses
+    of blocking judges elected by the current parliament, and Anna Korwin-Piotrowska took charge. That
+    night President Nawrocki flew back from a trip to Senegal and said he helped Swieczkowski back into
+    the building; he then called talks with parliamentary parties, which Tusk's camp boycotted. Tusk
+    vowed no compromise on the rule of law as PiS supporters protested outside the court, and a European
+    Commission spokesperson said appointing tribunal judges lies within the Sejm's power.
+  update_date: 2026-11-01
   sources_extra:
+    - {label: "AP via ABC News: Tusk defends suspension of tribunal president", url: "https://abcnews.com/Business/wireStory/tusk-defends-suspension-polands-constitutional-tribunal-president-protesters-137738900"}
+    - {label: "Euronews: EU Commission on Sejm's right to appoint judges", url: "https://www.euronews.com/2026/11/01/eu-commission-polish-parliament-has-right-to-appoint-judges-to-the-constitutional-court"}
     - {label: "Al Jazeera: Polish police deployed to top court after head judge suspended", url: "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended"}
     - {label: "France 24 (AFP): Polish riot police deployed as deposed court chief sets off crisis", url: "https://www.france24.com/en/live-news/20261030-polish-riot-police-deployed-after-court-chief-suspended"}
 

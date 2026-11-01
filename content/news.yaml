@@ -1,5 +1,131 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-01'
+  countries: [IRN, QAT, USA]
+  category: diplomatic
+  conflict: iran-war-2026
+  headline: "Iran says a Qatari plan could reopen Hormuz in two days if the US meets its terms"
+  summary: "Foreign Minister Abbas Araghchi said talks with Qatar had cut the implementation period of Iran's plan to two days: US measures on day one, the strait reopening on day two. Iran's conditions include lifting sanctions imposed after the Islamabad memorandum collapsed in July, restoring oil waivers, releasing frozen funds including those held in Qatar, reducing US forces, recognising the Iran-Oman shipping route and ending Israeli attacks on Lebanon. Trump said Iran wanted a deal but warned the US could strike its remaining nuclear sites 'in 10 minutes'. It matters because it is Tehran's most concrete offer yet, two days before the US midterms after which renewed strikes have been flagged."
+  sources:
+  - label: "Middle East Eye: Araghchi says Hormuz could be reopened within two days if conditions met"
+    url: https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-says-hormuz-could-be-reopened-two-days-if-conditions-met
+  - label: "ANI: Araghchi says Iran, Qatar propose reopening Strait of Hormuz within two days if US meets Tehran's conditions"
+    url: https://aninews.in/news/world/middle-east/araghchi-says-iran-qatar-propose-reopening-strait-of-hormuz-within-two-days-if-us-meets-tehrans-conditions20261101115013/
+- date: '2026-10-31'
+  countries: [IRN, USA, QAT]
+  category: military
+  conflict: iran-war-2026
+  headline: "Khamenei orders forces to be ready to strike back 'without geographical restriction' as Iranian envoys go to Doha"
+  summary: "Supreme Leader Mojtaba Khamenei met senior commanders and called for 'maximum deterrence', meaning an immediate response without geographic limits to any new attack. The same day an Iranian delegation travelled to Doha after Qatari mediators' visit to Tehran, and Araghchi called a letter from Vice President Vance to Mohsen Rezaei 'a positive step' while saying Iran saw no need to meet Americans yet. Rubio said Trump had not decided whether to resume military action. It matters because both sides are pairing talks with explicit threats ahead of the post-midterm window."
+  sources:
+  - label: "Al Jazeera: Iran warns of unfettered retaliation if attacked as mediators try for peace"
+    url: https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace
+  - label: "Al Jazeera: Iran FM says US outreach a 'positive step' as delegation in Qatar for talks"
+    url: https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks
+  - label: "Times of Israel: Liveblog, 31 October 2026"
+    url: https://www.timesofisrael.com/liveblog-october-31-2026/
+- date: '2026-11-01'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russia fires 433 drones at Ukraine's grid, leaving hundreds of thousands without power"
+  summary: "Ukraine's air force said Russia launched 433 drones overnight, including jet-powered Shaheds, and that 371 were downed; energy sites in at least four regions were hit and DTEK imposed emergency outages in Kyiv. Zelensky said hundreds of thousands of families were without electricity. Regional authorities reported one person killed in Sloviansk and at least 47 injured over the day, including three DTEK workers. It matters as one of the largest attacks on the power system as winter approaches."
+  sources:
+  - label: "Kyiv Independent: Russian attacks kill 1, injure 47 over past day, leaving hundreds of thousands without electricity"
+    url: https://kyivindependent.com/russian-attacks-kill-1-injure-47-over-past-day-leaving-hundreds-of-thousands-without-electricity/
+- date: '2026-11-01'
+  countries: [RUS, UKR]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Drones hit an industrial site in Kstovo, reported to be one of Russia's largest refineries"
+  summary: "Nizhny Novgorod governor Gleb Nikitin said a 'massive' drone attack caused significant damage to an industrial enterprise in the Kstovo district and that more than 100 drones were destroyed, with no early reports of casualties. Monitoring channels and Ukrainian media identified the target as Lukoil's Kstovo refinery, which makes diesel and jet fuel. It matters because it comes days after the Wall Street Journal reported that Ukraine had paused refinery strikes under US pressure."
+  sources:
+  - label: "Euronews: Russia reports 'massive' drone attack on 'industrial enterprise'"
+    url: https://www.euronews.com/2026/11/01/russia-says-massive-drone-attack-targeted-industrial-enterprise-amid-reports-oil-refinery-
+  - label: "Ukrinform: Drones attack Lukoil refinery in Russia"
+    url: https://www.ukrinform.net/rubric-ato/4180179-drones-attack-lukoil-refinery-in-russia.html
+- date: '2026-10-30'
+  countries: [USA, UKR]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "US approves a 2.1 billion dollar sale of 500 Patriot missiles to Ukraine"
+  summary: "The State Department approved the sale of 500 Patriot interceptors worth about 2.1 billion dollars. Zelensky thanked Washington but warned that deliveries could take years and asked for a solution for 'the time when there is a real danger'. It matters because Patriot is Ukraine's main defence against Russian ballistic missiles, and stocks are short as Russia steps up winter strikes."
+  sources:
+  - label: "CBS News: U.S. approves sale of 500 Patriot missiles to Ukraine, but Zelenskyy warns deliveries would take years"
+    url: https://www.cbsnews.com/news/ukraine-patriot-missiles-us-lockheed-martin-sale-zelenskyy/
+  - label: "Euronews: Zelenskyy thanks US over deal for 500 Patriot missiles but warns delivery could take years"
+    url: https://www.euronews.com/2026/10/31/zelenskyy-thanks-us-over-deal-for-500-patriot-missiles-but-warns-delivery-could-take-years
+- date: '2026-10-31'
+  countries: [UKR, RUS, BLR]
+  category: humanitarian
+  conflict: russia-ukraine-war
+  headline: "First Oleshky evacuees reach Ukraine via Belarus as the local truce nears its end"
+  summary: "Residents evacuated from Russian-occupied Oleshky were bused through Crimea to Anapa, flown to Belarus and crossed into Ukraine's Chernihiv region, where some were reunited with relatives; others were placed in a centre in Simferopol. Neither side has published a total. The town had about 24,000 people before the war and an estimated 1,700 before the evacuation. The six-day ceasefire, which both sides say held, is due to end on the evening of 1 November."
+  sources:
+  - label: "Al Jazeera: Ukrainian evacuees from Russian-occupied Oleshky reunite with family"
+    url: https://www.aljazeera.com/news/2026/11/1/ukrainian-evacuees-from-russian-occupied-oleshky-reunite-with-family
+  - label: "Euronews: Evacuees from Russian-occupied Oleshky arrive in Ukraine amid localised truce"
+    url: https://www.euronews.com/2026/10/31/oleshky-evacuees-arrive-in-belarus-amid-localised-truce-between-kyiv-and-moscow
+- date: '2026-10-31'
+  countries: [USA, RUS, UKR]
+  category: diplomatic
+  conflict: russia-ukraine-war
+  headline: "G20 foreign ministers end Atlanta meeting with no joint statement and no group photo"
+  summary: "The two-day meeting closed without a communique because of splits over Ukraine, the Middle East, trade and maritime security, and the US presidency issued only a chair's statement that did not mention the war. Several delegations refused to pose with Russia's Sergei Lavrov, so the family photo was cancelled. Rubio said he did not know whether a negotiated peace in Ukraine was achievable and saw a Black Sea ceasefire as more realistic. It matters as a sign of low expectations before the 10 November talks and the December G20 summit in Florida."
+  sources:
+  - label: "RFE/RL: Rubio casts doubts on quick deal to end war in Ukraine, defends Russian contacts"
+    url: https://www.rferl.org/a/rubio-atlanta-ukraine-russia-putin-lavrov-20/33888075.html
+  - label: "Seoul Economic Daily: G20 foreign ministers end talks without joint statement or group photo"
+    url: https://en.sedaily.com/international/2026/11/01/g20-foreign-ministers-end-talks-without-joint-statement-or
+- date: '2026-10-31'
+  countries: [POL]
+  category: political
+  headline: "Nawrocki escorts the suspended tribunal chief into court as Tusk vows no compromise"
+  summary: "President Karol Nawrocki went to the Constitutional Tribunal on the night of 30 to 31 October and said he helped its suspended president, Bogdan Swieczkowski, enter the building, then called talks with parliamentary parties that Tusk's camp refused to attend. Tusk said restoring the rule of law was an obligation and accused Law and Justice of destroying it, as hundreds protested outside the court for a second night. A European Commission spokesperson said appointing new tribunal judges lies within the Sejm's constitutional power. It matters because Poland now has rival claims to control of its top court, with the president and government in open confrontation."
+  sources:
+  - label: "ABC News (AP): Tusk defends suspension of Poland's Constitutional Tribunal president as protesters gather again"
+    url: https://abcnews.com/Business/wireStory/tusk-defends-suspension-polands-constitutional-tribunal-president-protesters-137738900
+  - label: "Euronews: EU Commission says Polish parliament has right to appoint judges to the Constitutional Court"
+    url: https://www.euronews.com/2026/11/01/eu-commission-polish-parliament-has-right-to-appoint-judges-to-the-constitutional-court
+- date: '2026-10-30'
+  countries: [ETH]
+  category: military
+  conflict: ethiopia-tigray-war
+  headline: "Drone strikes kill at least 25 civilians in Ethiopia's Amhara and Tigray regions"
+  summary: "Witnesses told AFP that four drone strikes hit a camp for displaced people in Amhara on 29 October, killing 14 to 15 people including children, and a hospital source said two strikes near Rama in Tigray killed 11, first hitting a vehicle carrying sorghum and then people collecting the spilled grain. ACLED attributes the Tigray strike to the federal army, which did not respond to requests for comment. It matters because the government's growing reliance on drones against the TPLF and Fano is taking a mounting civilian toll."
+  sources:
+  - label: "Africanews (AFP): Drone strikes in Ethiopia kill at least 25, witnesses"
+    url: https://www.africanews.com/2026/10/31/drone-strikes-in-ethiopia-kill-at-least-25-witnesses/
+  - label: "Arab News (AFP): Drone strikes in Ethiopia kill at least 25"
+    url: https://www.arabnews.com/world/drone-strikes-in-ethiopia-kill-at-least-25-3009010
+- date: '2026-10-31'
+  countries: [ISR]
+  category: political
+  headline: "Thousands rally in Tel Aviv for a Jewish-Arab coalition to replace Netanyahu"
+  summary: "Thousands gathered in Habima Square urging opposition leader Gadi Eisenkot to form a government with Arab-led parties, while Netanyahu supporters held a counter-protest. The opposition holds 67 of 120 seats only if the three Arab-led parties' 19 seats are counted, and Eisenkot had previously ruled out such a coalition; Netanyahu's bloc has 53. It matters because the deadlock leaves Netanyahu as caretaker unless the opposition crosses a line no Israeli government has fully crossed."
+  sources:
+  - label: "Al Jazeera: Thousands rally in Israel urging 'Jewish-Arab' coalition to oust Netanyahu"
+    url: https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu
+  - label: "Times of Israel: Liveblog, 31 October 2026"
+    url: https://www.timesofisrael.com/liveblog-october-31-2026/
+- date: '2026-10-31'
+  countries: [DEU]
+  category: political
+  headline: "Germany's 'Gen Z' protests turn violent in Frankfurt and other cities"
+  summary: "Mostly peaceful daytime marches in more than 30 cities against education and social cuts, living costs and conscription gave way to evening rioting in Frankfurt, Cologne, Berlin, Hamburg and Bremen. In Frankfurt shops were looted and Molotov cocktails thrown at police, and about 30 people were detained; in Berlin 27 officers were hurt. Hesse's interior minister blamed about 100 suspected left-wing extremists. It matters as the cost-of-living unrest seen in France, Spain and Italy spreads to Germany."
+  sources:
+  - label: "Daily Sabah: Mass riots, looting in Germany mar nationwide Gen-Z protests"
+    url: https://www.dailysabah.com/world/europe/mass-riots-looting-in-germany-mar-nationwide-gen-z-protests
+  - label: "RNZ: Rioters loot stores in Frankfurt as Gen Z-led protests in Germany turn violent"
+    url: https://www.rnz.co.nz/news/world/2279731/rioters-loot-stores-in-frankfurt-as-gen-z-led-protests-in-germany-turn-violent
+- date: '2026-10-29'
+  countries: [BRA, ARG]
+  category: diplomatic
+  headline: "Brazil summons Argentina's envoy over Flavio Bolsonaro's flight to the US"
+  summary: "Brazil's foreign ministry called in Argentina's charge d'affaires over the route the defeated presidential candidate took to Miami via Argentina, according to sources cited by Reuters; Argentina's foreign minister denied receiving a formal request for explanations, and a spokesperson for President Milei called the trip a rescue 'from the claws of communism'. Bolsonaro, barred by the Supreme Court from leaving Brazil, calls himself the legitimate president-elect without evidence. It matters because the dispute drags Argentina into Brazil's post-election standoff."
+  sources:
+  - label: "Al Jazeera: Brazil summons Argentinian diplomat over Bolsonaro's flight to US"
+    url: https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us
 - date: '2026-10-30'
   countries: [POL]
   category: political
@@ -1392,6 +1518,9 @@ upcoming:
 - date: '2026-11-15'
   countries: [CPV]
   event: Cape Verde presidential election
+- date: '2026-11-18'
+  countries: [CHN, USA]
+  event: APEC leaders' summit in Shenzhen, China (18-19 November); Trump has not confirmed attendance
 - date: '2026-11-29'
   countries: [ESP]
   event: Spanish general election

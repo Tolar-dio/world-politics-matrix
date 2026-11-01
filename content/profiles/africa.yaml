@@ -477,14 +477,16 @@ ETH:
   society: >-
     With some 135 million people, Ethiopia is Africa's second most populous country. State-led growth built roads, industrial parks and the Grand Ethiopian Renaissance Dam on the Blue Nile, inaugurated in 2025 over Egypt's objections. The 2020 to 2022 Tigray war killed hundreds of thousands. Inflation and a 2024 currency float have squeezed households.
   update: >-
-    War returned to Tigray in late September. After the TPLF and allied armed groups attacked from
-    about 22 September, federal forces and the allied Tigray Peace Force retook Mekelle in early
-    October, then Shire, Adigrat, Adwa and Axum, and reached the Eritrean border at Zalambessa.
-    Ethiopia and Eritrea cut diplomatic ties on 1 October; Eritrean troops pulled back from Adigrat
-    but stayed dug in around Zalambessa and Badme. Addis Ababa has put Tigray under six months of
-    federal interim rule, while Fano keeps attacking supply lines in Amhara.
-  update_date: 2026-10-18
+    War returned to Tigray in late September. After the TPLF and allied armed groups attacked from about
+    22 September, federal forces and the allied Tigray Peace Force retook Mekelle in early October, then
+    Shire, Adigrat, Adwa and Axum, and reached the Eritrean border at Zalambessa. Ethiopia and Eritrea
+    cut diplomatic ties on 1 October, and Tigray is under six months of federal interim rule. The
+    government leans heavily on drones: on 29 and 30 October strikes on a displacement camp in Amhara
+    and near Rama in Tigray killed at least 25 civilians, according to witnesses and a medical source
+    quoted by AFP. Fano keeps attacking supply lines in Amhara.
+  update_date: 2026-11-01
   sources_extra:
+    - {label: "Africanews (AFP): Drone strikes kill at least 25", url: "https://www.africanews.com/2026/10/31/drone-strikes-in-ethiopia-kill-at-least-25-witnesses/"}
     - {label: "Africanews: Ethiopia's federal forces retake Tigrayan capital Mekelle", url: "https://www.africanews.com/2026/10/05/ethiopias-federal-forces-retake-tigrayan-capital-mekelle/"}
     - {label: "Al Jazeera: Ethiopian troops capture Adwa without a fight", url: "https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say"}
     - {label: "ACLED: What happens now the government has regained control of Mekele", url: "https://acleddata.com/expert-comment/what-happens-now-government-has-regained-control-mekele"}
@@ -965,13 +967,25 @@ SEN:
   system: presidential
   story: shock
   snapshot: >-
-    The discovery of $13 billion in hidden debt froze an IMF programme and split the president from his own mentor, Prime Minister Ousmane Sonko.
+    Hidden debt of about $13 billion froze an IMF programme and split President Faye from his mentor
+    Ousmane Sonko, whom he fired as prime minister in May 2026 and who now runs parliament.
   tags: [Sufi brotherhoods, Hidden debt crisis, New oil and gas, Teranga, Peaceful handovers]
   culture: >-
     Senegal's Sufi brotherhoods, especially the Mourides, shape daily life, and the annual Grand Magal pilgrimage to Touba draws millions. Teranga, a Wolof word for hospitality, is a national value. Mbalax music, made famous by Youssou N'Dour, and laamb wrestling, with stars as famous as footballers, are national passions. Dakar hosts the Biennale of contemporary African art.
   society: >-
     Senegal has never had a coup and has seen three peaceful transfers of power. Oil and gas production began in 2024. Fishing communities have been hit by foreign trawlers, and many young people attempt the dangerous Atlantic crossing to the Canary Islands. Wolof is the everyday language, French the official one.
 
+  update: >-
+    Since President Faye fired Ousmane Sonko as prime minister in May, Senegal has had a split
+    government: economist Ahmadou Al Aminou Lo is prime minister, while Sonko leads the ruling Pastef
+    and was elected speaker of the National Assembly on 26 May. In October the Pastef majority rejected
+    a revised budget that is key to a 2.2 billion dollar, 36-month IMF programme; on 27 October Finance
+    Minister Cheikh Diba asked lawmakers to reconsider, and Sonko agreed to send it back to committee.
+    Public debt stood at 132 percent of GDP at the end of 2024, according to the IMF.
+  update_date: 2026-11-01
+  sources_extra:
+    - {label: "Africanews: Senegal's finance committee to review revised budget key to IMF deal", url: "https://www.africanews.com/amp/2026/10/28/senegals-finance-committee-to-review-revised-budget-key-to-imf-deal"}
+    - {label: "Al Jazeera: Senegal's President Faye sacks PM Sonko and dissolves government", url: "https://www.aljazeera.com/news/2026/5/23/senegals-president-faye-sacks-pm-sonko-and-dissolves-government"}
 SYC:
   pop: 0.13
   religion: Catholic about 76%, Anglican and other Christian
@@ -1109,6 +1123,17 @@ TZA:
   society: >-
     Tanzania has long been among Africa's most peaceful countries. Tourism to Kilimanjaro, the Serengeti and Zanzibar, plus gold and farming, drive growth. Maasai communities have been evicted from Ngorongoro to make way for conservation and hunting, drawing international criticism.
 
+  update: >-
+    A year after the October 2025 election killings, the government has faced no formal accountability
+    and families say they cannot publicly mourn. The ruling CCM also split at the top: Vice President
+    Emmanuel Nchimbi resigned on 25 August 2026, reportedly after disagreeing with President Samia over
+    the post-election crackdown, and was expelled from the party the next day. Parliament approved
+    Energy Minister Deogratius Ndejembi as vice president, and he was sworn in on 29 August.
+  update_date: 2026-11-01
+  sources_extra:
+    - {label: "The Chanzo: Ndejembi sworn in as Tanzania's new vice president", url: "https://thechanzo.com/2026/08/29/ndejembi-sworn-in-as-tanzanias-new-vice-president/"}
+    - {label: "Africanews: Tanzania's political crisis deepens after VP resignation", url: "https://www.africanews.com/amp/2026/08/27/tanzanias-political-crisis-deepens-after-vp-resignation/"}
+    - {label: "Courthouse News (AFP): A year on, Tanzanians mourn election massacres", url: "https://www.courthousenews.com/a-year-on-tanzanians-mourn-election-massacres-in-state-of-terror/"}
 TGO:
   pop: 9.7
   religion: Christian about 45%, Muslim about 20%, traditional faiths
