@@ -1,6 +1,125 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
 - date: '2026-11-01'
+  countries: [BGR]
+  category: political
+  headline: "Iliana Iotova wins Bulgaria's presidential runoff and becomes its first elected woman head of state"
+  summary: "With 99.95 percent of protocols counted, acting president Iliana Iotova and running mate Kiril Valchev took 57.58 percent against 39.47 percent for former caretaker prime minister Andrey Gyurov, backed by the pro-Western PP-DB, with about 2.95 percent choosing 'I support no one'. Iotova, a Socialist whose party membership is frozen, became acting president in January when Rumen Radev resigned to run for parliament, and Radev, now prime minister, backed her. It matters because it puts Radev's camp, which calls for a negotiated end to the war in Ukraine, in charge of both the presidency and the government."
+  sources:
+  - label: "US News (Reuters): Bulgaria's Iotova wins presidential runoff, near-final results show"
+    url: https://www.usnews.com/news/world/articles/2026-11-02/bulgarias-iotova-wins-presidential-runoff-near-final-results-show
+  - label: "Georgia Today: Bulgaria's Iliana Iotova wins presidential runoff to become country's first elected female president"
+    url: https://georgiatoday.ge/bulgarias-iliana-iotova-wins-presidential-runoff-to-become-countrys-first-elected-female-president/
+- date: '2026-11-01'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-war
+  headline: "The Oleshky truce, the longest local ceasefire of the war, ends after six days"
+  summary: "The humanitarian ceasefire around Russian-occupied Oleshky expired at 22:59 Kyiv time on 1 November with no violations reported by either side; a Ukrainian official said Russia rejected an offer to extend it. Hundreds of residents were evacuated, though no total has been published, and Ukraine's military said it moved 167 more civilians out of threatened parts of southern Kherson region that day. Ombudsman Dmytro Lubinets said he was working with his Russian counterpart Yana Lantratova to keep the mechanism alive. It matters because Kherson city, quiet during the truce, is again exposed to shelling and drones."
+  sources:
+  - label: "Al Jazeera: Kherson braces for return of war as localised Russia-Ukraine truce ends"
+    url: https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends
+  - label: "Ukrinform: Lubinets announces end of ceasefire in Oleshky"
+    url: https://www.ukrinform.net/rubric-society/4180361-lubinets-announces-end-of-ceasefire-in-oleshky.html
+- date: '2026-11-01'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Hackers hijack Ukraine's air raid app with fake nuclear alerts, and Russia reports a hit on its own app"
+  summary: "Ukraine's air force said its national alert app sent false warnings on 1 November of nuclear and chemical threats around Kyiv, street fighting and an Oreshnik missile launch, after what it called enemy interference; it said there was no radiation threat, and Ukraine's strategic communications centre blamed Russia. Early on 2 November Russia's Emergencies Ministry said its own app had suffered a 'massive cyberattack' that spread false information. It matters because public warning systems are a lifeline during nightly strikes, and both sides now say theirs were turned against them."
+  sources:
+  - label: "Al Jazeera (AFP, Reuters): Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends"
+    url: https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings
+- date: '2026-11-02'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Guided bombs hit Izium, killing one and cutting the city's power, after a 193-drone night"
+  summary: "Kharkiv governor Oleh Syniehubov said several guided bombs struck Izium at about 09:00, wrecking three floors of a five-storey block, killing one person and injuring 11, and the city lost power after high-voltage lines were damaged. Overnight Russia launched 193 drones, of which Ukraine's General Staff said 154 were downed or suppressed, and the State Emergency Service reported five people injured and warehouses set alight in Odesa region. It matters as strikes resume across the south and east the morning after the Oleshky truce ended."
+  sources:
+  - label: "Ukrinform: Attack on Izium leaves one dead and 11 injured, damaging homes and stores"
+    url: https://www.ukrinform.net/rubric-ato/4180477-attack-on-izium-leaves-one-dead-and-11-injured-damaging-homes-and-stores.html
+  - label: "Ukrainska Pravda: Russian guided bomb attack on Izium leaves one killed and causes city blackout"
+    url: https://www.pravda.com.ua/eng/news/2026/11/02/8060815/
+  - label: "Mezha: Russia attacked Ukraine overnight with 193 strike UAVs"
+    url: https://mezha.net/eng/news/mezha-c89f1a8ac94698ae810ece61/
+- date: '2026-11-01'
+  countries: [IRN, QAT, USA]
+  category: diplomatic
+  conflict: iran-war-2026
+  headline: "Iranian negotiators leave Doha after three days as Trump says the war will end 'one way or the other'"
+  summary: "Iran's delegation left Qatar on 1 November after three days with Qatari mediators, and an official told Reuters the departure was not caused by difficulties and that a draft proposal for a deal with the US was circulating. Araghchi said talks on the two-day Hormuz arrangement continued without a final conclusion and that there were no direct talks with Washington. Trump said the US would 'put it away very soon, one way or the other', and reported a 'very good talk' with Netanyahu about Iran. It matters because the US midterms on 3 November are the point after which Washington has signalled strikes could resume."
+  sources:
+  - label: "Arab News (Reuters): Iranian negotiators depart Doha, but talks with Qatar not derailed, says official"
+    url: https://www.arabnews.pk/middle-east/iranian-negotiators-depart-doha-but-talks-with-qatar-not-derailed-says-official-3005861
+  - label: "CBS News: Trump says war in Iran will be put away very soon 'one way or the other' (live updates)"
+    url: https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/
+- date: '2026-11-01'
+  countries: [IRN, QAT, OMN]
+  category: military
+  conflict: strait-of-hormuz-shipping-war
+  headline: "A ship is hit by an unknown projectile in Hormuz and Qatar reports an attack on one of its LNG carriers"
+  summary: "UKMTO said a vessel in the Strait of Hormuz was struck by 'an unknown projectile' on 1 November and that a mayday call was relayed. Qatar's state news agency said the LNG carrier Al Mayeda had been attacked with 'unidentified objects' in Gulf waters on the evening of 30 October, with no crew injured. It matters because attacks on shipping continued even as Qatar mediated between Iran and the US."
+  sources:
+  - label: "CBS News: Iran war live updates, 1 November 2026"
+    url: https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/
+- date: '2026-11-01'
+  countries: [SDN, ETH]
+  category: diplomatic
+  conflict: sudan-saf-rsf
+  headline: "Sudan files complaints against Ethiopia at the UN Security Council and the African Union"
+  summary: "Sudan's foreign ministry said late on 1 November that it had complained to the UN Security Council and the AU Peace and Security Council that the RSF was using Ethiopian territory for 'brazen aggression' against civilians and power stations. An army report counted 70 attacks with 187 drones from 15 February to 27 October, launched from Asosa airport, the Kurmuk-Gizen border area and Bahir Dar airbase, killing or wounding 484 civilians and killing 176 soldiers; Ethiopia, which accuses Sudan's army of backing Tigrayan rebels, has denied aiding the RSF. It matters because it moves a border dispute toward a formal confrontation between two neighbours each fighting its own war."
+  sources:
+  - label: "Al Jazeera (AFP): Sudan files complaints against Ethiopia with UN over deadly drone spree"
+    url: https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree
+- date: '2026-11-02'
+  countries: [YEM, SAU]
+  category: military
+  conflict: yemen-civil-war
+  headline: "Saudi defences down a missile and a drone as Yemen's army claims heavy Houthi losses in al-Jawf"
+  summary: "Coalition spokesman Turki al-Maliki said a ballistic missile aimed at southern Saudi Arabia was destroyed on 2 November after a drone the previous evening, and civil defence briefly issued warnings for Abha, Khamis Mushait, Taif and Najran. Yemen's army said its forces carried out 1,272 strikes in 24 hours on the al-Jawf, Marib and al-Bayda fronts and killed about 500 Houthi fighters, a claim no one has verified, while Houthi media said coalition strikes on Ras Isa port and Bajil wounded seven. It matters because the government's Dawn of Yemen offensive is pushing north while the Houthi siege of Taiz has shut 120 health centres, according to its governor."
+  sources:
+  - label: "Al Jazeera: Saudi-led coalition intercepts a missile as fighting rages in Yemen's al-Jawf"
+    url: https://www.aljazeera.com/news/2026/11/2/saudi-led-coalition-intercepts-a-missile-as-fighting-rages-in-yemens-al-jawf
+- date: '2026-11-01'
+  countries: [ISR]
+  category: political
+  headline: "Israel's election chief says results stand as Netanyahu calls the vote 'stolen'"
+  summary: "Central Elections Committee chair Noam Sohlberg, appearing with the Shin Bet chief and the attorney general, said the results would stand even if suspicions of foreign interference were confirmed. Likud has alleged, without evidence, that Arab-led parties stole the vote with Qatari money, which Qatar called disinformation; police released two of three activists linked to Ra'am who had been arrested with envelopes of cash. It matters because certification this week opens President Herzog's consultations, with Netanyahu's bloc on 53 seats, Eisenkot's on 48 and Arab-led parties on 19."
+  sources:
+  - label: "Al Jazeera: Israeli officials say results stand as Netanyahu claims election 'stolen'"
+    url: https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen
+- date: '2026-11-02'
+  countries: [PSE, ISR]
+  category: military
+  conflict: west-bank-violence
+  headline: "Israeli forces pull out of Hebron after a 10-day siege that displaced more than 3,300 people"
+  summary: "Hebron governor Khaled Dudin said on 2 November that Israeli troops had left the city and Palestinian security forces had taken control. The army closed Hebron and nearby villages on 23 October after two Palestinians shot dead two Israeli soldiers, and turned seized homes into posts; the governorate says more than 3,300 people were displaced or affected, mostly in Al-Jalda and Ein Deir Baha, and 15 homes and other structures were demolished. It matters as the largest West Bank operation since the election and a test of whether displaced families can return."
+  sources:
+  - label: "Al Jazeera: Hebron governor says Israeli forces withdraw from city after 10-day siege"
+    url: https://www.aljazeera.com/news/2026/11/2/hebron-governor-says-israeli-forces-withdraw-from-city-after-10-day-siege
+  - label: "Middle East Monitor: Hebron protest demands end to Israeli assault, return of displaced families after 10-day siege"
+    url: https://www.middleeastmonitor.com/20261102-hebron-protest-demand-end-to-israeli-assault-return-of-displaced-families-after-10-day-siege/
+- date: '2026-11-01'
+  countries: [PSE, ISR]
+  category: military
+  conflict: israel-hamas-gaza
+  headline: "Israeli strikes kill at least eight in Gaza, including police in al-Mawasi"
+  summary: "Hospital sources said a drone strike in al-Mawasi killed five people the Interior Ministry described as police on duty, which Israel said was aimed at 'a terrorist', and a strike in Gaza City's Rimal district killed three, including a four-year-old boy. Gaza's health ministry puts the toll since October 2023 at 74,594, and more than 1,500 people have been killed since the October 2025 ceasefire. It matters because strikes continue at a steady pace while Gaza's next phase waits on Israel's government talks."
+  sources:
+  - label: "Al Jazeera: At least eight Palestinians killed in Israeli attacks across Gaza"
+    url: https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza
+  - label: "US News (Reuters): Israeli strikes kill eight people in Gaza, medics say"
+    url: https://www.usnews.com/news/world/articles/2026-11-01/israeli-strikes-kill-eight-people-in-gaza-medics-say
+- date: '2026-11-01'
+  countries: [COD, UGA, KEN]
+  category: humanitarian
+  headline: "Congo's Ebola deaths pass 5,000, the second-deadliest outbreak on record"
+  summary: "Congo's health ministry reported 5,026 deaths among 10,351 infections from the Bundibugyo strain, which has no approved vaccine or treatment, across 67 health zones in eight provinces, with Ituri and North Kivu the centre. Africa CDC said about 80 percent of new cases come from outside known contact chains, and cases have reached Uganda, Kenya and Nigeria. It matters because fighting involving M23 and the ADF, attacks on health workers and unpaid-wage strikes are keeping responders out."
+  sources:
+  - label: "Manila Times: Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts"
+    url: https://www.manilatimes.net/2026/11/01/world/congos-ebola-deaths-top-5000-as-fear-of-continent-wide-spread-mounts/2458913
+- date: '2026-11-01'
   countries: [IRN, QAT, USA]
   category: diplomatic
   conflict: iran-war-2026
@@ -1499,6 +1618,9 @@ upcoming:
 - date: '2026-11-05'
   countries: [GRD]
   event: Grenada parliamentary election
+- date: '2026-11-06'
+  countries: [VAT, URY, ARG, PER]
+  event: "Pope Leo XIV visits Uruguay, Argentina and Peru (6 to 17 November), his first South American trip as pope"
 - date: '2026-11-07'
   countries: [NZL]
   event: New Zealand general election

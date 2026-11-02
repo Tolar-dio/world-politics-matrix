@@ -93,15 +93,17 @@ ISR:
     and Arab-led parties a record 19, so no bloc has the 61 needed. Eisenkot has ruled out partnering with
     Arab parties, so he can only govern with their outside support. Likud claimed, without evidence, that
     Arab parties stole the vote; police said there was no supporting evidence, and the election committee
-    chair asked the Shin Bet to check a letter alleging foreign interference. Official results are due on 4
-    November, after which President Herzog consults party leaders; Netanyahu remains caretaker prime
-    minister until a new government is sworn in.
-  update_date: 2026-10-30
+    chair asked the Shin Bet to check a letter alleging foreign interference. On 1 November the committee
+    chair, Noam Sohlberg, said the results would stand even if interference were confirmed. Official
+    results are due on 4 November, after which President Herzog consults party leaders; Netanyahu
+    remains caretaker prime minister until a new government is sworn in.
+  update_date: 2026-11-01
   sources_extra:
     - {label: "Al Jazeera: Five key takeaways from Israel's parliamentary elections", url: "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections"}
     - {label: "Times of Israel: election count liveblog, 28 October 2026", url: "https://www.timesofisrael.com/liveblog-october-28-2026/"}
     - {label: "Al Jazeera: Israel election result shows no overall majority as vote count complete", url: "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete"}
     - {label: "Times of Israel: Police dismiss Likud's claim that election was 'stolen' by Arab parties", url: "https://www.timesofisrael.com/liveblog_entry/police-dismiss-likuds-claim-that-election-was-stolen-by-arab-parties-no-substantiation/"}
+    - {label: "Al Jazeera: Israeli officials say results stand as Netanyahu claims election 'stolen'", url: "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen"}
 
 JOR:
   pop: 11.5
