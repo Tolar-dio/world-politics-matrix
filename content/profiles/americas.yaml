@@ -194,10 +194,16 @@ COL:
   society: >-
     A 2016 peace deal disarmed the FARC guerrillas after 50 years of war, but dissident factions, the ELN and the Clan del Golfo cartel still fight over coca and mining areas. Colombia remains the world's largest cocaine producer. It has taken in nearly three million Venezuelans. Inequality and land ownership are long-running grievances.
   update: >-
-    On 14 October Colombia opened an embassy in Jerusalem and restored its free trade agreement with
-    Israel, reversing Petro's 2024 break with Israel.
-  update_date: 2026-10-14
+    After a former Cúcuta government secretary and would-be mayoral candidate was shot dead on 26
+    October and a bomb near the customs offices by the Venezuelan border crossing injured civilians and
+    police the next day, President De la Espriella on 29 October ordered a temporary military build-up
+    in Cúcuta, with reinforcements arriving from 3 November. On 14 October Colombia opened an embassy in
+    Jerusalem and restored its free trade agreement with Israel, reversing Petro's 2024 break.
+  update_date: 2026-11-03
   sources_extra:
+    - {label: "Al Arabiya: Colombia president orders military buildup in border city", url: "https://english.alarabiya.net/News/world/2026/10/30/colombia-president-orders-military-buildup-in-border-city"}
+    - {label: "UPI: Colombia orders military intervention in Cucuta amid violence", url: "https://www.upi.com/Top_News/World-News/2026/10/30/latam-colombia-cucuta-military-intervention-violence/7391793377840"}
+    - {label: "The City Paper Bogota: De la Espriella orders temporary militarization of Cucuta", url: "https://thecitypaperbogota.com/news/de-la-espriella-orders-temporary-militarization-of-cucuta/"}
     - {label: "Reuters: Colombia opens embassy in Jerusalem", url: "https://www.reuters.com/world/americas/colombia-opens-embassy-jerusalem-restores-free-trade-deal-with-israel-2026-10-14/"}
 
 CRI:

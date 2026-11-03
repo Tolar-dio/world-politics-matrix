@@ -1,5 +1,119 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-02'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russian guided bombs hit an aid distribution point in Komyshuvakha, killing at least 29"
+  summary: "Guided bombs struck a school in Komyshuvakha, Zaporizhzhia region, on the morning of 2 November while residents were collecting humanitarian aid, and further bombs hit a nearby shelter as police and rescuers arrived. Acting regional governor Mykhailo Semikin said on 3 November that 29 people had been killed, including four police officers and two rescue workers, with 48 still missing; the village is about 20 km from the front. Zelensky said Russian forces 'could not have been unaware' that aid was handed out there every week. It is one of the deadliest single attacks on Ukrainian civilians this year."
+  sources:
+  - label: "AP via WFTV: Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing"
+    url: https://www.wftv.com/news/world/death-toll-hits-29/NB2KGEHOWY7YHMQ32BUATC45EM/
+  - label: "Kyiv Independent: Russian bombs strike school used as humanitarian aid center in Zaporizhzhia Oblast"
+    url: https://kyivindependent.com/exceptionally-horrific-strike-russian-bombs-strike-school-used-as-humanitarian-aid-center-in-zaporizhzhia-oblast-killing-24/
+- date: '2026-11-03'
+  countries: [UKR, RUS, POL]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russia fires 289 drones and 76 missiles at Ukraine on US election night as Ukraine sends hundreds of drones toward Moscow"
+  summary: "Zelensky said Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles overnight into 3 November across nine regions, hitting power plants, hospitals and port infrastructure in Odesa region and forcing emergency power cuts. In Kharkiv at least 62 people were wounded and more than 200 patients were moved after a medical facility was hit, and in Dnipro one person was killed and 17 wounded; Poland scrambled air defences. Russia's defence ministry said it downed 856 Ukrainian drones, 493 of them heading for Moscow according to mayor Sergei Sobyanin, and a refinery in Yaroslavl was hit. It matters because the largest combined strike in weeks came as the Oleshky truce ended and a week before planned talks."
+  sources:
+  - label: "AP via WFTV: Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing"
+    url: https://www.wftv.com/news/world/death-toll-hits-29/NB2KGEHOWY7YHMQ32BUATC45EM/
+  - label: "Euronews (AFP): Russia pounds Ukraine with 289 drones and 17 ballistic missiles in overnight strikes, Zelenskyy says"
+    url: https://www.euronews.com/2026/11/03/russia-pounds-ukraine-with-289-drones-and-17-ballistic-missiles-in-overnight-strikes-zelen
+- date: '2026-11-02'
+  countries: [USA, UKR, RUS, ARE]
+  category: diplomatic
+  conflict: russia-ukraine-war
+  headline: "Witkoff says the US will mediate working-level Russia-Ukraine talks in Abu Dhabi on 10 and 11 November"
+  summary: "US envoy Steve Witkoff said Washington would host working-level talks between Ukraine and Russia in Abu Dhabi on 10 and 11 November, confirming the venue and dates floated by Moscow. Zelensky has said Ukraine will offer a moratorium on energy or Black Sea strikes, while the Kremlin rejects a general ceasefire and did not deny using the Oleshky pause to strengthen its positions. It matters because these would be the first trilateral talks in months, and the scale of strikes on both sides since the truce ended shows how little ground there is."
+  sources:
+  - label: "Euronews (AFP): Russia pounds Ukraine with 289 drones and 17 ballistic missiles in overnight strikes, Zelenskyy says"
+    url: https://www.euronews.com/2026/11/03/russia-pounds-ukraine-with-289-drones-and-17-ballistic-missiles-in-overnight-strikes-zelen
+- date: '2026-11-02'
+  countries: [USA, IRN]
+  category: military
+  conflict: iran-war-2026
+  headline: "US jets strike Qeshm Island after Iran fires at a US aircraft over Hormuz, on the eve of the midterms"
+  summary: "US officials told reporters that American aircraft carried out 'limited' and 'defensive' strikes on Iran's Qeshm Island late on 2 November after Iranian forces fired surface-to-air missiles at US assets; US media said a surface-to-air launch system was hit, and residents of Qeshm, Hengam and Bandar Abbas reported explosions. CENTCOM did not comment, and the IRGC said it had brought down two US target drones and an MQ-9. Parliament speaker Ghalibaf warned that a US 'strategic error' would open 'a new battlefield' and said 'the ball is in America's court', while foreign ministry spokesman Baghaei said Iran's ceasefire plan could now be carried out within two days if its terms were met. It is the first reported US strike on Iranian soil in weeks and comes as Washington signals a decision on Iran after the 3 November vote."
+  sources:
+  - label: "Times of Israel (agencies): US carries out 'defensive' strikes on Iran's Qeshm island in Strait of Hormuz"
+    url: https://www.timesofisrael.com/us-carries-out-defensive-strikes-on-irans-qeshm-island-in-strait-of-hormuz
+  - label: "Euronews: Iran warns of 'new battlefield' after reported US strike on Qeshm"
+    url: https://www.euronews.com/2026/11/03/iran-warns-of-new-battlefield-after-reported-us-strike-on-qeshm
+  - label: "Al Jazeera: Trump signals progress on Iran deal as Tehran pushes faster ceasefire"
+    url: https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us
+- date: '2026-11-02'
+  countries: [BEL]
+  category: political
+  headline: "Belgian prime minister Bart De Wever offers his resignation after budget talks collapse"
+  summary: "De Wever handed his resignation to King Philippe on 2 November after his five-party coalition (N-VA, MR, Vooruit, CD&V and Les Engagés) failed to agree a 2027 budget; the centre and left partners wanted higher taxes on the wealthiest, which N-VA and the liberal MR rejected. The palace said the king regretted the lack of a credible budget and was withholding his decision, would consult party leaders from 3 November and would see De Wever again on Friday. It matters because Belgium's debt is forecast at about 110 percent of GDP and the crisis comes amid strikes and protests over austerity and plans to raise defence spending."
+  sources:
+  - label: "ABC News (AP): Belgian PM quits after budget talks fail as king mulls whether to accept resignation"
+    url: https://abcnews.com/International/wireStory/belgian-prime-minister-quits-after-budget-talks-fail-137764313
+  - label: "VRT NWS: Prime Minister Bart De Wever offers King Filip his resignation"
+    url: https://www.vrt.be/vrtnws/en/2026/11/02/prime-minister-de-wever-offers-resignation-to-king-filip/
+- date: '2026-11-02'
+  countries: [UGA, SOM]
+  category: military
+  conflict: somalia-al-shabaab
+  headline: "Uganda starts pulling its troops out of Somalia and sets a 2027 deadline to leave"
+  summary: "Uganda's army spokesman Chris Magezi said on 2 November that a phased drawdown had begun 'effective immediately', starting with troops deployed under a bilateral deal with Mogadishu, and that all Ugandan forces, including about 4,500 under the African Union mission AUSSOM, would leave by the end of 2027. An AUSSOM letter of 31 October warned the pullout could leave parts of Lower Shabelle open to al-Shabaab, and a Somali minister said problems could follow a sudden exit. It matters because Uganda has been the backbone of the AU force for nearly two decades and AUSSOM already faces a funding crisis."
+  sources:
+  - label: "SRN News (Reuters): Uganda says it has started withdrawing troops from Somalia"
+    url: https://srnnews.com/uganda-says-it-has-started-withdrawing-troops-from-somalia/
+  - label: "Channels Television: Uganda begins troops withdrawal from Somalia"
+    url: https://www.channelstv.com/2026/11/02/uganda-begins-troops-withdrawal-from-somalia-army/
+- date: '2026-11-02'
+  countries: [ETH]
+  category: humanitarian
+  conflict: ethiopia-tigray-war
+  headline: "WHO chief warns northern Ethiopia's health system is near collapse as drone strikes multiply"
+  summary: "WHO Director-General Tedros Adhanom Ghebreyesus said on 2 November that drone attacks and civilian casualties were becoming more frequent across Ethiopia, that hospitals lacked staff, medicines and equipment and that insecurity was blocking medical supplies. He confirmed children were among at least 15 people killed in drone strikes on the Jaari 2 displacement camp in Amhara on 30 October, and people were also reported killed while seeking food in Rama, Tigray. It matters because the renewed war between the federal government and the Tigray-led alliance has all but destroyed the 2022 peace deal, and the north now faces both fighting and a health emergency."
+  sources:
+  - label: "Al Jazeera (Reuters, AP): Violence in northern Ethiopia pushing health system towards collapse, WHO says"
+    url: https://www.aljazeera.com/news/2026/11/2/violence-in-northern-ethiopia-pushing-health-system-towards-collapse-who
+  - label: "UN News: Ethiopia, violence in the north is pushing health system to the brink, WHO chief warns"
+    url: https://news.un.org/en/story/2026/11/1168720
+- date: '2026-11-02'
+  countries: [BGD]
+  category: economic
+  headline: "About 500 Bangladesh garment factories shut as wage protests enter a third day"
+  summary: "Thousands of garment workers protested in Mirpur, Savar, Ashulia and Gazipur, demanding a minimum monthly wage of 30,000 taka (about 242 dollars), more than double the current 12,500, and police used tear gas and sound grenades. Prime Minister Tarique Rahman's government set up a wage board on 1 November, and the manufacturers' association threatened 'no work, no pay' if protests went on. It matters because garments earn Bangladesh about 38 billion dollars a year, and the dispute is the first big labour test for the government elected in February."
+  sources:
+  - label: "Al Jazeera: Bangladesh garment factories disrupted as protests continue for third day"
+    url: https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day
+  - label: "US News (Reuters): Bangladesh sets up wage board as garment workers' unrest shuts factories"
+    url: https://www.usnews.com/news/top-news/articles/2026-10-31/bangladesh-to-form-wage-board-after-garment-protests-shut-factories
+- date: '2026-11-01'
+  countries: [MMR]
+  category: military
+  conflict: myanmar-civil-war
+  headline: "Myanmar military air strikes kill at least 15, including a newborn, in Rakhine and Kayah"
+  summary: "Air strikes on 1 November hit four townships in Rakhine state, including a makeshift clinic and maternity ward in Arakan Army-held Mrauk-U and a bridge in Kyauktaw, killing at least 12 people, among them a week-old baby, and wounding 32, according to the Arakan Army and an aid worker. A day earlier a strike on a school near Loikaw in Kayah state killed three students, Karenni groups said. The military government did not respond to Reuters. It matters because the dry-season campaigning months are starting and air strikes remain the main cause of civilian deaths in the war."
+  sources:
+  - label: "ThePrint (Reuters): Newborn among 15 killed as Myanmar military strikes maternity clinic and school, sources say"
+    url: https://theprint.in/world/newborn-among-15-killed-as-myanmar-military-strikes-maternity-clinic-and-school-sources-say/3088173/
+- date: '2026-11-02'
+  countries: [PSE, ISR]
+  category: military
+  conflict: israel-hamas-gaza
+  headline: "Israeli strikes kill at least three more in Gaza as the ceasefire death toll passes 1,580"
+  summary: "Medics said two people were killed and six wounded in two air strikes in Khan Younis and one person was killed in al-Mussadar on 2 November, and Al Jazeera reported a fifth death in a shooting near Khan Younis. Israel's military said it struck 'Palestinian militants'. Gaza health officials say at least 1,580 Palestinians have been killed since the US-brokered ceasefire took hold a year ago, while Israel says four of its soldiers have died; talks on Hamas disarmament and Israeli withdrawal remain stalled."
+  sources:
+  - label: "News Tribune (Reuters): Israeli strikes kill three people in Gaza, medics say"
+    url: https://www.newstribune.com/news/2026/nov/02/israeli-strikes-kill-three-people-in-gaza-medics-say/
+  - label: "Haaretz: Latest Israeli strikes kill three Palestinians in Gaza, medics say"
+    url: https://www.haaretz.com/gaza/2026-11-02/ty-article/latest-israeli-strikes-kill-three-palestinians-in-gaza/000001a1-9b1b-df63-ade5-fb5ff3980000
+- date: '2026-11-02'
+  countries: [ZMB]
+  category: political
+  headline: "Human Rights Watch documents a violent crackdown on Zambia's opposition since the August election"
+  summary: "Human Rights Watch said police and soldiers had abducted, detained, beaten and threatened opposition members, lawyers and journalists since President Hakainde Hichilema won a second term in August, documenting 14 apparent enforced disappearances and 61 alleged beatings; several opposition leaders, including Brian Mundubile, remain in detention. It matters because Zambia has been seen as one of southern Africa's more stable democracies."
+  sources:
+  - label: "Morning Star: World in brief, November 2, 2026"
+    url: https://morningstaronline.co.uk/article/world-brief-november-2-2026
 - date: '2026-11-01'
   countries: [BGR]
   category: political
@@ -1615,6 +1729,12 @@ upcoming:
   countries: [ISR]
   event: Official publication of Israel's election results; President Herzog then consults party leaders on who
     should form a government, with Netanyahu caretaker until a new government is sworn in
+- date: '2026-11-04'
+  countries: [ZAF]
+  event: "South African municipal elections: all metro and local councils and 40 percent of district seats, the first local vote since the Government of National Unity formed"
+- date: '2026-11-06'
+  countries: [BEL]
+  event: "King Philippe receives Bart De Wever again to decide on his resignation after consulting party leaders"
 - date: '2026-11-05'
   countries: [GRD]
   event: Grenada parliamentary election
@@ -1635,8 +1755,7 @@ upcoming:
   event: New Knesset sworn in after the 27 October election
 - date: '2026-11-10'
   countries: [USA, RUS, UKR]
-  event: Earliest date Putin gave for resumed US-Russia-Ukraine talks; Abu Dhabi floated as venue, Kremlin aide
-    said mid-November
+  event: "US-mediated working-level Russia-Ukraine talks in Abu Dhabi on 10 and 11 November, Witkoff says"
 - date: '2026-11-15'
   countries: [CPV]
   event: Cape Verde presidential election

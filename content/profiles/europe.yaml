@@ -117,20 +117,19 @@ BEL:
   system_note: A federal state divided between Dutch-speaking Flanders and French-speaking Wallonia.
   story: unrest
   snapshot: >-
-    Wave after wave of general strikes hit Belgium in 2026 against pension cuts and limits on wage indexation by Bart De Wever's five-party coalition.
+    After a year of general strikes against pension and indexation cuts, Bart De Wever offered to resign on 2 November 2026 when his five-party coalition could not agree a budget.
   tags: [General strikes, Language divide, EU and NATO capital, Comics and chocolate]
   culture: >-
     Belgium is split between Dutch-speaking Flanders, French-speaking Wallonia and bilingual Brussels, with a small German-speaking community. It gave the world Tintin, the Smurfs, René Magritte, Art Nouveau architecture, and a beer culture that is UNESCO-listed. Cycling, especially the Tour of Flanders, is a religion in Flanders.
   society: >-
     Brussels hosts the EU institutions and NATO. Politics is fragmented along language lines, and forming governments can take more than a year. The economy is rich but carries high public debt, which De Wever's coalition is trying to cut. Flemish nationalism has grown, and Wallonia has struggled since its heavy industry declined.
-  update: >-
-    Budget talks in Bart De Wever's five-party coalition stalled in October, forcing him to cancel his 13
-    October State of the Union address and drop a contested VAT rise in favour of a one-year plan for 2027
-    saving about 3 to 4 billion euros, with a proposed 'debt brake' if no multi-year deal is reached by
-    December. As of 22 October there was still no agreement, with Vooruit pressing for higher taxes on the
-    wealthy and the liberal MR opposing tax rises, while public-sector unions struck again on 12 October.
-  update_date: 2026-10-22
+  update: "Prime Minister Bart De Wever offered his resignation to King Philippe on 2 November after his five-party coalition (N-VA, MR, Vooruit, CD&V, Les Engag\u00e9s) failed to agree a 2027 budget: Vooruit, CD&V and Les Engag\u00e9s wanted the wealthiest to pay more, while N-VA and MR rejected new taxes. The king withheld his decision, began consulting party leaders on 3 November and is due to see De Wever again on 6 November; he can accept, which would bring the government down, or give more time, as he did in a similar deadlock in 2025. Belgium's debt is forecast at about 110 percent of GDP, and the crisis follows months of strikes against pension and indexation cuts."
+  update_date: 2026-11-03
   sources_extra:
+    - label: "ABC News (AP): Belgian PM quits after budget talks fail as king mulls whether to accept resignation"
+      url: https://abcnews.com/International/wireStory/belgian-prime-minister-quits-after-budget-talks-fail-137764313
+    - label: "VRT NWS: Prime Minister Bart De Wever offers King Filip his resignation"
+      url: https://www.vrt.be/vrtnws/en/2026/11/02/prime-minister-de-wever-offers-resignation-to-king-filip/
     - {label: "Brussels Signal: Belgium settles for a one-year budget as full agreement stays out of reach", url: "https://brusselssignal.eu/2026/10/belgium-settles-for-a-one-year-budget-as-full-agreement-stays-out-of-reach/"}
     - {label: "VRT: Noch immer kein Haushalt", url: "https://www.vrt.be/vrtnws/de/2026/10/22/noch-immer-kein-haushalt-die-belgische-regierung-findet-keinen/"}
     - {label: "US News (Reuters): Belgium strike partly shuts public sector as budget deal delayed", url: "https://www.usnews.com/news/world/articles/2026-10-12/belgium-strike-partly-shuts-public-sector-as-budget-deal-delayed"}
@@ -231,12 +230,15 @@ CZE:
   society: >-
     The Czech Republic has one of the EU's lowest unemployment rates and a strong car industry led by Škoda. The 1989 Velvet Revolution and the 1993 peaceful split from Slovakia are points of pride. Babiš, whose companies have faced EU conflict of interest rulings, leads a populist coalition with the SPD and the Motorists.
   update: >-
-    In the Senate elections that ended on 17 October, opposition parties won 22 of the 27 seats
-    contested, and Babiš's ANO won none. It was the first time governing parties failed to win a
-    single seat in a Czech Senate election.
+    In the Senate elections that ended with runoffs on 16 and 17 October, Babiš's ANO won none of
+    the 27 seats contested, while STAN, ODS, KDU-ČSL and TOP 09 took most of them, so the opposition
+    keeps its Senate majority. It was the first time the main governing party failed to win a single
+    seat in a Czech Senate election. (Corrected 3 November: an earlier version said opposition
+    parties won 22 of the 27 seats; 22 was the number of seats decided in the runoff.)
   update_date: 2026-10-17
   sources_extra:
     - {label: "AP: Czech Senate election", url: "https://apnews.com/article/czech-republic-senate-election-babis-d206f3edbc7ea0f73b0dbd07b339820b"}
+    - {label: "Qatar Tribune (dpa): Czech PM Andrej Babis' party suffers defeat in upper house elections", url: "https://www.qatar-tribune.com/article/259605/world/czech-pm-andrej-babis-party-suffers-defeat-in-upper-house-elections/amp"}
 
 DNK:
   pop: 6.0
@@ -263,7 +265,7 @@ EST:
   society: >-
     Estonia runs almost all public services online, including voting, and produced Skype and many startups. About a quarter of the population is ethnic Russian, concentrated in Narva and Tallinn. Defence spending is among NATO's highest, reflecting fear of Russia. Tax rises to fund defence have hurt the government's popularity.
   baseline: >-
-    Kristen Michal of the Reform Party became prime minister in 2024 after Kaja Kallas left to become the EU's foreign policy chief. In September 2026, parliament elected Ülle Madise, the chancellor of justice, as president, succeeding Alar Karis. A parliamentary election is due in March 2027.
+    Kristen Michal of the Reform Party became prime minister in 2024 after Kaja Kallas left to become the EU's foreign policy chief. In September 2026, parliament elected Ülle Madise, the chancellor of justice, as president, succeeding Alar Karis; she was sworn in on 12 October. Michal's Reform-Eesti 200 coalition lost its majority in August 2026 and now holds 50 of 101 seats. A parliamentary election is due in March 2027.
   leaders: {state: "President Ülle Madise, since October 2026", gov: "Prime Minister Kristen Michal, since 2024"}
   power: >-
     A parliamentary republic. The prime minister leads the majority in the 101-seat Riigikogu; the
@@ -271,6 +273,8 @@ EST:
   story: election
   sources:
     - {label: "ERR: Estonia elects a new president", url: "https://news.err.ee/1610126071/estonia-elects-new-president"}
+    - {label: "Qatar Tribune (dpa): Estonia's new president Ulle Madise sworn in", url: "https://www.qatar-tribune.com/article/258816/world/estonias-new-president-ulle-madise-sworn-in"}
+    - {label: "Qatar Tribune (dpa): Estonian coalition loses majority", url: "https://www.qatar-tribune.com/article/248190/world/estonian-coalition-loses-majority"}
 
 FIN:
   pop: 5.6
@@ -890,7 +894,9 @@ CHE:
     Switzerland is among the world's richest countries, with pharma giants like Roche and Novartis, banking and precision industry. It remains outside the EU but tied to it by bilateral treaties. Neutrality has been tested by sanctions on Russia. Glacier loss from climate change is visible across the Alps.
   baseline: >-
     The seven-member Federal Council is shared among the four largest parties, and Guy Parmelin of
-    the Swiss People's Party holds the rotating presidency in 2026. In 2025 the US imposed a 39
+    the Swiss People's Party holds the rotating presidency in 2026; in October he announced he
+    will leave the Federal Council at the end of the year, and parliament will elect a successor
+    in December. In 2025 the US imposed a 39
     percent tariff on Swiss goods before a deal lowered it. On 14 June 2026 voters rejected, by
     about 55 percent, the Swiss People's Party's initiative to cap the population at 10 million,
     which would have endangered free movement with the EU as a new package of EU treaties heads
@@ -903,6 +909,8 @@ CHE:
   story: election
   sources:
     - {label: "Anadolu: voters reject the population cap", url: "https://www.aa.com.tr/en/politics/nearly-55-swiss-voters-reject-10m-population-cap-initiative/3966646"}
+    - {label: "Swissinfo: Switzerland's Parmelin will leave government at year-end", url: "https://www.swissinfo.ch/eng/switzerlands-parmelin-will-leave-government-at-year-end/92155648"}
+    - {label: "The Peninsula: Swiss president to quit government", url: "https://www.thepeninsulaqatar.com/article/02/10/2026/swiss-president-to-quit-government"}
 
 UKR:
   pop: 38
