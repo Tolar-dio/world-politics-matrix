@@ -1,5 +1,83 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-03'
+  countries: [USA]
+  category: political
+  headline: "Democrats win control of both the US House and Senate in the midterm elections"
+  summary: "The AP and CBS News projected early on 4 November that Democrats had won the House, putting Hakeem Jeffries in line to become speaker in January, and had regained the Senate by flipping Republican-held seats including Maine, where Troy Jackson beat Susan Collins, Ohio (Sherrod Brown), North Carolina (Roy Cooper), Iowa and Kansas. Exit polls put Trump's approval at about 38 percent. Trump told CBS News he accepted the results and would work with Democrats but would use his veto 'liberally'. It matters because a Democratic Congress can block legislation, open investigations and shape war funding, including for the Iran war, for the last two years of Trump's term."
+  sources:
+  - label: "CBS News: Live election results for 2026 midterms as Democrats decisively win control of House and Senate"
+    url: https://www.cbsnews.com/live-updates/election-day-2026-midterms/
+  - label: "Forbes: Midterm election results, Democrats sweep House and Senate in stunning rout"
+    url: https://www.forbes.com/sites/saradorn/2026/11/04/midterm-election-results-live-updates-democrats-sweep-house-and-senate-in-stunning-rout/
+  - label: "CNN: 2026 midterm election results live, Democrats take control of Congress"
+    url: https://www.cnn.com/2026/11/04/politics/live-news/midterm-election-congress
+- date: '2026-11-04'
+  countries: [USA, IRN, QAT]
+  category: diplomatic
+  conflict: iran-war-2026
+  headline: "Trump confirms the Qeshm strike and talks of a 'heavy hit' as Iran calls the US reply to its Hormuz plan unconvincing"
+  summary: "Trump told Fox News the US strike on an Iranian air defence site on Qeshm Island was a 'minor attack' that 'wasn't war', then said on 4 November that the US might have to 'do something large'; US media reported that Central Command has plans for strikes that could start after the midterms. Mohsen Rezaei, secretary of Iran's Supreme National Security Council, called Washington's answer to Iran's conditions for reopening Hormuz 'not convincing', a senior Iranian official told Reuters the sides were 'far from' a deal, and Qatar said both remained committed to talks with feedback expected within 36 hours. Speaker Ghalibaf said Americans had voted 'no to war' in the midterms. It matters because the post-election window both sides flagged for renewed strikes has now opened."
+  sources:
+  - label: "Al Jazeera (Reuters): Iran says US reply to Hormuz plan 'unconvincing'; Trump confirms strikes"
+    url: https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes
+  - label: "Business Standard (Reuters): US, Iran remain far apart on deal as Trump signals no rush to strike"
+    url: https://www.business-standard.com/world-news/us-iran-remain-far-apart-on-deal-as-trump-signals-no-rush-to-strike-126110400352_1.html
+  - label: "Gulf News: Iran warns against war as Trump signals 'heavy hit' and tankers catch fire near Hormuz"
+    url: https://gulfnews.com/world/mena/middle-east-conflict-trump-warns-of-heavy-hit-as-iran-says-americans-voted-no-to-war-1.500735100
+- date: '2026-11-03'
+  countries: [IRN, OMN]
+  category: military
+  conflict: iran-war-2026
+  headline: "Tanker hit by projectiles off Oman as the IRGC claims four ships struck mines in Hormuz"
+  summary: "UK Maritime Trade Operations said two unidentified projectiles hit a tanker's engine room about 14 nautical miles northeast of Limah, Oman, on 3 November, with no casualties reported. The IRGC said four tankers using a 'prohibited route' had hit naval mines and were burning and that it had stopped two other vessels; that claim has not been independently verified or linked to the UKMTO report. It matters because attacks on shipping keep Hormuz effectively closed while talks continue."
+  sources:
+  - label: "Al Jazeera (Reuters): Iran says US reply to Hormuz plan 'unconvincing'; Trump confirms strikes"
+    url: https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes
+  - label: "Gulf News: Iran warns against war as Trump signals 'heavy hit' and tankers catch fire near Hormuz"
+    url: https://gulfnews.com/world/mena/middle-east-conflict-trump-warns-of-heavy-hit-as-iran-says-americans-voted-no-to-war-1.500735100
+- date: '2026-11-03'
+  countries: [USA, ISR]
+  category: diplomatic
+  headline: "Trump says the US will stop paying Israel's 4 billion dollars in annual military aid after this year"
+  summary: "Trump said he and Netanyahu had agreed that Washington would end its roughly 4 billion dollars a year in military aid to Israel after 2026 while continuing weapons sales, Reuters reported. The current aid agreement runs to 2028, and it is not clear how the change would be made or whether Congress would agree. It matters because US aid has underpinned Israel's military for decades, and Netanyahu had earlier spoken of phasing it out over ten years."
+  sources:
+  - label: "Business Standard (Reuters): US, Iran remain far apart on deal as Trump signals no rush to strike"
+    url: https://www.business-standard.com/world-news/us-iran-remain-far-apart-on-deal-as-trump-signals-no-rush-to-strike-126110400352_1.html
+  - label: "Foreign Exchanges: World roundup, November 3 2026"
+    url: https://www.foreignexchanges.news/p/world-roundup-november-3-2026
+- date: '2026-11-03'
+  countries: [ISR]
+  category: political
+  headline: "Israel's opposition leaders back Gadi Eisenkot for prime minister as Herzog begins consultations"
+  summary: "Gadi Eisenkot (Yashar), Naftali Bennett, Avigdor Liberman, Yair Golan and Yair Lapid agreed at a meeting in Herzliya on 3 November to recommend Eisenkot to President Isaac Herzog and promised a 'national emergency government'. Their parties hold 48 seats against 53 for Netanyahu's bloc, so they would need backing from Arab-led parties with 19 seats to reach 61; Herzog's consultations with parties start on 4 November. It matters because if Arab-led parties also recommend Eisenkot he could get the first chance to form a government ahead of Netanyahu."
+  sources:
+  - label: "Al Jazeera: Israel's opposition leaders back Eisenkot to oust Netanyahu"
+    url: https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu
+  - label: "Middle East Monitor: Israeli opposition leaders recommend Eisenkot for prime minister, vow to form 'national emergency government'"
+    url: https://www.middleeastmonitor.com/20261103-israeli-opposition-leaders-recommend-eisenkot-for-prime-minister-vow-to-form-national-emergency-government/
+- date: '2026-11-04'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russia sends 310 drones at Ukraine's power grid for a second night as Ukrainian drones set a Russian logistics hub on fire"
+  summary: "Ukraine's air force said Russia launched 310 drones from the evening of 3 November, 272 of which were shot down or suppressed, with hits at 19 locations; energy sites in Zhytomyr, Kovel, Ternopil and Rivne were struck, causing outages, a shopping centre burned in Odesa and two men were wounded in Dnipro. In Russia, the head of Adygea said drones set fire to an Ozon logistics centre in Adygeysk, and Russia's defence ministry said it downed 709 Ukrainian drones over 14 regions. It matters because both sides are escalating long-range strikes in the week before the 10 and 11 November talks in Abu Dhabi, where Kyiv wants an energy truce."
+  sources:
+  - label: "Kyiv Post: Russia pounds Ukraine with 310 drones, hits civilian infrastructure and energy sites"
+    url: https://www.kyivpost.com/post/89068
+  - label: "Euromaidan Press: An online-retail hub in Russia and a Russian-run phone network in occupied Donetsk, two of one night's targets"
+    url: https://euromaidanpress.com/2026/11/04/an-online-retail-hub-in-russia-and-a-russian-run-phone-network-in-occupied-donetsk-two-of-one-nights-targets/
+- date: '2026-10-30'
+  countries: [VEN, USA, COL]
+  category: military
+  conflict: colombia-armed-conflict
+  headline: "US officials say Washington helped Venezuela strike an ELN camp in Apure, with reported deaths up to 23"
+  summary: "Four US officials told The New York Times that the US provided intelligence and drone support for a Venezuelan operation on 30 October against a camp of Colombia's ELN guerrillas in rural Apure state near the border. Venezuelan rights group Fundaredes said at least 23 people were killed, while other counts range from 8 to 19; neither government has given an official account, and Colombia's defence authorities denied any role. It matters because it points to deepening US-Venezuelan military cooperation since Maduro's capture in January, as the two governments reportedly negotiate a status of forces agreement."
+  sources:
+  - label: "Rio Times: US said to help Venezuela strike rebel camp"
+    url: https://www.riotimesonline.com/us-said-to-help-venezuela-strike-rebel-camp/
+  - label: "Infobae (The New York Times): EE. UU. ayudo a Venezuela en un ataque letal contra el ELN, segun funcionarios"
+    url: https://www.infobae.com/america/the-new-york-times/2026/11/04/ee-uu-ayudo-a-venezuela-en-un-ataque-letal-contra-el-eln-segun-funcionarios/
 - date: '2026-11-02'
   countries: [UKR, RUS]
   category: military
@@ -1732,6 +1810,9 @@ upcoming:
 - date: '2026-11-04'
   countries: [ZAF]
   event: "South African municipal elections: all metro and local councils and 40 percent of district seats, the first local vote since the Government of National Unity formed"
+- date: '2026-11-04'
+  countries: [ISR]
+  event: "President Herzog begins consultations with Knesset parties on who should form the next government"
 - date: '2026-11-06'
   countries: [BEL]
   event: "King Philippe receives Bart De Wever again to decide on his resignation after consulting party leaders"
@@ -1765,6 +1846,12 @@ upcoming:
 - date: '2026-11-29'
   countries: [ESP]
   event: Spanish general election
+- date: '2026-12-05'
+  countries: [GMB]
+  event: "Gambian presidential election; Adama Barrow seeks a third term"
+- date: '2026-12-06'
+  countries: [GNB]
+  event: "Guinea-Bissau presidential and legislative elections set by the military junta after the November 2025 coup"
 - date: '2026-12-27'
   countries: [SRB]
   event: Deadline for Serbia's early presidential election triggered by Vucic's resignation

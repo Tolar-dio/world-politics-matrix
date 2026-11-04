@@ -393,9 +393,10 @@ GNQ:
     Nguema Obiang Mangue, known as Teodorín, is vice-president and presumed successor. In 2026 the
     government announced the capital will move from Malabo to Ciudad de la Paz on the mainland, Pope
     Leo XIV visited in April, and in June Teodorín announced that the entire cabinet had resigned
-    after meeting only a tenth of its goals. Rights groups have challenged the forced return of
+    after meeting only a tenth of its goals; four days later Obiang reappointed Prime Minister Manuel
+    Osa Nsue Nsua. Rights groups have challenged the forced return of
     migrants deported to the country by the United States.
-  leaders: {state: "President Teodoro Obiang Nguema Mbasogo, since 1979", gov: "Vice-President Teodoro Nguema Obiang Mangue; Prime Minister Manuel Osa Nsue Nsua's cabinet resigned in June 2026"}
+  leaders: {state: "President Teodoro Obiang Nguema Mbasogo, since 1979", gov: "Prime Minister Manuel Osa Nsue Nsua, reappointed June 2026; Vice-President Teodoro Nguema Obiang Mangue"}
   power: >-
     A presidential republic in form and a family dictatorship in practice. The president appoints
     the government and controls the security forces; the ruling PDGE holds nearly every seat in
@@ -403,6 +404,7 @@ GNQ:
   story: unrest
   sources:
     - {label: "AP via Citrus County Chronicle: cabinet resigns", url: "https://www.chronicleonline.com/news/world/equatorial-guinea-government-resigns-after-missing-targets-vice-president-says/article_c7b759b4-2728-5a14-bbe6-8237c24b44ce.html"}
+    - {label: "Financial Afrik: Guinee equatoriale, le Premier ministre reconduit malgre un bilan juge insuffisant", url: "https://www.financialafrik.com/2026/06/22/guinee-equatoriale-le-premier-ministre-reconduit-malgre-un-bilan-juge-insuffisant/"}
     - {label: "Wikipedia: 2026 in Equatorial Guinea", url: "https://en.wikipedia.org/wiki/2026_in_Equatorial_Guinea"}
 
 ERI:

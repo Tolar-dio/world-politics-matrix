@@ -67,13 +67,16 @@ IRQ:
     - {label: "Al Jazeera: Why has Iraq devalued its currency?", url: "https://www.aljazeera.com/economy/2026/10/8/why-has-iraq-devalued-its-currency-and-why-are-some-mps-against-it"}
     - {label: "CTP-ISW: Iran Update, 26 October 2026", url: "https://www.criticalthreats.org/analysis/iran-update-october-26-2026"}
     - {label: "Long War Journal: Militia disarmament dispute marks Iraq's post-US withdrawal era", url: "https://www.longwarjournal.org/archives/2026/10/us-flag-trampling-militia-disarmament-dispute-mark-iraqs-post-us-withdrawal-era.php"}
+    - {label: "The National: Iraq's al-Zaidi dismisses intelligence chief in shake-up of team", url: "https://www.thenationalnews.com/news/mena/2026/10/27/iraqs-al-zaidi-dismisses-intelligence-chief-in-shake-up-of-team/"}
   update: >-
     US forces completed their withdrawal from Iraq on 30 September, and the government has given
     Iran-backed armed factions until mid-2027 to hand their weapons to the state. On 7 October the
     central bank devalued the dinar. On 17 October an explosion hit a Popular Mobilisation Forces
     base in Baghdad where Chinese-made air-defence missiles were stored. Iraqi sources blamed
-    Israel, and Israeli media appeared to confirm a strike.
-  update_date: 2026-10-26
+    Israel, and Israeli media appeared to confirm a strike. On 26 October al-Zaidi dismissed
+    intelligence chief Hamid al-Shatri, his chief of staff and 69 advisers in a shake-up of his
+    team, as a dispute over the closure of the al-Sheeb crossing with Iran stirred protest in Maysan.
+  update_date: 2026-11-04
 
 ISR:
   pop: 10.0
@@ -94,16 +97,20 @@ ISR:
     Arab parties, so he can only govern with their outside support. Likud claimed, without evidence, that
     Arab parties stole the vote; police said there was no supporting evidence, and the election committee
     chair asked the Shin Bet to check a letter alleging foreign interference. On 1 November the committee
-    chair, Noam Sohlberg, said the results would stand even if interference were confirmed. Official
-    results are due on 4 November, after which President Herzog consults party leaders; Netanyahu
-    remains caretaker prime minister until a new government is sworn in.
-  update_date: 2026-11-01
+    chair, Noam Sohlberg, said the results would stand even if interference were confirmed. On 3
+    November Eisenkot, Naftali Bennett, Avigdor Liberman, Yair Golan and Yair Lapid agreed to recommend
+    Eisenkot as prime minister and promised a 'national emergency government'; he would still need
+    Arab-led parties' backing to reach 61. President Herzog begins consultations with party leaders on 4
+    November, and Netanyahu remains caretaker prime minister until a new government is sworn in.
+  update_date: 2026-11-04
   sources_extra:
     - {label: "Al Jazeera: Five key takeaways from Israel's parliamentary elections", url: "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections"}
     - {label: "Times of Israel: election count liveblog, 28 October 2026", url: "https://www.timesofisrael.com/liveblog-october-28-2026/"}
     - {label: "Al Jazeera: Israel election result shows no overall majority as vote count complete", url: "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete"}
     - {label: "Times of Israel: Police dismiss Likud's claim that election was 'stolen' by Arab parties", url: "https://www.timesofisrael.com/liveblog_entry/police-dismiss-likuds-claim-that-election-was-stolen-by-arab-parties-no-substantiation/"}
     - {label: "Al Jazeera: Israeli officials say results stand as Netanyahu claims election 'stolen'", url: "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen"}
+    - {label: "Al Jazeera: Israel's opposition leaders back Eisenkot to oust Netanyahu", url: "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu"}
+    - {label: "Middle East Monitor: Israeli opposition leaders recommend Eisenkot for prime minister", url: "https://www.middleeastmonitor.com/20261103-israeli-opposition-leaders-recommend-eisenkot-for-prime-minister-vow-to-form-national-emergency-government/"}
 
 JOR:
   pop: 11.5
@@ -122,11 +129,13 @@ JOR:
     On 23 October gunmen killed at least nine mourners at a Greek Orthodox funeral in Karak. Jordan
     responded on 26 October with its first air strikes on what it called Islamic State hideouts in
     southern Syria, and Damascus, which said civilians were killed, closed the Nassib border
-    crossing.
-  update_date: 2026-10-26
+    crossing. It reopened on 28 October after the two foreign ministers spoke and agreed that a
+    joint security committee would meet on operations against Islamic State.
+  update_date: 2026-11-04
   sources_extra:
     - {label: "Al Jazeera: Jordan launches air strikes in Syria", url: "https://www.aljazeera.com/amp/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting"}
     - {label: "AA: Syria closes border crossing with Jordan", url: "https://www.aa.com.tr/en/middle-east/syria-closes-border-crossing-with-jordan-to-passengers-trade/4101844"}
+    - {label: "Kurdistan24: Syria reopens Jordan border crossing as neighbors seek to ease tensions", url: "https://www.kurdistan24.net/en/story/949028"}
 
 KWT:
   pop: 5.0
