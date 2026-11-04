@@ -39,13 +39,15 @@ news:
 - date: '2026-11-03'
   countries: [USA, ISR]
   category: diplomatic
-  headline: "Trump says the US will stop paying Israel's 4 billion dollars in annual military aid after this year"
-  summary: "Trump said he and Netanyahu had agreed that Washington would end its roughly 4 billion dollars a year in military aid to Israel after 2026 while continuing weapons sales, Reuters reported. The current aid agreement runs to 2028, and it is not clear how the change would be made or whether Congress would agree. It matters because US aid has underpinned Israel's military for decades, and Netanyahu had earlier spoken of phasing it out over ten years."
+  headline: "Trump says US military aid to Israel will be cut off at the end of this year"
+  summary: "Trump told Fox News on 3 November that he and Netanyahu 'made a deal months ago' and that US aid to Israel 'gets cut off at the end of the year', partly because Democrats were using it against Republicans; Fox and Reuters reported that Israel could still buy US weapons. Pressed on details, he did not say which forms of aid would end or how. Netanyahu's office did not comment, two Israeli finance ministry sources expressed surprise, and opposition leader Gadi Eisenkot said Israelis were learning of it 'through the media'. It matters because the current ten-year agreement provides about 3.8 billion dollars a year until 2028, and Congress wrote those levels into law in 2020, so it is unclear how a cut would be carried out."
   sources:
+  - label: "ABC News: Trump says $4 billion in Israel military aid will end this year, citing political reasons"
+    url: https://abcnews.com/Politics/trump-israel-aid-end-year-citing-political-reasons/story?id=137809564
   - label: "Business Standard (Reuters): US, Iran remain far apart on deal as Trump signals no rush to strike"
     url: https://www.business-standard.com/world-news/us-iran-remain-far-apart-on-deal-as-trump-signals-no-rush-to-strike-126110400352_1.html
-  - label: "Foreign Exchanges: World roundup, November 3 2026"
-    url: https://www.foreignexchanges.news/p/world-roundup-november-3-2026
+  - label: "Fox News: Trump says US annual military aid to Israel ends by close of year"
+    url: https://www.foxnews.com/politics/trump-says-israel-stop-receiving-4b-us-aid-years-end-can-still-buy-weapons
 - date: '2026-11-03'
   countries: [ISR]
   category: political
@@ -72,12 +74,44 @@ news:
   category: military
   conflict: colombia-armed-conflict
   headline: "US officials say Washington helped Venezuela strike an ELN camp in Apure, with reported deaths up to 23"
-  summary: "Four US officials told The New York Times that the US provided intelligence and drone support for a Venezuelan operation on 30 October against a camp of Colombia's ELN guerrillas in rural Apure state near the border. Venezuelan rights group Fundaredes said at least 23 people were killed, while other counts range from 8 to 19; neither government has given an official account, and Colombia's defence authorities denied any role. It matters because it points to deepening US-Venezuelan military cooperation since Maduro's capture in January, as the two governments reportedly negotiate a status of forces agreement."
+  summary: "Four US officials told The New York Times that the US provided intelligence and drone support for a Venezuelan operation on 30 October against a camp of Colombia's ELN guerrillas in rural Apure state near the border. Venezuelan rights group Fundaredes said at least 23 people were killed, while other counts range from 8 to 19; a senior Venezuelan military officer confirmed his forces carried out the strike, Caracas has given no official account, and Colombia's defence authorities denied any role. Fundaredes said survivors and relatives indicated that not all the dead were fighters, and identity cards on some bodies showed they were Venezuelan. It matters because it points to deepening US-Venezuelan military cooperation since Maduro's capture in January."
   sources:
   - label: "Rio Times: US said to help Venezuela strike rebel camp"
     url: https://www.riotimesonline.com/us-said-to-help-venezuela-strike-rebel-camp/
   - label: "Infobae (The New York Times): EE. UU. ayudo a Venezuela en un ataque letal contra el ELN, segun funcionarios"
     url: https://www.infobae.com/america/the-new-york-times/2026/11/04/ee-uu-ayudo-a-venezuela-en-un-ataque-letal-contra-el-eln-segun-funcionarios/
+- date: '2026-11-03'
+  countries: [NGA]
+  category: military
+  conflict: nigeria-northwest-banditry-and-jihadists
+  headline: "Gunmen ambush police in Zamfara, killing at least eight and abducting others"
+  summary: "Attackers ambushed a bus carrying police near Gidan-Giye village in Tsafe local government area on 3 November, killing five police officers and three members of the state-backed Zamfara Community Protection Guard, vigilante officials told Reuters. Police said they recovered five bodies and rescued seven officers, and an officer said some others were taken to an unknown location; no group claimed the attack. It matters because attacks on security forces in Zamfara continue despite years of military operations and local peace deals."
+  sources:
+  - label: "TimesLIVE (Reuters): Attackers ambush police convoy in Nigeria's Zamfara, killing eight"
+    url: https://www.timeslive.co.za/news/africa/2026-11-03-attackers-ambush-police-convoy-in-nigerias-zamfara-killing-eight/
+  - label: "Internazionale (Reuters): Attackers ambush police in Nigeria's Zamfara, killing at least eight, officials say"
+    url: https://www.internazionale.it/ultime-notizie-reuters/2026/11/03/attackers-ambush-police-in-nigeria-s-zamfara-killing-at-least-eight-officials-say
+- date: '2026-11-03'
+  countries: [YEM, SAU]
+  category: military
+  conflict: yemen-civil-war
+  headline: "Houthis say Saudi air strikes killed 17 people over two days"
+  summary: "The Houthi-run health ministry said on 3 November that Saudi air strikes over the previous two days had killed 17 people, most of them children, and accused Saudi aircraft of targeting homes and markets; Saudi Arabia did not comment on the figure, which could not be independently verified. The claim follows a Saudi-led coalition report on 30 October that it intercepted a Houthi drone heading for Mecca, which the Houthis denied. It matters because Saudi Arabia and the Houthis are again trading strikes as the wider Iran war continues."
+  sources:
+  - label: "Dawn (AFP): Yemen's Houthis say Saudi strikes killed 17 people over 2 days"
+    url: https://www.dawn.com/news/2041833/yemens-houthis-say-saudi-strikes-killed-17-people-over-2-days
+  - label: "Ahram Online: Yemen's Houthis say Saudi strikes killed 17 people over two days"
+    url: https://english.ahram.org.eg/News/581549.aspx
+- date: '2026-11-03'
+  countries: [POL, RUS]
+  category: military
+  headline: "Tusk says Poland headed off a possible Russian 'provocation' on the Kaliningrad border"
+  summary: "Prime Minister Donald Tusk told a cabinet meeting on 3 November that the Border Guard had reported 'troubling movement' of 'individuals with flashlights' near the border with Russia's Kaliningrad exclave shortly after midnight, and that Poland had quickly sent forces to the area. He said Polish and NATO intelligence had warned in recent weeks of possible sabotage or provocations in early November, but did not say who the people were; no detentions were reported. It matters because it comes amid a tense standoff between Tusk and President Nawrocki, which Tusk says Moscow is trying to exploit."
+  sources:
+  - label: "The Moscow Times: Poland accuses Russia of 'flashlight' provocation along Kaliningrad border"
+    url: https://www.themoscowtimes.com/2026/11/03/poland-accuses-russia-of-flashlight-provocation-along-kaliningrad-border-a94167
+  - label: "Meduza: Tusk says Poland prevented a possible provocation on the border with Kaliningrad"
+    url: https://meduza.io/en/news/2026/11/03/prime-minister-donald-tusk-says-poland-prevented-a-possible-provocation-on-the-border-with-russia-s-kaliningrad-exclave-after-spotting-people-with-flashlights
 - date: '2026-11-02'
   countries: [UKR, RUS]
   category: military
