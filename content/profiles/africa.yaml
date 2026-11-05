@@ -720,13 +720,17 @@ MWI:
     government raised fuel prices by more than 40 percent in January 2026 and aims to bring
     inflation below 21 percent, but shortages of fuel and foreign currency persisted, and by October
     motorists were queuing overnight at dry filling stations. Chakwera's MCP accuses the government
-    of ignoring the hardship.
+    of ignoring the hardship. In early November Mutharika blamed the fuel and power shortages on
+    logistics, and the Human Rights Defenders Coalition demanded the energy minister's resignation
+    and called nationwide protests for 17 November.
   leaders: {state: "President Peter Mutharika, since October 2025", gov: "The president heads the government"}
   power: >-
     A presidential republic. The president is directly elected for five years and, since a 2020
     court ruling, needs more than half the vote; parliament is unicameral.
   story: shock
   sources:
+    - {label: "allAfrica: Energy Minister Mathanga faces calls to resign as HRDC plans protests", url: "https://allafrica.com/stories/202611030112.html"}
+    - {label: "allAfrica: Mutharika blames fuel and power crises on logistics", url: "https://allafrica.com/stories/202611020036.html"}
     - {label: "The Star: fuel prices up more than 40 percent", url: "https://www.the-star.co.ke/news/world/2026-01-20-malawi-raises-fuel-prices-by-more-than-40"}
     - {label: "TimesLIVE: motorists sleep at stations", url: "https://www.timeslive.co.za/news/africa/2026-10-13-malawi-motorists-sleep-at-stations-as-fuel-runs-dry/"}
 
@@ -1060,6 +1064,17 @@ ZAF:
   snapshot: >-
     The ANC-DA coalition faces its first big ballot test in the 4 November municipal elections, as voters weigh broken city services against national stability.
   tags: [Coalition government, Rainbow nation, Deep inequality, Mining economy, Rugby world champions]
+  update: >-
+    South Africans voted on 4 November for 257 municipal councils, with a record 29.2 million
+    registered and turnout above 40 percent by 5 pm. It was the first local vote since the ANC lost
+    its national majority in 2024 and the first for Jacob Zuma's MK party. Polls suggested the ANC
+    could fall below 40 percent and that no party would win Johannesburg, Tshwane, Ekurhuleni or
+    eThekwini outright. Final results are due by 8 November, and coalition talks will decide who
+    runs the big cities.
+  update_date: 2026-11-05
+  sources_extra:
+    - {label: "Al Jazeera: South Africans vote in local elections seen as test for embattled ANC", url: "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc"}
+    - {label: "Business Day: SA voter turnout threatens to redraw political map", url: "https://www.businessday.co.za/politics/elections-2026/2026-11-04-sa-voter-turnout-threatens-to-redraw-political-map/"}
   culture: >-
     South Africa has 12 official languages, including Zulu, Xhosa, Afrikaans and sign language. Amapiano, the log-drum house music from the townships, has become a global genre, and kwaito, gqom and choral traditions thrive. The Springboks, back-to-back rugby world champions in 2019 and 2023, unite fans across racial lines in a way few institutions do.
   society: >-

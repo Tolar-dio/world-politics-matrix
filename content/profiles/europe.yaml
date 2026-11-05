@@ -480,13 +480,14 @@ LVA:
   society: >-
     About a quarter of the population is ethnic Russian, and the government has phased out Russian-language schooling. Latvia spends heavily on defence and has reintroduced conscription. Emigration has shrunk the population since 1991. Forestry, logistics and IT are key sectors.
   baseline: >-
-    Andris Kulbergs of the centre-right United List became prime minister in May 2026. In the 3 October 2026 election, his party won 42 of 100 seats with about 35 percent, the best result for any party since independence. He is expected to form a new coalition that excludes Sovereign Power, a party opposed to military aid to Ukraine.
+    Andris Kulbergs of the centre-right United List became prime minister in May 2026. In the 3 October 2026 election, his party won 42 of 100 seats with about 35 percent, the best result for any party since independence. The new Saeima first met on 3 November, and on 4 November President Rinkēvičs asked Kulbergs to form a government; he needs at least one coalition partner and aims for approval by 18 November. He is expected to exclude Sovereign Power, a party opposed to military aid to Ukraine.
   leaders: {state: "President Edgars Rinkēvičs, since 2023", gov: "Prime Minister Andris Kulbergs (United List), since May 2026"}
   power: >-
     A parliamentary republic. The prime minister leads the majority in the 100-seat Saeima; the
     president is elected by parliament.
   story: election
   sources:
+    - {label: "Yahoo News (dpa): Kulbergs tasked with forming a new government in Latvia", url: "https://www.yahoo.com/news/world/articles/kulbergs-tasked-forming-government-latvia-130345930.html"}
     - {label: "Euronews: United List wins", url: "https://www.euronews.com/2026/10/04/latvias-pro-european-ruling-party-wins-election-as-populists-gain-ground"}
 
 LIE:
@@ -853,6 +854,16 @@ ESP:
   snapshot: >-
     A housing protest movement camped in Madrid's Puerta del Sol, and after parliament rejected his emergency decrees, Pedro Sánchez called a snap election for 29 November.
   tags: [Snap election, Housing crisis, Fast growth, Regional nationalism]
+  update: >-
+    Transport minister Óscar Puente resigned on 3 November and withdrew from the 29 November
+    election after the 28 October collision of two high-speed trains on the Madrid-Seville line
+    killed 69 people, Spain's second deadly rail disaster in a year after a January derailment in
+    Andalusia killed 46. Central controllers had let one train continue after a signal failure. The
+    crash has become a central issue in Pedro Sánchez's snap election campaign.
+  update_date: 2026-11-04
+  sources_extra:
+    - {label: "Al Jazeera: Spanish transport minister resigns after train crash killed 69 people", url: "https://www.aljazeera.com/news/2026/11/4/spanish-transport-minister-resigns-after-train-crash-killed-69-people"}
+    - {label: "Spokesman-Review: Spain's transport minister resigns over deadly train crash", url: "https://www.spokesman.com/stories/2026/nov/03/spains-transport-minister-resigns-over-deadly-trai/"}
   culture: >-
     Spain's regions have strong identities and languages, including Catalan, Basque and Galician. Flamenco, the Running of the Bulls, Semana Santa and late dinners shape the world's image of it, along with Picasso, Goya and Gaudí. Football rivalries between Real Madrid and Barcelona are fierce, and the national team won Euro 2024 and the 2026 World Cup.
   society: >-

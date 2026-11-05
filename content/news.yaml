@@ -1,5 +1,148 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-05'
+  countries: [ISR]
+  category: political
+  headline: "Ra'am backs Eisenkot for prime minister as ultra-Orthodox UTJ declines to endorse Netanyahu"
+  summary: "On the second day of President Isaac Herzog's consultations, Mansour Abbas's Ra'am (8 seats) recommended Gadi Eisenkot to form the next government, while United Torah Judaism (7 seats) recommended no one, saying it came to discuss 'topics and not people', chiefly protecting yeshiva students from the draft. Anadolu's tally put Eisenkot on 56 recommendations and Netanyahu on 46, with the Joint List (11 seats) still undecided and Likud due to meet Herzog last on the evening of 5 November. It matters because Herzog picks whoever he judges most likely to form a government, which may give Eisenkot the first chance to form a government ahead of Netanyahu."
+  sources:
+  - label: "Anews (Anadolu): Arab party recommends opposition leader Eisenkot to form Israeli government"
+    url: https://www.anews.com.tr/middle-east/2026/11/05/arab-party-recommends-opposition-leader-eisenkot-to-form-israeli-government
+  - label: "Anadolu Agency: Netanyahu, Eisenkot draw rival endorsements as Herzog opens Israel's government talks"
+    url: https://www.aa.com.tr/en/middle-east/netanyahu-eisenkot-draw-rival-endorsements-as-herzog-opens-israel-s-government-talks/4111985
+  - label: "Siasat: Israel PM race, ultra-Orthodox party rejects Netanyahu, Eisenkot"
+    url: https://www.siasat.com/israel-pm-race-ultra-orthodox-party-rejects-netanyahu-eisenkot-3570064/
+- date: '2026-11-04'
+  countries: [USA, IRN]
+  category: political
+  conflict: iran-war-2026
+  headline: "Vance blames the Iran war for the midterm rout and Trump calls that 'largely true' but says he would do it again"
+  summary: "Vice President JD Vance said on 4 November that 'the reason we lost is the war' and challenged anyone to argue that losing the Senate was worth it; the Times of Israel reported he also said voters wanted change in the relationship with Israel. Asked about it at the White House, Trump called Vance's comments 'largely true' but said 'if I had it to do again, I'd have to do it again'. Trump had told the Financial Times there were no immediate plans to strike Iran because 'we seem to be getting everything we want'. It matters because an open split at the top of the administration, plus a Democratic Congress, makes a new US bombing campaign harder to launch and sustain."
+  sources:
+  - label: "ABC News: Vance blames Iran war for Republicans' midterms defeat. Trump says he would 'do it again'"
+    url: https://abcnews.com/Politics/vance-blames-iran-war-republicans-midterms-defeat-trump/story?id=137849295
+  - label: "Times of Israel: Vance says GOP lost midterms due to Iran war, voters want 'change' in Israel relationship"
+    url: https://www.timesofisrael.com/vance-gop-lost-midterms-due-to-iran-war-voters-want-change-in-israel-relationship/
+  - label: "Financial Times: Trump interview on Iran"
+    url: https://www.ft.com/content/f3afd549-65fc-487e-922e-2748fa6a8a5f
+- date: '2026-11-05'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Komyshuvakha death toll rises to 42, with 33 more people feared under the rubble"
+  summary: "Ukraine's national police said on 5 November that 42 bodies had been recovered from the school and shelter in Komyshuvakha, Zaporizhzhia region, hit by Russian guided bombs on 2 November while residents queued for aid, and that up to 33 more people may still be trapped as recovery work entered its fourth day. Some victims are being identified by DNA. It matters because this is now one of the deadliest single attacks on Ukrainian civilians of the war, and it hangs over the talks planned in Abu Dhabi next week."
+  sources:
+  - label: "AP via News4JAX: Russia and Ukraine trade airstrikes as reconstruction and security talks resume in Brussels"
+    url: https://www.news4jax.com/business/2026/11/05/russia-and-ukraine-trade-airstrikes-as-reconstruction-and-security-talks-resume-in-brussels/
+  - label: "Kyiv Independent: 42 bodies recovered from rubble after Russian strike on Komyshuvakha as search continues, police say"
+    url: https://kyivindependent.com/42-bodies-recovered-from-rubble-after-russian-strike-on-komyshuvakha-as-search-continues-police-say/
+  - label: "Interfax-Ukraine: Rescuers recover 42 bodies from rubble in Komyshuvakha, 33 more may remain"
+    url: https://en.interfax.com.ua/news/general/1231534.html
+- date: '2026-11-05'
+  countries: [UKR, RUS, USA]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Ukrainian drones set Ryazan's refinery on fire as Brussels talks on Ukraine's security guarantees go into a second day"
+  summary: "Ryazan governor Pavel Malkov said more than 200 Ukrainian drones attacked the region overnight into 5 November, starting fires at industrial sites and cutting power in parts of the city; the outlet Astra verified footage of a fire at Rosneft's Ryazan refinery, and Russia's defence ministry said it downed 496 drones over 13 regions. Ukraine's air force said 105 of 128 Russian drones were shot down, with four people wounded in Dnipropetrovsk and Kyiv regions, and Russia said it hit a Nova Poshta terminal near Kharkiv and a cargo ship off Odesa, which Kyiv did not confirm. Meanwhile Ukrainian, US, European and NATO officials met at NATO headquarters on reconstruction and security guarantees, and Zelensky held a 90-minute call with Witkoff and Kushner. It matters because both sides are stepping up strikes days before the trilateral talks in Abu Dhabi."
+  sources:
+  - label: "AP via News4JAX: Russia and Ukraine trade airstrikes as reconstruction and security talks resume in Brussels"
+    url: https://www.news4jax.com/business/2026/11/05/russia-and-ukraine-trade-airstrikes-as-reconstruction-and-security-talks-resume-in-brussels/
+  - label: "Al Jazeera: Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan"
+    url: https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan
+- date: '2026-11-04'
+  countries: [LBN, ISR]
+  category: military
+  conflict: israel-hezbollah-lebanon
+  headline: "Israeli drone strike in south Lebanon kills a man, the first such death since September"
+  summary: "Lebanon's health ministry said an Israeli drone strike in the Qabrikha area killed a motorcyclist and wounded another man on 4 November, the first such death it has recorded since September; Israeli media said the dead man was a medical worker. The Israeli military said it struck 'two suspects who were observing IDF soldiers' near the zone it patrols. It matters because violence had fallen since the June framework agreement, and Prime Minister Nawaf Salam has warned Hezbollah against dragging Lebanon into a renewed Iran war."
+  sources:
+  - label: "Arab News (AFP): Lebanon says Israeli strike kills one in south"
+    url: https://www.arabnews.com/middle-east/lebanon-says-israeli-strike-kills-one-in-south-3009799
+  - label: "AP: Iran war, Yemen, Lebanon and Israel latest"
+    url: https://apnews.com/article/mideast-iran-war-yemen-houthis-lebanon-israel-ada824e7387edec2cd8d1f97045dff2b
+- date: '2026-11-03'
+  countries: [ESP]
+  category: political
+  headline: "Spain's transport minister Óscar Puente resigns over the Toledo train collision as its toll reaches 69"
+  summary: "Óscar Puente quit as transport minister and withdrew from the 29 November general election, saying he 'cannot continue in office with two accidents of this severity in less than a year'; the 28 October collision between a Renfe and an Iryo high-speed train on the Madrid-Seville line has killed 69 people, after a January derailment in Andalusia killed 46. Central controllers had let the Renfe train continue past a section where trains were ordered to stop after a signal failure. It matters because the disaster has reshaped Pedro Sánchez's snap election campaign."
+  sources:
+  - label: "Al Jazeera: Spanish transport minister resigns after train crash killed 69 people"
+    url: https://www.aljazeera.com/news/2026/11/4/spanish-transport-minister-resigns-after-train-crash-killed-69-people
+  - label: "Spokesman-Review: Spain's transport minister resigns over deadly train crash"
+    url: https://www.spokesman.com/stories/2026/nov/03/spains-transport-minister-resigns-over-deadly-trai/
+  - label: "Railway Gazette: Puente steps down as Spanish Transport Minister"
+    url: https://www.railwaygazette.com/spain/2026/11/04/puente-steps-down-as-spanish-transport-minister-after-announcing-proposed-safety-measures/
+- date: '2026-11-04'
+  countries: [IDN]
+  category: political
+  headline: "Prabowo sacks his chief of staff, a former police chief arrested for allegedly wiretapping the president"
+  summary: "Indonesian police arrested Listyo Sigit Prabowo, the president's chief of staff since October and national police chief for five years before that, and two other senior officers on 3 November on suspicion of tapping the phones of President Prabowo Subianto, cabinet ministers and journalists in 2025 and 2026, and of ordering the files deleted. Prabowo dismissed him on 4 November; his spokesman said the acts might amount to 'an act tending towards treason', and the military deployed more than 20,000 soldiers in Jakarta the same day without saying whether it was linked. It matters because it exposes a rift between the presidency and the police, one of Indonesia's most powerful institutions."
+  sources:
+  - label: "Al Jazeera: Indonesian president's chief of staff dismissed over alleged wiretapping"
+    url: https://www.aljazeera.com/news/2026/11/4/indonesian-presidents-chief-of-staff-dismissed-over-alleged
+  - label: "Japan Times (Reuters): Indonesia arrests chief of staff and top policemen for alleged wiretapping of president"
+    url: https://www.japantimes.co.jp/news/2026/11/04/asia-pacific/politics/indonesia-wiretapping-president/
+- date: '2026-11-04'
+  countries: [ETH, SDN]
+  category: diplomatic
+  conflict: sudan-saf-rsf
+  headline: "Ethiopia and Sudan expel each other's consular staff as drone accusations escalate"
+  summary: "Ethiopia ordered six staff of Sudan's consulate in the border town of Asosa to leave within 48 hours, a senior Ethiopian official told Reuters, and Al Jazeera reported that Sudan closed Ethiopia's consulate in return. Sudan accuses Ethiopia of letting the RSF launch drones from its territory and took the case to the UN Security Council and the African Union on 1 November; Ethiopia denies this and accuses Sudan of backing Tigrayan rebels. A Sudanese government adviser said Khartoum was trying to avoid open war. It matters because Ethiopia has now expelled Eritrean, Egyptian and Sudanese diplomats in five weeks, raising the risk that the Sudan and Tigray wars merge."
+  sources:
+  - label: "Arab News (Reuters): Ethiopia expels Sudanese diplomats after fresh allegations of support for RSF"
+    url: https://www.arabnews.com/middle-east/ethiopia-expels-sudanese-diplomats-after-fresh-allegations-of-support-for-rsf-3009806
+  - label: "Al Jazeera: Sudan, Ethiopia shut each other's consulates in tit-for-tat move"
+    url: https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions
+- date: '2026-11-03'
+  countries: [SDN]
+  category: military
+  conflict: sudan-saf-rsf
+  headline: "Drone strikes kill at least 14 civilians in Kordofan and Blue Nile and knock out power stations"
+  summary: "Dabanga reported that drone strikes on 2 and 3 November killed eight people in Um Dibo, West Kordofan, at least four at a fuel station in El Abbasiya Tagali, South Kordofan, and two in Ed Damazin, Blue Nile; Darfur24 put the fuel station toll above ten, citing local sources, and said the drone was believed to be the RSF's. Drones also hit two power stations in Kassala and a substation in Merowe, and the Arab League blamed the RSF for strikes that cut power to large areas. UN Secretary-General António Guterres condemned the escalating drone attacks by both sides. It matters because the war is now hitting water and power far from the front lines."
+  sources:
+  - label: "Dabanga via allAfrica: Drone attacks kill civilians and cripple Sudan's power infrastructure, UN warns"
+    url: https://allafrica.com/stories/202611050006.html
+  - label: "Darfur24: Drone strike kills 10 at South Kordofan fuel station"
+    url: https://darfur24.com/en/2026/11/04/drone-strike-kills-10-at-south-kordofan-fuel-station/
+- date: '2026-11-03'
+  countries: [COL]
+  category: political
+  conflict: colombia-armed-conflict
+  headline: "Colombia's Congress passes De la Espriella's 'submission law', ending Petro's 'total peace' talks"
+  summary: "Colombia's Senate (57 to 24) and House (95 to 10) approved President Abelardo De la Espriella's bill just before midnight on 3 November; it replaces negotiations with armed groups with submission to justice, offering reduced sentences only to members who help dismantle their organisations, and ends the suspension of arrest warrants and extraditions. De la Espriella said 'the false total peace has come to an end'. It matters because it closes the door on talks with the ELN, FARC dissidents and the Clan del Golfo as Venezuela, with US help, also strikes the ELN across the border."
+  sources:
+  - label: "La Patilla (AP): Congreso colombiano aprueba ley para procesar a grupos armados en lugar de la 'paz total' de Petro"
+    url: https://lapatilla.com/2026/11/04/congreso-colombiano-aprueba-ley-para-procesar-a-grupos-armados-en-lugar-de-la-paz-total-de-petro/
+  - label: "Infobae: Abelardo de la Espriella celebró la aprobación de la Ley de Sometimiento"
+    url: https://www.infobae.com/colombia/2026/11/04/abelardo-de-la-espriella-celebro-la-aprobacion-de-la-ley-de-sometimiento-en-el-congreso-la-falsa-paz-total-llego-a-su-fin/
+- date: '2026-11-04'
+  countries: [PRY]
+  category: political
+  headline: "Paraguay's opposition moves to impeach Peña after regulators seize a bank linked to him"
+  summary: "Paraguay's central bank took over Ueno Bank on 3 November over a severe capital shortfall; the digital lender has about three million customers and manages some 380 million dollars of the state pension and health fund IPS. Ueno is owned by Grupo Vázquez, a former business partner of President Santiago Peña, and central bank chief Carlos Carvallo, Ueno's former chair, resigned at Peña's request. Arrest warrants were issued for eight executives, depositors protested in Asunción, and 35 opposition deputies filed a motion to remove Peña and Vice President Pedro Alliana, to be debated on 5 November. It needs 53 of 80 deputies and the ruling Colorado Party holds majorities in both chambers, so it is unlikely to pass, but the collapse has put Peña's past business ties at the centre of politics."
+  sources:
+  - label: "Yahoo Finance (AFP): Paraguay opposition seeks president's removal over banking crisis"
+    url: https://uk.finance.yahoo.com/news/paraguay-opposition-seeks-presidents-removal-214901975.html
+  - label: "ABC News (AP): Paraguay seizes major digital bank tied to president"
+    url: https://abcnews.com/International/wireStory/paraguay-seizes-major-digital-bank-tied-president-leaving-137806474
+- date: '2026-11-04'
+  countries: [ZAF]
+  category: political
+  headline: "South Africans vote in municipal elections seen as a test for the ANC and its coalition with the DA"
+  summary: "A record 29.2 million registered voters were called to elect 257 municipal councils on 4 November, the first local vote since the ANC lost its national majority in 2024 and the first for Jacob Zuma's MK party. More than 40 percent had voted by 5 pm, according to preliminary Electoral Commission figures, and observers reported long queues and scanner problems but largely orderly voting. Polls suggested the ANC could fall below 40 percent and that no party would win outright in Johannesburg, Tshwane, Ekurhuleni or eThekwini. Final results are due by 8 November, and coalition deals will decide who runs the big cities."
+  sources:
+  - label: "Al Jazeera: South Africans vote in local elections seen as test for embattled ANC"
+    url: https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc
+  - label: "Business Day: SA voter turnout threatens to redraw political map"
+    url: https://www.businessday.co.za/politics/elections-2026/2026-11-04-sa-voter-turnout-threatens-to-redraw-political-map/
+- date: '2026-11-04'
+  countries: [LVA]
+  category: political
+  headline: "Latvia's president asks Andris Kulbergs to form a new government after the October election"
+  summary: "President Edgars Rinkēvičs formally asked Andris Kulbergs, who leads the United List and has been prime minister since May, to form a new government on 4 November, a day after the new Saeima first met. Kulbergs needs at least one coalition partner and aims to have a cabinet approved by 18 November. It matters because his choice of partners will decide whether Latvia's government stays firmly behind military aid to Ukraine after an anti-aid party gained seats."
+  sources:
+  - label: "Yahoo News (dpa): Kulbergs tasked with forming a new government in Latvia"
+    url: https://www.yahoo.com/news/world/articles/kulbergs-tasked-forming-government-latvia-130345930.html
 - date: '2026-11-03'
   countries: [USA]
   category: political
@@ -1856,6 +1999,15 @@ upcoming:
 - date: '2026-11-06'
   countries: [VAT, URY, ARG, PER]
   event: "Pope Leo XIV visits Uruguay, Argentina and Peru (6 to 17 November), his first South American trip as pope"
+- date: '2026-11-08'
+  countries: [ZAF]
+  event: "Deadline for South Africa's Electoral Commission to declare final municipal election results"
+- date: '2026-11-17'
+  countries: [MWI]
+  event: "Nationwide protests called by the Human Rights Defenders Coalition over fuel and power shortages, in Lilongwe, Zomba and Mzuzu"
+- date: '2026-11-18'
+  countries: [LVA]
+  event: "Target date for Andris Kulbergs to win Saeima approval for a new Latvian government"
 - date: '2026-11-07'
   countries: [NZL]
   event: New Zealand general election
