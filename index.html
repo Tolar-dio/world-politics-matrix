@@ -4,15 +4,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <title>World Politics Matrix</title>
-<script>
-/* The site opens on the news page. The globe is shown when the URL asks for it
-   (?view=globe) or deep-links into it (#ISO3, #c/..., #conflicts). */
-(function () {
-  var globe = /[?&]view=globe(&|$)/.test(location.search);
-  if (!globe && !location.hash) { location.replace('news.html'); return; }
-  if (!globe) history.replaceState(null, '', location.pathname + (location.search ? location.search + '&' : '?') + 'view=globe' + location.hash);
-})();
-</script>
 <meta name="description" content="A clickable globe of where every country stands in 2026: who holds power, how the system works, and what daily life and culture look like.">
 <meta name="theme-color" content="#E9ECEE" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#12191E" media="(prefers-color-scheme: dark)">

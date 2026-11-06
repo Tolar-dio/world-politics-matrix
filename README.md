@@ -26,8 +26,6 @@ The site is plain HTML, CSS and JavaScript, so GitHub Pages can host it for free
 
 Every time new commits land on `main`, the site updates itself within a couple of minutes.
 
-**Front page:** the site opens on the news page. The globe lives at `?view=globe`, and links into it (`#UKR`, `#c/<conflict>`, `#conflicts`) open it directly.
-
 **Opening it on your own computer:** the page loads its data with `fetch`, so double-clicking `index.html` won't work. From the repo folder, run `python3 -m http.server` and open `http://localhost:8000`.
 
 ## How the content is organised
