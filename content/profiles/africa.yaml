@@ -953,10 +953,12 @@ STP:
     Cocoa remains the main export, and tourism is growing slowly. The state relies heavily on foreign aid. Hopes of offshore oil have repeatedly faded. Political rivalry is intense: President Carlos Vila Nova sacked Prime Minister Patrice Trovoada in January 2025.
   baseline: >-
     After President Carlos Vila Nova dismissed Prime Minister Patrice Trovoada in January 2025, he
-    appointed Américo Ramos. In July 2026 Vila Nova won re-election in a peaceful vote with
-    historically low turnout. In the 27 September parliamentary election the MLSTP came first with
-    24 of 55 seats, short of a majority, setting up coalition talks to choose the next government. A
-    2022 attack on the army headquarters, in which detainees were killed in custody, still shapes
+    appointed Américo Ramos. In July 2026 Vila Nova won re-election in a peaceful vote with historically
+    low turnout. In the 27 September parliamentary election the MLSTP came first with 24 of 55 seats,
+    short of a majority. On 7 October Ramos's ADI (23 seats) and the MCI-PS/PUN coalition (6) signed a
+    pact giving a 29-seat majority for a Ramos-led government, while MLSTP leader Américo Barros insists
+    the winner should govern; Vila Nova, who wants a guaranteed majority before naming a prime minister,
+    said in October he would decide within 30 days. A 2022 attack on the army headquarters still shapes
     politics.
   leaders: {state: "President Carlos Vila Nova, re-elected July 2026", gov: "Prime Minister Américo Ramos, pending a new government after the September 2026 election"}
   power: >-
@@ -964,6 +966,8 @@ STP:
     prime minister, who must hold the confidence of the 55-seat National Assembly.
   story: election
   sources:
+    - {label: "RFI: ADI e MCI-PS/PUN assinam acordo parlamentar em São Tomé e Príncipe", url: "https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20261008-adi-e-mci-ps-pun-assinam-acordo-parlamentar-em-s%C3%A3o-tom%C3%A9"}
+    - {label: "STP-Press: O próximo governo terá que ser liderado por MLSTP, Américo Barros", url: "https://www.stp-press.st/2026/10/13/o-proximo-governo-tera-que-ser-liderado-por-mlstp-americo-barros"}
     - {label: "The Star: Vila Nova wins second term", url: "https://www.thestar.com.my/news/world/2026/07/20/sao-tome-and-principe-president-vila-nova-wins-second-term-preliminary-results-show"}
     - {label: "Africa24: MLSTP leads with 24 of 55 seats", url: "https://africa24tv.com/sao-tome-and-principe-mlstp-leads-parliamentary-elections-with-24-of-55-seats/"}
 
@@ -1049,10 +1053,17 @@ SOM:
   society: >-
     The state collapsed in 1991, and the federal government still controls only parts of the south and centre, fighting al-Shabaab, which runs its own courts and taxes. Somaliland in the north has run itself since 1991 and seeks recognition. Remittances and mobile money keep the economy going, and droughts are frequent and deadly.
   update: >-
-    The UN's Transitional Assistance Mission in Somalia ends its support on 31 October, closing
-    decades of dedicated UN political missions while al-Shabaab remains active.
-  update_date: 2026-10-26
+    The electoral commission has set parliamentary elections for 15 April 2027 and a presidential vote
+    for 15 May 2027, with voter registration reopening from 1 to 22 November, but the opposition Somali
+    Future Council rejects the timetable and says President Hassan Sheikh Mohamud's mandate ended in May
+    2026. Mohamud has invited opposition and civil society leaders to talks in Mogadishu on 14 to 18
+    November, and on 4 November he dismissed Chief Justice Bashe Yusuf Ahmed and reinstated his
+    predecessor. The UN's political mission ended its support on 31 October, while federal forces fight
+    both al-Shabaab and forces loyal to ousted South West state leader Abdiaziz Laftagareen.
+  update_date: 2026-11-06
   sources_extra:
+    - {label: "Security Council Report: Somalia, November 2026 Monthly Forecast", url: "https://www.securitycouncilreport.org/monthly-forecast/2026-11/somalia-44.php"}
+    - {label: "Somalia Today: Somali president sacks chief justice, restores predecessor", url: "https://somaliatoday.com/politics/somali-president-sacks-chief-justice-restores-predecessor-2026-11-04"}
     - {label: "AA: UN mission in Somalia to end operations on 31 October", url: "https://www.aa.com.tr/en/americas/un-mission-in-somalia-to-end-operations-on-oct-31-after-decades-of-support/4101656"}
 
 ZAF:
@@ -1062,17 +1073,21 @@ ZAF:
   system_note: Parliament elects the president, who leads the government.
   story: election
   snapshot: >-
-    The ANC-DA coalition faces its first big ballot test in the 4 November municipal elections, as voters weigh broken city services against national stability.
+    The ANC fell to about 32 percent in the November 2026 municipal elections, losing ground in every
+    metro as the DA led most big cities and Zuma's MK led Durban.
   tags: [Coalition government, Rainbow nation, Deep inequality, Mining economy, Rugby world champions]
   update: >-
-    South Africans voted on 4 November for 257 municipal councils, with a record 29.2 million
-    registered and turnout above 40 percent by 5 pm. It was the first local vote since the ANC lost
-    its national majority in 2024 and the first for Jacob Zuma's MK party. Polls suggested the ANC
-    could fall below 40 percent and that no party would win Johannesburg, Tshwane, Ekurhuleni or
-    eThekwini outright. Final results are due by 8 November, and coalition talks will decide who
-    runs the big cities.
-  update_date: 2026-11-05
+    South Africans voted on 4 November for 257 municipal councils, the first local vote since the ANC
+    lost its national majority in 2024 and the first for Jacob Zuma's MK party. With about two thirds of
+    votes counted on 5 November, the ANC had 31.7 percent nationally, down from 45.6 percent in 2021,
+    the DA about 25 percent, MK about 8.5 percent and the EFF about 6 percent. The DA led in six of
+    eight metros, including Johannesburg, Tshwane and Ekurhuleni, the ANC held Buffalo City and MK led
+    in eThekwini and much of KwaZulu-Natal. Final results are due by 8 November, after which parties
+    have two weeks to form coalitions in hung councils.
+  update_date: 2026-11-06
   sources_extra:
+    - {label: "BusinessTech: 2026 election results after two-thirds of total votes counted", url: "https://businesstech.co.za/news/government/882908/2026-election-results-predictions-look-spot-on-after-two-thirds-of-total-votes-counted/"}
+    - {label: "TimesLive: MK Party leads KZN municipal race in first-time bid", url: "https://www.timeslive.co.za/politics/2026-11-06-mk-party-leads-kzn-municipal-race-in-first-time-bid/"}
     - {label: "Al Jazeera: South Africans vote in local elections seen as test for embattled ANC", url: "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc"}
     - {label: "Business Day: SA voter turnout threatens to redraw political map", url: "https://www.businessday.co.za/politics/elections-2026/2026-11-04-sa-voter-turnout-threatens-to-redraw-political-map/"}
   culture: >-
@@ -1094,11 +1109,18 @@ SSD:
   society: >-
     South Sudan split from Sudan in 2011, and a civil war between forces loyal to Kiir and Machar killed some 400,000 people from 2013 to 2018. Oil is almost the only export, and it flows through a pipeline across war-torn Sudan. Most of the population needs humanitarian aid, and floods and refugees from Sudan add to the strain.
   update: >-
-    On 19 October a drone strike on the Amiet market in the disputed Abyei area killed at least 153
-    people, according to AP, and about 220 according to local authorities. Juba blamed the Sudanese
-    army and summoned Sudan's ambassador; the army denied involvement.
-  update_date: 2026-10-20
+    President Salva Kiir said on 26 October that general elections, never held since independence, will
+    go ahead 'by all means' on 22 December, although voter registration only begins in November and
+    funding is unclear; the transitional institutions of the 2018 peace deal were dissolved in
+    September. First Vice President Riek Machar remains on trial over the March 2025 Nasir attack, and
+    the acting leader of his SPLM/A-IO faction, Oyet Nathaniel Pierino, vowed on 2 November to keep
+    fighting. On 19 October drone strikes on the Amiet market in Abyei killed at least 30 people by the
+    UN's count and 153 or more according to local officials; Juba blamed the Sudanese army.
+  update_date: 2026-11-06
   sources_extra:
+    - {label: "Sudans Post: President Kiir says December elections will be held 'by all means'", url: "https://www.sudanspost.com/president-kiir-says-december-elections-will-be-held-by-all-means/"}
+    - {label: "Sudan Independent (Sudans Post): Oyet vows to continue armed resistance against government", url: "https://sudanindependent.net/news/politics/2026/11/03/Oyet-vows-to-continue-armed-re"}
+    - {label: "UN News: Abyei, deadly drone strikes mark 'new and concerning' threat", url: "https://news.un.org/en/story/2026/11/1168749"}
     - {label: "AP: Drone strike on a market in Abyei kills at least 153", url: "https://www.news4jax.com/news/world/2026/10/20/drone-strike-on-a-market-in-disputed-african-region-of-abyei-kills-at-least-153/"}
     - {label: "Sudans Post: Abyei drone attack death toll reaches 220", url: "https://www.sudanspost.com/abyei-drone-attack-death-toll-reaches-220/"}
 

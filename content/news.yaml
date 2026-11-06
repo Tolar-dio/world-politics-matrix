@@ -1,6 +1,197 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
 - date: '2026-11-05'
+  countries: [PRY]
+  category: political
+  headline: "Paraguay's Peña resigns, is impeached 78 to 0 minutes later, and stays in office when Congress fails to accept his resignation"
+  summary: "President Santiago Peña announced his resignation in a video on 5 November, apologising 'if at any moment I failed', as his own Colorado Party, led by former president Horacio Cartes, turned against him over the collapse of Ueno Bank, in which he had been a shareholder until 2025. The Chamber of Deputies then voted 78 to 0 to impeach him, while rejecting a motion against Vice President Pedro Alliana by 48 to 30. A joint session called to accept the resignation collapsed without a quorum, so Peña formally remains president and the Senate opened his trial that night; removal needs 30 of 45 senators. It matters because the opposition wanted the trial to go ahead so that Peña cannot take the lifetime Senate seat, and the immunity, that a president who simply resigns would receive."
+  sources:
+  - label: "NPR (AP): Paraguay president impeached minutes after resigning following bank collapse"
+    url: https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse
+  - label: "Al Jazeera (Reuters): Paraguay Congress rejects President Pena's resignation after bank collapse"
+    url: https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse
+  - label: "Primicias (EFE): Oficialistas abandonan sesión donde debía decidirse la salida del presidente"
+    url: https://www.primicias.ec/internacional/renuncia-santiago-pena-paraguay-juicio-politico-sesion-diputados-senadores-136507/
+  - label: "La Nación: Senado convoca a Peña para ejercer su defensa en el juicio político"
+    url: https://www.lanacion.com.py/politica/2026/11/05/avanza-el-proceso-senado-convoca-a-pena-para-ejercer-su-defensa-en-el-juicio-politico
+  - label: "Cámara de Diputados: Diputados aprueba juicio político al presidente de la República"
+    url: https://diputados.gov.py/noticias/noticias/3243
+- date: '2026-11-05'
+  countries: [ISR]
+  category: political
+  headline: "Eisenkot is recommended by 67 MPs to Netanyahu's 46, but Herzog delays his choice of prime minister-designate to Sunday"
+  summary: "At the end of two days of consultations, President Isaac Herzog said parties with 67 of the Knesset's 120 seats had recommended Gadi Eisenkot of Yashar! and parties with 46 had recommended Benjamin Netanyahu; Likud, Religious Zionism, Otzma Yehudit, Shas and Zehut backed Netanyahu, while Yisrael Beytenu, Ra'am, the Joint List, the Democrats, Together and Yashar! backed Eisenkot, and United Torah Judaism named no one. Herzog said the result 'may appear clear' but that mutual vetoes between and within the blocs left unclear who could actually form a government, and he will name a candidate on Sunday 8 November after talks with party leaders. It matters because Eisenkot's majority of recommendations includes Arab parties and Avigdor Liberman, who reject sitting with each other in a coalition."
+  sources:
+  - label: "President of Israel: President Herzog concludes round of consultations with Knesset factions"
+    url: https://www.president.gov.il/en/president-herzog-concludes-round-of-consultations-with-knesset-factions-at-the-presidents-residence
+  - label: "Ynet: Eisenkot leads Netanyahu 67-46, but Herzog delays mandate decision until Sunday"
+    url: https://www.ynetnews.com/article/rjj1td9pfx
+  - label: "Times of Israel: Herzog says he'll task a would-be PM on Sunday, after Eisenkot is recommended by 67 of 120 MKs"
+    url: https://www.timesofisrael.com/as-eisenkot-wins-67-nods-to-be-pm-herzog-says-hell-announce-mandate-decision-on-sunday
+- date: '2026-11-06'
+  countries: [BEL]
+  category: political
+  headline: "Belgium's King Philippe refuses Bart De Wever's resignation and sends him back to the budget talks"
+  summary: "After a week of meetings with the leaders of the five coalition parties, the king declined the prime minister's resignation, offered on 2 November when talks on about 10 billion euros of savings collapsed, and asked him to resume budget negotiations immediately; the palace said all five leaders had committed to compromise. De Wever is due back at the palace on 16 November. It matters because accepting the resignation could have led to snap elections, and Belgium, one of the EU's most indebted states, still has no 2027 budget."
+  sources:
+  - label: "AP via WTOP: Belgium's king rejects prime minister's resignation, tells coalition to resume budget talks"
+    url: https://wtop.com/world/2026/11/belgiums-king-rejects-prime-ministers-resignation-tells-coalition-to-resume-budget-talks
+  - label: "Politico Europe: Belgian king refuses Bart De Wever's resignation"
+    url: https://www.politico.eu/article/king-philippe-refuses-prime-minister-bart-de-wever-resignation/
+- date: '2026-11-05'
+  countries: [GRD]
+  category: political
+  headline: "Dickon Mitchell's NDC wins 14 of Grenada's 15 seats and a second term"
+  summary: "Provisional results from the Parliamentary Elections Office gave Prime Minister Dickon Mitchell's National Democratic Congress 14 of the 15 seats and 61 percent of the vote in the 5 November election he called early, up from nine seats in 2022. The opposition New National Party, led by Emmalin Pierre, kept only St George North West; Pierre lost her own seat, and turnout was about 63 percent. It matters because it is the first time the NDC has won back-to-back elections, leaving Grenada with almost no parliamentary opposition."
+  sources:
+  - label: "NOW Grenada (CMC): Prime Minister Mitchell leads NDC to near total sweep of Parliament"
+    url: https://nowgrenada.com/2026/11/prime-minister-mitchell-leads-ndc-to-near-total-sweep-of-parliament/
+  - label: "Caribbean National Weekly: Grenada's NDC wins historic second consecutive term with 14 seats"
+    url: https://www.caribbeannationalweekly.com/posts/grenadas-ndc-wins-historic-second-consecutive-term-with-14-seats
+  - label: "One News SVG: Landslide 14-1 election victory for Dickon Mitchell's NDC in Grenada"
+    url: https://onenewsstvincent.com/2026/11/05/landslide-14-1-election-victory-for-dickon-mitchells-ndc-in-grenada
+- date: '2026-11-05'
+  countries: [ZAF]
+  category: political
+  headline: "ANC falls to about 32 percent in South Africa's local elections as the DA leads in most big cities and MK in eThekwini"
+  summary: "With about two thirds of votes counted by the evening of 5 November, Electoral Commission figures had the ANC on 31.7 percent nationally, down from 45.6 percent in 2021, the DA on about 25 percent, Jacob Zuma's MK party on about 8.5 percent and the EFF on about 6 percent. The DA led in six of the eight metros, including Johannesburg, Tshwane and Ekurhuleni, the ANC held Buffalo City, and MK led in eThekwini (Durban) and much of KwaZulu-Natal. It matters because the ANC is losing its grip on the big cities, and the coalition deals that follow will test its national partnership with the DA; final results are due by 8 November."
+  sources:
+  - label: "BusinessTech: 2026 election results, predictions look spot-on after two-thirds of total votes counted"
+    url: https://businesstech.co.za/news/government/882908/2026-election-results-predictions-look-spot-on-after-two-thirds-of-total-votes-counted/
+  - label: "TimesLive: MK Party leads KZN municipal race in first-time bid"
+    url: https://www.timeslive.co.za/politics/2026-11-06-mk-party-leads-kzn-municipal-race-in-first-time-bid/
+- date: '2026-11-05'
+  countries: [USA, IRN]
+  category: military
+  conflict: iran-war-2026
+  headline: "Trump says he 'would rather not destroy the rest' of Iran but 'maybe I'll have to', as his team weighs new strikes"
+  summary: "In the Oval Office on 5 November, Trump said a decision was coming 'soon enough' on whether to go further so that Iran's nuclear programme 'will never happen again', estimated it would take Iran 25 years to rebuild, and said 18 US service members had died in the war, fewer than the 23 the Pentagon reported on 30 October. Fox News and Axios, citing US officials, reported that the White House held national security meetings on 4 and 5 November on three options: new strikes, sustained economic pressure or a negotiated deal. Trump also spoke with Qatar's emir about de-escalation. It matters because his pre-election pledge not to attack Iran has expired, and the Vance comments and a Democratic Congress are pulling the other way."
+  sources:
+  - label: "Khaleej Times (ANI, Reuters): Trump says would rather not destroy rest of Iran, but 'may have to'"
+    url: https://www.khaleejtimes.com/world/americas/trump-rather-not-destroy-rest-of-iran-us-midterms
+  - label: "Gulf News: US-Israel-Iran conflict, key updates for 6 November"
+    url: https://gulfnews.com/world/mena/usisrael-iran-war-what-uae-residents-need-to-know-today-nov-6-2026-1.500738069
+  - label: "Al Jazeera: Iran war live, Trump and Qatari emir discuss regional de-escalation efforts"
+    url: https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran
+- date: '2026-11-05'
+  countries: [IRN, OMN, KOR]
+  category: military
+  conflict: strait-of-hormuz-shipping-war
+  headline: "Iran says five more tankers and a tug caught fire after hitting mines in Hormuz, a claim not independently confirmed"
+  summary: "Iran's Revolutionary Guards and army said in separate statements on 5 November that two tankers and a tugboat caught fire overnight and three more tankers struck naval mines and burned later in the day, all of them, Iran said, using an 'illegal' passage outside its control; there was no independent confirmation of the ships' names or damage. Iran had claimed four tanker hits a day earlier. South Korea said the same day it would send maritime patrol aircraft and a bomb disposal team to help keep the strait open. It matters because Iran is signalling that it can close the US-escorted route at will, which keeps oil prices high."
+  sources:
+  - label: "Al Arabiya (AFP): Iran says two tankers and tugboat caught fire in Strait of Hormuz"
+    url: https://english.alarabiya.net/News/middle-east/2026/11/05/iran-says-two-tankers-and-tugboat-caught-fire-in-strait-of-hormuz
+  - label: "Gulf News: Trump weighs Iran strikes or deal after midterm loss (live updates, incl. Reuters on IRGC claims and South Korea deployment)"
+    url: https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556
+- date: '2026-11-05'
+  countries: [USA, RUS, UKR]
+  category: diplomatic
+  conflict: russia-ukraine-war
+  headline: "Trump meets Putin's envoy Dmitriev and promises a 'big, beautiful agreement' that 'might involve all of Europe'"
+  summary: "Kirill Dmitriev and Ukrainian officials, including ombudsman Dmytro Lubinets and Servant of the People faction leader Davyd Arakhamia, attended a White House event on 5 November honouring Melania Trump for brokering the six-day Oleshky truce. Trump then met Dmitriev alone, not the Ukrainians, and told reporters 'it's going to involve more than Ukraine... it might involve all of Europe' while refusing to say what was discussed. It matters because it comes days before US-mediated Russia-Ukraine talks in Abu Dhabi on 10 and 11 November, and suggests Washington is discussing a wider European security deal directly with Moscow."
+  sources:
+  - label: "Reuters via Yahoo News: Trump says he met Putin envoy Dmitriev"
+    url: https://sg.news.yahoo.com/trump-says-met-putin-envoy-214854294.html
+  - label: "AP: Putin envoy speaks at White House on Oleshky ceasefire brokered by Melania Trump"
+    url: https://apnews.com/article/ukraine-melania-trump-oleshky-ceasefire-putin-envoy-3ae35835dbc87ab348478c62c6c25ee3
+  - label: "Al Jazeera: Trump says Russia-Ukraine deal is near after meeting Putin's envoy"
+    url: https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians
+- date: '2026-11-06'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russia sends 227 drones overnight as Ukrainian drones reportedly set the Afipsky refinery on fire, and the Komyshuvakha toll reaches 43"
+  summary: "Ukraine's air force said Russia launched 227 drones from the evening of 5 November and that 196 were shot down or jammed, with hits at 14 locations; Bila Tserkva in Kyiv region lost power after an attack on energy facilities. Monitoring channels reported that a Ukrainian drone attack set the Afipsky oil refinery in Krasnodar region on fire overnight, which Russia had not confirmed. On 5 November Zelensky said the death toll from the 2 November strike on Komyshuvakha had risen to 43, and Russian-installed officials in occupied Luhansk said a Ukrainian strike on a bus killed five people. It matters because both sides are escalating long-range strikes before the Abu Dhabi talks."
+  sources:
+  - label: "bne IntelliNews: Missile War Monitor, Ukrainian drones reportedly set Afipsky refinery ablaze as Russia sends 227 drones"
+    url: https://www.intellinews.com/missile-war-monitor-ukrainian-drones-reportedly-set-russia-s-afipsky-refinery-ablaze-as-russia-sends-227-drones-at-ukraine-482603
+  - label: "Kyiv Independent: Ukrainian forces reportedly target oil refinery as explosions reported across southern Russia"
+    url: https://kyivindependent.com/ukrainian-forces-reportedly-target-oil-refinery-as-explosions-reported-across-southern-russia
+  - label: "AP via ABC News: Russia and Ukraine trade airstrikes as reconstruction and security talks resume"
+    url: https://abcnews.com/International/wireStory/russia-ukraine-trade-airstrikes-reconstruction-security-talks-resume-137871457
+- date: '2026-11-04'
+  countries: [YEM]
+  category: military
+  conflict: yemen-civil-war
+  headline: "Houthi ballistic missile hits a government training camp in al-Dhalea, killing between 8 and 14 recruits by different counts"
+  summary: "A Houthi missile struck recruits gathering for morning training at a camp near Qatabah in northern al-Dhalea on 4 November. A military source told Al Jazeera eight were killed and more than 15 wounded, a government official told Xinhua 13 were killed and 65 wounded, and government-aligned Al-Jumhuriya TV later put the toll at 14; no official figure was released. A second Houthi missile reportedly hit a prison in Lahj, killing two. It matters because the strikes came as government forces, backed by Saudi air power, claimed new gains in al-Jawf in the 'Dawn of Yemen' offensive that began on 5 October."
+  sources:
+  - label: "Al Jazeera: Yemeni government forces claim control of strategic al-Jawf mountain range"
+    url: https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range
+  - label: "Xinhua via NAMPA: 13 killed in Houthi missile strike on Yemeni military camp"
+    url: https://www.nampa.org/text/23058182
+  - label: "South24: Initial toll, 9 dead, 50 wounded in Houthi attacks on AlDhalea and Lahj"
+    url: https://south24.net/news/newse.php?nid=5846
+- date: '2026-11-04'
+  countries: [SAU, SYR]
+  category: diplomatic
+  headline: "Saudi Arabia and Syria sign a defence cooperation pact and 403 million dollars in loans during al-Sharaa's Riyadh visit"
+  summary: "The two countries' defence ministries signed a military cooperation agreement on 4 November as President Ahmed al-Sharaa met Crown Prince Mohammed bin Salman, the Saudi Press Agency reported; its terms were not published. The Saudi Fund for Development also signed six concessional loans worth more than 403 million dollars, including 90 million to rebuild the Aleppo power station and 60 million for 10,000 damaged homes. It matters because Riyadh is becoming post-Assad Syria's main backer, and Reuters has reported Syria considering help for Saudi Arabia against the Houthis."
+  sources:
+  - label: "Al Jazeera: Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans"
+    url: https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans
+  - label: "Arab News: Saudi fund provides over $403m for infrastructure and public service projects in Syria"
+    url: https://www.arabnews.com/saudi-arabia/saudi-fund-provides-over-403m-for-infrastructure-and-public-service-projects-in-syria-3009880
+  - label: "Jerusalem Post: Saudi Arabia, Syria deepen ties with military pact, $403 million in loans"
+    url: https://www.jpost.com/middle-east/article-913948
+- date: '2026-11-05'
+  countries: [SDN, SSD]
+  category: humanitarian
+  conflict: sudan-saf-rsf
+  headline: "UN peacekeeping chief tells the Security Council the October drone strikes on Abyei were the first of their kind there"
+  summary: "Jean-Pierre Lacroix told the Council on 5 November that the 19 October drone strikes near Amiet market killed at least 30 people and injured about 59, a figure peacekeepers are still checking and well below the 153 or more reported at the time by local Abyei officials. He said the strikes added 'a new and concerning dimension' after clashes at the same market in September killed 124, and that conditions for any major change to the UNISFA mission 'do not yet exist'. The UK and Denmark demanded that the RSF and other unauthorised forces leave Abyei. It matters because the Council is about to decide on UNISFA's mandate as Sudan's war spills into the disputed area."
+  sources:
+  - label: "UN News: Abyei, deadly drone strikes mark 'new and concerning' threat, UN peacekeeping chief warns"
+    url: https://news.un.org/en/story/2026/11/1168749
+  - label: "GOV.UK: Continued violations of Abyei's demilitarised status are unacceptable, UK statement at the UN Security Council"
+    url: https://www.gov.uk/government/speeches/continued-violations-of-abyeis-demilitarised-status-are-unacceptable-uk-statement-at-the-un-security-council
+- date: '2026-11-05'
+  countries: [ETH, KEN]
+  category: humanitarian
+  headline: "About 50,000 people have fled clashes in Ethiopia's Moyale into Kenya, and the UN appeals for 8.9 million dollars"
+  summary: "Fighting between forces from Ethiopia's Oromia and Somali regions over control of the divided border town of Moyale, which began on 18 October, had driven an estimated 50,000 people into Kenya's Marsabit County by 3 November, according to local authorities cited by UNHCR and OCHA. UN agencies appealed for 8.9 million dollars for three months and are planning for up to 80,000 arrivals; OCHA said stray bullets had injured civilians on the Kenyan side. It matters because it adds another front to Ethiopia's internal wars, alongside fighting in Tigray and Amhara."
+  sources:
+  - label: "OCHA via ReliefWeb: Kenya, displaced people in Moyale, Flash Update No. 2 (5 November)"
+    url: https://reliefweb.int/report/kenya/kenya-humanitarian-situation-displaced-people-moyale-marsabit-county-flash-update-no-2-5-november
+  - label: "Ahram Online (AFP): 'Fighting won't stop', Ethiopia clashes drive thousands into Kenya"
+    url: http://english.ahram.org.eg/News/581720.aspx
+  - label: "DW: Thousands flee Ethiopia for Kenya as regional conflict rages"
+    url: https://www.dw.com/en/thousands-flee-ethiopia-for-kenya-as-regional-conflict-rages/video-79869048
+- date: '2026-11-04'
+  countries: [PRK, KOR]
+  category: military
+  conflict: korean-peninsula
+  headline: "North Korea fires several missiles from Sondok, its third launch in a week, and says it tested a new air defence system"
+  summary: "South Korea's Joint Chiefs of Staff said North Korea fired multiple missiles from the Sondok area towards the East Sea on 4 November, flying less than 300 km; Pyongyang said the next day it had tested a newly designed air defence missile system, while South Korean analysts did not rule out a close-range ballistic missile. It followed about a dozen ballistic missiles from Wonsan on 29 October and came as Kim Yo-jong rejected an FBI finding that North Korea stole more than 6 billion dollars in cryptocurrency from Binance. On 5 November the UN Secretary-General urged both Koreas to restore military hotlines to avoid miscalculation across the DMZ."
+  sources:
+  - label: "Yonhap: N. Korea fires multiple missiles toward East Sea, JCS"
+    url: https://en.yna.co.kr/view/AEN20261104005551315
+  - label: "Yonhap: N. Korea says it test-fired new air defense missile system"
+    url: https://en.yna.co.kr/view/AEN20261105000600315
+  - label: "UN News: World News in Brief, Korea tensions mount"
+    url: https://news.un.org/en/story/2026/11/1168750
+- date: '2026-11-06'
+  countries: [MMR]
+  category: political
+  headline: "Myanmar's military-appointed election commission sets by-elections for April, including in war zones"
+  summary: "State media said on 6 November that by-elections will be held in April 2027 to fill dozens of parliamentary seats, including in townships of Sagaing Region and Chin and Shan states where resistance forces are strong, but not in Rakhine, where the military is fighting the Arakan Army. In the general election won overwhelmingly by the military-backed USDP, 121 of 692 constituencies were excluded because the military did not control them. It matters because the junta is trying to extend its civilian façade into areas it is still fighting for."
+  sources:
+  - label: "US News (Reuters): Myanmar plans April by-election, including in conflict areas"
+    url: https://www.usnews.com/news/world/articles/2026-11-05/myanmar-plans-april-by-election-including-in-conflict-areas
+- date: '2026-11-05'
+  countries: [DOM]
+  category: political
+  headline: "Dominican prosecutors charge a man with terrorism over an alleged plot to attack President Abinader on Constitution Day"
+  summary: "Delvinson De la Cruz Sosa, 29, was arrested on 3 November in San Francisco de Macorís after intelligence services reported threats against President Luis Abinader; the court order for the searches refers to an alleged plan for a terrorist attack at the National Congress during the 6 November Constitution Day ceremony. Prosecutors said they seized electronic devices and chemical substances and asked for pretrial detention, but the hearing was postponed on 5 November to the following Tuesday; his family says he is innocent. It matters as a rare security scare around a sitting Dominican president."
+  sources:
+  - label: "Diario Libre: Aplazan audiencia contra hombre acusado de amenazar al presidente Abinader"
+    url: https://diariolibre.com/actualidad/justicia/2026/11/05/aplazan-audiencia-por-amenaza-contra-presidente-abinader/3712381
+  - label: "Central de Noticias (RTVD): Ministerio Público arresta a un hombre al que investiga por amenazas contra el presidente Abinader"
+    url: https://centralnoticias.gob.do/ministerio-publico-arresta-a-un-hombre-al-que-investiga-por-amenazas-contra-el-presidente-abinader
+  - label: "Acento: Ministerio Público pide prisión preventiva para hombre investigado por amenazas contra Abinader"
+    url: https://acento.com.do/actualidad/ministerio-publico-pide-prision-preventiva-para-hombre-investigado-por-amenazas-contra-abinader-9784761.html
+- date: '2026-11-05'
   countries: [ISR]
   category: political
   headline: "Ra'am backs Eisenkot for prime minister as ultra-Orthodox UTJ declines to endorse Netanyahu"
@@ -1961,6 +2152,15 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2026-11-08'
+  countries: [ISR]
+  event: "President Herzog names the Knesset member he will task with forming Israel's next government"
+- date: '2026-11-06'
+  countries: [PRY]
+  event: "Paraguay's Senate continues the impeachment trial of President Santiago Peña; removal needs 30 of 45 votes, and Peña has asked for 72 more hours to prepare his defence"
+- date: '2026-11-16'
+  countries: [BEL]
+  event: "Bart De Wever reports back to King Philippe on Belgium's 2027 budget talks"
 - date: '2026-10-29'
   countries: [CHN]
   event: Chinese Communist Party Central Committee fifth plenum closes (opened 26 October)

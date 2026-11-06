@@ -117,15 +117,26 @@ BEL:
   system_note: A federal state divided between Dutch-speaking Flanders and French-speaking Wallonia.
   story: unrest
   snapshot: >-
-    After a year of general strikes against pension and indexation cuts, Bart De Wever offered to resign on 2 November 2026 when his five-party coalition could not agree a budget.
+    After a year of general strikes against pension and indexation cuts, King Philippe refused Bart De
+    Wever's November 2026 resignation and sent his five-party coalition back to the budget talks.
   tags: [General strikes, Language divide, EU and NATO capital, Comics and chocolate]
   culture: >-
     Belgium is split between Dutch-speaking Flanders, French-speaking Wallonia and bilingual Brussels, with a small German-speaking community. It gave the world Tintin, the Smurfs, René Magritte, Art Nouveau architecture, and a beer culture that is UNESCO-listed. Cycling, especially the Tour of Flanders, is a religion in Flanders.
   society: >-
     Brussels hosts the EU institutions and NATO. Politics is fragmented along language lines, and forming governments can take more than a year. The economy is rich but carries high public debt, which De Wever's coalition is trying to cut. Flemish nationalism has grown, and Wallonia has struggled since its heavy industry declined.
-  update: "Prime Minister Bart De Wever offered his resignation to King Philippe on 2 November after his five-party coalition (N-VA, MR, Vooruit, CD&V, Les Engag\u00e9s) failed to agree a 2027 budget: Vooruit, CD&V and Les Engag\u00e9s wanted the wealthiest to pay more, while N-VA and MR rejected new taxes. The king withheld his decision, began consulting party leaders on 3 November and is due to see De Wever again on 6 November; he can accept, which would bring the government down, or give more time, as he did in a similar deadlock in 2025. Belgium's debt is forecast at about 110 percent of GDP, and the crisis follows months of strikes against pension and indexation cuts."
-  update_date: 2026-11-03
+  update: >-
+    Prime Minister Bart De Wever offered his resignation on 2 November after his five-party coalition
+    (N-VA, MR, Vooruit, CD&V, Les Engagés) failed to agree about 10 billion euros of savings for the
+    2027 budget: Vooruit, CD&V and Les Engagés wanted the wealthiest to pay more, while N-VA and MR
+    rejected new taxes. After consulting the five party leaders, King Philippe refused the resignation
+    on 6 November and asked De Wever to resume talks immediately; the palace said all five had committed
+    to compromise, and De Wever reports back on 16 November. Accepting it could have led to snap
+    elections. Belgium's debt is forecast at about 110 percent of GDP, and student protests and union
+    action days continue.
+  update_date: 2026-11-06
   sources_extra:
+    - {label: "AP via WTOP: Belgium's king rejects prime minister's resignation, tells coalition to resume budget talks", url: "https://wtop.com/world/2026/11/belgiums-king-rejects-prime-ministers-resignation-tells-coalition-to-resume-budget-talks"}
+    - {label: "Politico Europe: Belgian king refuses Bart De Wever's resignation", url: "https://www.politico.eu/article/king-philippe-refuses-prime-minister-bart-de-wever-resignation/"}
     - label: "ABC News (AP): Belgian PM quits after budget talks fail as king mulls whether to accept resignation"
       url: https://abcnews.com/International/wireStory/belgian-prime-minister-quits-after-budget-talks-fail-137764313
     - label: "VRT NWS: Prime Minister Bart De Wever offers King Filip his resignation"
@@ -807,15 +818,21 @@ SRB:
   society: >-
     Serbia balances between the EU, which it hopes to join, and Russia and China, which back it on Kosovo and invest in its economy. The 2024 collapse of a railway station canopy in Novi Sad, which killed 16 people, set off the biggest protest movement in decades, led by students. Media freedom has declined under Vučić.
   update: >-
-    On 25 October the Student List won 53 percent to 38.8 percent for Vučić's United Serbia list in
-    official preliminary results, on a record turnout of 68.9 percent, a projected majority of about
-    141 of 250 seats, and Vučić conceded defeat. The new parliament must be formed within 30 days of
-    final results, and a presidential election must be held by 27 December.
-  update_date: 2026-10-26
+    On 25 October the Student List won Serbia's early parliamentary election, ending 14 years of
+    Progressive Party rule, and Vučić conceded. Final results published by the electoral commission on 5
+    November gave the Student List 53 percent and 140 of 250 seats, Vučić's United Serbia 39 percent and
+    103 seats, and minority lists seven. Parliament must meet within 30 days of the final results, after
+    which a government needs 126 votes within 90 days; the Student List has not named its candidate for
+    prime minister, with former central bank governor Dejan Šoškić saying he would consider the job. Ana
+    Brnabić remains acting president, and a presidential election must be held by 27 December.
+  update_date: 2026-11-06
   holders: >-
-    Acting President Ana Brnabić; a Student List government is expected after its October 2026
-    majority, with Ilija Srdanović, a Novi Sad cardiologist, seen as the likeliest prime minister.
+    Acting President Ana Brnabić, speaker of the outgoing parliament; a caretaker government serves
+    until the Student List, which won 140 of 250 seats, forms one. It has not yet named its candidate
+    for prime minister.
   sources_extra:
+    - {label: "Government of Serbia: RIK publishes results from all 8,392 polling stations", url: "https://www.srbija.gov.rs/vest/en/290805/rik-publishes-results-from-all-8392-polling-stations.php"}
+    - {label: "Vreme: Šoškić would consider the post of prime minister", url: "https://vreme.com/en/vesti/dejan-soskic-premijer-studentska-lista-formiranje-vlade/"}
     - {label: "Al Jazeera: Serbia after Vučić", url: "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed"}
     - {label: "Euronews: Student List wins", url: "https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won"}
     - {label: "Al Jazeera: Vučić concedes", url: "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader"}
@@ -884,10 +901,14 @@ SWE:
   update: >-
     On 15 October the Riksdag voted down a Social Democratic minority government under Magdalena
     Andersson after the Left and Centre parties refused to back it. Centre leader Elisabeth Thand
-    Ringqvist then explored a centrist option and reported on 26 October that it had no majority.
-    Four failed votes would force a snap election.
-  update_date: 2026-10-26
+    Ringqvist then explored a centrist option, found no majority, and was herself rejected by 324 votes
+    to 25 on 3 November. Speaker Andreas Norlén then asked caretaker prime minister Ulf Kristersson to
+    explore a centre-right government by 10 November, which Kristersson called very difficult. Two of
+    the four permitted votes remain; if all fail, a snap election must be held within three months.
+  update_date: 2026-11-06
   sources_extra:
+    - {label: "Sveriges riksdag: No to Elisabeth Thand Ringqvist (Cen) as Prime Minister", url: "https://www.riksdagen.se/en/news/articles/2026/nov/3/no-to-elisabeth-thand-ringqvist-cen-as-prime_cms6afacb7c-be00-432a-b75e-37e169872323en/"}
+    - {label: "Reuters via Yahoo News: Swedish PM tries to form a new government amid post-election gridlock", url: "https://malaysia.news.yahoo.com/sweden-parliament-rejects-centre-leader-124824112.html"}
     - {label: "AA: Swedish parliament votes against Andersson as prime minister", url: "https://www.aa.com.tr/en/europe/swedish-parliamet-votes-against-andersson-as-prime-minister-/4089695"}
     - {label: "Wikipedia: 2026 Swedish government formation", url: "https://en.wikipedia.org/wiki/2026_Swedish_government_formation"}
 

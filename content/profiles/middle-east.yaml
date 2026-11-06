@@ -84,24 +84,27 @@ ISR:
   system: parliamentary
   story: election
   snapshot: >-
-    Israel's 27 October 2026 election left no bloc with a majority: Netanyahu's camp won 53 seats and the opposition can only reach 61 with Arab parties' support.
+    Israel's 27 October 2026 election left no bloc with a majority; Gadi Eisenkot won 67 recommendations
+    to Netanyahu's 46, but President Herzog delayed choosing who forms the government.
   tags: [Election day 27 October, Gaza war aftermath, Iran war, Tech hub, Deep divisions]
   culture: >-
     Israel's culture mixes Jewish traditions from Europe, the Middle East and North Africa, Hebrew revived as a spoken language, and a large Arab minority. Shabbat shapes the week. Tel Aviv is a secular tech and nightlife hub, while Jerusalem holds sites sacred to Jews, Christians and Muslims. Israeli TV dramas like "Fauda" and "Shtisel" have found global audiences.
   society: >-
     Israel is a high-tech economy with mandatory military service for most Jewish citizens. Ultra-Orthodox exemption from the draft, judicial reform and the role of religion divide society. The 7 October 2023 Hamas attack, which killed about 1,200 people, and the war in Gaza that followed, which killed tens of thousands of Palestinians, transformed politics and Israel's standing in the world.
   update: >-
-    Israelis voted on 27 October with turnout of 77.7 percent, the highest since 1999. Netanyahu's
-    bloc won 53 of 120 seats, the opposition led by Gadi Eisenkot 48 and Arab-led parties a record
-    19, so no bloc has the 61 needed. Likud claimed, without evidence, that the vote was stolen; the
-    election committee rejected a bid to delay the results and presented them to President Herzog on
-    4 November. In Herzog's consultations on 4 and 5 November, Yisrael Beitenu and the Arab-led Ra'am
-    recommended Eisenkot and the rest of his bloc pledged to, which would give him 56
-    recommendations to Netanyahu's 46 (Anadolu tally), after the ultra-Orthodox United Torah
-    Judaism declined to back anyone. The Joint List had not decided. Herzog will then choose who gets 28
-    days to form a government; Netanyahu remains caretaker prime minister meanwhile.
-  update_date: 2026-11-05
+    Israelis voted on 27 October with turnout of 77.7 percent, the highest since 1999. Netanyahu's bloc
+    won 53 of 120 seats, the opposition led by Gadi Eisenkot 48 and Arab-led parties a record 19, so no
+    bloc has the 61 needed; Likud claimed, without evidence, that the vote was stolen. In President
+    Herzog's consultations on 4 and 5 November, parties with 67 seats recommended Eisenkot (Yashar!,
+    Together, the Democrats, Yisrael Beytenu, Ra'am and the Joint List) and parties with 46 recommended
+    Netanyahu (Likud, Religious Zionism, Otzma Yehudit, Shas and Zehut), while United Torah Judaism
+    backed no one. Herzog said mutual vetoes left it unclear who could form a government and will name a
+    candidate on 8 November, who then has 28 days, extendable by 14. Netanyahu remains caretaker prime
+    minister.
+  update_date: 2026-11-06
   sources_extra:
+    - {label: "President of Israel: President Herzog concludes round of consultations with Knesset factions", url: "https://www.president.gov.il/en/president-herzog-concludes-round-of-consultations-with-knesset-factions-at-the-presidents-residence"}
+    - {label: "Ynet: Eisenkot leads Netanyahu 67-46, but Herzog delays mandate decision until Sunday", url: "https://www.ynetnews.com/article/rjj1td9pfx"}
     - {label: "Anews (Anadolu): Arab party recommends opposition leader Eisenkot to form Israeli government", url: "https://www.anews.com.tr/middle-east/2026/11/05/arab-party-recommends-opposition-leader-eisenkot-to-form-israeli-government"}
     - {label: "Siasat: Israel PM race, ultra-Orthodox party rejects Netanyahu, Eisenkot", url: "https://www.siasat.com/israel-pm-race-ultra-orthodox-party-rejects-netanyahu-eisenkot-3570064/"}
     - {label: "Al Jazeera: Five key takeaways from Israel's parliamentary elections", url: "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections"}

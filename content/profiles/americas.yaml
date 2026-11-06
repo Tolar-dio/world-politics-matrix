@@ -307,19 +307,28 @@ GRD:
   religion: Catholic about 45%, Protestant
   system: const-monarchy
   snapshot: >-
-    The "spice isle" of the Caribbean, governed since 2022 by Dickon Mitchell and still rebuilding Carriacou after Hurricane Beryl.
+    The "spice isle" of the Caribbean, where Dickon Mitchell's NDC won 14 of 15 seats in November 2026,
+    the first time the party has won two elections in a row.
   tags: [Spice isle, Commonwealth realm, Hurricane Beryl, 1983 US invasion]
   culture: >-
     Grenada produces much of the world's nutmeg, which appears on its flag. Spicemas, its carnival, features jab jab revellers covered in black oil and molasses, mocking colonial slaveholders. The country's history includes the 1979 revolution of Maurice Bishop and the US invasion of 1983 after his murder.
   society: >-
     Tourism, nutmeg, cocoa and St George's University, a medical school for mainly American students, drive the economy. Hurricane Beryl in 2024 devastated Carriacou and Petite Martinique. Grenada's citizenship-by-investment programme brings in significant revenue.
   baseline: >-
-    Dickon Mitchell, a lawyer, led the National Democratic Congress to victory in 2022, ending Keith Mitchell's long tenure. His government has focused on recovery and climate adaptation.
+    Dickon Mitchell, a lawyer, led the National Democratic Congress to victory in 2022 with nine of 15
+    seats, ending Keith Mitchell's long tenure, and has focused on recovery from Hurricane Beryl and
+    climate adaptation. He called an early election for 5 November 2026 and the NDC won 14 seats and 61
+    percent of the vote on provisional results, the first time it has won back-to-back elections. The
+    New National Party, led by Emmalin Pierre, who lost her own seat, kept only St George North West,
+    whose new member Adrian Joseph is set to lead the opposition.
   leaders: {state: "King Charles III, represented by a governor-general", gov: "Prime Minister Dickon Mitchell, since 2022"}
   power: >-
     A parliamentary democracy and Commonwealth realm. The prime minister leads the majority in the
     15-seat House of Representatives.
   story: steady
+  sources:
+    - {label: "NOW Grenada (CMC): Prime Minister Mitchell leads NDC to near total sweep of Parliament", url: "https://nowgrenada.com/2026/11/prime-minister-mitchell-leads-ndc-to-near-total-sweep-of-parliament/"}
+    - {label: "Caribbean National Weekly: Grenada's NDC wins historic second consecutive term with 14 seats", url: "https://www.caribbeannationalweekly.com/posts/grenadas-ndc-wins-historic-second-consecutive-term-with-14-seats"}
 
 GTM:
   pop: 18.7
@@ -464,28 +473,32 @@ PRY:
   religion: Catholic about 85%
   system: presidential
   snapshot: >-
-    The collapse of Ueno Bank, owned by a former business partner of President Santiago Peña, led the opposition to file an impeachment motion in November 2026.
+    President Santiago Peña resigned and was impeached on the same day in November 2026 over the
+    collapse of Ueno Bank, in which he had held shares, and remains in office while the Senate tries
+    him.
   tags: [Colorado Party dominance, Guaraní language, Soy and beef, Taiwan ally]
   culture: >-
     Paraguay is the only country in the Americas where most people speak an Indigenous language, Guaraní, which is official alongside Spanish. Tereré, cold yerba mate, is drunk everywhere. The harp and the polka paraguaya are central to its music. The Jesuit missions of the 17th and 18th centuries left UNESCO-listed ruins.
   society: >-
     Paraguay is a top exporter of soy and beef, and the Itaipú and Yacyretá dams produce more electricity than it uses. Land is very unequally distributed. It is one of the few countries still recognising Taiwan instead of China. Smuggling and money laundering in the tri-border area with Brazil and Argentina are a concern.
   baseline: >-
-    Santiago Peña, a former IMF economist, was elected in 2023 with the backing of former president
-    Horacio Cartes, who has been sanctioned by the US for corruption. Peña has aligned closely with
-    Washington, Israel and Argentina's Javier Milei. On 3 November 2026 the central bank seized
-    Ueno Bank, a digital lender with about three million customers that manages about 380 million
-    dollars of state pension money. Ueno belongs to Grupo Vázquez, Peña's business partner until
-    2025; central bank chief Carlos Carvallo, Ueno's former chair, resigned at Peña's request, and
-    arrest warrants were issued for eight executives. Depositors protested in Asunción, and 35
-    opposition deputies filed a motion to remove Peña and Vice President Pedro Alliana. It needs 53
-    of 80 deputies, and the Colorado Party holds majorities in both chambers.
+    Santiago Peña was elected in 2023 with the backing of former president Horacio Cartes, who is under
+    US corruption sanctions, and aligned closely with Washington, Israel and Javier Milei. On 3 November
+    2026 the central bank seized Ueno Bank, a digital lender with about three million customers and
+    about 380 million dollars of state pension money, owned by Peña's former business partners. On 5
+    November, after Cartes and the Colorado Party turned on him, Peña announced his resignation,
+    deputies impeached him 78 to 0, and a joint session to accept the resignation failed for lack of a
+    quorum, so he remains president while the Senate tries him. Removal needs 30 of 45 votes; Vice
+    President Pedro Alliana would serve out the term to 2028.
   leaders: {state: "President Santiago Peña, since 2023", gov: "The president heads the government"}
   power: >-
     A presidential republic. The president is directly elected for a single five-year term; Congress
     has a Senate and a Chamber of Deputies, both dominated by the Colorado Party.
   story: shock
   sources:
+    - {label: "NPR (AP): Paraguay president impeached minutes after resigning following bank collapse", url: "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse"}
+    - {label: "Al Jazeera (Reuters): Paraguay Congress rejects President Pena's resignation after bank collapse", url: "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse"}
+    - {label: "La Nación: Senado convoca a Peña para ejercer su defensa en el juicio político", url: "https://www.lanacion.com.py/politica/2026/11/05/avanza-el-proceso-senado-convoca-a-pena-para-ejercer-su-defensa-en-el-juicio-politico"}
     - {label: "Yahoo Finance (AFP): Paraguay opposition seeks president's removal over banking crisis", url: "https://uk.finance.yahoo.com/news/paraguay-opposition-seeks-presidents-removal-214901975.html"}
     - {label: "ABC News (AP): Paraguay seizes major digital bank tied to president", url: "https://abcnews.com/International/wireStory/paraguay-seizes-major-digital-bank-tied-president-leaving-137806474"}
     - {label: "Última Hora: Peña joins the municipal campaign", url: "https://www.ultimahora.com/pena-entra-en-campana-municipal-para-asegurarse-de-que-todos-los-municipios-sean-de-la-anr"}
