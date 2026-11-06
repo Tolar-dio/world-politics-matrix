@@ -797,7 +797,6 @@
     refreshLayers();
     refreshBrowseDots();
     if (!keepPanel && !state.selected && !state.focus) showIntro();
-    try { localStorage.setItem('wpm-mode', mode); } catch (_) { /* storage unavailable */ }
   }
 
   function showIntro() {
@@ -1268,8 +1267,8 @@
 
     try { const saved = localStorage.getItem('wpm-lens'); if (saved && LENSES[saved]) state.lens = saved; } catch (_) { /* storage unavailable */ }
 
+    // Always open in politics mode; only an explicit conflict link (#conflicts, #c/..., #b/..., #m/...) opens conflicts.
     let savedMode = 'politics';
-    try { if (localStorage.getItem('wpm-mode') === 'conflict') savedMode = 'conflict'; } catch (_) { /* storage unavailable */ }
     if (/^#([cbm]\/|conflicts$)/.test(location.hash)) savedMode = 'conflict';
 
     renderIntro();
