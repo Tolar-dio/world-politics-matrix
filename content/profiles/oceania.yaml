@@ -111,12 +111,23 @@ NZL:
   system: const-monarchy
   story: election
   snapshot: >-
-    Christopher Luxon's centre-right coalition faces voters on 7 November 2026, after a term of spending cuts and fights over the Treaty of Waitangi.
-  tags: [Election in November, Māori politics, Farming exports, All Blacks]
+    The 7 November 2026 election was too close to call on the night: Christopher Luxon's National was narrowly the largest party and his coalition ahead on preliminary seats, with special votes due by 27 November.
+  tags: [Election too close to call, Māori politics, Farming exports, All Blacks]
   culture: >-
     Māori culture is central to national identity: the haka, performed by the All Blacks before matches, te reo Māori, now widely used in public life, and marae, community meeting grounds. Rugby is a national passion. The landscapes that starred in "The Lord of the Rings" drive tourism.
   society: >-
     Dairy, meat and wine exports and tourism drive the economy. The Treaty of Waitangi, signed in 1840 between the Crown and Māori chiefs, shapes law and politics; a 2024 bill to redefine it sparked a huge hīkoi protest march. Housing is expensive, and many young people move to Australia.
+  update: >-
+    Preliminary results from the 7 November election, with about 95 percent counted, put National and
+    Labour within about 3,500 votes of each other. The governing National, ACT and NZ First bloc had 67
+    seats to 56 for Labour, the Greens and Te Pāti Māori, in a parliament likely to grow to about 130
+    because of overhang seats, so about 66 are needed to govern. The Opportunity Party entered
+    parliament for the first time. Special votes, which have favoured the left in recent elections,
+    are counted before the official result on 27 November.
+  update_date: 2026-11-07
+  sources_extra:
+    - {label: "Yahoo News (dpa): New Zealand election too close to call as count continues", url: "https://www.yahoo.com/news/world/articles/zealand-election-too-close-call-111831623.html"}
+    - {label: "Al Jazeera (Reuters): Governing party ahead in early results of New Zealand's knife-edge vote", url: "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results"}
 
 PLW:
   pop: 0.018

@@ -473,29 +473,29 @@ PRY:
   religion: Catholic about 85%
   system: presidential
   snapshot: >-
-    President Santiago Peña resigned and was impeached on the same day in November 2026 over the
-    collapse of Ueno Bank, in which he had held shares, and remains in office while the Senate tries
-    him.
+    Pedro Alliana became president on 6 November 2026 after the Senate removed Santiago Peña 44 to 1
+    over the collapse of Ueno Bank, in which Peña had held shares.
   tags: [Colorado Party dominance, Guaraní language, Soy and beef, Taiwan ally]
   culture: >-
     Paraguay is the only country in the Americas where most people speak an Indigenous language, Guaraní, which is official alongside Spanish. Tereré, cold yerba mate, is drunk everywhere. The harp and the polka paraguaya are central to its music. The Jesuit missions of the 17th and 18th centuries left UNESCO-listed ruins.
   society: >-
     Paraguay is a top exporter of soy and beef, and the Itaipú and Yacyretá dams produce more electricity than it uses. Land is very unequally distributed. It is one of the few countries still recognising Taiwan instead of China. Smuggling and money laundering in the tri-border area with Brazil and Argentina are a concern.
   baseline: >-
-    Santiago Peña was elected in 2023 with the backing of former president Horacio Cartes, who is under
-    US corruption sanctions, and aligned closely with Washington, Israel and Javier Milei. On 3 November
-    2026 the central bank seized Ueno Bank, a digital lender with about three million customers and
-    about 380 million dollars of state pension money, owned by Peña's former business partners. On 5
-    November, after Cartes and the Colorado Party turned on him, Peña announced his resignation,
-    deputies impeached him 78 to 0, and a joint session to accept the resignation failed for lack of a
-    quorum, so he remains president while the Senate tries him. Removal needs 30 of 45 votes; Vice
-    President Pedro Alliana would serve out the term to 2028.
-  leaders: {state: "President Santiago Peña, since 2023", gov: "The president heads the government"}
+    Santiago Peña was elected in 2023 with the backing of former president Horacio Cartes and aligned
+    closely with Washington, Israel and Javier Milei. On 3 November 2026 the central bank seized Ueno
+    Bank, a digital lender with about three million customers, owned by Peña's former business
+    partners. After Cartes and the Colorado Party turned on him, Peña announced his resignation on 5
+    November and deputies impeached him 78 to 0; on 6 November the Senate refused him more time and
+    removed him 44 to 1. Vice President Pedro Alliana, also a Colorado and himself under investigation,
+    was sworn in to serve until August 2028. Prosecutors were reported to have ordered Peña's detention.
+  leaders: {state: "President Pedro Alliana, since 6 November 2026", gov: "The president heads the government"}
   power: >-
     A presidential republic. The president is directly elected for a single five-year term; Congress
     has a Senate and a Chamber of Deputies, both dominated by the Colorado Party.
   story: shock
   sources:
+    - {label: "Reuters: Paraguay's Alliana sworn in as president after Peña impeachment", url: "https://www.reuters.com/world/americas/paraguays-alliana-sworn-president-after-pea-impeachment-2026-11-06/"}
+    - {label: "The Tribune (ANI): Paraguay Senate votes to impeach Santiago Peña over bank collapse; VP sworn in", url: "https://www.tribuneindia.com/news/world/paraguay-senate-votes-to-impeach-prez-santiago-pena-over-bank-collapse-vp-sworn-in"}
     - {label: "NPR (AP): Paraguay president impeached minutes after resigning following bank collapse", url: "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse"}
     - {label: "Al Jazeera (Reuters): Paraguay Congress rejects President Pena's resignation after bank collapse", url: "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse"}
     - {label: "La Nación: Senado convoca a Peña para ejercer su defensa en el juicio político", url: "https://www.lanacion.com.py/politica/2026/11/05/avanza-el-proceso-senado-convoca-a-pena-para-ejercer-su-defensa-en-el-juicio-politico"}
@@ -607,8 +607,8 @@ TTO:
   religion: Christian about 55%, Hindu about 18%, Muslim about 5%
   system: parliamentary
   snapshot: >-
-    The Caribbean's energy powerhouse, under a state of emergency over gang violence since March
-    2026, led by a prime minister closely aligned with Washington on Venezuela.
+    The Caribbean's energy powerhouse, led by a prime minister closely aligned with Washington on
+    Venezuela, which ended a long state of emergency over gang violence in September 2026.
   tags: [Oil and gas, Carnival, Steelpan, Gang violence]
   culture: >-
     Trinidad's Carnival is one of the world's great festivals, with calypso, soca and masquerade bands. The steelpan, made from oil drums in the 1930s, is the national instrument. Indo-Trinidadians, descended from indentured labourers, have made chutney music, Diwali and Phagwah part of national life. Cricket and Brian Lara are sources of pride.
@@ -618,8 +618,8 @@ TTO:
     Kamla Persad-Bissessar's United National Congress won the April 2025 election, returning her to
     the job she held from 2010 to 2015. She has aligned closely with the Trump administration on
     Venezuela, though she said Trinidad took no part in the January 2026 raid that seized Maduro. In
-    March 2026 her government declared a new state of emergency over persistent violent crime and
-    later extended it.
+    March 2026 her government extended a state of emergency over persistent violent crime; it ended on
+    17 September 2026, amid anger over arrests made under it.
   leaders: {state: "President Christine Kangaloo", gov: "Prime Minister Kamla Persad-Bissessar, since May 2025"}
   power: >-
     A parliamentary republic. The prime minister leads the majority in the 41-seat House of
@@ -628,6 +628,7 @@ TTO:
   story: unrest
   sources:
     - {label: "Al Jazeera: state of emergency extended", url: "https://www.aljazeera.com/news/2026/3/14/trinidad-and-tobago-extends-state-of-emergency-for-another-three-months"}
+    - {label: "Gleaner: Trinidad and Tobago ends long state of emergency, anger mounts over arrests", url: "https://jamaica-gleaner.com/article/world-news/20260917/trinidad-and-tobago-ends-long-state-emergency-anger-mounts-over-arrests"}
     - {label: "Gleaner: not part of the US operation", url: "https://jamaica-gleaner.com/article/news/20260103/pm-says-trinidad-not-part-us-military-operation-against-venezuela"}
 
 USA:

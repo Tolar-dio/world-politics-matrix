@@ -958,14 +958,17 @@ UKR:
   society: >-
     Russia's full-scale invasion has killed tens of thousands of civilians and soldiers, displaced millions and occupied about a fifth of the country. Ukraine has become a world leader in drone warfare. The economy depends on Western aid. Corruption scandals, including one in the energy sector in 2025, remain sensitive.
   update: >-
-    On 21 October Putin told US envoy Steve Witkoff he agreed in principle to resume three-way talks
-    with Ukraine on or after 10 November, possibly in Abu Dhabi, and Zelensky backed the format. On
-    23 October the two sides agreed a local humanitarian ceasefire in occupied Oleshky, mediated by
-    Melania Trump, and swapped 270 prisoners each. Hungary lifted its block on Ukraine's EU
-    accession talks on 16 October. On the ground, Ukraine has regained a little territory since
-    September, though Russian troops are about 9 km from Kramatorsk.
-  update_date: 2026-10-23
+    Russia, Ukraine and the US are due to hold US-mediated talks in Abu Dhabi on 10 and 11 November,
+    the first such round since February, with Rustem Umerov leading Ukraine's delegation and Vladimir
+    Medinsky Russia's. Strikes have intensified beforehand: Russian guided bombs on an aid point in
+    Komyshuvakha on 2 November killed at least 55 people, and on 7 November 36 ballistic missiles and
+    172 drones hit energy sites around Kyiv and a Dnipro bridge, while Ukraine struck Russian
+    refineries. On the ground, Ukraine has regained a little territory since September, though Russian
+    troops are about 9 km from Kramatorsk.
+  update_date: 2026-11-07
   sources_extra:
+    - {label: "RFE/RL: Russia strikes Kyiv's energy infrastructure, Northern Bridge ahead of Abu Dhabi talks", url: "https://www.rferl.org/a/russia-strikes-kyiv-ukraine-trilateral-talks/33892815.html"}
+    - {label: "AP via KSAT: Missiles target Kyiv and injure 5 as Ukraine prepares for talks with Russia and the US", url: "https://www.ksat.com/news/world/2026/11/07/missiles-target-kyiv-and-injure-5-as-ukraine-prepares-for-talks-with-russia-and-the-us/"}
     - {label: "Reuters: Putin hosts Trump envoy, agrees to new talks", url: "https://www.reuters.com/world/europe/putin-hosts-trump-envoy-new-ukraine-peace-talks-frees-us-citizen-held-russia-2026-10-21/"}
     - {label: "Kyiv Independent: local ceasefire for Oleshky", url: "https://kyivindependent.com/ukraine-war-latest-ukraine-russia-agree-to-local-ceasefire-for-russian-occupied-oleshky-mediated-by-melania-trump/"}
     - {label: "Reuters: Hungary and Ukraine agree to reset ties", url: "https://www.reuters.com/world/hungary-ukraine-agree-reset-ties-magyar-says-2026-10-16/"}

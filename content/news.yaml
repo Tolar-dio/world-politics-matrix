@@ -1,5 +1,107 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-07'
+  countries: [NZL]
+  category: political
+  headline: "New Zealand's election is too close to call, with Luxon's National narrowly the largest party and special votes still to count"
+  summary: "With about 95 percent of the election-night vote counted, roughly 3,500 votes separated Christopher Luxon's National and Chris Hipkins's Labour, each on about 29 to 31 percent. Preliminary figures gave the governing National, ACT and NZ First bloc 67 seats and Labour, the Greens and Te Pāti Māori 56, in a parliament expected to grow to about 130 seats because of overhangs, so a majority would be about 66. The Opportunity Party cleared the 5 percent threshold for the first time; Luxon has ruled out working with it and Hipkins has not. It matters because special votes, about a fifth of the total in 2023, have shifted results towards the left in the last three elections, and the official result is not due until 27 November."
+  sources:
+  - label: "Yahoo News (dpa): New Zealand election too close to call as count continues"
+    url: https://www.yahoo.com/news/world/articles/zealand-election-too-close-call-111831623.html
+  - label: "Al Jazeera (Reuters): Governing party ahead in early results of New Zealand's knife-edge vote"
+    url: https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results
+  - label: "ABC News (Australia): New Zealand 2026 election reactions and results, live"
+    url: https://www.abc.net.au/news/2026-11-07/nz-election-2026-live-blog/107355448
+- date: '2026-11-06'
+  countries: [PRY]
+  category: political
+  headline: "Paraguay's Senate removes Santiago Peña 44 to 1, and Vice President Pedro Alliana is sworn in as president"
+  summary: "A day after Peña announced his resignation and was impeached by the lower house, the Senate rejected his request for 72 more hours to prepare a defence by 39 to 3, heard closing arguments without him present, and voted 44 to 1 to remove him over his links to the collapsed Ueno Bank. Vice President Pedro Alliana, also of the Colorado Party and himself under criminal investigation, was sworn in to serve out the term to August 2028. Peña's interior minister, chief of staff and two advisers had already resigned, and CNN and the newspaper ABC Color reported that prosecutors ordered his detention. It matters because removal, rather than resignation, denies Peña the lifetime Senate seat and immunity that former presidents receive."
+  sources:
+  - label: "Reuters via ThePrint: Paraguay Senate votes to impeach President Peña"
+    url: https://theprint.in/world/paraguay-senate-votes-to-impeach-president-pena/3092831/
+  - label: "Reuters: Paraguay's Alliana sworn in as president after Peña impeachment"
+    url: https://www.reuters.com/world/americas/paraguays-alliana-sworn-president-after-pea-impeachment-2026-11-06/
+  - label: "The Tribune (ANI): Paraguay Senate votes to impeach Santiago Peña over bank collapse; VP sworn in"
+    url: https://www.tribuneindia.com/news/world/paraguay-senate-votes-to-impeach-prez-santiago-pena-over-bank-collapse-vp-sworn-in
+  - label: "AP via WDTN: Peña skips Senate impeachment trial as Paraguay reels from Ueno bank collapse"
+    url: https://www.wdtn.com/news/ap-top-headlines/ap-paraguays-pena-loses-top-aides-as-impeachment-trial-resumes-over-failed-bank/amp/
+  - label: "Xinhua: Paraguayan Senate proceeds with president's impeachment trial after rejecting delay request"
+    url: https://english.news.cn/20261107/f9f3bc6ae1f04a01a53d66fcf23f15c9/c.html
+  - label: "CNN: Paraguay president impeached and under house arrest following bank collapse scandal"
+    url: https://www.cnn.com/2026/11/05/americas/president-paraguay-resigns-latam-intl
+- date: '2026-11-07'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russia fires 36 ballistic missiles and 172 drones at Kyiv's power and a Dnipro bridge, three days before Abu Dhabi talks"
+  summary: "Zelenskyy said Russia launched 172 attack drones and 36 ballistic missiles overnight, aiming at substations that link the Rivne and Khmelnytskyi nuclear plants to Kyiv and central Ukraine; parts of the capital lost power, heating and water, the Northern Bridge over the Dnipro was hit and closed for a time, and five people were hurt in Kyiv and one killed in Dnipropetrovsk region. Russia said the bridge carried military equipment. Ukrainian drones set the Saratov refinery on fire, its fifth attack this autumn, and Kyiv said Neptune missiles hit a plant in Oryol that it says makes Iskander parts. It matters because both sides are escalating strikes on infrastructure ahead of the US-mediated talks in Abu Dhabi on 10 and 11 November."
+  sources:
+  - label: "RFE/RL: Russia strikes Kyiv's energy infrastructure, Northern Bridge ahead of Abu Dhabi talks"
+    url: https://www.rferl.org/a/russia-strikes-kyiv-ukraine-trilateral-talks/33892815.html
+  - label: "AP via KSAT: Missiles target Kyiv and injure 5 as Ukraine prepares for talks with Russia and the US"
+    url: https://www.ksat.com/news/world/2026/11/07/missiles-target-kyiv-and-injure-5-as-ukraine-prepares-for-talks-with-russia-and-the-us/
+  - label: "Al Jazeera: Russia launches missile attack on Kyiv, injuring residents"
+    url: https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents
+  - label: "Odessa Journal: Drones attacked Rosneft's Saratov oil refinery for the fifth time this autumn"
+    url: https://odessa-journal.com/drones-attacked-rosnefts-saratov-oil-refinery-for-the-5th-time-this-autumn
+- date: '2026-11-07'
+  countries: [UKR, RUS]
+  category: humanitarian
+  conflict: russia-ukraine-strike-war
+  headline: "Komyshuvakha death toll reaches at least 55 as two more bodies are recovered"
+  summary: "AP reported that at least 55 people are now known to have died after Russian guided bombs hit a former school used as an aid distribution point, and a nearby shelter, in the Zaporizhzhia region village on 2 November, with two bodies pulled out early on 7 November and dozens still missing; Ukraine's emergency service had given 50 the day before. It matters because the toll is still rising, with dozens missing, as the US-mediated Abu Dhabi talks approach."
+  sources:
+  - label: "AP via KSAT: Missiles target Kyiv and injure 5 as Ukraine prepares for talks with Russia and the US"
+    url: https://www.ksat.com/news/world/2026/11/07/missiles-target-kyiv-and-injure-5-as-ukraine-prepares-for-talks-with-russia-and-the-us/
+  - label: "Al Jazeera: Russia launches missile attack on Kyiv, injuring residents"
+    url: https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents
+- date: '2026-11-06'
+  countries: [USA, IRN, QAT]
+  category: diplomatic
+  conflict: iran-war-2026
+  headline: "US offers up to 20 million dollars for tips on Iran's nuclear programme as Tehran studies a new proposal sent through Qatar"
+  summary: "Central Command announced a Rewards for Justice offer of up to 20 million dollars, with possible relocation, for information on Iran's nuclear work, and the State Department said Iran's stockpile includes uranium enriched to 60 percent. Al Jazeera and the Times of Israel reported that a new nuclear and peace proposal is moving between the two sides through Qatari mediators, while Iran's deputy security chief Ali Bagheri Kani said Tehran wants its seven conditions for reopening Hormuz met first. The IRGC said it shot down a US MQ-1 drone over Qeshm Island, its second claim in two days, which the US did not confirm. It matters because Washington is mixing pressure and talks as it decides whether to resume large-scale strikes."
+  sources:
+  - label: "CBS News: US offers $20 million for information on Iran's nuclear program (live updates)"
+    url: https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/
+  - label: "Al Jazeera: Iran war live, IRGC says US drone downed, tankers hit in Strait of Hormuz"
+    url: https://www.aljazeera.com/amp/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran
+  - label: "Times of Israel: Liveblog, 6 November 2026"
+    url: https://www.timesofisrael.com/liveblog-november-06-2026/
+- date: '2026-11-06'
+  countries: [IRN, BHR, OMN]
+  category: military
+  conflict: strait-of-hormuz-shipping-war
+  headline: "A seafarer is killed on the tanker Velos Sapphire and the IRGC claims two more ships hit mines in Hormuz"
+  summary: "The operator of the Marshall Islands-flagged tanker Velos Sapphire said on 6 November that a crew member was found fatally injured after an explosion the day before as the empty ship sailed towards Bahrain, which it said was likely a missile; the vessel reached Khalifa Bin Salman Port. The IRGC said two more tankers struck mines and caught fire in or near the strait, after Iranian media claimed five tankers and a tug on 5 November, but no maritime authority has confirmed those incidents and Trump has accused Iran of making them up. It matters because the shipping war is still killing seafarers even as many of the claims about it remain disputed."
+  sources:
+  - label: "CBS News: Iran war live updates (tanker reports, 5 and 6 November)"
+    url: https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/
+  - label: "Al Jazeera: Iran war live, IRGC says US drone downed, tankers hit in Strait of Hormuz"
+    url: https://www.aljazeera.com/amp/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran
+- date: '2026-11-05'
+  countries: [TUR, SAU, PAK]
+  category: diplomatic
+  headline: "Turkey's parliament ratifies the Mecca defence pact with Saudi Arabia and Pakistan, 279 to 119"
+  summary: "The governing AKP and MHP and the main opposition CHP backed the 10-year Mecca Joint Defence Agreement, under which an attack on one member counts as an attack on all; the İYİ Party, DEM Party and New Party voted against, warning it could drag Turkey into Saudi Arabia's fight with the Houthis. Saudi Arabia and Pakistan have already ratified, so the pact takes effect once Turkey deposits its documents. Ministers say no Turkish troops will fight in Yemen and any combat deployment would need a separate vote. It matters because it binds a NATO member to a mutual defence pact with two Muslim powers as Houthi attacks on Saudi Arabia grow."
+  sources:
+  - label: "Turkish Minute: Turkish Parliament approves Saudi-Pakistan defense pact despite opposition concerns"
+    url: https://turkishminute.com/2026/11/06/turkish-parliament-approves-saudi-pakistan-defense-pact-despite-opposition-concerns/
+  - label: "Xinhua: Turkish parliament approves Mecca Joint Defense Agreement with Pakistan, Saudi Arabia"
+    url: https://english.news.cn/20261106/3cda10198bcf4283b7f17ccceb71294e/c.html
+  - label: "The New Arab: Turkey's parliament ratifies Mecca pact"
+    url: https://www.newarab.com/news/turkeys-parliament-ratifies-mecca-pact
+  - label: "Reuters via The Star: Turkey's parliament set to ratify defence pact with Saudi Arabia, Pakistan as Houthi attacks mount"
+    url: https://www.thestar.com.my/news/world/2026/11/04/turkey039s-parliament-set-to-ratify-defence-pact-with-saudi-arabia-pakistan-as-houthi-attacks-mount
+- date: '2026-11-06'
+  countries: [CHN]
+  category: political
+  headline: "Former Macau pro-democracy legislator Au Kam San gets 12 and a half years in the first conviction under Macau's security law"
+  summary: "A Macau court convicted Au Kam San, a long-serving pro-democracy member of the territory's legislature, of subversion in a closed-door trial and sentenced him to 12 years and six months. It is the first conviction under Macau's national security law, which lawmakers widened in 2023 and changed to allow trials behind closed doors. It matters because it shows Beijing's security model, already used against Hong Kong's opposition, now being applied in Macau."
+  sources:
+  - label: "BBC News: Au Kam San sentenced in Macau's first national security conviction"
+    url: https://www.bbc.com/news/articles/cmdx33v9vvr2o
 - date: '2026-11-05'
   countries: [PRY]
   category: political
@@ -2152,6 +2254,9 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2026-11-27'
+  countries: [NZL]
+  event: "New Zealand's Electoral Commission declares the official 2026 election result, including special votes"
 - date: '2026-11-08'
   countries: [ISR]
   event: "President Herzog names the Knesset member he will task with forming Israel's next government"
