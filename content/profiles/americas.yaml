@@ -231,6 +231,16 @@ CUB:
     Cuban music, from son and rumba to the Buena Vista Social Club and reggaeton, has shaped Latin sound worldwide. Santería blends Yoruba gods with Catholic saints. Baseball, classic American cars, cigars, and the faded colonial grandeur of Old Havana are global symbols of the island. Its ballet and medical schools are internationally respected.
   society: >-
     The 1959 revolution built free healthcare and education, but the economy has collapsed since the pandemic, with food, medicine and fuel shortages. More than a tenth of the population has emigrated since 2021. Cuba depended on Venezuelan oil, so the US move against Caracas hit it hard. Small private businesses have been allowed since 2021.
+  update: >-
+    On 19 October Florida charged former leader Raúl Castro, 95, with conspiracy to commit murder over
+    the 1996 shootdown of exile planes, adding to a federal indictment from May; President Díaz-Canel
+    called it a 'circus'. On 5 November the US imposed new sanctions on a crude oil shipping network,
+    state firms and China-based suppliers, and opened the way to sanctions on whole sectors of the Cuban
+    economy.
+  update_date: 2026-11-05
+  sources_extra:
+    - {label: "US News (AP): Florida brings more charges against former Cuba president Raul Castro", url: "http://www.usnews.com/news/us/articles/2026-10-19/florida-brings-more-charges-against-former-cuba-president-raul-castro"}
+    - {label: "Reuters: US issues new Cuba sanctions, takes aim at sectors of Cuban economy", url: "https://www.reuters.com/world/americas/us-issues-new-cuba-sanctions-takes-aim-sectors-cuban-economy-2026-11-05"}
 
 DMA:
   pop: 0.066
@@ -281,12 +291,26 @@ ECU:
   system: presidential
   story: war
   snapshot: >-
-    Daniel Noboa took his war on gangs across the border, launching joint operations with the US and slapping punishing tariffs on Colombia.
+    Daniel Noboa's war on gangs has brought joint operations with the US and a fourth curfew this year,
+    while the arrest of his twice-defeated rival Luisa González has critics warning of one-party rule.
   tags: [War on gangs, Galápagos, Dollarised economy, Banana exports]
   culture: >-
     Ecuador spans Pacific beaches, Andean highlands, the Amazon and the Galápagos Islands, where Darwin observed finches. Quito's colonial centre was among the first UNESCO World Heritage sites. Kichwa communities keep strong Andean traditions, and the Panama hat is actually made in Ecuador, woven from toquilla straw.
   society: >-
     Ecuador uses the US dollar and is the world's largest banana exporter. In a few years, drug gangs turned it from one of the region's safest countries into one of its most violent, with prisons run by cartels. Noboa declared an "internal armed conflict" in 2024. Indigenous movements have led powerful protests against fuel price rises.
+  update: >-
+    On 22 October police arrested Luisa González, the Citizen Revolution candidate who came second to
+    Noboa in 2023 and 2025, in a money laundering investigation into alleged undeclared funding for her
+    2023 campaign, and a judge ordered her held before trial. Her party, led by exiled former president
+    Rafael Correa, calls it political persecution; Correa says Ecuador is living under a dictatorship.
+    An electoral court had already barred her from the 29 November local elections. On 1 November Noboa
+    imposed the year's fourth night curfew, in five provinces.
+  update_date: 2026-11-07
+  sources_extra:
+    - {label: "Al Jazeera (Reuters): Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe", url: "https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe"}
+    - {label: "Bloomberg: Ecuador arrests Noboa opponent Luisa Gonzalez in money laundering probe", url: "https://www.bloomberg.com/news/articles/2026-10-22/ecuador-arrests-noboa-opponent-luisa-gonzalez-in-money-laundering-probe"}
+    - {label: "El Tiempo (AFP): Justicia de Ecuador dicta prisión preventiva contra Luisa González", url: "https://www.eltiempo.com/mundo/latinoamerica/justicia-de-ecuador-dicta-prision-preventiva-contra-luisa-gonzalez-la-correista-que-se-disputo-la-presidencia-con-daniel-noboa-3595893"}
+    - {label: "El Nacional (EFE): Ecuador inicia el cuarto toque de queda del año", url: "https://www.elnacional.com/2026/11/ecuador-inicia-el-cuarto-toque-de-queda-del-ano-para-aplacar-altos-indices-de-criminalidad"}
 
 SLV:
   pop: 6.4

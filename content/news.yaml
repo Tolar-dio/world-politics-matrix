@@ -1,6 +1,128 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
 - date: '2026-11-07'
+  countries: [ISR]
+  category: political
+  headline: "Herzog picks Gadi Eisenkot over Netanyahu to try to form Israel's next government"
+  summary: "President Isaac Herzog told both men on Saturday evening that he would give the mandate to Eisenkot, the Yashar! leader recommended by 67 incoming MPs against 46 for Netanyahu, with United Torah Judaism's seven abstaining; the formal handover is at 5 pm on 8 November. Eisenkot then has 28 days, to about 6 December, plus a possible 14-day extension, and said 'now is the time to form a national emergency government'. His path is hard: his own bloc holds about 48 seats, the Arab-led parties 19, and Yisrael Beytenu and the ultra-Orthodox parties are reported to oppose a minority government that leans on Arab support. It matters because it is the first time since 2021 that someone other than Netanyahu gets the first chance to govern, while Netanyahu stays caretaker prime minister until a government is sworn in."
+  sources:
+  - label: "Al Jazeera: Israel's president picks Eisenkot over Netanyahu to form next government"
+    url: https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government
+  - label: "NPR (AP): Israel's president taps opposition candidate, not Netanyahu, to form a government"
+    url: https://www.npr.org/2026/11/07/g-s1-152536/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu
+  - label: "The Media Line: Herzog to task Gadi Eisenkot with forming Israel's next government on Sunday"
+    url: https://themedialine.org/headlines/herzog-to-task-gadi-eisenkot-with-forming-israels-next-government-on-sunday
+  - label: "Jerusalem Post: Eisenkot has the mandate, but Liberman and the haredim hold the keys to power"
+    url: https://www.jpost.com/israel-election-2026/article-914170
+- date: '2026-11-08'
+  countries: [SAU, YEM]
+  category: military
+  conflict: yemen-civil-war
+  headline: "Aramco's tower in Riyadh's financial district is damaged as the Houthis fire missiles at the Saudi capital"
+  summary: "The Saudi-led coalition said it destroyed two Houthi ballistic missiles fired at Riyadh before dawn and two cruise missiles over Riyadh and the south, and Saudi Arabia's energy ministry said an Aramco administrative building in the capital had been 'subjected to an attempted attack'. Witnesses told AFP and Reuters that several floors of the Aramco tower in the King Abdullah Financial District were damaged; it is not yet clear whether it was a direct hit or interception debris, and no casualties were reported. The Houthis claimed six operations against Riyadh's airport, Aramco sites in Riyadh and Khurais, a pumping station and a National Guard camp in Najran, which are unverified. It matters because the Houthis are now reaching the symbolic heart of the Saudi capital, a day after deadly Saudi strikes near Sanaa."
+  sources:
+  - label: "Daily Sabah (AFP): Aramco skyscraper damaged by debris when Houthis target Riyadh"
+    url: https://www.dailysabah.com/world/mid-east/aramco-skyscraper-damaged-by-debris-when-houthis-target-riyadh
+  - label: "Arab Times (Reuters): Projectile damages tower in Riyadh financial district amid missile attacks"
+    url: https://www.arabtimesonline.com/news/projectile-damages-tower-in-riyadh-financial-district-as-missile-attacks-escalate/
+  - label: "Türkiye Today (AFP): Aramco tower in Riyadh financial district damaged as Houthi missiles fly"
+    url: https://www.turkiyetoday.com/region/aramco-tower-in-riyadh-financial-district-damaged-as-houthi-missiles-fly-3231959
+  - label: "Open Magazine: Houthis claim six strikes on Saudi oil sites and Riyadh airport"
+    url: https://openthemagazine.com/world/houthis-claim-six-strikes-on-saudi-oil-sites-riyadh-airport
+- date: '2026-11-07'
+  countries: [YEM, SAU]
+  category: humanitarian
+  conflict: yemen-civil-war
+  headline: "Houthi-run media say Saudi air strikes on a village near Sanaa killed at least 33 people"
+  summary: "The Houthi-run Saba agency and health ministry said Saudi-led coalition strikes on al-Shariyah in the Bani Hushaysh district, east of Sanaa, killed at least 33 people, including women and children, and wounded 39; earlier Houthi counts were 22 and 25. Reuters could not verify the figures and Saudi Arabia's Center for International Communication said it was investigating. A day earlier about 30 people were reported killed at a market in Taiz province, which the Houthis blamed on Saudi strikes and the government blamed on a Houthi missile. It matters because civilian tolls on both sides are climbing fast; the UN says more than 1,600 people have been killed since fighting resumed in July."
+  sources:
+  - label: "BBC News: Houthis say at least 33 killed in Saudi air strike"
+    url: https://www.bbc.co.uk/news/articles/c65yn1v99ypmo
+  - label: "Jerusalem Post (Reuters): Houthis claim at least 33 killed, 39 wounded in Saudi airstrikes"
+    url: https://www.jpost.com/middle-east/article-914167
+- date: '2026-11-07'
+  countries: [USA, IRN]
+  category: military
+  conflict: iran-war-2026
+  headline: "US sets up Task Force Iron Gate to choke Iran's land and Caspian routes and disables a ship leaving an Iranian port"
+  summary: "Central Command said Admiral Brad Cooper had formed a task force of about 20 staff in Tampa to work with other agencies on stopping weapons, dual-use technology, sanctioned goods and revenue crossing Iran's land borders and the Caspian Sea, and said the naval blockade has stopped more than 25 billion dollars of Iranian crude exports. The same day a US aircraft fired precision munitions at the stern of the St Kitts and Nevis-flagged cargo ship Huda in the Gulf of Oman after its crew was told to leave the targeted areas. Iranian state media reported explosions on Qeshm Island and in Jask, Sirik and Bandar Abbas, after Trump confirmed 'minor' strikes on air defences on Qeshm the day before. It matters because Washington is widening its blockade from the sea to Iran's land neighbours while still talking through Qatar."
+  sources:
+  - label: "US Central Command: CENTCOM launches task force to disrupt Iranian ground transit routes"
+    url: https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4644250/centcom-launches-task-force-to-disrupt-iranian-ground-transit-routes-supporting
+  - label: "Al Jazeera: US launches task force to disrupt Iran's land-based supply routes"
+    url: https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes
+  - label: "Kuwait Times (KUNA): US disables ship trying to breach Iran blockade, sets up land-route task force"
+    url: https://kuwaittimes.com/article/53204/world/us-disables-ship-trying-to-breach-iran-blockade-sets-up-land-route-task-force/
+  - label: "Washington Post: US military seeks to disrupt Iran's land routes, expanding on naval blockade"
+    url: https://www.washingtonpost.com/national-security/2026/11/07/us-military-seeks-disrupt-irans-land-routes-expanding-naval-blockade
+- date: '2026-11-07'
+  countries: [IRN]
+  category: military
+  conflict: iran-war-2026
+  headline: "Iran's Revolutionary Guards say they have dropped their self-imposed 2,000 km limit on missile range"
+  summary: "The IRGC announced on Saturday that the voluntary cap on the range of its ballistic missiles, long presented as a sign that Iran did not threaten Europe, no longer applies. On 8 November the IRGC navy also said two more tankers caught fire after hitting mines while using an 'unauthorised route' near Hormuz, a claim no maritime authority has confirmed. It matters because the move signals that Tehran may build missiles able to reach most of Europe, just as Washington weighs new strikes and mediators try to stop the war resuming at full scale."
+  sources:
+  - label: "Arab News (AP): Iran says it has lifted its self-imposed limit on missile ranges"
+    url: https://www.arabnews.com/middle-east/iran-says-it-has-lifted-its-self-imposed-limit-on-missile-ranges-3010423
+  - label: "Israel National News: Iran lifts ballistic missile range limit amid threats of war"
+    url: https://www.israelnationalnews.com/news/435820
+  - label: "The Hindu (AFP): Iran says two tankers caught fire in Hormuz after hitting mines"
+    url: https://www.thehindu.com/news/international/iran-says-two-tankers-caught-fire-in-hormuz-after-hitting-mines/article71680557.ece
+- date: '2026-11-08'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russian strikes cut power to about 850,000 customers in Dnipropetrovsk and Kharkiv as Zaporizhzhia's nuclear plant loses its last grid line"
+  summary: "DTEK said more than 600,000 people in Dnipropetrovsk region lost power after a night attack on energy facilities, and the mayor of Zlatopil said nearly 250,000 customers in Kharkiv region were cut off after a drone hit critical infrastructure; drones also destroyed the Ovruch substation in Zhytomyr region on 7 November. Energoatom said the Russian-occupied Zaporizhzhia plant lost its last 330 kV line at 02:36 and is running on diesel generators, its 16th total blackout this year. Russia is sending Deputy Foreign Minister Sergei Ryabkov to the Abu Dhabi talks for the first time. It matters because Zelenskyy says Moscow is escalating to gain leverage before the 10 and 11 November talks, which are due to discuss an energy truce."
+  sources:
+  - label: "Bangkok Post (AFP): Russian strikes cut power to hundreds of thousands in Ukraine"
+    url: https://www.bangkokpost.com/world/3351085/russian-strikes-cut-power-to-hundreds-of-thousands-in-ukraine
+  - label: "Ukrinform: ZNPP loses external power supply, switches to diesel generators"
+    url: https://www.ukrinform.net/rubric-economy/4182587-znpp-loses-external-power-supply-switches-to-diesel-generators.html
+  - label: "Kyiv Independent: Zelensky says Oleshky ceasefire shows Russia can halt fighting but Putin is unwilling (live updates)"
+    url: https://kyivindependent.com/zelensky-says-oleshky-ceasefire-shows-russia-can-halt-fighting-but-putin-is-unwilling/
+  - label: "Interfax-Ukraine: Trump announces he held some calls on ending Russia-Ukraine war"
+    url: https://en.interfax.com.ua/news/general/1232819.html
+- date: '2026-11-07'
+  countries: [POL]
+  category: political
+  headline: "A gunman with far-right views kills six people in Krakow's Main Market Square"
+  summary: "Police said a 24-year-old Polish man drove into the square at about 3 pm and fired at random from his car, killing four women and two men, including a British tourist, and wounding about 16, among them police officers and visitors from several countries, before he was shot and arrested. Prime Minister Donald Tusk said three more bodies were found at the suspect's home, and Poland declared two days of national mourning; investigators say he appears to have been drawn to far-right ideology. It matters because it is one of the deadliest attacks in Poland's recent history, in the heart of its best-known tourist city."
+  sources:
+  - label: "Reuters: Poland in shock after six die in Krakow mass shooting"
+    url: https://www.reuters.com/world/europe/two-kiled-least-10-injured-shooting-polish-city-krakow-tvn24-reports-2026-11-07
+  - label: "Al Jazeera: At least six people killed in shooting in Poland's Krakow main square"
+    url: https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow
+  - label: "The Business Standard (DW): Gunman kills 6 in Poland's Krakow main square"
+    url: https://www.tbsnews.net/worldbiz/europe/gunman-kills-6-polands-krakow-main-square-1595901
+  - label: "Newsweek: Krakow shooting suspect, what we know"
+    url: https://www.newsweek.com/krakow-shooting-suspect-what-we-know-as-more-victims-discovered-12683092
+- date: '2026-11-08'
+  countries: [ZAF]
+  category: political
+  headline: "Near-final count gives the ANC 31 percent, its worst result, and the DA 25 percent in South Africa's local elections"
+  summary: "With 99 percent of votes counted, Reuters reported the ANC on 31 percent and the Democratic Alliance on 25 percent, with Jacob Zuma's MK party on about 10 percent and the EFF on about 6; ActionSA rose to about 5.6 percent. ANC secretary-general Fikile Mbalula called the result 'catastrophic' but said the party would not beg for coalition partners. The DA won an outright majority only in Cape Town, so most big cities face coalition talks; final results were due on the evening of 8 November. It matters because a weaker ANC goes into city deals, and its national partnership with the DA, with much less leverage."
+  sources:
+  - label: "Reuters: South Africa's ANC battered by local election losses ahead of coalition talks"
+    url: https://www.reuters.com/world/africa/south-africas-anc-battered-by-local-election-losses-ahead-coalition-talks-2026-11-08
+  - label: "DW: South Africa elections, ANC set for historically bad outcome"
+    url: https://www.dw.com/en/south-africas-anc-facing-worst-ever-performance-in-local-elections/a-79887482
+  - label: "The South African: ANC leads nationwide as 98% of votes counted"
+    url: https://www.thesouthafrican.com/news/elections-2026-anc-leads-nationwide-as-98-of-votes-counted
+- date: '2026-11-07'
+  countries: [SDN]
+  category: military
+  conflict: sudan-saf-rsf
+  headline: "Sudan's army says it has taken Iyal Bakhit in West Kordofan as heavy fighting flares around El Obeid"
+  summary: "The army said it captured the town of Iyal Bakhit and shot down a long-range RSF drone, after it and allied Joint Force fighters attacked RSF positions on two axes outside El Obeid on 5 November; RSF-aligned accounts said the army fell back towards the city, and neither side's claims can be checked. In Blue Nile, RSF drones hit Ed Damazin and the RSF and allied rebels took the Sali base. It matters because Kordofan is the main battleground after the fall of El Fasher, and the RSF drone campaign against power stations is pushing the grid towards collapse."
+  sources:
+  - label: "Sudan Tribune: Sudanese army captures strategic town in West Kordofan, downs drone"
+    url: https://sudantribune.com/article/320981
+  - label: "Asharq Al-Awsat: Sudanese army, RSF clash in fierce battles in Kordofan"
+    url: https://english.aawsat.com/arab-world/5338514-sudanese-army-rsf-clash-fierce-battles-kordofan
+  - label: "Sudan Tribune: RSF strikes hit Ed Damazin and rebels capture Sali as Blue Nile government urges calm"
+    url: https://sudantribune.com/article/320960
+- date: '2026-11-07'
   countries: [NZL]
   category: political
   headline: "New Zealand's election is too close to call, with Luxon's National narrowly the largest party and special votes still to count"
@@ -2254,6 +2376,12 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2026-12-06'
+  countries: [ISR]
+  event: "Gadi Eisenkot's 28 days to form a government run out; Herzog can extend by up to 14 days"
+- date: '2026-11-09'
+  countries: [CYP]
+  event: "UN meeting with the Greek Cypriot and Turkish Cypriot leaders"
 - date: '2026-11-27'
   countries: [NZL]
   event: "New Zealand's Electoral Commission declares the official 2026 election result, including special votes"

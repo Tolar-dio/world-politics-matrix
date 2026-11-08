@@ -19,12 +19,26 @@ FJI:
   system: parliamentary
   story: unrest
   snapshot: >-
-    Two deputy prime ministers were charged by the anti-corruption agency in 2026, shaking former coup leader Sitiveni Rabuka's coalition ahead of the next election.
+    Sitiveni Rabuka's bid to replace the 2013 constitution split his coalition and forced him to delay a
+    final vote, with an election due by February 2027.
   tags: [Former coup leader, Indigenous and Indo-Fijian, Rugby sevens, Tourism]
   culture: >-
     Fiji's iTaukei Indigenous majority and Indo-Fijian community, descended from indentured sugar workers, each keep distinct traditions, from kava ceremonies to Diwali. Rugby sevens is a national obsession; Fiji's Olympic golds in 2016 and 2020 were the country's first medals. Village life, chiefly systems and church on Sunday shape society.
   society: >-
     Tourism and sugar drive the economy. Tensions between iTaukei and Indo-Fijians led to four coups between 1987 and 2006, the first led by Rabuka himself. Climate change has forced several villages to relocate. Drug trafficking through the Pacific has fuelled a surge in methamphetamine use and HIV.
+  update: >-
+    In October parliament advanced the Constitution (Amendment) Bill 2026, which would replace most of
+    the 2013 constitution while keeping the immunity for past coup makers. Rabuka named 9 December for a
+    referendum, but coalition partner the National Federation Party said it would vote against and
+    SODELPA also objected, leaving him likely short of the 36 votes needed. On 2 November he pushed the
+    committee report back to 30 November, with a final vote expected in early December. Military
+    commander Jone Kalouniwai told parliament the armed forces do not want immunity, and Rabuka said the
+    clause could be dropped. The general election must be held by 6 February 2027.
+  update_date: 2026-11-04
+  sources_extra:
+    - {label: "RNZ (via Scoop): Fiji PM Rabuka delays vote on Constitution Bill after mounting pressure", url: "https://www.scoop.co.nz/stories/WO2611/S00009/fiji-pm-rabuka-delays-vote-on-constitution-bill-after-mounting-pressure.htm"}
+    - {label: "Fiji Sun: Constitution Bill report delayed, vote set for December", url: "https://fijisun.com.fj/news/nation/constitution-bill-report-delayed-vote-set-for-december"}
+    - {label: "RNZ (via Scoop): Fiji military chief urges accountability to the people amid coup immunity debate", url: "https://www.scoop.co.nz/stories/WO2611/S00015/fiji-military-chief-urges-accountability-to-the-people-amid-coup-immunity-debate.htm"}
 
 KIR:
   pop: 0.13

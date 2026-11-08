@@ -263,6 +263,17 @@ DNK:
     Denmark exported hygge, the idea of cosy togetherness, as well as Lego, Danish design and Nordic noir TV. Cycling dominates Copenhagen. The monarchy is Europe's oldest, and King Frederik X succeeded his mother Margrethe in 2024. Hans Christian Andersen and Søren Kierkegaard are national icons.
   society: >-
     Danes pay high taxes for a generous welfare state and are often ranked among the world's happiest people. Novo Nordisk, maker of Ozempic, became Europe's most valuable company. The Social Democrats adopted one of Europe's strictest immigration policies. Trump's demands to take over Greenland, part of the Danish realm, have dominated foreign policy.
+  update: >-
+    On 3 November Greenland's parliament approved, by 16 votes to none with seven abstentions, the
+    security agreement signed in September by Trump, Prime Minister Mette Frederiksen and Greenland's
+    premier Jens-Frederik Nielsen. It opens the way to more US bases on Greenland while keeping the
+    island under Danish control, and would still apply if Greenland became independent. The deal aims to
+    end a year of tension over Trump's push to take the island. The Folketing is due to debate it later
+    in November.
+  update_date: 2026-11-03
+  sources_extra:
+    - {label: "AP: Greenland approves security deal with Denmark and US following months of Trump's pressure", url: "https://apnews.com/article/greenland-trump-denmark-us-33824857ac4312c5ebd53821187ecc13"}
+    - {label: "Reuters: Greenland parliament ratifies security deal reached with Trump", url: "https://www.reuters.com/world/europe/greenland-lawmakers-set-ratify-trump-security-deal-2026-11-03"}
 
 EST:
   pop: 1.37
@@ -311,14 +322,30 @@ FRA:
   pop: 68.6
   religion: Catholic about 45%, Muslim about 8%, no religion about 35%
   system: semi-presidential
-  story: steady
+  story: unrest
   snapshot: >-
-    Sébastien Lecornu survived as prime minister and passed a budget, as the race to succeed Macron in 2027 opened with the far right in its strongest position ever.
+    Weeks of student-led protests over schools and living costs turned to riots in October, and the
+    National Assembly unanimously rejected Sébastien Lecornu's 2027 budget.
   tags: [Hung parliament, 2027 race, Far-right rise, Nuclear power, Laïcité]
   culture: >-
     France has long been a global reference for food, wine, fashion, philosophy and cinema, and it is the world's most visited country. Laïcité, a strict separation of religion and state, shapes debates over headscarves in schools. The Tour de France, Cannes and the restored Notre-Dame, reopened in 2024, are national rituals.
   society: >-
     France has a large welfare state funded by Europe's highest tax burden, and a deficit and debt that markets watch nervously. Pension reform triggered huge protests in 2023. Tensions over immigration, Islam and the banlieues fuel support for the National Rally. It is the EU's only nuclear-armed state and gets most of its power from nuclear reactors.
+  update: >-
+    Protests that began in September over under-resourced high schools grew into a national movement
+    over wages and living costs. On 17 October more than half a million people marched, and riots in
+    Paris, Marseille, Lille and Limoges led to about 1,800 arrests and left more than 500 police,
+    gendarmes and firefighters injured. On 4 November the National Assembly rejected the revenue part of
+    the 2027 budget, which seeks 43 billion euros in savings, by 458 votes to none, sending it to the
+    Senate and making it likely that Prime Minister Lecornu will force it through under Article 49.3 and
+    face no-confidence votes. On 5 November between 575,000 people (government count) and 1.6 million
+    (union count) joined a strike.
+  update_date: 2026-11-06
+  sources_extra:
+    - {label: "Politico Europe: French National Assembly unanimously rejects budget bill", url: "https://www.politico.eu/article/french-national-assembly-unanimously-rejects-budget-bill/"}
+    - {label: "RFI: MPs unanimously reject 2027 French budget as political deadlock continues", url: "https://www.rfi.fr/en/france/20261105-french-mps-unanimously-reject-2027-budget-as-political-deadlock-deepens"}
+    - {label: "BBC: Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting", url: "https://www.bbc.co.uk/news/articles/c574pdzl0k4no"}
+    - {label: "BBC: French protests see numbers surge as unions join strikes over high cost of living", url: "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"}
 
 GEO:
   pop: 3.7
@@ -327,12 +354,25 @@ GEO:
   system_note: Billionaire Bidzina Ivanishvili, the ruling party's founder, is widely seen as the real power.
   story: unrest
   snapshot: >-
-    Georgian Dream moved to ban the three biggest opposition parties and jailed protesters, as the country's EU dream receded and it drifted toward Moscow.
+    Georgian Dream asked the Constitutional Court to ban the five main opposition parties and jailed
+    protesters, as the country's EU dream receded and it drifted toward Moscow.
   tags: [Democratic backsliding, Frozen EU path, Wine birthplace, Protest movement]
   culture: >-
     Georgia claims to be the birthplace of wine, made for 8,000 years in clay vessels called qvevri, a UNESCO-listed method. The supra, a feast led by a toastmaster called the tamada, is the heart of social life. Polyphonic singing, a unique alphabet and the Orthodox Church shape identity. Khachapuri, cheese bread, is a national dish.
   society: >-
     Georgia fought a short war with Russia in 2008, and Russia occupies about a fifth of its territory in Abkhazia and South Ossetia. Most Georgians support joining the EU, and nightly protests followed the government's 2024 decision to suspend accession talks. Laws on "foreign agents" and LGBT rights mirror Russia's.
+  update: >-
+    On 21 October the Constitutional Court in Batumi began hearing the ruling party's lawsuit to ban the
+    United National Movement, Coalition for Change, Strong Georgia-Lelo, the Federalists and For
+    Georgia, the last opposition party still in parliament. Georgian Dream says they threaten the
+    constitutional order; the EU and rights groups say a ban would amount to one-party rule. Hearings
+    resume on 9 November, the ruling, due by June 2027, cannot be appealed, and the opposition has
+    called a mass rally for 28 November.
+  update_date: 2026-10-30
+  sources_extra:
+    - {label: "Reuters: Georgian court begins hearing lawsuit seeking ban on major opposition parties", url: "https://www.reuters.com/business/georgian-court-begins-hearing-lawsuit-seeking-ban-major-opposition-parties-2026-10-21"}
+    - {label: "RFE/RL: Georgia faces new test as court weighs ban on 5 opposition parties", url: "https://www.rferl.org/a/georgia-faces-new-test-as-court-weighs-ban-on-five-opposition-parties/33880171.html"}
+    - {label: "1TV: Constitutional Court to resume hearing of party ban lawsuit on November 9", url: "https://1tv.ge/lang/en/news/constitutional-court-to-resume-hearing-of-party-ban-lawsuit-on-november-9"}
 
 DEU:
   pop: 83.5

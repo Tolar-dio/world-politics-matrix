@@ -84,8 +84,8 @@ ISR:
   system: parliamentary
   story: election
   snapshot: >-
-    Israel's 27 October 2026 election left no bloc with a majority; Gadi Eisenkot won 67 recommendations
-    to Netanyahu's 46, but President Herzog delayed choosing who forms the government.
+    Israel's 27 October 2026 election left no bloc with a majority, and President Herzog gave Gadi
+    Eisenkot, not Netanyahu, the first chance to form a government.
   tags: [Election day 27 October, Gaza war aftermath, Iran war, Tech hub, Deep divisions]
   culture: >-
     Israel's culture mixes Jewish traditions from Europe, the Middle East and North Africa, Hebrew revived as a spoken language, and a large Arab minority. Shabbat shapes the week. Tel Aviv is a secular tech and nightlife hub, while Jerusalem holds sites sacred to Jews, Christians and Muslims. Israeli TV dramas like "Fauda" and "Shtisel" have found global audiences.
@@ -98,11 +98,15 @@ ISR:
     Herzog's consultations on 4 and 5 November, parties with 67 seats recommended Eisenkot (Yashar!,
     Together, the Democrats, Yisrael Beytenu, Ra'am and the Joint List) and parties with 46 recommended
     Netanyahu (Likud, Religious Zionism, Otzma Yehudit, Shas and Zehut), while United Torah Judaism
-    backed no one. Herzog said mutual vetoes left it unclear who could form a government and will name a
-    candidate on 8 November, who then has 28 days, extendable by 14. Netanyahu remains caretaker prime
-    minister.
-  update_date: 2026-11-06
+    backed no one. On 7 November Herzog said he would give the mandate to Eisenkot, at a ceremony on 8
+    November, giving him 28 days, to about 6 December, plus a possible 14-day extension. Eisenkot wants a
+    'national emergency government', but his own bloc has about 48 seats, and Yisrael Beytenu and the
+    ultra-Orthodox parties are reported to oppose a minority government relying on Arab parties.
+    Netanyahu remains caretaker prime minister until a new government is sworn in.
+  update_date: 2026-11-07
   sources_extra:
+    - {label: "Al Jazeera: Israel's president picks Eisenkot over Netanyahu to form next government", url: "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"}
+    - {label: "NPR (AP): Israel's president taps opposition candidate, not Netanyahu, to form a government", url: "https://www.npr.org/2026/11/07/g-s1-152536/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu"}
     - {label: "President of Israel: President Herzog concludes round of consultations with Knesset factions", url: "https://www.president.gov.il/en/president-herzog-concludes-round-of-consultations-with-knesset-factions-at-the-presidents-residence"}
     - {label: "Ynet: Eisenkot leads Netanyahu 67-46, but Herzog delays mandate decision until Sunday", url: "https://www.ynetnews.com/article/rjj1td9pfx"}
     - {label: "Anews (Anadolu): Arab party recommends opposition leader Eisenkot to form Israeli government", url: "https://www.anews.com.tr/middle-east/2026/11/05/arab-party-recommends-opposition-leader-eisenkot-to-form-israeli-government"}
