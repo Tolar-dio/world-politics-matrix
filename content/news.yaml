@@ -1,5 +1,146 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-09'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russian drone kills three at an Odesa infrastructure site as Ukraine sets Russia's Kirishi refinery on fire"
+  summary: "Ukraine's air force said Russia launched 317 long-range drones overnight, 105 of them jet-powered, plus Banderol cruise missiles, and a jet drone struck an infrastructure facility in Odesa on Monday morning, killing three people and critically injuring one, after an evening attack cut power in the north of Odesa region. In Russia, Leningrad governor Alexander Drozdenko said Ukrainian drones set the Kinef refinery in Kirishi, the country's second-largest, on fire and that a woman was killed by falling debris. It matters because both sides are hitting energy targets hard on the eve of the 10 and 11 November talks in Abu Dhabi, where an energy truce is on the agenda."
+  sources:
+  - label: "Ukrinform: Russian attack on infrastructure facility in Odesa leaves three killed, one injured"
+    url: https://www.ukrinform.net/rubric-ato/4182896-russian-attack-on-infrastructure-facility-in-odesa-leaves-three-killed-one-injured.html
+  - label: "RFE/RL: Moscow and Kyiv trade air strikes, as Trump hints at potential territorial changes in Ukraine"
+    url: https://www.rferl.org/a/ukraine-power-restore-russia-zaporizhzhya-abudhabi/33893359.html
+  - label: "ABC News (Australia): Ukrainian drone attack sets Russia's Kirishi refinery ablaze, woman killed by debris"
+    url: https://www.abc.net.au/news/2026-11-09/ukrainian-drone-attack-at-russia-kirishi-refinery-woman-dies/107365888
+  - label: "Kyiv Independent: news feed, 9 November 2026"
+    url: https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/
+- date: '2026-11-08'
+  countries: [RUS, UKR]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russia says it hit three cargo ships carrying arms to Ukraine off Odesa and in Chornomorsk"
+  summary: "Russia's defence ministry said overnight strikes hit a container ship delivering weapons to Odesa, a second container ship with dual-use cargo in the port of Chornomorsk and a dry cargo ship south-west of Odesa, and claimed another ship hit the following night; Reuters could not verify the claims and Ukraine did not immediately comment. A Russian drone also struck emergency workers in Zaporizhzhia region at the site of the Komyshuvakha strike, AP reported. It matters because attacks on merchant shipping threaten Ukraine's sea export corridor, which a Black Sea ceasefire discussed for Abu Dhabi would protect, after seven ship strikes near Romania and Bulgaria last month prompted NATO to step up Black Sea patrols."
+  sources:
+  - label: "gCaptain (Reuters): Russia says it hit three cargo ships in Black Sea"
+    url: https://gcaptain.com/russia-says-it-hit-three-cargo-ships-in-black-sea/
+  - label: "The Hindu (Reuters): Russia hits power stations in Ukraine, vessel in Black Sea"
+    url: https://www.thehindu.com/news/international/russia-hits-power-stations-in-ukraine-vessel-in-black-sea/article71681628.ece
+  - label: "WTOP (AP): Russia targets emergency crews at the site of a deadly strike in southern Ukraine"
+    url: https://wtop.com/world/2026/11/russia-targets-emergency-crews-at-the-site-of-a-deadly-strike-in-southern-ukraine
+- date: '2026-11-08'
+  countries: [UKR, RUS, USA, FRA, DEU, GBR]
+  category: diplomatic
+  conflict: russia-ukraine-war
+  headline: "Europeans will join the Abu Dhabi talks as Trump says Ukraine may 'end up with a little bit different shape'"
+  summary: "French Foreign Minister Jean-Noël Barrot said France and other Europeans will take part in the US-mediated Russia-Ukraine talks in Abu Dhabi on 10 and 11 November, and a senior EU official told the Kyiv Independent that the EU, NATO and the national security advisers of Germany, France and Britain will attend. In a 60 Minutes interview Trump said Ukraine would likely end up with a different shape after the war. Norway's Jonas Gahr Støre, who with Finland's Alexander Stubb spoke to Putin, told Politico the agenda could include Black Sea and energy ceasefires, a front-line freeze and prisoner swaps, but he does not expect a breakthrough. It matters because Europe had feared being left out of a deal that redraws its security."
+  sources:
+  - label: "Kyiv Independent: Ukraine will likely 'end up with a little bit different shape' after war, Trump tells 60 Minutes"
+    url: https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/
+  - label: "RFE/RL: Moscow and Kyiv trade air strikes, as Trump hints at potential territorial changes in Ukraine"
+    url: https://www.rferl.org/a/ukraine-power-restore-russia-zaporizhzhya-abudhabi/33893359.html
+  - label: "Politico Europe: Putin may not want peace, warns Norwegian leader who spoke to him"
+    url: https://www.politico.eu/article/vladimir-putin-peace-norway-jonas-gahr-store-russia-ukraine-war/
+- date: '2026-11-09'
+  countries: [IRN, USA, QAT, IRQ]
+  category: diplomatic
+  conflict: iran-war-2026
+  headline: "Iran defends a two-day plan to restart talks after Rubio calls its conditions 'outrageous and ridiculous'"
+  summary: "Foreign ministry spokesman Esmaeil Baghaei said it was reasonable for Iran to demand that US sanctions and the naval blockade be lifted and the war ended 'on all fronts' before negotiations, defending an offer to restart talks within two days, down from seven. Secretary of State Marco Rubio said no breakthrough was close, while Trump told CNN new strikes were 'highly unlikely' if Iran signed a strong agreement, and he is due to meet Qatar's prime minister, the chief mediator. Baghaei called the new US task force on Iran's land routes a diversion after Republican midterm losses and said US pressure on Iraq to close most of its border with Iran should not hurt ties with Baghdad. It matters because the two sides remain far apart on what must happen before talks even begin."
+  sources:
+  - label: "Al Arabiya (Reuters): Iran defends two-day proposal for peace talks after US rejects conditions"
+    url: https://english.alarabiya.net/News/middle-east/2026/11/09/iran-defends-twoday-proposal-for-peace-talks-after-us-rejects-conditions
+  - label: "Straits Times (Bloomberg): Rubio sees no Iran breakthrough as Trump downplays new strikes"
+    url: https://www.straitstimes.com/world/united-states/rubio-sees-no-iran-breakthrough-as-trump-downplays-new-strikes
+  - label: "Al Jazeera: Qatar PM to meet Trump, what's the latest on US-Iran negotiations?"
+    url: https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations
+- date: '2026-11-08'
+  countries: [ISR]
+  category: political
+  headline: "Eisenkot formally receives the mandate to form Israel's government and says he is open to Netanyahu joining"
+  summary: "At a ceremony at the president's residence in Jerusalem, Isaac Herzog formally tasked Yashar! leader Gadi Eisenkot with forming a government after factions with 67 MPs backed him against 46 for Netanyahu, starting a 28-day clock with a possible 14-day extension. Eisenkot said he would represent all parts of Israeli society and, according to Al Jazeera, left the door open to Likud and even Netanyahu joining a broad government; Trump said the two men have 'very similar views'. On 9 November Yashar! was reported to be seeking Shas and United Torah Judaism support to replace the Knesset speaker, while Otzma Yehudit rejected a unity government and called for new elections. It matters because Eisenkot's 67 recommendations do not yet add up to a coalition that can win a confidence vote."
+  sources:
+  - label: "ABC News: Netanyahu challenger Eisenkot tasked with forming new Israeli government"
+    url: https://abcnews.com/International/netanyahu-challenger-eisenkot-tasked-forming-new-government/story?id=137945429
+  - label: "Al Jazeera: Eisenkot open to Netanyahu joining Israel's next government"
+    url: https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government
+  - label: "Jerusalem Post: Israel election live updates, 9 November 2026"
+    url: https://www.jpost.com/israel-election-2026/2026-11-09/live-updates-914287
+  - label: "Jerusalem Post: Eisenkot, Netanyahu have 'very similar views', Trump says"
+    url: https://www.jpost.com/international/article-914279
+- date: '2026-11-08'
+  countries: [ZAF]
+  category: political
+  headline: "ANC slumps to 30.8 percent, its worst result ever, in South Africa's municipal elections"
+  summary: "The Electoral Commission's final results gave the ANC 30.76 percent nationally, down from 45.59 percent in 2021, against 24.64 percent for the Democratic Alliance, about 9.7 percent for Jacob Zuma's MK party and about 6 percent for the EFF. The DA overtook the ANC in Johannesburg, Tshwane and Ekurhuleni and kept the only outright majority among the eight metros, in Cape Town, while more than half of the country's councils have no majority. ANC secretary-general Fikile Mbalula called the result 'catastrophic'. It matters because coalition deals for mayors must be struck within two weeks, testing the ANC-DA national unity government that has run the country since 2024."
+  sources:
+  - label: "US News (Reuters): South Africa's ANC battered by local election losses ahead of coalition talks"
+    url: https://www.usnews.com/news/world/articles/2026-11-08/south-africas-anc-battered-by-local-election-losses-ahead-of-coalition-talks
+  - label: "New Indian Express (AFP): ANC slumps to 30.76 per cent of votes in worst-ever election result"
+    url: https://www.newindianexpress.com/world/2026/Nov/08/south-africas-anc-slumps-to-3076-per-cent-of-votes-in-worst-ever-election-result
+  - label: "Union-Bulletin (AP): South Africa's ANC is humbled by its worst election results"
+    url: https://www.union-bulletin.com/news/world/south-africas-anc-is-humbled-by-its-worst-election-results-as-it-continues-its-decline/article_1dc12e6e-9630-5934-95fa-33e938a4dee1.html
+  - label: "Mail & Guardian: ANC barely hangs on as DA and ActionSA make gains in final IEC results"
+    url: https://mg.co.za/news/south-africa/2026-11-08-anc-barely-hangs-on-as-da-and-actionsa-make-gains-in-final-iec-results
+- date: '2026-11-08'
+  countries: [SDN]
+  category: political
+  conflict: sudan-saf-rsf
+  headline: "Sudan's army detains ICC fugitive Ahmed Haroun, chairman of Bashir's former ruling party"
+  summary: "Two officials of the National Congress Party told Reuters, and two of his lawyers told AP, that the army had detained Haroun, who is wanted by the International Criminal Court for alleged crimes against humanity and war crimes in Darfur in 2003 and 2004 and walked out of prison when it was attacked early in the war. No reason was given, but the lawyers linked it to a podcast interview a day earlier in which he said the party and the army were united against the RSF; lawyers' groups had demanded his handover to the ICC. It matters because Islamists have fought alongside the army, and the arrest is a rare move against an ally as Burhan's government seeks international backing."
+  sources:
+  - label: "Straits Times (Reuters): Sudan detains ex-ruling party head Haroun wanted by ICC"
+    url: https://www.straitstimes.com/world/middle-east/sudan-detains-ex-ruling-party-head-haroun-wanted-by-icc
+  - label: "WRAL (AP): Sudan's military again detains International Criminal Court fugitive Haroun, lawyers say"
+    url: https://www.wral.com/news/ap/a47bd-sudan-s-military-again-detains-international-criminal-court-fugitive-haroun-lawyers-say/
+- date: '2026-11-08'
+  countries: [PSE, ISR]
+  category: humanitarian
+  conflict: israel-hamas-gaza
+  headline: "Five killed as a sand embankment collapses on tents in Gaza during the first winter storm"
+  summary: "Rescuers said two women and three children died in Deir al-Balah when a sand embankment collapsed onto tents during torrential rain, as the first winter storm flooded displacement camps across the Strip. Hundreds of thousands of people still live in tents, and aid groups and Palestinian officials say Israel continues to restrict the entry of mobile homes and shelter materials. It matters because winter flooding is again turning displacement into a deadly emergency while the second phase of the US Gaza plan, covering reconstruction, remains stalled."
+  sources:
+  - label: "Middle East Eye: Five Palestinians killed as sand embankment collapses on displacement tents"
+    url: https://www.middleeasteye.net/news/gaza-five-palestinians-killed-sand-embankment-collapses-displacement-tents
+  - label: "Al Jazeera: 'Tents don't protect us', rains flood displaced Palestinians in Gaza"
+    url: https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza
+- date: '2026-11-09'
+  countries: [NZL]
+  category: political
+  headline: "New Zealand's Luxon on course for a second term with a two-seat majority that special votes could erase"
+  summary: "Preliminary Electoral Commission figures show Christopher Luxon's National, ACT and NZ First coalition could govern with a majority of two seats, while National and Labour both fell below 30 percent for the first time, Reuters reported. Special and overseas votes, about a seventh of the total and usually leaning left, are counted for the official result on 27 November and could leave Luxon needing the centrist Opportunity Party, newly in parliament. ACT and NZ First are pressing for more ministries, with NZ First calling control of immigration 'imperative'. It matters because any government will rest on a razor-thin majority and a coalition pulled further right."
+  sources:
+  - label: "Internazionale (Reuters): Analysis, New Zealand's Luxon on course for second term, but weaker hand in coalition"
+    url: https://www.internazionale.it/ultime-notizie-reuters/2026/11/09/analysis-new-zealand-s-luxon-on-course-for-second-term-but-weaker-hand-in-coalition
+- date: '2026-11-09'
+  countries: [SAU, YEM]
+  category: military
+  conflict: yemen-civil-war
+  headline: "Riyadh sounds a new civil defence alert a day after Houthi missile debris damaged the Aramco tower"
+  summary: "Saudi civil defence raised an alert in Riyadh on Monday and said minutes later that the danger had passed, Reuters reported. On Sunday debris from an attempted Houthi attack blew out windows across several floors of the Aramco tower in the King Abdullah Financial District; the energy ministry said damage was limited and no one was hurt. It matters because the Houthis have stepped up missile and drone fire at Saudi airports, ports and oil sites since fighting resumed in July, and the capital is now a regular target."
+  sources:
+  - label: "Daily Maverick (Reuters): Saudi Arabia says danger passed in Riyadh after alert, day after Houthi attack"
+    url: https://www.dailymaverick.co.za/article/2026-11-09-saudi-arabia-says-danger-passed-in-riyadh-after-alert-day-after-houthi-attack
+- date: '2026-11-06'
+  countries: [GTM]
+  category: political
+  headline: "Gunmen kill Guatemalan congressman Julio César Portillo and three police guards in Zacapa"
+  summary: "Congressman Julio César Portillo Paz of the UNE party and three police officers guarding him were shot dead in Río Hondo, Zacapa, Reuters and AFP reported; no motive or suspects have been named, and President Bernardo Arévalo condemned the attack. It came three weeks after former anti-corruption prosecutor Juan Francisco Solórzano Foppa was shot dead in Guatemala City. It matters because political violence is rising in a country where organised crime is strong, less than a year before the 2027 general election."
+  sources:
+  - label: "Al Jazeera (AFP, Reuters): Guatemalan lawmaker and three police officers killed in armed attack"
+    url: https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack
+  - label: "Internazionale (Reuters): Guatemalan lawmaker, three police officers killed in armed attack"
+    url: https://www.internazionale.it/ultime-notizie-reuters/2026/11/07/guatemalan-lawmaker-three-police-officers-killed-in-armed-attack
+- date: '2026-11-08'
+  countries: [LBY]
+  category: political
+  headline: "Libya's new central bank governor, appointed by the eastern parliament, takes over"
+  summary: "Fawzi Abu Khazam formally took over the Central Bank of Libya on 8 November, the bank said, after the eastern-based House of Representatives accepted Naji Issa's resignation and appointed him on 2 November, and he was sworn in in Benghazi. Reuters reported that the Tripoli-based High Council of State, which under the 2015 political agreement must be consulted on top appointments, had not commented. It matters because control of the central bank, which handles Libya's oil revenue, triggered an oil shutdown in 2024."
+  sources:
+  - label: "Reuters: Libya's eastern parliament appoints Fawzi Abu Khazam central bank governor"
+    url: https://www.reuters.com/world/africa/libyas-eastern-parliament-appoints-fawzi-abu-khazam-central-bank-governor-2026-11-02
+  - label: "Central Bank of Libya: Final handover of the governor's responsibilities completed"
+    url: https://cbl.gov.ly/en/central-bank-of-libya-completes-final-handoverof-governors-responsibilities/
 - date: '2026-11-07'
   countries: [ISR]
   category: political
@@ -19,7 +160,7 @@ news:
   category: military
   conflict: yemen-civil-war
   headline: "Aramco's tower in Riyadh's financial district is damaged as the Houthis fire missiles at the Saudi capital"
-  summary: "The Saudi-led coalition said it destroyed two Houthi ballistic missiles fired at Riyadh before dawn and two cruise missiles over Riyadh and the south, and Saudi Arabia's energy ministry said an Aramco administrative building in the capital had been 'subjected to an attempted attack'. Witnesses told AFP and Reuters that several floors of the Aramco tower in the King Abdullah Financial District were damaged; it is not yet clear whether it was a direct hit or interception debris, and no casualties were reported. The Houthis claimed six operations against Riyadh's airport, Aramco sites in Riyadh and Khurais, a pumping station and a National Guard camp in Najran, which are unverified. It matters because the Houthis are now reaching the symbolic heart of the Saudi capital, a day after deadly Saudi strikes near Sanaa."
+  summary: "The Saudi-led coalition said it destroyed two Houthi ballistic missiles fired at Riyadh before dawn and two cruise missiles over Riyadh and the south, and Saudi Arabia's energy ministry said an Aramco administrative building in the capital had been 'subjected to an attempted attack'. Witnesses told AFP and Reuters that several floors of the Aramco tower in the King Abdullah Financial District were damaged; Reuters later reported that debris from the attempted attack blew out the windows, and no casualties were reported. The Houthis claimed six operations against Riyadh's airport, Aramco sites in Riyadh and Khurais, a pumping station and a National Guard camp in Najran, which are unverified. It matters because the Houthis are now reaching the symbolic heart of the Saudi capital, a day after deadly Saudi strikes near Sanaa."
   sources:
   - label: "Daily Sabah (AFP): Aramco skyscraper damaged by debris when Houthis target Riyadh"
     url: https://www.dailysabah.com/world/mid-east/aramco-skyscraper-damaged-by-debris-when-houthis-target-riyadh
@@ -2376,6 +2517,15 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2026-11-12'
+  countries: [LKA]
+  event: "Sri Lanka's government presents its 2027 budget to parliament"
+- date: '2026-11-12'
+  countries: [FRA, DEU, GBR, UKR]
+  event: "European Political Community summit, followed by an informal meeting of EU leaders on 13 November"
+- date: '2026-11-20'
+  countries: [GBR]
+  event: "EU-UK summit in Brussels with Prime Minister Andy Burnham"
 - date: '2026-12-06'
   countries: [ISR]
   event: "Gadi Eisenkot's 28 days to form a government run out; Herzog can extend by up to 14 days"
