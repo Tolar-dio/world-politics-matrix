@@ -1,5 +1,144 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-10'
+  countries: [UKR, RUS, USA, ARE]
+  category: diplomatic
+  conflict: russia-ukraine-war
+  headline: "US-mediated Russia-Ukraine talks open in Abu Dhabi, the first three-way round since February"
+  summary: "Two days of talks began in Abu Dhabi with US envoys Steve Witkoff and Jared Kushner and NATO commander Gen. Alexus Grynkewich, a Russian team led by Vladimir Medinsky that includes military intelligence chief Igor Kostyukov, and a Ukrainian team led by Rustem Umerov with presidential chief of staff Kyrylo Budanov. The White House said security guarantees are the focus, and Interfax-Ukraine listed an energy truce, Black Sea shipping, humanitarian issues and prisoner exchanges; the Ukrainians first met officials from Britain, France, Germany, Italy, NATO and the European Commission. Russia still demands that Ukraine leave the four regions it claims and drop its NATO bid, which Kyiv rejects, and overnight Russia launched 162 drones and a ballistic missile while Moscow said it downed 155 Ukrainian drones. It matters because it is the first test in nine months of whether Trump's push can narrow positions, though German Chancellor Merz said he had no high expectations."
+  sources:
+  - label: "CP24 (AP): US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi"
+    url: https://www.cp24.com/news/world/2026/11/10/us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi/
+  - label: "Interfax-Ukraine: Ukraine begins talks in UAE with meeting with European partners and NATO"
+    url: https://en.interfax.com.ua/news/general/1233833.html
+  - label: "DW: US, Russia and Ukraine start talks in Abu Dhabi"
+    url: https://www.dw.com/en/us-russia-and-ukraine-start-talks-in-abu-dhabi/live-79906232
+- date: '2026-11-09'
+  countries: [USA, QAT, IRN, SAU]
+  category: diplomatic
+  conflict: iran-war-2026
+  headline: "Trump calls the Iran war 'effectively over' militarily after meeting Qatar's prime minister, but keeps the blockade"
+  summary: "After White House talks with Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani, who also met Vice President Vance, Trump said there was 'positive momentum' toward ending the conflict and that 'Iran, militarily, is effectively over', adding that Gulf states prefer the status quo of the US naval blockade and the new land-route Operation Iron Gate. He called new strikes 'quite unlikely' while saying the US was 'locked and loaded'. Sheikh Mohammed called the talks positive and on 10 November briefed the British, French, German, Italian and Saudi foreign ministers at the G7 meeting in Paris; an Iranian official told Fars that reports of a Hormuz reopening in exchange for 8 billion dollars in frozen assets were false, and Tehran denied that a Vance-Rezaei meeting in Doha was planned. It matters because the odds of new US strikes have fallen, but the blockade and Iran's closure of Hormuz, the core of the stand-off, are unchanged."
+  sources:
+  - label: "Al Jazeera: After meeting Qatar PM, Trump calls Iran war 'effectively over' militarily"
+    url: https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm
+  - label: "Xinhua: Trump says 'positive momentum' toward ending Iran war after talks with Qatari PM"
+    url: http://english.news.cn/northamerica/20261110/9e4ce6a9d4f34838a3c4d46b503841cd/c.html
+  - label: "Al Arabiya (AFP): Qatari PM joins Saudi, European ministers for Iran talks after meeting Trump"
+    url: http://english.alarabiya.net/News/middle-east/2026/11/10/qatari-pm-joins-saudi-european-ministers-for-iran-talks-after-meeting-trump
+  - label: "Anadolu via A News: Qatari prime minister welcomes 'positive discussions' with Trump and Vance"
+    url: https://www.anews.com.tr/world/2026/11/10/qatari-prime-minister-welcomes-positive-discussions-with-trump-and-vance-on-us-iran-deal
+- date: '2026-11-10'
+  countries: [SAU, YEM]
+  category: military
+  conflict: yemen-civil-war
+  headline: "Coalition downs more Houthi missiles fired at Riyadh as Houthi media report Saudi strikes on Sanaa fuel sites"
+  summary: "The Saudi-led coalition said it destroyed a ballistic missile and a cruise missile fired at Riyadh, a ballistic missile aimed at the south after alerts in Abha and Khamis Mushait, and a drone over the Eastern Province. The Houthi-run Saba agency said Saudi jets hit the al-Mufazir gas station in Sanaa's Jadar district and a state oil company building in the south of the city, which Saudi Arabia did not confirm. Houthi health authorities raised the toll from the 7 November strikes on al-Shariya, east of Sanaa, to 44 dead and 40 wounded, figures that have not been independently verified. It matters because strikes on each other's capitals and energy sites have become near-nightly since the Houthis advanced on Bab al-Mandeb in September."
+  sources:
+  - label: "The Star (Reuters): Saudi-led coalition reports Houthi missile, drone interceptions; Saba reports Saudi strikes on Sanaa"
+    url: https://www.thestar.com.my/news/world/2026/11/10/saudi-led-coalition-reports-houthi-missile-drone-interceptions-saba-reports-saudi-strikes-on-sanaa
+  - label: "Al Jazeera: Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline"
+    url: https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline
+  - label: "Xinhua: Saudi-led coalition says intercepts 5 Houthi missiles"
+    url: http://english.news.cn/20261109/5642476cc7a4410ba6a9939cefa7e48e/c.html
+- date: '2026-11-09'
+  countries: [FRA, IRN]
+  category: diplomatic
+  headline: "France blames Iran's Revolutionary Guards for sabotaging fridges at about 700 shops and summons Tehran's ambassador"
+  summary: "Foreign Minister Jean-Noël Barrot said the IRGC was behind the 11 and 12 October cyberattacks that raised temperatures in refrigeration units at around 700 French supermarkets and food shops, calling them unprecedented in scale and aggression. Paris prosecutor Laure Beccuau opened an investigation into Shahid Kaveh, an IRGC cyber unit, and sought international arrest warrants for two of its officials; Iran's ambassador was received at the foreign ministry on 10 November, France will seek EU sanctions, and Barrot said Paris 'rules nothing out'. Stores in at least nine other European countries were hit by a similar attack on 2 November. It matters because it is the first large-scale cyber sabotage France has attributed to a state on its territory, carrying the Iran war into Europe's civilian infrastructure."
+  sources:
+  - label: "France 24: France accuses Iran of hacking supermarket fridges"
+    url: https://www.france24.com/en/europe/20261109-iran-revolutionary-guards-behind-cyberattacks-on-supermarket-fridges-says-french-fm-barrot
+  - label: "Al Arabiya (AFP): France vows tough response to freezer cyberattack blamed on Iran"
+    url: http://english.alarabiya.net/News/world/2026/11/10/france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran
+  - label: "BBC: France accuses Iran of supermarket fridge hacking"
+    url: https://www.bbc.com/news/articles/cmg474vk6dyqo
+- date: '2026-11-08'
+  countries: [IRQ]
+  category: military
+  conflict: iraq-militias-us-isis
+  headline: "Drone strike halts Iraqi Kurdistan's Khor Mor gasfield and cuts most of the region's power"
+  summary: "A drone hit an LPG storage tank at the Khor Mor field in Sulaymaniyah province on Sunday, starting a fire, and operator Dana Gas suspended production. The Kurdistan region's electricity ministry said about 2.8 gigawatts of generation went offline, and Al Jazeera reported more than 70 percent of the region without power, with shortages of cooking gas. Iraqi security sources told Reuters the drone was launched east of Tuz Khurmatu; no one claimed the attack, and Kurdish officials have blamed earlier strikes on the field on Iran-aligned militias. It matters because it comes as Washington presses Baghdad to close most crossings with Iran, and militias opposed to disarming have hit Kurdish energy before."
+  sources:
+  - label: "Yahoo News (Reuters): Iraq's Khor Mor gas field halted after drone attack, operator says"
+    url: https://sg.news.yahoo.com/production-suspended-iraqs-khor-mor-204702780.html
+  - label: "Al Jazeera: Drone attack suspends production at Iraq's Khor Mor gasfield"
+    url: https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield
+- date: '2026-11-09'
+  countries: [FRA]
+  category: political
+  headline: "France brings forward a 1.6 percent minimum wage rise as unions dismiss it and call protests for 17 November"
+  summary: "After meeting unions and employers, Prime Minister Sébastien Lecornu's government said the minimum wage will rise 1.6 percent on 1 December rather than in January, to 1,502 euros a month net, alongside higher tax-free overtime limits and extended fuel allowances. The CFDT called it insufficient and the CGT's Sophie Binet called it 'crumbs' and urged new protests on 17 November, after the interior ministry counted 575,000 marchers on 5 November. It matters because two months of school-led protests that turned into riots are testing a minority government five months before a presidential election in which polls put Marine Le Pen in front."
+  sources:
+  - label: "Euronext (Reuters): French PM brings forward hike in minimum wage to calm protesters"
+    url: https://live.euronext.com/en/financial-news/french-pm-brings-forward-hike-minimum-wage-calm-protesters
+  - label: "Al Jazeera: France accelerates minimum wage hike in bid to quell protest"
+    url: https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest
+- date: '2026-11-10'
+  countries: [ISR]
+  category: political
+  headline: "On the day Israel's new Knesset is sworn in, Eisenkot's bloc names Matan Kahana to replace Speaker Ohana"
+  summary: "Gadi Eisenkot, Naftali Bennett, Yair Golan, Avigdor Liberman and Yair Lapid jointly nominated Yashar!'s Matan Kahana, a former religious services minister, for Knesset speaker, with Liberman to chair the Foreign Affairs and Defence Committee; Joint List MK Ahmad Tibi said his Arab-led faction would vote for Kahana. Speaker Amir Ohana of Likud has said he will hold a vote within a week only if 61 MKs ask for one. The 26th Knesset, with 47 first-time members, is sworn in on 10 November, while United Torah Judaism says it will not join a government without a solution for yeshiva students. It matters because the speakership vote is the first test of whether the anti-Netanyahu camp can muster 61 votes, which it will also need for a government."
+  sources:
+  - label: "Times of Israel: Eisenkot-led bloc agrees on Matan Kahana as next Knesset speaker"
+    url: https://www.timesofisrael.com/liveblog_entry/eisenkot-led-bloc-agrees-on-matan-kahana-as-next-knesset-speaker-liberman-to-head-powerful-defense-committee/
+  - label: "Times of Israel: Tibi says Joint List will vote for Kahana as Knesset speaker"
+    url: https://www.timesofisrael.com/liveblog_entry/tibi-says-joint-list-will-vote-for-kahana-as-knesset-speaker-we-want-to-be-part-of-the-change/
+  - label: "Jerusalem Post: Eisenkot-led bloc proposes Matan Kahana as next Knesset speaker"
+    url: http://fr.jpost.com/israel-election-2026/article-914426
+  - label: "Ynet: Israel's 26th Knesset set to be sworn in as coalition talks intensify"
+    url: https://www.ynetnews.com/article/hjwy1tk0mg
+- date: '2026-11-09'
+  countries: [HUN]
+  category: political
+  headline: "Hungary detains Viktor Orbán's brother in a people-smuggling investigation"
+  summary: "Police and the new National Asset Protection and Recovery Office detained four people and searched sites in Budapest and Pest county, and Prime Minister Péter Magyar confirmed that businessman Áron Orbán, 49, was among them. The suspects are accused of charging Vietnamese visa applicants 'recruitment fees' at Hungarian missions in Vietnam in 2024 to help them reach Western Europe. Viktor Orbán called it political revenge aimed at him; two of his former ministers and ex-central bank governor György Matolcsy are already under arrest in separate graft cases. It matters because Magyar's anti-corruption drive has now reached the family of the former leader, who still heads the opposition Fidesz."
+  sources:
+  - label: "Internazionale (Reuters): Hungary detains Viktor Orban's brother in people-smuggling probe, PM says"
+    url: https://www.internazionale.it/ultime-notizie-reuters/2026/11/10/hungary-detains-viktor-orban-s-brother-in-people-smuggling-probe-pm-says
+  - label: "Irish Examiner (AP): Hungarian authorities detain Viktor Orban's younger brother"
+    url: https://www.irishexaminer.com/world/arid-41935629.html
+- date: '2026-11-09'
+  countries: [USA]
+  category: political
+  headline: "Trump questions the midterm results he had accepted, alleging fraud without evidence"
+  summary: "Six days after Democrats won both houses of Congress, Trump wrote on Truth Social 'Does anybody really believe that this Election was honest' and claimed, without evidence, that large early-vote 'dumps' made Republican wins impossible, reversing his election-night statement that he was 'absolutely willing' to accept the results. Senate Democratic leader Chuck Schumer called it a 'pathetic return to election denialism'. It matters because Trump faces two years of opposition control of Congress, with new investigative powers, and has not said whether he will try to challenge any results."
+  sources:
+  - label: "Yahoo News (AFP): Trump returns to US election fraud claims after initial concession"
+    url: https://www.yahoo.com/news/politics/articles/trump-returns-us-election-fraud-173141178.html
+  - label: "Al Jazeera: Trump reverses stance, alleges fraud in recent US midterm elections"
+    url: https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections
+- date: '2026-11-10'
+  countries: [MYS]
+  category: political
+  headline: "Malaysia's Najib Razak moves to house arrest after a court issues a fresh order"
+  summary: "The Kuala Lumpur High Court set aside a 6 November discharge order and issued a new one letting former prime minister Najib Razak serve the rest of his SRC International sentence at his Kuala Lumpur home until 23 August 2028, under a conditional royal pardon granted on 18 September. UMNO had paid his 50 million ringgit fine on 6 November, but the Attorney-General's Chambers kept him in Kajang prison over the wording of the order, and King Sultan Ibrahim warned that challenging his decree could amount to defiance. It matters because the episode pitted the palace against prosecutors in Anwar Ibrahim's government, which relies on UMNO, and Najib still faces a separate 15-year 1MDB sentence."
+  sources:
+  - label: "Straits Times (Reuters): Malaysia court clears way for ex-PM Najib to start house arrest"
+    url: https://www.straitstimes.com/asia/se-asia/malaysian-attorney-general-seeks-high-court-review-of-najib-house-arrest-order-bernama-reports
+  - label: "Free Malaysia Today: Najib transferred to house arrest as court issues fresh order"
+    url: https://www.freemalaysiatoday.com/category/nation/2026/11/10/najib-transferred-to-house-arrest-as-court-issues-fresh-order
+  - label: "Malay Mail: Home Ministry says ready to carry out Najib's house arrest"
+    url: https://www.malaymail.com/news/malaysia/2026/11/10/home-ministry-says-ready-to-carry-out-najibs-house-arrest-court-order-today-cleared-the-air/242748
+- date: '2026-11-06'
+  countries: [ETH]
+  category: military
+  conflict: ethiopia-oromia-ola
+  headline: "Regional police say 52 were killed in a two-day attack in Ethiopia's Benishangul-Gumuz, blamed on the OLA"
+  summary: "Heavily armed men attacked Dalati in Buldiglu woreda, Assosa zone, from about 5 a.m. on 5 November, and fighting went on for nearly two days. Benishangul-Gumuz police commissioner Mohammed Idriss told Addis Standard that 52 people died, 21 civilians, 18 anti-riot police and 13 militia members, and blamed OLF-Shene, the government's name for the Oromo Liberation Army; residents put the toll above 65 and local reports above 100, which could not be verified. It matters because insurgent violence is spreading in western Ethiopia, on the Sudan border, while federal forces are fighting in Tigray and Amhara."
+  sources:
+  - label: "Addis Standard: More than 65 killed in armed attack in Benishangul-Gumuz's Assosa Zone, residents say"
+    url: https://addisstandard.com/more-than-65-killed-in-armed-attack-in-benishangul-gumuzs-assosa-zone-residents-say/
+- date: '2026-11-09'
+  countries: [SYR, JOR]
+  category: diplomatic
+  headline: "Syria and Jordan sign 11 cooperation deals and set up a joint inquiry into Jordan's deadly strikes in Deraa"
+  summary: "At a coordination council meeting in Damascus, Foreign Ministers Asaad al-Shaibani and Ayman Safadi signed 11 agreements and announced a joint security and technical committee to investigate Jordanian air strikes in Deraa province on 26 October, which Jordan said targeted Islamic State militants linked to a church attack in Karak and which Syria said killed seven civilians, including three children. Shaibani said work was under way to compensate victims, and he denied reports that Syrian troops are deployed in Yemen. It matters because the two neighbours are containing a rare cross-border incident as trade between them has nearly tripled in a year."
+  sources:
+  - label: "US News (Reuters): Syria, Jordan seek to mend ties after deadly airstrikes, sign cooperation deals"
+    url: https://www.usnews.com/news/world/articles/2026-11-09/syria-jordan-seek-to-mend-ties-after-deadly-airstrikes-sign-cooperation-deals
+  - label: "Syrian Observer: Syria and Jordan sign 11 cooperation agreements; Shibani denies Syrian deployment in Yemen"
+    url: https://syrianobserver.com/foreign-actors/syria-and-jordan-sign-11-cooperation-agreements-shibani-denies-syrian-deployment-in-yemen.html
 - date: '2026-11-09'
   countries: [UKR, RUS]
   category: military
@@ -2517,6 +2656,15 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2026-11-12'
+  countries: [NLD]
+  event: "Dutch lower house votes on the government's 2027 tax plan, which lacks a secure majority"
+- date: '2026-11-14'
+  countries: [MYS]
+  event: "Melaka state election in Malaysia"
+- date: '2026-11-17'
+  countries: [FRA]
+  event: "French unions' national day of strikes and protests over wages and living costs"
 - date: '2026-11-12'
   countries: [LKA]
   event: "Sri Lanka's government presents its 2027 budget to parliament"

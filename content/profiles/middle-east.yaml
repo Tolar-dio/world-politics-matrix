@@ -28,21 +28,24 @@ IRN:
   society: >-
     Iran has a young, highly educated population, with more women than men in universities, yet faces mandatory hijab laws that sparked the 2022 "Woman, Life, Freedom" protests. Sanctions and mismanagement have driven high inflation and a collapsing currency. The Revolutionary Guard controls large parts of the economy. Ethnic Kurds, Baluch, Azeris and Arabs have their own grievances.
   update: >-
-    The war is in a tense stalemate. The US blockade of Iranian ports continues and Iran keeps Hormuz
-    all but closed, saying it is mining unauthorised routes. Washington has told Gulf allies to expect
-    possible strikes after the 3 November midterms, and on 31 October Supreme Leader Mojtaba Khamenei
-    ordered forces to be ready to retaliate 'without geographical restriction'. Diplomacy runs through
-    Qatar and Pakistan: after Qatari mediators visited Tehran, an Iranian delegation went to Doha on 31
-    October, and Foreign Minister Araghchi said on 1 November that Hormuz could reopen within two days
-    if the US lifts sanctions, restores oil waivers, releases frozen funds and recognises the Iran-Oman
-    shipping route.
-  update_date: 2026-11-01
+    The war is in a tense stalemate. The US blockade of Iranian ports continues, a new US task force
+    targets Iran's land and Caspian routes, and Iran keeps Hormuz all but closed, saying it is mining
+    unauthorised routes. After limited US strikes on Qeshm Island in early November, Trump said on 9
+    November, after meeting Qatar's prime minister, that Iran was 'militarily effectively over', that
+    there was 'positive momentum' toward a deal and that new strikes were 'quite unlikely'. Tehran says
+    talks depend on seven conditions, including lifting the blockade and sanctions, releasing frozen
+    funds and ending the war on all fronts, and that Hormuz could reopen within two days if they are
+    met. France blamed the Revolutionary Guards on 9 November for cyber sabotage of supermarket fridges
+    and is seeking EU sanctions.
+  update_date: 2026-11-10
   sources_extra:
     - {label: "Al Jazeera: Iran warns of unfettered retaliation", url: "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace"}
     - {label: "Middle East Eye: Araghchi on a two-day Hormuz plan", url: "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-says-hormuz-could-be-reopened-two-days-if-conditions-met"}
     - {label: "Reuters: Iran's parliament approves Mehrdad Akhlaqi as defence minister", url: "https://www.reuters.com/world/middle-east/irans-parliament-approves-mehrdad-akhlaqi-minister-defence-state-media-2026-10-18/"}
     - {label: "CTP-ISW: Iran Update, 26 October 2026", url: "https://www.criticalthreats.org/analysis/iran-update-october-26-2026"}
     - {label: "Al Jazeera: Mecca defence alliance members in Tehran", url: "https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions"}
+    - {label: "Al Jazeera: After meeting Qatar PM, Trump calls Iran war 'effectively over' militarily", url: "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"}
+    - {label: "Al Monitor: Trump meets Qatar PM as mediators push Iran deal", url: "https://www.al-monitor.com/originals/2026/11/trump-meets-qatar-pm-mediators-push-iran-deal"}
 
 IRQ:
   pop: 47.0
@@ -92,8 +95,18 @@ ISR:
   society: >-
     Israel is a high-tech economy with mandatory military service for most Jewish citizens. Ultra-Orthodox exemption from the draft, judicial reform and the role of religion divide society. The 7 October 2023 Hamas attack, which killed about 1,200 people, and the war in Gaza that followed, which killed tens of thousands of Palestinians, transformed politics and Israel's standing in the world.
   update: >-
-    Israelis voted on 27 October with turnout of 77.7 percent, the highest since 1999. Netanyahu's bloc won 53 of 120 seats, the opposition led by Gadi Eisenkot 48 and Arab-led parties a record 19, so no bloc has the 61 needed; Likud claimed, without evidence, that the vote was stolen. In President Herzog's consultations, parties with 67 seats recommended Eisenkot (Yashar!, Together, the Democrats, Yisrael Beytenu, Ra'am and the Joint List) and parties with 46 recommended Netanyahu, while United Torah Judaism backed no one. On 8 November Herzog formally gave Eisenkot the mandate, starting 28 days, to about 6 December, with a possible 14-day extension. Eisenkot wants a broad 'national emergency government' and has left the door open to Likud, but his own bloc has about 48 seats, Yisrael Beytenu and the ultra-Orthodox parties are reported to oppose a minority government relying on Arab parties, and Otzma Yehudit is calling for new elections. Netanyahu remains caretaker prime minister until a new government is sworn in.
-  update_date: 2026-11-09
+    Israelis voted on 27 October with turnout of 77.7 percent, the highest since 1999. Netanyahu's bloc
+    won 53 of 120 seats, the opposition led by Gadi Eisenkot 48 and Arab-led parties a record 19, so no
+    bloc has the 61 needed. Parties with 67 seats recommended Eisenkot and parties with 46 recommended
+    Netanyahu, and on 8 November President Herzog gave Eisenkot the mandate, starting 28 days, to about
+    6 December, with a possible 14-day extension. The 26th Knesset is sworn in on 10 November.
+    Eisenkot's bloc has nominated Matan Kahana of Yashar! to replace Likud's Amir Ohana as speaker, with
+    the Joint List's backing, and Avigdor Liberman to chair the Foreign Affairs and Defence Committee;
+    Ohana says he will hold a vote only if 61 MKs ask. Eisenkot wants a broad 'national emergency
+    government', but Yisrael Beytenu and the ultra-Orthodox parties oppose relying on Arab parties, and
+    United Torah Judaism demands a solution for yeshiva students. Netanyahu remains caretaker prime
+    minister until a new government is sworn in.
+  update_date: 2026-11-10
   sources_extra:
     - {label: "ABC News: Netanyahu challenger Eisenkot tasked with forming new Israeli government", url: "https://abcnews.com/International/netanyahu-challenger-eisenkot-tasked-forming-new-government/story?id=137945429"}
     - {label: "Al Jazeera: Eisenkot open to Netanyahu joining Israel's next government", url: "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government"}
@@ -111,6 +124,8 @@ ISR:
     - {label: "Al Jazeera: Israeli officials say results stand as Netanyahu claims election 'stolen'", url: "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen"}
     - {label: "Al Jazeera: Israel's opposition leaders back Eisenkot to oust Netanyahu", url: "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu"}
     - {label: "Middle East Monitor: Israeli opposition leaders recommend Eisenkot for prime minister", url: "https://www.middleeastmonitor.com/20261103-israeli-opposition-leaders-recommend-eisenkot-for-prime-minister-vow-to-form-national-emergency-government/"}
+    - {label: "Times of Israel: Eisenkot-led bloc agrees on Matan Kahana as next Knesset speaker", url: "https://www.timesofisrael.com/liveblog_entry/eisenkot-led-bloc-agrees-on-matan-kahana-as-next-knesset-speaker-liberman-to-head-powerful-defense-committee/"}
+    - {label: "Ynet: Israel's 26th Knesset set to be sworn in as coalition talks intensify", url: "https://www.ynetnews.com/article/hjwy1tk0mg"}
 
 JOR:
   pop: 11.5
@@ -230,6 +245,16 @@ QAT:
     Qatar's culture is rooted in Bedouin and pearl-diving traditions, but its capital Doha has reinvented itself with I. M. Pei's Museum of Islamic Art and the National Museum. Al Jazeera, founded in 1996, changed Arab media. Hosting the 2022 World Cup was a defining moment. Falconry, camel racing and majlis gatherings remain popular.
   society: >-
     About nine in ten residents are foreign workers, and labour conditions for migrant workers drew global scrutiny before the World Cup. Citizens enjoy one of the world's highest incomes. Qatar hosts the largest US military base in the region and has mediated between Israel and Hamas, the US and the Taliban, and others.
+  update: >-
+    Qatar is the main mediator between Washington and Tehran. Prime Minister and Foreign Minister Sheikh
+    Mohammed bin Abdulrahman Al Thani met Trump and Vice President Vance in Washington on 9 November and
+    called the talks positive, and the next day briefed British, French, German, Italian and Saudi
+    ministers at the G7 foreign ministers' meeting in Paris. Trump said Qatar and other Gulf states
+    prefer to keep the US blockade of Iran in place.
+  update_date: 2026-11-10
+  sources_extra:
+    - {label: "Anadolu via A News: Qatari prime minister welcomes 'positive discussions' with Trump and Vance", url: "https://www.anews.com.tr/world/2026/11/10/qatari-prime-minister-welcomes-positive-discussions-with-trump-and-vance-on-us-iran-deal"}
+    - {label: "Al Arabiya (AFP): Qatari PM joins Saudi, European ministers for Iran talks after meeting Trump", url: "http://english.alarabiya.net/News/middle-east/2026/11/10/qatari-pm-joins-saudi-european-ministers-for-iran-talks-after-meeting-trump"}
 
 SAU:
   pop: 34.6

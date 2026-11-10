@@ -234,13 +234,19 @@ MYS:
   society: >-
     Malaysia is a major hub for chip packaging and testing, and exports palm oil and gas. Policies favouring ethnic Malays, known as bumiputera, have shaped politics since 1971. The 1MDB scandal, in which billions were looted from a state fund, sent former prime minister Najib Razak to prison.
   update: >-
-    Parliament's term runs to December 2027, so the next general election is due by about February 2028,
-    not early 2027 as earlier reporting suggested. Anwar Ibrahim's Pakatan Harapan is campaigning for
-    the Melaka state election on 14 November 2026.
-  update_date: 2026-10-31
+    On 10 November former prime minister Najib Razak moved from prison to house arrest after the High
+    Court issued a fresh order under the king's conditional pardon of 18 September; he will serve the
+    rest of his SRC International sentence at home until August 2028, after the Attorney-General's
+    Chambers had held him back over the wording of an earlier order and the king warned against defying
+    his decree. Najib still faces a separate 15-year 1MDB sentence. Parliament's term runs to December
+    2027, so the next general election is due by about February 2028, and Anwar Ibrahim's Pakatan
+    Harapan is contesting the Melaka state election on 14 November.
+  update_date: 2026-11-10
   sources_extra:
     - {label: "Malay Mail: We still have until February 2028, Pakatan sec-gen says as GE16 chatter grows", url: "https://www.malaymail.com/amp/news/malaysia/2026/09/12/we-still-have-until-february-2028-pakatan-sec-gen-says-as-ge16-chatter-grows/234955"}
     - {label: "Malay Mail: Anwar calls for service over rhetoric as Pakatan targets Melaka victory", url: "https://www.malaymail.com/news/malaysia/2026/10/26/anwar-calls-for-service-over-rhetoric-as-pakatan-targets-melaka-victory/240627"}
+    - {label: "Straits Times (Reuters): Malaysia court clears way for ex-PM Najib to start house arrest", url: "https://www.straitstimes.com/asia/se-asia/malaysian-attorney-general-seeks-high-court-review-of-najib-house-arrest-order-bernama-reports"}
+    - {label: "Malay Mail: Home Ministry says ready to carry out Najib's house arrest", url: "https://www.malaymail.com/news/malaysia/2026/11/10/home-ministry-says-ready-to-carry-out-najibs-house-arrest-court-order-today-cleared-the-air/242748"}
 
 MDV:
   pop: 0.53
@@ -313,6 +319,16 @@ PRK:
     North Korean culture is built around devotion to the Kim family; portraits of Kim Il Sung and Kim Jong Il hang in every home. Mass games, with tens of thousands of performers forming images in unison, display collective discipline. Foreign media, especially South Korean dramas, are banned, and possessing them can bring severe punishment.
   society: >-
     North Korea is one of the world's most closed and repressive states, with political prison camps holding tens of thousands. Chronic food shortages persist. Its nuclear and missile programmes have advanced despite sanctions. Thousands of soldiers fought for Russia in Kursk, and the alliance has brought oil, food and technology.
+  update: >-
+    North Korea stepped up weapons tests in October and November 2026: multiple ballistic missiles on 12
+    October, about a dozen short-range ballistic missiles from Wonsan on 29 October, a cluster warhead
+    for tactical missiles on 31 October and several more missiles from the Sondok area on 4 November,
+    its fourth launch event in a week, according to South Korea's military.
+  update_date: 2026-11-10
+  sources_extra:
+    - {label: "Yonhap: N. Korea fires unidentified projectile toward East Sea (4 November)", url: "https://en.yna.co.kr/view/AEN20261029008100315"}
+    - {label: "NK News: North Korea fires 'several missiles' east into the sea", url: "https://www.nknews.org/?p=981710"}
+    - {label: "Yonhap: N. Korea tests cluster bomb mountable on tactical ballistic missiles", url: "https://en.yna.co.kr/view/AEN20261101000451315"}
 
 PAK:
   pop: 255
@@ -349,6 +365,16 @@ PHL:
     The Philippines is Asia's largest Catholic country after 300 years of Spanish rule, followed by half a century of American rule, which left English and basketball as national passions. Karaoke is a social institution. Jeepneys, built from US Army jeeps, are a famous form of public transport. More than 170 languages are spoken, with Filipino and English official.
   society: >-
     Some ten million Filipinos work abroad, and their remittances support millions of families. Call centres and business process outsourcing employ more than a million. Former president Rodrigo Duterte's drug war killed thousands, and he has been held by the International Criminal Court in The Hague since 2025. Clashes with Chinese vessels in the South China Sea have pulled the country closer to the US.
+  update: >-
+    Vice President Sara Duterte's Senate impeachment trial resumed on 9 November after a month's recess,
+    with the defence filing a list of 24 witnesses against prosecution claims of hundreds of millions of
+    pesos in unexplained wealth. Police say they have followed up more than 500 tips in a manhunt, with
+    a 50 million peso bounty, for Senator Ronald 'Bato' dela Rosa, who is wanted by the International
+    Criminal Court as an alleged co-perpetrator in Rodrigo Duterte's drug war.
+  update_date: 2026-11-10
+  sources_extra:
+    - {label: "Inquirer: Escudero says Sara Duterte's defense submits 24-witness list", url: "https://newsinfo.inquirer.net/2338249/watch-escudero-says-sara-dutertes-defense-submits-24-witness-list"}
+    - {label: "Inquirer: Bato dela Rosa manhunt, PNP says it received at least 500 tips", url: "https://newsinfo.inquirer.net/2338281/bato-dela-rosa-manhunt-pnp-says-it-receives-at-least-500-tips"}
 
 SGP:
   pop: 5.9

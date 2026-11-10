@@ -333,19 +333,22 @@ FRA:
     France has a large welfare state funded by Europe's highest tax burden, and a deficit and debt that markets watch nervously. Pension reform triggered huge protests in 2023. Tensions over immigration, Islam and the banlieues fuel support for the National Rally. It is the EU's only nuclear-armed state and gets most of its power from nuclear reactors.
   update: >-
     Protests that began in September over under-resourced high schools grew into a national movement
-    over wages and living costs. On 17 October more than half a million people marched, and riots in
-    Paris, Marseille, Lille and Limoges led to about 1,800 arrests and left more than 500 police,
-    gendarmes and firefighters injured. On 4 November the National Assembly rejected the revenue part of
-    the 2027 budget, which seeks 43 billion euros in savings, by 458 votes to none, sending it to the
-    Senate and making it likely that Prime Minister Lecornu will force it through under Article 49.3 and
-    face no-confidence votes. On 5 November between 575,000 people (government count) and 1.6 million
-    (union count) joined a strike.
-  update_date: 2026-11-06
+    over wages and living costs, with riots in October and between 575,000 (government count) and 1.6
+    million (union count) on strike on 5 November. On 4 November the National Assembly rejected the
+    revenue part of the 2027 budget by 458 votes to none, making it likely that Prime Minister Lecornu
+    will force it through under Article 49.3 and face no-confidence votes. On 9 November the government
+    brought forward a 1.6 percent minimum wage rise to 1 December, which unions called insufficient, and
+    the CGT called new protests for 17 November. The same day Foreign Minister Barrot blamed Iran's
+    Revolutionary Guards for October cyberattacks that sabotaged fridges at about 700 shops, summoned
+    Iran's ambassador and said France would seek EU sanctions.
+  update_date: 2026-11-10
   sources_extra:
     - {label: "Politico Europe: French National Assembly unanimously rejects budget bill", url: "https://www.politico.eu/article/french-national-assembly-unanimously-rejects-budget-bill/"}
     - {label: "RFI: MPs unanimously reject 2027 French budget as political deadlock continues", url: "https://www.rfi.fr/en/france/20261105-french-mps-unanimously-reject-2027-budget-as-political-deadlock-deepens"}
     - {label: "BBC: Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting", url: "https://www.bbc.co.uk/news/articles/c574pdzl0k4no"}
     - {label: "BBC: French protests see numbers surge as unions join strikes over high cost of living", url: "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"}
+    - {label: "Euronext (Reuters): French PM brings forward hike in minimum wage to calm protesters", url: "https://live.euronext.com/en/financial-news/french-pm-brings-forward-hike-minimum-wage-calm-protesters"}
+    - {label: "France 24: France accuses Iran of hacking supermarket fridges", url: "https://www.france24.com/en/europe/20261109-iran-revolutionary-guards-behind-cyberattacks-on-supermarket-fridges-says-french-fm-barrot"}
 
 GEO:
   pop: 3.7
@@ -449,13 +452,17 @@ HUN:
   society: >-
     Under Orbán, Hungary became the EU's model of "illiberal democracy", with friendly oligarchs owning most media and billions in EU funds frozen over rule-of-law concerns. Magyar, a former Fidesz insider, has promised to unlock those funds and fight corruption. Hungary has an ageing population and low wages by EU standards.
   update: >-
-    Magyar's government is unwinding Orbán-era policy. On 13 October parliament repealed most of the
-    2021 anti-LGBTQ 'child protection' law, and on 16 October Magyar and Zelensky agreed to reset
-    relations, with Hungary lifting its objections to Ukraine's EU accession talks.
-  update_date: 2026-10-16
+    Magyar's government is unwinding Orbán-era policy: in October parliament repealed most of the 2021
+    anti-LGBTQ 'child protection' law and Hungary dropped its objections to Ukraine's EU accession
+    talks. Its anti-graft drive, run partly through a new National Asset Protection and Recovery Office,
+    has put two former Orbán ministers and ex-central bank governor György Matolcsy under arrest, and on
+    9 November police detained Orbán's brother Áron in a people-smuggling case over visa fees at
+    Hungarian missions in Vietnam. Orbán, who still leads Fidesz, calls it political revenge.
+  update_date: 2026-11-10
   sources_extra:
     - {label: "DW: Hungary reverses anti-LGBTQ legislation", url: "https://www.dw.com/en/hungarys-parliament-votes-to-reverse-anti-lgbtq-legislation-from-orban-era/a-79647826"}
     - {label: "Reuters: Hungary and Ukraine agree to reset ties", url: "https://www.reuters.com/world/hungary-ukraine-agree-reset-ties-magyar-says-2026-10-16/"}
+    - {label: "Internazionale (Reuters): Hungary detains Viktor Orban's brother in people-smuggling probe, PM says", url: "https://www.internazionale.it/ultime-notizie-reuters/2026/11/10/hungary-detains-viktor-orban-s-brother-in-people-smuggling-probe-pm-says"}
 
 ISL:
   pop: 0.40

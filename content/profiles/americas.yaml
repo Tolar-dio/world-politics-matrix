@@ -497,6 +497,15 @@ PAN:
     The canal shapes Panamanian identity; the 1999 handover from the US is a national milestone. Indigenous Guna people of the San Blas islands make the colourful mola textiles. Panama City's old quarter, Casco Viejo, sits across the bay from a skyline of banking towers. Rubén Blades made salsa a vehicle for political storytelling.
   society: >-
     The canal, banking, logistics and a large free trade zone make Panama one of Latin America's richest countries per head, but inequality is high. In 2023 mass protests forced the closure of a giant copper mine. Droughts have cut canal traffic, prompting plans for a new reservoir.
+  update: >-
+    A magnitude 7.7 earthquake and a 6.6 aftershock struck the Azuero peninsula on 9 October 2026,
+    damaging homes, schools and health centres in all ten provinces, mostly Veraguas, Herrera, Coclé and
+    Los Santos, and the government declared a state of emergency; no deaths were reported, and the canal
+    kept operating.
+  update_date: 2026-11-10
+  sources_extra:
+    - {label: "Reuters: Strong Panama quake shakes nation, but avoids major destruction", url: "https://www.reuters.com/business/environment/strong-80-magnitude-earthquake-felt-panama-usgs-2026-10-09"}
+    - {label: "CBC (AP): Panama declares state of emergency as powerful quake aftershocks rattle communities", url: "https://www.cbc.ca/news/world/panama-earthquake-state-of-emergency-9.7377430"}
 
 PRY:
   pop: 7.0
@@ -671,16 +680,17 @@ USA:
   tags: [Midterms 2026, Divided government, Trump second term, Tariffs, Iran war]
   update: >-
     Democrats won control of both chambers of Congress in the 3 November midterms, according to
-    projections by the AP and CBS News. They flipped Republican-held Senate seats including Maine, where
-    Troy Jackson beat Susan Collins, Ohio, North Carolina, Iowa and Kansas, and Hakeem Jeffries is in
-    line to become House speaker when the new Congress meets in January. Exit polls put Trump's approval
-    at about 38 percent. Trump said he accepted the results and would work with Democrats but would use
-    his veto 'liberally'. Divided government gives Democrats power over legislation, budgets and
-    investigations, including funding for the Iran war, for the rest of Trump's term.
-  update_date: 2026-11-04
+    projections by the AP and CBS News, flipping Republican-held Senate seats including Maine, Ohio,
+    North Carolina, Iowa and Kansas; Hakeem Jeffries is in line to become House speaker when the new
+    Congress meets in January. Trump first said he accepted the results, but on 9 November questioned
+    whether the election was 'honest' and alleged fraud without evidence. Divided government gives
+    Democrats power over legislation, budgets and investigations, including funding for the Iran war,
+    for the rest of Trump's term.
+  update_date: 2026-11-10
   sources_extra:
     - {label: "CBS News: Live election results for 2026 midterms as Democrats decisively win control of House and Senate", url: "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"}
     - {label: "Forbes: Midterm election results, Democrats sweep House and Senate in stunning rout", url: "https://www.forbes.com/sites/saradorn/2026/11/04/midterm-election-results-live-updates-democrats-sweep-house-and-senate-in-stunning-rout/"}
+    - {label: "Yahoo News (AFP): Trump returns to US election fraud claims after initial concession", url: "https://www.yahoo.com/news/politics/articles/trump-returns-us-election-fraud-173141178.html"}
   culture: >-
     American culture is the world's most widely exported, from Hollywood and hip-hop to the NFL, NBA and fast food. Its universities and tech companies attract talent worldwide. The country is shaped by waves of immigration, from Europe, Africa through slavery, Latin America and Asia, and by a strong religious tradition, especially evangelical Protestantism in the South.
   society: >-
