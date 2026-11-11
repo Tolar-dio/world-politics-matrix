@@ -1,5 +1,163 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-11'
+  countries: [SVK]
+  category: political
+  headline: "Slovakia's parliament sinks a Fico priority bill, confirming his coalition has lost its majority"
+  summary: "An amendment to the criminal code on benefits for cooperating defendants won only 75 votes to 74, with one abstention, short of the majority of the 150 members present, after former environment minister Tomáš Taraba and two allied MPs voted with the opposition. The coalition of Smer, Hlas and the Slovak National Party fell to 75 seats on 3 November when MP Roman Malatinec joined Taraba's new project. Opposition leaders call it a minority government and want early elections, which Fico rejects. It matters because every contested vote now depends on a handful of unaligned MPs, weakening a government that has clashed with the EU over the rule of law and aid to Ukraine."
+  sources:
+  - label: "Týždeň (TASR, SITA): Parliament rejects amendment changing benefits for cooperating defendants"
+    url: https://www.tyzden.sk/politika/140918/udalost-dna-parlament-neschvalil-novelu-ktora-mala-menit-system-benefitov-pre-kajucnikov/
+  - label: "Novinky.cz (ČTK): Fico's coalition has lost its majority in parliament, vote confirms"
+    url: https://www.novinky.cz/clanek/zahranicni-evropa-ficova-koalice-ztratila-v-parlamentu-vetsinu-potvrdilo-hlasovani-40607812
+- date: '2026-11-10'
+  countries: [SLV, HTI]
+  category: military
+  headline: "Bukele says Salvadoran troops destroyed a Haitian gang's headquarters in a raid reported to have killed 20"
+  summary: "President Nayib Bukele said Salvadoran soldiers had destroyed the house of 400 Mawozo gang leader Wilson Joseph, known as Lanmo San Jou, and the gang's headquarters; the Miami Herald reported the Sunday raid by a Haitian police task force backed by Salvadoran troops killed 20 people, and Joseph was not there. El Salvador has sent more than 2,000 troops to Haiti since four of its soldiers in the UN-backed Gang Suppression Force went missing in an October ambush, most of them outside that force. It matters because a foreign army is now fighting Haiti's gangs on its own terms, raising questions about rules of engagement before elections planned for 2027."
+  sources:
+  - label: "France 24 (AFP): Bukele says Salvadoran troops destroyed gang HQ in Haiti"
+    url: https://www.france24.com/en/live-news/20261110-bukele-says-salvadoran-troops-destroyed-gang-hq-in-haiti
+  - label: "Al Jazeera (AFP, AP, Reuters): Salvadoran troops target Haitian gang, leaving 20 dead"
+    url: https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead
+- date: '2026-11-06'
+  countries: [TZA]
+  category: political
+  headline: "Tanzanian court clears opposition leader Tundu Lissu of treason but jails him for four years for incitement"
+  summary: "A three-judge panel of the High Court in Dar es Salaam acquitted the Chadema chairman of treason, which can carry the death penalty, saying prosecutors had failed to prove a key element, but convicted him of inciting the public to disrupt the 2025 elections and sentenced him to four years. Lissu, who represented himself, said the judges had 'manufactured' the incitement offence on political orders, and his party says he will appeal. It matters because his arrest and Chadema's exclusion fuelled the deadly protests around the October 2025 election that President Samia won with 98 percent."
+  sources:
+  - label: "Reuters: Tanzania opposition leader cleared of treason, sentenced for inciting unrest"
+    url: https://www.reuters.com/world/africa/tanzanian-court-clears-opposition-leader-lissu-treason-2026-11-06
+  - label: "BBC: Tundu Lissu found guilty of incitement but acquitted of treason"
+    url: https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo
+  - label: "RFI: Tanzania opposition leader Lissu cleared of treason but jailed for incitement"
+    url: https://www.rfi.fr/en/africa/20261106-tanzania-opposition-leader-lissu-cleared-of-treason-but-jailed-for-incitement
+- date: '2026-11-11'
+  countries: [UKR, RUS, USA, ARE]
+  category: diplomatic
+  conflict: russia-ukraine-war
+  headline: "Abu Dhabi talks end with a deal on a large prisoner exchange but no ceasefire"
+  summary: "The first three-way US-Russia-Ukraine talks since February ended after a second session of under two hours. Russian negotiator Vladimir Medinsky said the sides agreed a new 'large-scale' prisoner exchange and reached an understanding on post-war security arrangements in some places but not others, and Zelensky said an exchange of 1,000 or 1,500 prisoners a side was discussed and that Russia raised territory and Ukraine's NATO and EU ambitions. Medinsky said he did not understand what status the European officials consulting the Ukrainians in Abu Dhabi had. It matters because the round revived direct contact after nine months, but produced no energy truce or ceasefire and left the core dispute over Donetsk untouched."
+  sources:
+  - label: "The Moscow Times (Reuters): Russia and Ukraine agreed to prisoner exchange after latest peace talks, Kremlin adviser says"
+    url: https://www.themoscowtimes.com/2026/11/11/russia-and-ukraine-agreed-to-prisoner-exchange-after-latest-peace-talks-kremlin-adviser-says-a94227
+  - label: "Interfax-Ukraine: Ukraine-Russia talks in Abu Dhabi end, European round begins"
+    url: https://en.interfax.com.ua/news/general/1234699.html
+  - label: "Ukrainska Pravda: 1,000-for-1,000 or 1,500-for-1,500 exchange discussed in Abu Dhabi, Zelensky says"
+    url: https://www.pravda.com.ua/eng/news/2026/11/10/8062233
+  - label: "Daily Sabah (Reuters): Abu Dhabi trilateral talks enter second day"
+    url: https://www.dailysabah.com/world/europe/abu-dhabi-trilateral-talks-to-end-russia-ukraine-war-enter-2nd-day
+- date: '2026-11-11'
+  countries: [UKR, RUS, EST, LVA, LTU, FIN]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Ukrainian drones set Russia's Baltic port of Ust-Luga on fire as Moscow claims 627 drones downed"
+  summary: "Leningrad region governor Alexander Drozdenko said about 150 drones were shot down over the region overnight, the largest attack there this year, and that several hit the port zone of Ust-Luga, a hub for Russian oil and grain exports, starting a fire and wounding three workers; St Petersburg's Pulkovo airport closed for a time. Russia's defence ministry said 627 Ukrainian drones were downed over 22 regions, the Sea of Azov and Crimea, and two people died when debris hit an apartment block in Yartsevo, Smolensk region. Estonia, Latvia and Lithuania issued drone alerts and Finland briefly restricted airspace in the eastern Gulf of Finland. It matters because Ukraine is pressing its campaign against Russia's energy exports even while its negotiators sit with Russia's."
+  sources:
+  - label: "Meduza: Ukrainian drones strike port in Russia's Leningrad region, sparking fire"
+    url: https://meduza.io/en/news/2026/11/11/ukrainian-drones-strike-port-in-russia-s-leningrad-region-sparking-fire
+  - label: "RFE/RL: Ukraine-Russia talks end in Abu Dhabi after night of air attacks"
+    url: https://www.rferl.org/a/ukraine-russia-talks-resume-in-abu-dhabi-amid-drone-attacks/33895197.html
+  - label: "The Moscow Times (Reuters): Ukrainian drones kill 2 in western Smolensk region as Baltics and Finland issue air alerts"
+    url: https://www.themoscowtimes.com/2026/11/11/ukrainian-drones-kill-2-in-western-smolensk-region-as-baltics-and-finland-issue-air-alerts-a94226
+  - label: "ABC News: Ukraine and Russia exchange hundreds of drones before day 2 of Abu Dhabi peace talks"
+    url: https://abcnews.com/International/ukraine-russia-exchange-hundreds-drones-day-2-abu/story?id=138038984
+- date: '2026-11-11'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russia hits six major substations in central Ukraine, cutting power in parts of eight regions"
+  summary: "Prime Minister Serhiy Koretsky said Russian strikes overnight hit six large substations in Vinnytsia, Kirovohrad, Zhytomyr and Cherkasy regions, damaged power lines in Kirovohrad and Rivne regions, and struck rail infrastructure in Dnipropetrovsk and Zhytomyr regions. Grid operator Ukrenergo reported outages in parts of eight regions, with the hardest situation in Kyiv, Dnipropetrovsk and Odesa regions, where about 135,000 consumers lost power after attacks on DTEK substations. It matters because Russia is targeting the nodes that move electricity between regions as winter begins, and the Abu Dhabi talks produced no energy truce."
+  sources:
+  - label: "Al Arabiya (Reuters): Russia hits six Ukrainian electricity facilities in four regions, PM says"
+    url: http://english.alarabiya.net/News/world/2026/11/11/russia-hits-six-ukrainian-electricity-facilities-in-four-regions-pm-says
+  - label: "Ukrainska Pravda: Russian attacks on Odesa Oblast leave 135,000 consumers without power"
+    url: https://www.pravda.com.ua/eng/news/2026/11/11/8062289
+  - label: "Current Ukraine: Russia attacked six large electrical substations in Ukraine, Koretsky"
+    url: https://kurs.com.ua/en/novost/1487904-rosija-atakuvala-shist-velikih-elektropidstancii-v-ukrayini-koreckii
+- date: '2026-11-10'
+  countries: [ARE, IRN, OMN]
+  category: military
+  conflict: iran-war-2026
+  headline: "An ADNOC vessel is damaged in an attack in UAE waters as Iran says three tankers are burning in Hormuz"
+  summary: "ADNOC Logistics and Services said one of its vessels was damaged in an attack in UAE territorial waters in the Gulf on the afternoon of 10 November, without naming the ship or an attacker. The same day UKMTO reported a tanker struck by an unidentified projectile 19 nautical miles northeast of Limah, Oman, with the crew safe, and Iran's Revolutionary Guards said three tankers were on fire in the Strait of Hormuz after using unauthorised routes. It is unclear whether the incidents overlap. It matters because attacks on Gulf shipping are continuing even as Trump calls new strikes on Iran unlikely and Qatar presses mediation."
+  sources:
+  - label: "ADNOC Logistics & Services: Statement, 10 November 2026"
+    url: https://adnocls.ae/en/news-and-media/press-releases/2026/november-10-statement
+  - label: "UKMTO Warning 201-26: Attack 19NM northeast of Lima, Oman"
+    url: https://www.ukmto.org/-/media/ukmto/products/20261110-ukmto_warning_201_26.pdf?rev=f047f3d39cdd4b40b9eb0c7f74f7ed22
+  - label: "Arab News (AFP): Iran says three oil tankers on fire in Hormuz"
+    url: https://www.arabnews.com/middle-east/iran-says-three-oil-tankers-on-fire-in-hormuz-3010988
+  - label: "The National: UAE ship attacked and damaged in Arabian Gulf"
+    url: https://www.thenationalnews.com/business/energy/2026/11/10/uae-ship-attacked-and-damaged-in-arabian-gulf/
+- date: '2026-11-10'
+  countries: [USA, IRN]
+  category: political
+  conflict: iran-war-2026
+  headline: "US House shelves the impeachment of Defense Secretary Hegseth by 211 votes to 204"
+  summary: "The Republican-led House voted 211 to 204 to refer Rep. Thomas Massie's articles of impeachment against Pete Hegseth to committee, ending the effort for the current Congress. Massie, the only Republican to vote against referral, accused Hegseth of taking the US to war with Iran without congressional approval and over strikes on alleged drug boats and the capture of Nicolás Maduro; Hegseth called the effort a 'farce' and Trump called the result an exoneration. It matters because the vote spares Hegseth for now, but Democrats take control of both houses on 3 January after a midterm campaign dominated by the Iran war."
+  sources:
+  - label: "NPR: House votes to effectively end the impeachment effort against Pete Hegseth"
+    url: https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth
+  - label: "The Hill: House GOP shelves Pete Hegseth impeachment articles"
+    url: https://thehill.com/policy/defense/6212136-house-shelves-hegseth-impeachment/
+  - label: "Al Arabiya (Reuters): Defiant Hegseth blasts impeachment effort ahead of House vote"
+    url: https://english.alarabiya.net/News/united-states/2026/11/10/us-defense-chief-calls-move-to-impeach-him-a-political-spectacle-
+- date: '2026-11-08'
+  countries: [COD, RWA]
+  category: military
+  conflict: eastern-drc-m23-war
+  headline: "Kabila's FRN rebels take Bunyakiri on Congo's National Road 3, and more than 160,000 people flee"
+  summary: "An offensive launched on the night of 6 to 7 November along National Road 3, which links Bukavu with Walikale and Kisangani, gave the Front for the Refoundation of the Nation (FRN), the rebel front that grew out of the Rwanda-backed M23 and is led by former president Joseph Kabila, the Bunyakiri area of Kalehe in South Kivu, where the army had a forward command post and supply point, as well as Bitale and Bulambika, RFI reported. The army says it still holds Mubugu and Hombo-Sud and is preparing a counterattack, while Kalehe civil society puts the advance at about 60 km and the number displaced at more than 160,000. It matters because the road is the army's supply line to the Walikale front, and the push is FRN's biggest gain since it was launched in October."
+  sources:
+  - label: "RFI via AllAfrica: FRN offensive in South Kivu, several localities fall under its control"
+    url: https://fr.allafrica.com/stories/202611100235.html
+  - label: "The Observer (URN): FRN/M23 rebels take Bunyakiri Centre (in report on 66 soldiers sentenced)"
+    url: https://observer.ug/news/drc-66-soldiers-sentenced-to-death-for-cowardice
+- date: '2026-11-06'
+  countries: [COD]
+  category: military
+  conflict: eastern-drc-m23-war
+  headline: "Congolese military court sentences 66 soldiers to death for fleeing rebels in Walikale"
+  summary: "The Goma garrison military court, sitting in Walikale in North Kivu, sentenced 66 soldiers of the army's 3415th Regiment to death for cowardice, mutiny and disobeying orders after a 12-day trial of 71 defendants accused of abandoning positions during clashes with FRN fighters; four were acquitted and a sergeant got 10 years. Another 27 soldiers were sentenced to death in October, and RFI counts at least 381 death sentences for soldiers since the start of 2025, though no executions have been carried out since Congo lifted its moratorium in March 2024. It matters because the army is relying on mass trials to stop desertions as the rebels advance."
+  sources:
+  - label: "BBC: DR Congo sentences 66 soldiers to death for being 'cowards'"
+    url: https://www.bbc.com/news/articles/cmreye1q3dnjo
+  - label: "Daily Pioneer: DR Congo military court sentences 66 soldiers to death for cowardice and mutiny"
+    url: https://dailypioneer.com/world/dr-congo-military-court-sentences-66-soldiers-to-death-for-cowardice-and-mutiny
+- date: '2026-11-10'
+  countries: [ISR]
+  category: political
+  headline: "Eisenkot cancels coalition talks with Likud after Netanyahu's speech at the new Knesset's swearing-in"
+  summary: "Gadi Eisenkot, who holds the mandate to form Israel's next government, ordered his Yashar party to cancel a negotiating meeting with Likud set for 11 November, calling Netanyahu's speech at the swearing-in of the 26th Knesset divisive; Likud said it remained open to talks and attacked his contacts with Arab parties. Eisenkot told the Knesset he wanted an 'emergency government' as soon as possible but would not give way on military service for the ultra-Orthodox, while Avigdor Liberman dropped his objection to sitting with Shas and United Torah Judaism but said he would not back any government that includes Netanyahu. It matters because Eisenkot's 67-seat bloc needs either the ultra-Orthodox parties or Arab support to govern, and both routes divide it."
+  sources:
+  - label: "Israel Hayom: Eisenkot cancels Likud coalition talks over Netanyahu's Knesset speech"
+    url: https://www.israelhayom.com/2026/11/10/eisenkot-cancels-likud-coalition-talks-over-netanyahus-knesset-speech
+  - label: "Anadolu via A News: Eisenkot calls for swift formation of 'emergency government'"
+    url: https://www.anews.com.tr/world/2026/11/10/eisenkot-calls-for-swift-formation-of-emergency-government-amid-israeli-coalition-talks
+  - label: "Jerusalem Post: Eisenkot says opposition bloc will 'not surrender' on conscription"
+    url: https://www.jpost.com/israel-election-2026/article-914472
+- date: '2026-11-10'
+  countries: [KEN, SOM]
+  category: military
+  conflict: somalia-al-shabaab
+  headline: "Suspected al-Shabaab gunmen kill eight in an ambush on road workers in Kenya's Mandera county"
+  summary: "Two police reservists, five construction workers and a driver were killed in an ambush near the Somali border at about 7 a.m., police and a regional official said; the attackers were believed to have crossed from Somalia. Al-Shabaab often attacks Kenyan targets to pressure Nairobi into withdrawing its troops from the African Union mission in Somalia. It matters because the raid comes as Uganda, the mission's largest contributor, has begun a phased withdrawal, raising fears of an al-Shabaab resurgence along the border."
+  sources:
+  - label: "Reuters: Eight people killed in Kenya's northeast in suspected al Shabaab attack"
+    url: https://www.reuters.com/world/africa/eight-people-killed-kenyas-northeast-suspected-al-shabaab-attack-2026-11-10
+- date: '2026-11-09'
+  countries: [CHN, USA]
+  category: economic
+  headline: "China extends its pause on a 24 percent tariff and export controls on US firms for two more months"
+  summary: "China's State Council tariff commission said the suspension of a 24 percent additional tariff on US goods will continue for two months from 10 November, keeping a 10 percent tariff in place, and the commerce ministry extended its suspension of export controls on 16 US entities and of unreliable entity list measures on 11 others. The US has extended its own pauses on Section 301 exclusions, shipping fees and an export-control rule to early January. It matters because both sides are keeping the trade truce alive to 10 January 2027 ahead of the APEC summit in Shenzhen on 18 and 19 November."
+  sources:
+  - label: "Gov.cn (Xinhua): China extends suspension of 24 pct additional tariff on U.S. goods for two months"
+    url: https://english.www.gov.cn/news/202611/09/content_WS6af18d6bc6d00ca5f9a0e308.html
+  - label: "Xinhua: China extends suspension of export controls on 16 U.S. entities"
+    url: https://english.news.cn/20261109/2174a223abd34301aea26f3978c89e77/c.html
+  - label: "Global Times: China extends pause on US tariffs, unreliable entity list measures on certain US firms"
+    url: https://www.globaltimes.cn/page/202611/1373982.shtml
 - date: '2026-11-10'
   countries: [UKR, RUS, USA, ARE]
   category: diplomatic
@@ -2656,6 +2814,15 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2026-11-28'
+  countries: [TWN]
+  event: "Taiwan local elections for mayors, county chiefs and borough chiefs"
+- date: '2026-12-06'
+  countries: [THA]
+  event: "Thai no-confidence debate against Prime Minister Anutin and 17 ministers expected (6-9 December, votes 10 December)"
+- date: '2026-11-15'
+  countries: [PAK, IRN, TUR, AZE, KAZ, KGZ, TJK, TKM, UZB]
+  event: "Economic Cooperation Organization foreign ministers meet in Islamabad (15-16 November) without Afghanistan"
 - date: '2026-11-12'
   countries: [NLD]
   event: "Dutch lower house votes on the government's 2027 tax plan, which lacks a secure majority"

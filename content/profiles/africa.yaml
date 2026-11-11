@@ -299,13 +299,16 @@ COD:
   society: >-
     Congo has vast reserves of cobalt, copper and coltan that power phones and electric cars, yet most people live on under $2 a day. Kinshasa has grown into a megacity of around 17 million. Fighting in the east has displaced several million people, and armed groups and soldiers alike have been accused of mass sexual violence. Artisanal miners, including children, dig much of the cobalt by hand.
   update: >-
-    On 12 October former president Joseph Kabila announced in Goma a political-military coalition,
-    the Front for the Refoundation of the Nation, which brings together M23, Corneille Nangaa's
-    Congo River Alliance and Twirwaneho, with the stated aim of removing Tshisekedi 'by all means,
-    including force'. M23 commander Sultani Makenga was named its army chief. Kinshasa accused
-    Kabila of planning a general attack.
-  update_date: 2026-10-18
+    The rebel front launched by former president Joseph Kabila on 12 October, the Front for the
+    Refoundation of the Nation (FRN), which grew out of the Rwanda-backed M23, opened an offensive
+    along National Road 3 on 7 November and took Bunyakiri, Bitale and Bulambika in South Kivu's
+    Kalehe territory, an army forward base on the supply route to Walikale; more than 160,000 people
+    fled, according to local civil society. A military court sentenced 66 soldiers to death on
+    6 November for abandoning positions. Doha talks with the rebels have stalled since FRN's creation.
+  update_date: 2026-11-11
   sources_extra:
+    - {label: "RFI via AllAfrica: FRN offensive in South Kivu, several localities fall", url: "https://fr.allafrica.com/stories/202611100235.html"}
+    - {label: "BBC: DR Congo sentences 66 soldiers to death", url: "https://www.bbc.com/news/articles/cmreye1q3dnjo"}
     - {label: "EWN (AFP): Kabila forms new force with M23", url: "https://www.ewn.co.za/2026/10/13/former-dr-congo-president-kabila-forms-new-force-with-m23-armed-group"}
     - {label: "Africanews: DRC accuses Kabila of planning 'general attack'", url: "https://www.africanews.com/2026/10/18/drc-accuses-ex-president-kabila-of-planning-general-attack-on-the-country/"}
     - {label: "BBC: Kabila coalition", url: "https://www.bbc.com/news/articles/c8y56re7ldqyo"}
@@ -1068,6 +1071,8 @@ SOM:
     both al-Shabaab and forces loyal to ousted South West state leader Abdiaziz Laftagareen.
   update_date: 2026-11-06
   sources_extra:
+    - {label: "Reuters: Tanzania opposition leader cleared of treason, sentenced for inciting unrest", url: "https://www.reuters.com/world/africa/tanzanian-court-clears-opposition-leader-lissu-treason-2026-11-06"}
+    - {label: "BBC: Tundu Lissu found guilty of incitement but acquitted of treason", url: "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo"}
     - {label: "Security Council Report: Somalia, November 2026 Monthly Forecast", url: "https://www.securitycouncilreport.org/monthly-forecast/2026-11/somalia-44.php"}
     - {label: "Somalia Today: Somali president sacks chief justice, restores predecessor", url: "https://somaliatoday.com/politics/somali-president-sacks-chief-justice-restores-predecessor-2026-11-04"}
     - {label: "AA: UN mission in Somalia to end operations on 31 October", url: "https://www.aa.com.tr/en/americas/un-mission-in-somalia-to-end-operations-on-oct-31-after-decades-of-support/4101656"}
@@ -1163,12 +1168,14 @@ TZA:
     Tanzania has long been among Africa's most peaceful countries. Tourism to Kilimanjaro, the Serengeti and Zanzibar, plus gold and farming, drive growth. Maasai communities have been evicted from Ngorongoro to make way for conservation and hunting, drawing international criticism.
 
   update: >-
-    A year after the October 2025 election killings, the government has faced no formal accountability
-    and families say they cannot publicly mourn. The ruling CCM also split at the top: Vice President
-    Emmanuel Nchimbi resigned on 25 August 2026, reportedly after disagreeing with President Samia over
-    the post-election crackdown, and was expelled from the party the next day. Parliament approved
-    Energy Minister Deogratius Ndejembi as vice president, and he was sworn in on 29 August.
-  update_date: 2026-11-01
+    On 6 November the High Court in Dar es Salaam cleared opposition leader Tundu Lissu of treason,
+    which can carry the death penalty, but convicted him of incitement over calls for electoral reform
+    and sentenced him to four years in jail; his Chadema party says he will appeal. A year after the
+    October 2025 election killings no one has been held to account, and Commonwealth deadlines for
+    Lissu's release and reforms passed without sanctions. Vice President Emmanuel Nchimbi resigned in
+    August after reportedly disagreeing with President Samia over the crackdown and was replaced by
+    Deogratius Ndejembi.
+  update_date: 2026-11-06
   sources_extra:
     - {label: "The Chanzo: Ndejembi sworn in as Tanzania's new vice president", url: "https://thechanzo.com/2026/08/29/ndejembi-sworn-in-as-tanzanias-new-vice-president/"}
     - {label: "Africanews: Tanzania's political crisis deepens after VP resignation", url: "https://www.africanews.com/amp/2026/08/27/tanzanias-political-crisis-deepens-after-vp-resignation/"}

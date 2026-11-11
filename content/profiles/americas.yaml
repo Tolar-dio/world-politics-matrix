@@ -325,6 +325,16 @@ SLV:
     El Salvador is Central America's smallest country, and pupusas, thick corn tortillas stuffed with cheese or beans, are its national dish, with their own national day. Archbishop Óscar Romero, murdered in 1980 and canonised in 2018, remains a towering figure. Surf Town on the Pacific coast is a tourism showcase.
   society: >-
     A 1980 to 1992 civil war killed some 75,000. Gangs like MS-13, formed among refugees in Los Angeles, then dominated neighbourhoods until Bukele's state of emergency since 2022 jailed more than 80,000 people, over 1 percent of adults. Murders have fallen dramatically, and Bukele's approval is very high. The US has sent deportees to the CECOT mega-prison.
+  update: >-
+    Bukele has sent more than 2,000 soldiers to Haiti since late October, after four Salvadoran members
+    of the UN-backed Gang Suppression Force went missing in an ambush on 18 October; most of the new
+    troops operate outside that force. On 10 November he said Salvadoran troops had destroyed the
+    headquarters of the 400 Mawozo gang, in a raid the Miami Herald reported killed about 20 people,
+    prompting calls to respect human rights law.
+  update_date: 2026-11-10
+  sources_extra:
+    - {label: "France 24 (AFP): Bukele says Salvadoran troops destroyed gang HQ in Haiti", url: "https://www.france24.com/en/live-news/20261110-bukele-says-salvadoran-troops-destroyed-gang-hq-in-haiti"}
+    - {label: "Al Jazeera: Salvadoran troops target Haitian gang, leaving 20 dead", url: "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead"}
 
 GRD:
   pop: 0.12

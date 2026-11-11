@@ -158,14 +158,15 @@ BIH:
   society: >-
     The 1992 to 1995 war killed about 100,000 people, including 8,000 Bosniak men and boys at Srebrenica. The Dayton accords ended it but created a complex state of two entities, the Federation and Republika Srpska, overseen by an international High Representative. Emigration of young people is high, and politics is dominated by ethnic parties.
   baseline: >-
-    Milorad Dodik was stripped of the Republika Srpska presidency in 2025 after a conviction for defying the High Representative; his party's candidate won a snap election to replace him. In the 4 October 2026 general election, preliminary results showed Denis Bećirović and Željka Cvijanović holding the Bosniak and Serb presidency seats and Darijana Filipović of HDZ taking the Croat seat, with Dodik's SNSD again winning Republika Srpska's presidency.
-  leaders: {state: "Three-member Presidency (preliminary October 2026 results: Denis Bećirović, Željka Cvijanović, Darijana Filipović)", gov: "Chair of the Council of Ministers Borjana Krišto"}
+    Milorad Dodik was stripped of the Republika Srpska presidency in 2025 after a conviction for defying the High Representative; his party's candidate won a snap election to replace him. In the 4 October 2026 general election Denis Bećirović and Željka Cvijanović held the Bosniak and Serb presidency seats and Darijana Filipović of HDZ took the Croat seat, with Dodik's SNSD again winning Republika Srpska's presidency; the Central Election Commission confirmed the final results on 3 November, opening what may be months of coalition talks among SNSD, SDA and HDZ BiH.
+  leaders: {state: "Three-member Presidency elected October 2026 (results confirmed 3 November): Denis Bećirović, Željka Cvijanović, Darijana Filipović", gov: "Chair of the Council of Ministers Borjana Krišto"}
   power: >-
     A federal state under the Dayton constitution: a three-member presidency, a Council of Ministers
     and a two-chamber parliament, with the Federation and Republika Srpska holding most powers. An
     international High Representative can impose laws and dismiss officials.
   story: election
   sources:
+    - {label: "BGNES (RFE/RL): Bosnia and Herzegovina confirms final election results, coalition talks to begin", url: "https://www.bgnes.com/politics/bosnia-and-herzegovina-confirms-final-election-results-coalition-talks-to-begin"}
     - {label: "European Western Balkans: preliminary results", url: "https://europeanwesternbalkans.com/2026/10/05/what-are-the-preliminary-results-of-bihs-general-elections/"}
 
 BGR:
@@ -896,6 +897,18 @@ SVK:
     Slovakia's castles, wooden churches and the High Tatras mountains are national treasures. Folk traditions, including the fujara shepherd's flute, are UNESCO-listed. Ice hockey is the biggest sport. Slovaks and Czechs understand each other's languages and remain close since their peaceful 1993 split.
   society: >-
     Slovakia makes more cars per head than any other country, with plants for Volkswagen, Kia, Stellantis and Jaguar Land Rover. Fico survived an assassination attempt in 2024. His government has cut military aid to Ukraine and moved closer to Moscow, while large protests in Bratislava have opposed his course.
+  update: >-
+    Fico's Smer-Hlas-SNS coalition lost its majority on 3 November when MP Roman Malatinec joined
+    former environment minister Tomáš Taraba's new project, leaving it with 75 of 150 seats. On
+    11 November Taraba's three-member group voted with the opposition to sink a government amendment
+    on benefits for cooperating defendants, which Fico had called a priority, 75 votes to 74 with one
+    abstention. The opposition calls it a minority government and wants early elections, which Fico
+    rejects.
+  update_date: 2026-11-11
+  sources_extra:
+    - {label: "Týždeň (TASR): Parliament rejects amendment on benefits for cooperating defendants", url: "https://www.tyzden.sk/politika/140918/udalost-dna-parlament-neschvalil-novelu-ktora-mala-menit-system-benefitov-pre-kajucnikov/"}
+    - {label: "Novinky.cz (ČTK): Fico's coalition has lost its majority in parliament, vote confirms", url: "https://www.novinky.cz/clanek/zahranicni-evropa-ficova-koalice-ztratila-v-parlamentu-vetsinu-potvrdilo-hlasovani-40607812"}
+    - {label: "Pravda.sk: Smer returns to disputed law on cooperating defendants", url: "https://www.pravda.sk/spravy/domace/clanok/2075665-smer-sa-vracia-k-spornemu-zakonu-o-kajucnikoch-tentoraz-moze-narazit-na-problem-vo-vlastnych-radoch"}
 
 SVN:
   pop: 2.1
@@ -1005,15 +1018,17 @@ UKR:
   society: >-
     Russia's full-scale invasion has killed tens of thousands of civilians and soldiers, displaced millions and occupied about a fifth of the country. Ukraine has become a world leader in drone warfare. The economy depends on Western aid. Corruption scandals, including one in the energy sector in 2025, remain sensitive.
   update: >-
-    Russia, Ukraine and the US are due to hold US-mediated talks in Abu Dhabi on 10 and 11 November,
-    the first such round since February, with Rustem Umerov leading Ukraine's delegation and Vladimir
-    Medinsky Russia's. Strikes have intensified beforehand: Russian guided bombs on an aid point in
-    Komyshuvakha on 2 November killed at least 55 people, and on 7 November 36 ballistic missiles and
-    172 drones hit energy sites around Kyiv and a Dnipro bridge, while Ukraine struck Russian
-    refineries. On the ground, Ukraine has regained a little territory since September, though Russian
-    troops are about 9 km from Kramatorsk.
-  update_date: 2026-11-07
+    The first three-way US-Russia-Ukraine talks since February, held in Abu Dhabi on 10 and 11
+    November with Rustem Umerov leading Ukraine's team and Vladimir Medinsky Russia's, ended with
+    agreement on a large prisoner exchange, put by Zelensky at 1,000 to 1,500 a side, but no ceasefire
+    or energy truce; Russia again raised its territorial demands. Strikes continue on both sides:
+    on 11 November Russia hit six major substations in central Ukraine and Ukrainian drones set the
+    Baltic port of Ust-Luga on fire. On the ground, Ukraine has regained a little territory since
+    September, though Russian troops are about 9 km from Kramatorsk.
+  update_date: 2026-11-11
   sources_extra:
+    - {label: "The Moscow Times (Reuters): Russia and Ukraine agreed to prisoner exchange after latest peace talks", url: "https://www.themoscowtimes.com/2026/11/11/russia-and-ukraine-agreed-to-prisoner-exchange-after-latest-peace-talks-kremlin-adviser-says-a94227"}
+    - {label: "Al Arabiya (Reuters): Russia hits six Ukrainian electricity facilities in four regions", url: "http://english.alarabiya.net/News/world/2026/11/11/russia-hits-six-ukrainian-electricity-facilities-in-four-regions-pm-says"}
     - {label: "RFE/RL: Russia strikes Kyiv's energy infrastructure, Northern Bridge ahead of Abu Dhabi talks", url: "https://www.rferl.org/a/russia-strikes-kyiv-ukraine-trilateral-talks/33892815.html"}
     - {label: "AP via KSAT: Missiles target Kyiv and injure 5 as Ukraine prepares for talks with Russia and the US", url: "https://www.ksat.com/news/world/2026/11/07/missiles-target-kyiv-and-injure-5-as-ukraine-prepares-for-talks-with-russia-and-the-us/"}
     - {label: "Reuters: Putin hosts Trump envoy, agrees to new talks", url: "https://www.reuters.com/world/europe/putin-hosts-trump-envoy-new-ukraine-peace-talks-frees-us-citizen-held-russia-2026-10-21/"}

@@ -1032,6 +1032,7 @@ conflicts:
   type: civil-war
   intensity: high
   status: active
+  updated: '2026-11-11'
   started: 2025-01-27 (M23 capture of Goma; M23 resurgence began in late 2021)
   countries:
   - COD
@@ -1082,7 +1083,7 @@ conflicts:
 
 
     From mid-August a government offensive with contractors pushed on Minembwe; on 17 Sept FRN/Twirwaneho fighters ambushed Vectus Global contractors near Mulima, wounding ex-Green Beret Tim Kennedy and killing a New Zealander. In September FARDC and Wazalendo made notable gains in southern Masisi (Kazinga, a hill near Kibabi, the Ufamandu villages) while the RP529 and RP1030 axes changed hands repeatedly. Burundian and Rwandan troops exchanged fire across the Kagera River on 5 Sept. On 12 Oct Kabila launched the FRN in Goma; the same week FRN fought a ten-day battle in the Kaziba and Walungu highlands, displacing 12,000+ households, and announced plans to march on Uvira and Kalemie.'
-  situation: 'As of late October 2026 M23/FRN controls Goma, Bukavu, Rutshuru, most of Masisi and Kalehe, the Rubaya mines and the Walungu-Kamanyola area, while the government holds Uvira, the Ruzizi Plain, Walikale and the Beni-Butembo axis. Active fronts: southern Masisi near Ngungu and Rubaya, the RP529 (Kibati, Nyabiondo) and RP1030 (Minjenje, Malemo toward Pinga) axes, the Kaziba-Walungu highlands toward Kamanyola and Luvungi, and the Minembwe highlands (Point Zero, Mulima, Rugezi, Gipimo). A Doha meeting was planned for late October and AU facilitators visited Kinshasa from 8 Oct, but FRN''s creation may derail talks.'
+  situation: 'M23/FRN controls Goma, Bukavu, Rutshuru, most of Masisi and Kalehe, the Rubaya mines and the Walungu-Kamanyola area, while the government holds Uvira, the Ruzizi Plain, Walikale and the Beni-Butembo axis. On the night of 6 to 7 Nov 2026 FRN opened an offensive along National Road 3 (Bukavu-Walikale-Kisangani) and took the Bunyakiri area of Kalehe, where FARDC had a forward command post and supply point, along with Bitale and Bulambika; FARDC sources told RFI a counterattack is being prepared and the army says it still holds Mubugu and Hombo-Sud, while Kalehe civil society puts the advance at about 60 km and says more than 160,000 people have fled. Other active fronts: southern Masisi near Ngungu and Rubaya, the RP529 and RP1030 axes, the Kaziba-Walungu highlands toward Kamanyola, and the Minembwe highlands. A Goma military court sentenced 66 FARDC soldiers to death on 6 Nov for fleeing in Walikale. FRN''s creation has stalled the Doha talks.'
   technical:
   - 'M23/ARC force generation: Tchanzu graduations of 9,350 (Oct 2025), 7,532 (Feb 2026) and 9,318 (about 20 July 2026); Rumangabo graduations of 7,437 (Sept 2025) and 1,518 special forces (Mar 2026) (KT Press, citing ceremony figures).'
   - UN Group of Experts (June 2026) estimated about 30,000 M23 combatants, including former FARDC, police and militia members.
@@ -1099,7 +1100,7 @@ conflicts:
   - 'Front-line pattern: hills and villages change hands within days (Kibati changed control at least three times in Sept 2026; Minjenje several times), so control should be mapped as contested belts.'
   - 'Regional escalation risk: Burundian and Rwandan troops exchanged fire near the Kagera River on 5 Sept 2026; Burundi deployed hundreds of soldiers and Imbonerakure along the border (CTP).'
   casualties: 'No consolidated toll for the window. Uvira offensive (Dec 2025): at least 400 killed (regional authorities and UN); 171 bodies found in two mass graves in Uvira (Feb 2026). ACLED: political violence in North and South Kivu rose 70% in 2025 vs 2024. Unverified claims include up to 470 government soldiers killed in Fizi in early Sept 2026 (M23-aligned outlet). A drone strike in Goma on 11 Mar 2026 killed three including a UNICEF staffer. Deaths in the window very likely exceeded 1,000 (inference from the Uvira toll and the scale of 2026 fighting).'
-  displaced: About 200,000 displaced by the Uvira offensive (Dec 2025, Reuters headline via Wikipedia); more than 12,000 households displaced in Kaziba in Oct 2026 (Actualite.cd via CTP); new displacement waves from Masisi and Walikale in Sept 2026 (AllAfrica). Rwanda said at least 3,000 Congolese refugees had returned in 2026, with 10,000 more planned in H2 2026. No current national IDP total retrieved.
+  displaced: More than 160,000 displaced by the FRN offensive around Bunyakiri, Kalehe, from 7 Nov 2026 (Kalehe civil society via RFI, 10 Nov 2026). About 200,000 displaced by the Uvira offensive (Dec 2025, Reuters headline via Wikipedia); more than 12,000 households displaced in Kaziba in Oct 2026 (Actualite.cd via CTP); new displacement waves from Masisi and Walikale in Sept 2026 (AllAfrica). Rwanda said at least 3,000 Congolese refugees had returned in 2026, with 10,000 more planned in H2 2026. No current national IDP total retrieved.
   zones:
   - name: Goma and Nyiragongo (M23/FRN)
     lat: -1.68
@@ -1185,6 +1186,10 @@ conflicts:
     event: Joseph Kabila launches the FRN in Goma as its president.
   - date: '2026-10-16'
     event: FRN announces plans to march on Uvira and Kalemie.
+  - date: '2026-11-06'
+    event: Goma garrison military court, sitting in Walikale, sentences 66 FARDC soldiers to death for cowardice and mutiny.
+  - date: '2026-11-08'
+    event: FRN offensive on National Road 3 takes Bunyakiri, Bitale and Bulambika in Kalehe; more than 160,000 displaced (RFI).
   outlook: Watch whether FRN attacks toward Uvira and the Ruzizi Plain, whether the late-October Doha meeting and a December round in Tanzania happen, whether Washington follows its sanctions with further pressure on Rwanda after the missed mid-July withdrawal expectation, the Burundi-Rwanda border, and the impact of the Ebola outbreak on operations in North Kivu.
   sources:
   - &id042
@@ -1222,6 +1227,12 @@ conflicts:
     url: https://en.wikipedia.org/wiki/2025_in_the_Democratic_Republic_of_the_Congo
   - label: 'AllAfrica: New waves of displaced after M23-FARDC fighting in Masisi and Walikale'
     url: https://fr.allafrica.com/stories/202609080349.html
+  - label: 'RFI via AllAfrica: FRN offensive in South Kivu, several localities fall (10 Nov 2026)'
+    url: https://fr.allafrica.com/stories/202611100235.html
+  - label: 'The Observer (URN): DRC, 66 soldiers sentenced to death for cowardice'
+    url: https://observer.ug/news/drc-66-soldiers-sentenced-to-death-for-cowardice
+  - label: 'BBC: DR Congo sentences 66 soldiers to death for being cowards'
+    url: https://www.bbc.com/news/articles/cmreye1q3dnjo
 - id: drc-adf-insurgency
   name: ADF (Islamic State Central Africa) insurgency in Ituri and North Kivu
   type: insurgency
