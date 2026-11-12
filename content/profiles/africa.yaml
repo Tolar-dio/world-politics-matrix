@@ -200,8 +200,10 @@ CMR:
     officials said he won with about 54 percent; his former minister Issa Tchiroma Bakary claimed
     victory, and protests were put down with deadly force. Tchiroma has since campaigned from
     abroad, including a complaint against Biya under universal jurisdiction in Switzerland, where
-    the president spends long stays. The Anglophone conflict in the west and Boko Haram attacks in
-    the Far North continue.
+    the president spends long stays, and in October 2026 the authorities suspended his party. On 9
+    November 2026 Biya called legislative and local elections for 7 February 2027 after two
+    postponements; a vice president, a post restored in April, has yet to be named. The Anglophone
+    conflict in the west and Boko Haram attacks in the Far North continue.
   leaders: {state: "President Paul Biya, since 1982", gov: "Prime Minister Joseph Dion Ngute"}
   power: >-
     A presidential republic in which power is concentrated in the presidency. Biya governs largely
@@ -211,6 +213,7 @@ CMR:
   sources:
     - {label: "Hespress: Biya sworn in for an eighth term", url: "https://en.hespress.com/124973-124973.html"}
     - {label: "Camer.be: Tchiroma's case in Switzerland", url: "https://www.camer.be/93933/40:1/cameroun-competence-universelle-tchiroma-attaque-biya-en-suisse-cameroon.html"}
+    - {label: "Jamaica Observer (AFP): Cameroon president calls elections February 7", url: "https://www.jamaicaobserver.com/2026/11/09/cameroon-president-calls-elections-february-7/"}
 
 CAF:
   pop: 5.5

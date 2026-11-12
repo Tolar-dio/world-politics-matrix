@@ -1268,7 +1268,8 @@ conflicts:
 
     The ADF''s method is terror: roadblocks before massacres, fighters disguised as soldiers or Wazalendo, attacks on hospitals and churches, and abductions for labour and recruitment. Why it matters: it is the deadliest killer of civilians in eastern Congo, and Washington''s focus on M23 leaves this front comparatively neglected.'
   year: ADF killed 19 civilians at Mukondo (13 Oct 2025), at least 17 to 29 at Byambwe/Biambe hospital in Lubero (14-15 Nov 2025) and at least 50 at Matoto and Makoko (20 Nov). In 2026 it killed at least 16 in Lubero villages (2 Jan), 25 in Ituri (25 Jan), 66 in Irumu territory (8 Feb), at least 43 in Mambasa (2 Apr), 26-40 in Ituri and North Kivu (7 May), 20 in Beni territory (31 May), 10-30 near Beni (3 June) and 13 at Banana Ecole near Mambasa (8 Aug). Congolese and Ugandan forces freed at least 200 captives along the Epulu river (20 Apr). On 30 Apr the ADF clashed with Congolese forces at Suka na Mboka in Haut-Uele, about 50 km north of Ituri, near the Kibali gold mine. From 15 May an Ebola (Bundibugyo) outbreak in Ituri became the deadliest in DRC history (2,325+ deaths by 17 Aug), with mobs burning health facilities in Irumu and Djugu.
-  situation: As of late October 2026 the ADF remains active in Beni and Lubero territories and has shifted weight north into Irumu and Mambasa (Ituri) and toward Haut-Uele. UPDF-FARDC operations continue but have not stopped massacres. Ebola transmission is rising again in North Kivu (Bloomberg via CTP), complicating both security and humanitarian operations.
+  updated: '2026-11-12'
+  situation: "As of 12 November 2026 the ADF remains active in Beni and Lubero territories and has shifted weight north into Irumu and Mambasa (Ituri) and toward Haut-Uele. Over 8 to 11 November it killed at least 22 civilians and abducted at least 10 in raids on eight communities in Mambasa territory (AP, Radio Okapi), after killing at least 30 in Beni territory on 5 November (OCHA). UPDF-FARDC operations continue but have not stopped massacres. Insecurity is disrupting the Ebola response in Ituri and North Kivu, where the outbreak has passed 11,000 confirmed cases."
   technical:
   - 'Massacre method: roadblocks on main roads, then killings of trapped civilians with machetes and knives, sometimes beheadings; burning of homes and health centres (Wikipedia; ACLED).'
   - 'Disguise: fighters pose as soldiers, security officers or Wazalendo to gain access (Wikipedia).'
@@ -1326,8 +1327,12 @@ conflicts:
     event: Ebola outbreak confirmed in Ituri.
   - date: '2026-08-08'
     event: ADF kills 13 at Banana Ecole near Mambasa.
+  - {date: "2026-11-05", event: "ADF attack in Beni territory kills at least 30 civilians and destroys a health centre (OCHA via UN News)."}
+  - {date: "2026-11-11", event: "ADF raids on eight communities in Mambasa territory over two days kill at least 22 civilians and abduct at least 10 (AP, Radio Okapi)."}
   outlook: Watch the ADF's northward drift toward Haut-Uele and the Kibali mine, any change in Ugandan force posture, and the interaction of ADF attacks with the Ebola response in Ituri and North Kivu.
   sources:
+  - {label: "AP via CP24: Islamic State group-affiliated rebels kill at least 22 in Congo's eastern region", url: "https://www.cp24.com/news/world/2026/11/11/islamic-state-group-affiliated-rebels-kill-at-least-22-in-congos-eastern-region/"}
+  - {label: "UN News: World News in Brief: Civilians killed in DR Congo", url: "https://news.un.org/en/story/2026/11/1168757"}
   - label: 'Wikipedia: Allied Democratic Forces insurgency'
     url: https://en.wikipedia.org/wiki/Allied_Democratic_Forces_insurgency
   - *id011
@@ -2247,3 +2252,22 @@ battles:
   sources:
   - *id047
   - *id048
+- id: mambasa-adf-raids-nov-2026
+  name: ADF raids in Mambasa territory
+  conflict: drc-adf-insurgency
+  tier: mid
+  start: '2026-11-08'
+  end: '2026-11-11'
+  place: Eight communities including Mingazi, Amani, Lelesi and Mitume (Babila Babombi chiefdom), Mambasa territory, Ituri, DR Congo; mapped at Mambasa, approximate
+  lat: 1.3597
+  lng: 29.0386
+  sides:
+  - Allied Democratic Forces (Islamic State Central Africa Province)
+  - Civilians; FARDC sweep operations afterwards
+  outcome: ADF fighters raided villages over several days, burning homes and motorcycles and abducting residents; the army launched sweeps in Nduye, Biakato and the Bakaiko forest.
+  forces: Not reported.
+  losses: At least 22 civilians killed and at least 10 abducted, a provisional toll (civil society groups via AP); about 23 killed since 8 November, 12 of them on 11 November (Radio Okapi).
+  significance: Another mass-casualty ADF attack in Ituri, the epicentre of an Ebola outbreak with more than 11,000 cases, where violence repeatedly halts the response.
+  sources:
+  - {label: "AP via CP24: Islamic State group-affiliated rebels kill at least 22 in Congo's eastern region", url: "https://www.cp24.com/news/world/2026/11/11/islamic-state-group-affiliated-rebels-kill-at-least-22-in-congos-eastern-region/"}
+  - {label: "Radio Okapi: 12 civils tués dans de nouvelles attaques attribuées aux ADF à Mambasa", url: "https://radiookapi.net/2026/11/12/actualite/securite/12-civils-tues-dans-de-nouvelles-attaques-attribuees-aux-adf-mambasa"}

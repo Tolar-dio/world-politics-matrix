@@ -1,5 +1,111 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-12'
+  countries: [UKR, RUS, USA]
+  category: diplomatic
+  conflict: russia-ukraine-war
+  headline: "US envoys Witkoff and Kushner fly to Moscow to put new proposals to Putin after the Abu Dhabi round"
+  summary: "Steve Witkoff and Jared Kushner landed at Moscow's Vnukovo airport on 12 November and were met by Kremlin envoy Kirill Dmitriev before talks with Vladimir Putin; they are due to brief Zelensky in Dublin afterwards. Kushner said Washington had aligned its proposals with Ukraine and its European partners but that 'significant differences remain', while Russian negotiator Vladimir Medinsky said the sides had 'moved closer to peace' and Ukraine's Davyd Arakhamia spoke of momentum toward a deal by the New Year. It matters because the shuttle tests whether the prisoner-exchange deal from Abu Dhabi can grow into talks on territory, where Kyiv rejects Moscow's demand for all of Donbas."
+  sources:
+  - label: "ABC News: Witkoff and Kushner arrive in Moscow to meet Putin, discuss Ukraine"
+    url: https://abcnews.com/International/witkoff-kushner-arrive-moscow-meet-putin-discuss-ukraine/story?id=138070892
+  - label: "Meduza (TASS): Witkoff and Kushner arrive in Moscow for talks with Putin"
+    url: https://meduza.io/en/news/2026/11/12/witkoff-and-kushner-arrive-in-moscow-for-talks-with-putin
+  - label: "Al Jazeera: US envoys arrive in Moscow for Russia-Ukraine talks with Putin"
+    url: https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin
+- date: '2026-11-12'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russian strikes kill 10 across Ukraine, four of them at a market in Chornomorsk, hours after the Abu Dhabi talks end"
+  summary: "Ukraine's air force said Russia launched 123 long-range drones, 73 of them jet-powered, plus Iskander-M, Zircon and other missiles overnight into 12 November, and that 89 drones and five Banderol missiles were stopped while drones hit 17 locations. Regional officials reported at least four killed in a strike on a market in Chornomorsk, Odesa region, one killed and seven injured in Kyiv, two each in Donetsk and Kharkiv regions and one in Kherson region, for 10 dead and 40 injured over the day; more than 160 settlements in Rivne region lost power. Russia said it downed 71 Ukrainian drones. It matters because the strike war has not slowed for the diplomacy, and Zelensky said disruption to the Starshield satellite network was weakening Ukraine's interception of jet drones."
+  sources:
+  - label: "Kyiv Independent: Russian attacks kill 10, injure 40 across Ukraine over past day, as peace talks end"
+    url: https://kyivindependent.com/russian-attacks-kill-10-injure-40-across-ukraine-over-past-day-as-peace-talks-end/
+  - label: "ABC News: Witkoff and Kushner arrive in Moscow (overnight strike figures)"
+    url: https://abcnews.com/International/witkoff-kushner-arrive-moscow-meet-putin-discuss-ukraine/story?id=138070892
+- date: '2026-11-12'
+  countries: [IRL, UKR, CAN]
+  category: diplomatic
+  headline: "More than 40 European leaders meet in Dublin for the European Political Community summit, with Ukraine's funding on the table"
+  summary: "Taoiseach Micheál Martin hosted the ninth European Political Community summit at the Convention Centre Dublin, with Zelensky, Canada's Mark Carney, NATO's Mark Rutte and EU leaders attending and sessions on economic security, energy costs, defence and foreign interference; Ireland ran its largest security operation, including counter-drone systems. French minister Benjamin Haddad said the EU would adopt new sanctions on Russia on Monday covering 150 more entities and 50 banks, and Ukraine's funding needs for next year are put at 70 billion euros. It matters because Europe is trying to keep a seat in US-led peace talks that Moscow wants to keep it out of; no communiqué was planned."
+  sources:
+  - label: "RTÉ: 50 leaders in Dublin for State's largest diplomatic event"
+    url: https://www.rte.ie/news/eu-presidency/2026/1112/1598891-epc-summit/
+  - label: "Al Jazeera: US envoys arrive in Moscow for Russia-Ukraine talks with Putin"
+    url: https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin
+- date: '2026-11-11'
+  countries: [ISR, IRN]
+  category: military
+  conflict: iran-war-2026
+  headline: "Israel's caretaker cabinet reportedly orders the army to step up preparations for a possible new attack on Iran"
+  summary: "Public broadcaster KAN reported that the security cabinet chaired by caretaker Prime Minister Benjamin Netanyahu ordered the military to increase readiness for a possible strike on Iran, directives KAN said 'could trigger a war'; the scope and timing were not disclosed. The report surfaced after Gadi Eisenkot, who holds the mandate to form the next government, wrote to Netanyahu, as reported by Ynet, that only 46 members of the Knesset still back him and urging him not to deploy forces without 'a direct and immediate threat'. Iran's security chief Mohsen Rezaei warned that any base used in a new war would be a legitimate target. It matters because a lame-duck government could restart the war just as Washington says it no longer needs major combat."
+  sources:
+  - label: "Al Jazeera: Iran warns of expanded retaliation as Israel reportedly readies to attack"
+    url: https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack
+  - label: "Türkiye Today: Israel orders military to prepare for Iran attack as Eisenkot warns Netanyahu"
+    url: https://www.turkiyetoday.com/region/israel-orders-military-to-prepare-for-iran-attack-as-eisenkot-warns-netanyahu-3232218
+- date: '2026-11-11'
+  countries: [IRN, USA]
+  category: diplomatic
+  conflict: iran-war-2026
+  headline: "Iran rejects moving its enriched uranium abroad and says Hormuz stays shut until its seven conditions are met"
+  summary: "Tehran rejected a US proposal to send its stock of 60 percent enriched uranium to a third country, and security chief Mohsen Rezaei called reports of continuing talks 'a pure lie', saying the Strait of Hormuz would not reopen until Washington answers Iran's seven conditions, which include lifting sanctions and the blockade and ending Israel's attacks on Lebanon. Parliament Speaker Mohammad Bagher Ghalibaf, the lead negotiator, told Al Jazeera the strait would 'never return' to its pre-war status, while Secretary of State Marco Rubio said in Paris that economic pressure was working so well that major combat was not needed. It matters because the gap on both the nuclear stockpile and the strait keeps oil high: Brent settled at 92.76 dollars on 11 November."
+  sources:
+  - label: "Al Jazeera (Reuters): Iran denies talks with US, says Hormuz will stay shut until demands are met"
+    url: https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met
+  - label: "Al Jazeera: Hormuz Strait will 'never return' to pre-war status, Iran's Ghalibaf says"
+    url: https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf
+  - label: "Al Jazeera: Iran warns of expanded retaliation as Israel reportedly readies to attack"
+    url: https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack
+- date: '2026-11-12'
+  countries: [PSE, ISR]
+  category: military
+  conflict: israel-hamas-gaza
+  headline: "Israeli strike on the surgical wing of Gaza's Nasser Hospital kills six, including a surgeon"
+  summary: "Gaza's Health Ministry said an Israeli air strike in the early hours of 12 November hit the surgical department of Nasser Hospital in Khan Younis, one of the few functioning hospitals left, killing six people including general surgeon Rizk Abu Shaira and wounding at least 20 to 28; surgery, radiology and the laboratory were suspended and the hospital director said no warning was given. The Israeli military said it struck a senior Hamas militant and others using the complex as a command centre, without giving evidence. It matters because health officials count 1,622 Palestinians killed since the October 2025 ceasefire, and strikes on hospitals deepen pressure on Israel over the stalled second phase."
+  sources:
+  - label: "AP via Philadelphia Inquirer: Israeli strike on a Gaza hospital kills 6 people, including a doctor"
+    url: https://www.inquirer.com/news/nation-world/israel-strikes-gaza-hospital-deaths-20261112.html
+  - label: "ABC News (Australia): Six killed in Israeli air strike on Gaza's Nasser Hospital"
+    url: https://www.abc.net.au/news/2026-11-12/deadly-israeli-air-strike-nasser-hospital-gaza/107379926
+- date: '2026-11-11'
+  countries: [PAK, AFG]
+  category: military
+  conflict: pakistan-insurgencies
+  headline: "Pakistani Taliban ambush kills 10 police officers in Kohat as 18 attackers die in the fighting"
+  summary: "Khyber Pakhtunkhwa police said 10 officers were killed and 12 wounded when gunmen opened fire on a police convoy returning from an operation against illegal gold mining in the Gumbat area of Kohat district, and that 18 attackers were killed; an official told AFP two police vehicles were burned. The Pakistani Taliban (TTP) claimed the attack, and officials separately said 10 TTP fighters were killed in an operation in Orakzai. It matters because Islamabad blames such attacks on sanctuaries in Afghanistan, which Kabul denies, and a September attack in Kohat restarted Pakistan's air war across the border."
+  sources:
+  - label: "Al Jazeera (AFP): Ten police officers, 18 fighters killed in northwest Pakistan attack"
+    url: https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack
+- date: '2026-11-11'
+  countries: [COD, UGA]
+  category: military
+  conflict: drc-adf-insurgency
+  headline: "ADF rebels kill at least 22 civilians in raids on villages in Congo's Mambasa territory"
+  summary: "Civil society and rights groups told the AP that the Islamic State-affiliated Allied Democratic Forces killed at least 22 civilians and abducted at least 10 in attacks on eight communities in Mambasa territory, Ituri, over two days, burning homes and motorcycles. Radio Okapi reported at least 12 killed in a raid on four villages of Babila Babombi chiefdom on 11 November and 11 more since 8 November, and said the army is sweeping the area. It matters because the attacks hit the province at the centre of an Ebola outbreak that has passed 11,000 cases, where violence keeps forcing response teams to suspend work."
+  sources:
+  - label: "AP via CP24: Islamic State group-affiliated rebels kill at least 22 in Congo's eastern region"
+    url: https://www.cp24.com/news/world/2026/11/11/islamic-state-group-affiliated-rebels-kill-at-least-22-in-congos-eastern-region/
+  - label: "Radio Okapi: 12 civils tués dans de nouvelles attaques attribuées aux ADF à Mambasa"
+    url: https://radiookapi.net/2026/11/12/actualite/securite/12-civils-tues-dans-de-nouvelles-attaques-attribuees-aux-adf-mambasa
+- date: '2026-11-11'
+  countries: [MMR]
+  category: military
+  conflict: myanmar-civil-war
+  headline: "Myanmar's junta says it has seized 11 resistance positions in its dry-season push on the Bago-Mon border"
+  summary: "Myanmar Now reported that the military took a National Unity Government special military region base in Shwegyin Township, Bago Region, described by a source close to the NUG as the deputy commander's camp, along with three People's Defence Force battalion camps, a clinic, a training ground and a drone unit's camp. The junta said it had captured 11 positions from PDF, NUG and Karen National Union forces since early November, advancing through forest paths rather than roads. It matters because it is an early sign of the junta using the dry season to roll back resistance enclaves near the Bago-Mandalay corridor."
+  sources:
+  - label: "Myanmar Now: Myanmar junta seizes NUG Special Military Region and PDF camps"
+    url: https://myanmar-now.org/en/news/myanmar-junta-seizes-nug-special-military-region-and-pdf-camps/
+- date: '2026-11-09'
+  countries: [CMR]
+  category: political
+  headline: "Cameroon's President Biya sets legislative and local elections for 7 February after two postponements"
+  summary: "A presidential decree read on state radio on 9 November called legislative and municipal elections for 7 February 2027, the first votes since Paul Biya, 93, was declared winner of a contested eighth term in October 2025; they had been postponed twice. A government reshuffle and the appointment of a vice president, a post restored by an April constitutional reform, are still pending, and last month the authorities suspended the party of exiled runner-up Issa Tchiroma Bakary. It matters because the vote will shape the parliament that would oversee any succession to Africa's oldest head of state."
+  sources:
+  - label: "Jamaica Observer (AFP): Cameroon president calls elections February 7"
+    url: https://www.jamaicaobserver.com/2026/11/09/cameroon-president-calls-elections-february-7/
 - date: '2026-11-11'
   countries: [SVK]
   category: political
@@ -2814,6 +2920,15 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2027-02-07'
+  countries: [CMR]
+  event: "Cameroon legislative and municipal elections"
+- date: '2026-11-13'
+  countries: [UKR, USA]
+  event: "US envoys Witkoff and Kushner due to brief Zelensky in Dublin after meeting Putin"
+- date: '2026-11-16'
+  countries: [RUS]
+  event: "EU due to adopt new Russia sanctions covering about 150 entities and 50 banks, France says"
 - date: '2026-11-28'
   countries: [TWN]
   event: "Taiwan local elections for mayors, county chiefs and borough chiefs"
