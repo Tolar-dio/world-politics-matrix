@@ -125,15 +125,22 @@ IDN:
     Fuel price rises triggered by the Iran war brought students back onto the streets against Prabowo Subianto, whose free school meals programme has become a lightning rod.
   tags: [World's largest Muslim population, Nickel boom, Archipelago of 17,000 islands, Ex-general president]
   update: >-
-    On 3 November police arrested Listyo Sigit Prabowo, the president's chief of staff since October
-    and national police chief for five years before that, with two senior officers, on suspicion of
-    wiretapping President Prabowo, cabinet ministers and journalists in 2025 and 2026. Prabowo
-    sacked him the next day and his spokesman said the acts might amount to treason; the military
-    deployed more than 20,000 troops in Jakarta the same day without saying whether it was linked.
-  update_date: 2026-11-04
+    On 12 November Vice President Gibran Rakabuming Raka, son of former president Joko Widodo,
+    resigned after the Constitutional Court and Supreme Court ruled in October that his school
+    credentials did not meet the requirements to run, and hours before the House was to take up an
+    impeachment petition signed by more than 120 lawmakers. Prabowo accepted the resignation; the
+    post stays vacant until the People's Consultative Assembly picks a successor from two
+    presidential nominees within 60 days. Earlier, on 3 November, police arrested Prabowo's chief of
+    staff and former police chief Listyo Sigit Prabowo on suspicion of wiretapping the president.
+  update_date: 2026-11-13
+  holders: >-
+    President Prabowo Subianto, since October 2024; the vice presidency is vacant since Gibran
+    Rakabuming Raka resigned on 12 November 2026.
   sources_extra:
     - {label: "Al Jazeera: Indonesian president's chief of staff dismissed over alleged wiretapping", url: "https://www.aljazeera.com/news/2026/11/4/indonesian-presidents-chief-of-staff-dismissed-over-alleged"}
     - {label: "Japan Times (Reuters): Indonesia arrests chief of staff and top policemen for alleged wiretapping of president", url: "https://www.japantimes.co.jp/news/2026/11/04/asia-pacific/politics/indonesia-wiretapping-president/"}
+    - {label: "Al Jazeera: Indonesia vice president resigns amid dispute over eligibility", url: "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility"}
+    - {label: "ABC News (Australia): Indonesia Vice-President Gibran Rakabuming Raka resigns", url: "https://www.abc.net.au/news/2026-11-12/indonesia-vice-president-gibran-rakabuming-raka-resigns/107370802"}
   culture: >-
     Indonesia's motto is "Unity in Diversity", for some 1,300 ethnic groups across 17,000 islands. Bahasa Indonesia, deliberately chosen as a neutral language, unites them. Javanese gamelan, wayang shadow puppetry and batik are UNESCO-listed, and Bali's Hindu culture draws millions of tourists. Badminton is a national passion.
   society: >-
@@ -203,15 +210,15 @@ LAO:
   religion: Theravada Buddhism about 65%, animist and other
   system: one-party
   snapshot: >-
-    A one-party communist state heavily in debt to China, whose 2026 party congress and assembly vote kept the same leadership in place.
+    A one-party communist state heavily in debt to China; a veteran diplomat, Saleumxay Kommasith, became prime minister in October 2026.
   tags: [Communist state, Chinese debt, Mekong dams, Unexploded bombs]
   culture: >-
     Laos is deeply Buddhist; in Luang Prabang, saffron-robed monks collect alms at dawn. Sticky rice is eaten with the hands at almost every meal. The khaen, a bamboo mouth organ, is central to Lao music. Boun Pi Mai, the new year in April, is celebrated with water fights.
   society: >-
     The US dropped more bombs on Laos during the Vietnam War than on Germany and Japan in the Second World War, and unexploded ordnance still kills people. A Chinese-built railway opened in 2021, but debt to China is huge and inflation and currency collapse have hit households. Dams on the Mekong make Laos a power exporter.
   baseline: >-
-    The ruling Lao People's Revolutionary Party held its 12th congress in January 2026, and the new National Assembly re-elected Thongloun Sisoulith as president in March, along with Prime Minister Sonexay Siphandone.
-  leaders: {state: "President Thongloun Sisoulith, also party general secretary", gov: "Prime Minister Sonexay Siphandone"}
+    The ruling Lao People's Revolutionary Party held its 12th congress in January 2026, and the new National Assembly re-elected Thongloun Sisoulith as president in March, along with Prime Minister Sonexay Siphandone. On 5 October 2026 the assembly unanimously elected Saleumxay Kommasith, a former foreign minister, as prime minister, and Sonexay became president of the National Assembly. Debt to China, inflation and a weak currency remain the main pressures.
+  leaders: {state: "President Thongloun Sisoulith, also party general secretary", gov: "Prime Minister Saleumxay Kommasith, since October 2026"}
   power: >-
     A one-party communist state. The Lao People's Revolutionary Party's Politburo makes the key
     decisions; the National Assembly elects the president, who also leads the party, and approves
@@ -219,6 +226,8 @@ LAO:
   story: steady
   sources:
     - {label: "Asia News Network: assembly re-elects Thongloun", url: "https://asianews.network/lao-na-re-elects-president-thongloun-sisoulith-confirms-key-officials/"}
+    - {label: "AP via Yahoo News: Laos names veteran diplomat as new prime minister", url: "https://ca.news.yahoo.com/laos-names-veteran-diplomat-international-150158451.html"}
+    - {label: "KPL Lao News Agency: National Assembly elects new prime minister", url: "https://kpl.gov.la/en/detail.aspx?id=107889"}
 
 MYS:
   pop: 36.0
