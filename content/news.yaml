@@ -1,6 +1,83 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
 - date: '2026-11-13'
+  countries: [UKR, USA, RUS]
+  category: diplomatic
+  conflict: russia-ukraine-war
+  headline: "Zelensky says US negotiators floated NATO membership for Ukraine in exchange for leaving Donbas"
+  summary: "Zelensky told reporters on 13 November that US negotiators asked during the Abu Dhabi talks, for the first time, whether Ukraine would withdraw from the parts of Donetsk and Luhansk it still holds if it joined NATO, though no concrete offer was made. He said Ukraine would not pull out its troops and that only a referendum could decide such a trade, which would also need NATO and EU security guarantees, money for the army and reconstruction, and no recognition of occupied land as Russian; he said Washington now suggests bilateral guarantees resembling NATO's Articles 4 and 5, without US troops. It matters because NATO membership had been off the table, and Moscow opposes it as firmly as Kyiv opposes giving up Donbas."
+  sources:
+  - {label: "Kyiv Independent: US floats NATO membership for Ukraine in exchange for Donbas withdrawal, Zelensky says", url: "https://kyivindependent.com/us-floats-nato-membership-for-ukraine-in-exchange-for-donbas-withdrawal-zelensky-says/"}
+  - {label: "Al Jazeera: Three killed in Russia as Ukraine claims US floated NATO membership option", url: "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option"}
+- date: '2026-11-14'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russian missiles and drones kill 7 and injure 80 across Ukraine, most in Zaporizhzhia; a Ukrainian drone kills a family in Belgorod"
+  summary: "Ukraine's air force said Russia launched 96 drones overnight into 14 November, of which 81 were stopped, and regional officials said about 10 missiles were fired at Zaporizhzhia city; at least 7 people were killed and 80 injured across Ukraine over the day, including 3 dead and 62 injured in Zaporizhzhia region and 2 dead in Kherson region. Russian authorities said a Ukrainian drone killed a man, a woman and their two-year-old daughter at home in Proletarsky, Belgorod region, and Russia's Defence Ministry said it downed 29 Ukrainian drones, some over Moscow region. It matters because the air war continues at full pace while the two sides prepare a large prisoner exchange and a new round of talks."
+  sources:
+  - {label: "Kyiv Independent: At least 7 killed, 80 injured in Russian attacks across Ukraine; Zaporizhzhia among worst hit", url: "https://kyivindependent.com/at-least-7-killed-80-injured-in-russian-attacks-across-ukraine-zaporizhzhia-among-worst-hit/"}
+  - {label: "Al Jazeera: Three killed in Russia as Ukraine claims US floated NATO membership option", url: "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option"}
+- date: '2026-11-14'
+  countries: [USA, CHN, RUS]
+  category: diplomatic
+  headline: "White House says Trump, Xi and Putin will hold their first three-way meeting in Shenzhen next week"
+  summary: "The White House confirmed that Donald Trump, Xi Jinping and Vladimir Putin will meet on the sidelines of the APEC summit in Shenzhen next week, the first such three-way meeting. US officials said Trump wants to discuss cutting nuclear arsenals, after the New START treaty expired in February, and the Iran war, but not Ukraine, which runs on a separate track; one senior official said no agreement was expected. Kremlin spokesman Dmitry Peskov called the meeting 'extremely significant' but rejected comparisons with Yalta, saying any agreements could not be imposed on others. It matters because it brings the three nuclear powers together on arms control for the first time in this form."
+  sources:
+  - {label: "Al Jazeera: Trump, Xi and Putin to hold first three-way summit in China", url: "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"}
+  - {label: "Euronews: Trump, Xi and Putin to meet in China, White House says", url: "https://www.euronews.com/2026/11/14/trump-xi-and-putin-to-meet-in-china-white-house-says"}
+- date: '2026-11-14'
+  countries: [IRN, USA]
+  category: diplomatic
+  conflict: iran-war-2026
+  headline: "Trump tells advisers he may hold off on attacking Iran if there are no new provocations, Reuters reports"
+  summary: "Citing three sources, Reuters reported that Trump told senior advisers in recent days he may not strike Iran again if neither Tehran nor the Houthis provoke the US, while a third US aircraft carrier moves into the Middle East; US intelligence has assessed that renewed strikes would not significantly change Iran's negotiating demands, and US stocks of long-range precision munitions are low. Secretary of State Marco Rubio said further military action was unnecessary because economic pressure had weakened Iran. It matters because it points to the blockade, not bombing, as Washington's main tool, even as Israeli officials lobby for another campaign."
+  sources:
+  - {label: "Asharq Al-Awsat (Reuters): Iran's navy says oil tanker on fire after hitting mine in Hormuz", url: "https://english.aawsat.com/world/5341102-iran%E2%80%99s-navy-says-oil-tanker-fire-after-hitting-mine-hormuz"}
+  - {label: "Times of Israel liveblog, 14 November 2026", url: "https://www.timesofisrael.com/liveblog-november-14-2026/"}
+- date: '2026-11-14'
+  countries: [IRN, OMN, ARE]
+  category: military
+  conflict: strait-of-hormuz-shipping-war
+  headline: "Iran says three more tankers caught fire after hitting mines in the Strait of Hormuz"
+  summary: "Iran's Revolutionary Guards navy said two tankers that had switched off their radar and positioning systems, one of them a supertanker, exploded and caught fire after hitting a mine in the south of the strait on what it called an unauthorised route, and Iran's regular navy said a third tanker caught fire and stopped east of the strait. The day before, the Guards said a tanker carrying liquefied gas had hit a mine and exploded. No ships were named, Reuters could not verify the reports, and the US military says it has cleared the main routes of mines. It matters because Iran is using claimed mine strikes to deter ships from routes it does not control, keeping traffic far below pre-war levels."
+  sources:
+  - {label: "Oman Observer (AFP): Iran reports three incidents of oil tankers hit by mines in Hormuz", url: "https://www.omanobserver.om/article/1199638/world/region/iran-reports-three-incidents-of-oil-tankers-hit-by-mines-in-hormuz"}
+  - {label: "Asharq Al-Awsat (Reuters): Iran's navy says oil tanker on fire after hitting mine in Hormuz", url: "https://english.aawsat.com/world/5341102-iran%E2%80%99s-navy-says-oil-tanker-fire-after-hitting-mine-hormuz"}
+- date: '2026-11-14'
+  countries: [SSD]
+  category: political
+  headline: "South Sudan pushes its first national elections back to 11 February 2027"
+  summary: "The National Elections Commission issued a revised calendar moving polling day from 22 December to 11 February 2027, without giving a reason beyond 'thorough consultation with the stakeholders', and opened voter registration from 14 to 28 November. Radio Tamazuj noted the new date falls outside the December 2026 timeline in the amended elections law and only 11 days before the transitional period ends on 22 February, which could invite a legal challenge. It matters because the vote has already been delayed repeatedly since independence, and the UN rights commission said in September that the country lacked safeguards for a credible election."
+  sources:
+  - {label: "Radio Tamazuj: NEC pushes elections beyond December deadline set in law", url: "https://www.radiotamazuj.org/en/news/article/nec-pushes-elections-beyond-december-deadline-set-in-law"}
+  - {label: "ThePrint (Reuters): South Sudan delays election to February 11 2027", url: "https://theprint.in/world/south-sudan-delays-election-to-february-11-2027/3098660/"}
+- date: '2026-11-12'
+  countries: [NER]
+  category: military
+  conflict: sahel-jihadist-insurgency
+  headline: "Gunmen kill at least 38 villagers on their way to market in western Niger"
+  summary: "Gunmen ambushed villagers from Tilim travelling to the market in Tera, in Niger's Tillaberi region near the borders with Burkina Faso and Mali, killing at least 38 people, seven of them women, AFP reported citing local sources; one of the wounded died later. No group claimed the attack, and Russia's TASS attributed it to the Islamic State in the Greater Sahara. It matters because Tillaberi is where the Islamic State and al-Qaeda's JNIM fight both each other and Niger's junta, and the dry season that favours large attacks has just begun."
+  sources:
+  - {label: "SBS News (AFP): Armed attack in western Niger border region leaves at least 38 dead", url: "https://news.sbs.co.kr/english/article.do?news_id=N1008845576"}
+- date: '2026-11-13'
+  countries: [PSE, ISR]
+  category: humanitarian
+  conflict: israel-hamas-gaza
+  headline: "A baby dies of cold in Gaza as about 50 countries press Israel to let in winter shelter"
+  summary: "A nine-month-old boy died of hypothermia in his displaced family's tent in Khan Younis, as more than 50 countries and organisations led by the UK, Qatar and Jordan demanded that Israel allow more shelter, fuel, water and health supplies into Gaza; the United States did not sign. The UN says more than 150,000 tents are waiting outside Gaza for Israeli permission, and its humanitarian chief Tom Fletcher said waiting for a new Israeli government was 'not an acceptable excuse'. Israel says the criticism distracts from Hamas and is reported to be resisting 'dual-use' items. It matters because weekend flooding has worsened a sanitation crisis for about 350,000 displaced people as winter sets in."
+  sources:
+  - {label: "Democracy Now: Infant dies of hypothermia in Gaza as calls grow for Israel to allow imports of winter supplies", url: "https://www.democracynow.org/2026/11/13/headlines/infant_dies_of_hypothermia_in_gaza_as_calls_grow_for_israel_to_allow_imports_of_winter_supplies"}
+  - {label: "Free Malaysia Today (Bernama): UN says 150,000 tents await Israeli approval outside Gaza", url: "https://www.freemalaysiatoday.com/category/world/2026/11/12/un-says-150-000-tents-await-israeli-approval-outside-gaza"}
+  - {label: "Times of Israel liveblog, 13 November 2026", url: "https://www.timesofisrael.com/liveblog-november-13-2026/"}
+- date: '2026-11-10'
+  countries: [POL, USA]
+  category: diplomatic
+  headline: "Poland says the Pentagon has given a 'green light' to a permanent US base, with Trump to decide in December"
+  summary: "After talks with Defense Secretary Pete Hegseth on 10 November, Polish Defence Minister Wladyslaw Kosiniak-Kamysz said the Pentagon had approved a permanent US troop presence in Poland, quoting Hegseth as saying 'everything is going in a good direction'; the Pentagon's own readout did not mention the base. Poland is ready to spend about 4 billion dollars on an installation that could host about 5,000 permanent troops, at a site such as Wroclaw, Poznan, Bydgoszcz or Szczecin, and the White House is expected to decide in early December. It matters because it would be the first permanent US base on NATO's eastern flank, at a time when Washington is cutting troops in Germany."
+  sources:
+  - {label: "Stars and Stripes: American Poland military base plan", url: "https://www.stripes.com/theaters/europe/2026-11-11/american-poland-military-base-plan-23431315.html"}
+- date: '2026-11-13'
   countries: [IRN, BHR, USA]
   category: military
   conflict: iran-war-2026
@@ -3015,6 +3092,15 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2026-11-17'
+  countries: [MOZ]
+  event: "Opposition leader Venâncio Mondlane's trial opens at Mozambique's Supreme Court on five charges, including incitement to terrorism"
+- date: '2027-02-11'
+  countries: [SSD]
+  event: "South Sudan general elections, moved from 22 December 2026"
+- date: '2026-11-15'
+  countries: [FRA, KHM, COD, RWA]
+  event: "Francophonie (OIF) summit in Cambodia (15-16 November) chooses a secretary-general; Congo says it may leave if Rwanda's Louise Mushikiwabo is re-elected"
 - date: '2026-11-16'
   countries: [PHL, IND]
   event: "ASEAN summit in Manila (16-18 November), attended by India's Narendra Modi"
@@ -3139,7 +3225,7 @@ upcoming:
   event: Cape Verde presidential election
 - date: '2026-11-18'
   countries: [CHN, USA]
-  event: APEC leaders' summit in Shenzhen, China (18-19 November); Trump has not confirmed attendance
+  event: "APEC leaders' summit in Shenzhen, China (18-19 November), with a first three-way Trump-Xi-Putin meeting confirmed by the White House"
 - date: '2026-11-29'
   countries: [ESP]
   event: Spanish general election

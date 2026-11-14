@@ -845,6 +845,8 @@ MOZ:
     accord with opposition parties. In January 2026 TotalEnergies restarted its $20 billion LNG
     project in Cabo Delgado, frozen since insurgents overran the nearby town of Palma in 2021, a bet
     that Rwandan-backed security operations have contained the Islamic State-linked insurgency.
+    Mondlane goes on trial at the Supreme Court on 17 November 2026 on five charges, including
+    incitement to terrorism.
   leaders: {state: "President Daniel Chapo, since January 2025", gov: "Prime Minister Maria Benvinda Levi"}
   power: >-
     A presidential republic. The president is directly elected for five years, at most two terms,
@@ -852,6 +854,8 @@ MOZ:
     independence.
   story: steady
   sources:
+    - {label: "Rio Times: Mondlane trial starts Tuesday at Supreme Court in Maputo", url: "https://www.riotimesonline.com/mozambique-mondlane-trial-starts-tuesday-supreme-court-maputo/"}
+    - {label: "Club of Mozambique: Mondlane trial in 45-seat courtroom", url: "https://clubofmozambique.com/news/mozambique-mondlane-trial-in-45-seat-courtroom-countrys-first-with-audio-and-video-recording-of-hearings/"}
     - {label: "Business Wire: Mozambique LNG restart", url: "https://www.businesswire.com/news/home/20260129408643/en/TotalEnergies-SE-UK-Regulatory-Announcement-Mozambique-LNG-Announces-the-Full-Restart-of-All-Its-Activities-Onshore-and-Offshore-in-Mozambique"}
 
 NAM:
@@ -1112,22 +1116,26 @@ SSD:
   system_note: A transitional government under the 2018 peace deal.
   story: war
   snapshot: >-
-    The world's youngest country is sliding back toward civil war, with First Vice President Riek Machar on trial and elections set for December 2026 widely doubted.
+    The world's youngest country is sliding back toward civil war, with First Vice President Riek Machar on trial and its first elections, now pushed to February 2027, widely doubted.
   tags: [World's youngest country, Peace deal fraying, Oil exports, Cattle culture]
   culture: >-
     South Sudan has more than 60 ethnic groups, the largest being the Dinka and Nuer, whose cattle-herding cultures place cows at the centre of wealth, marriage and poetry. Young men compose songs for their favourite oxen. Juba Arabic is the street language, English the official one.
   society: >-
     South Sudan split from Sudan in 2011, and a civil war between forces loyal to Kiir and Machar killed some 400,000 people from 2013 to 2018. Oil is almost the only export, and it flows through a pipeline across war-torn Sudan. Most of the population needs humanitarian aid, and floods and refugees from Sudan add to the strain.
   update: >-
-    President Salva Kiir said on 26 October that general elections, never held since independence, will
-    go ahead 'by all means' on 22 December, although voter registration only begins in November and
-    funding is unclear; the transitional institutions of the 2018 peace deal were dissolved in
-    September. First Vice President Riek Machar remains on trial over the March 2025 Nasir attack, and
-    the acting leader of his SPLM/A-IO faction, Oyet Nathaniel Pierino, vowed on 2 November to keep
-    fighting. On 19 October drone strikes on the Amiet market in Abyei killed at least 30 people by the
-    UN's count and 153 or more according to local officials; Juba blamed the Sudanese army.
-  update_date: 2026-11-06
+    On 14 November the National Elections Commission moved general elections, never held since
+    independence, from 22 December to 11 February 2027 and opened voter registration from 14 to 28
+    November; Radio Tamazuj noted the new date falls outside the December timeline in the amended
+    elections law and only 11 days before the transitional period ends on 22 February 2027. Two weeks
+    earlier President Salva Kiir had said the December vote would go ahead 'by all means'. First Vice
+    President Riek Machar remains on trial over the March 2025 Nasir attack, and the acting leader of
+    his SPLM/A-IO faction, Oyet Nathaniel Pierino, vowed on 2 November to keep fighting. On 19 October
+    drone strikes on the Amiet market in Abyei killed at least 30 people by the UN's count and 153 or
+    more according to local officials; Juba blamed the Sudanese army.
+  update_date: 2026-11-14
   sources_extra:
+    - {label: "Radio Tamazuj: NEC pushes elections beyond December deadline set in law", url: "https://www.radiotamazuj.org/en/news/article/nec-pushes-elections-beyond-december-deadline-set-in-law"}
+    - {label: "ThePrint (Reuters): South Sudan delays election to February 11 2027", url: "https://theprint.in/world/south-sudan-delays-election-to-february-11-2027/3098660/"}
     - {label: "Sudans Post: President Kiir says December elections will be held 'by all means'", url: "https://www.sudanspost.com/president-kiir-says-december-elections-will-be-held-by-all-means/"}
     - {label: "Sudan Independent (Sudans Post): Oyet vows to continue armed resistance against government", url: "https://sudanindependent.net/news/politics/2026/11/03/Oyet-vows-to-continue-armed-re"}
     - {label: "UN News: Abyei, deadly drone strikes mark 'new and concerning' threat", url: "https://news.un.org/en/story/2026/11/1168749"}

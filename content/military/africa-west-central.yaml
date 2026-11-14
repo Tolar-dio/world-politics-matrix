@@ -67,7 +67,8 @@ conflicts:
 
 
     In August JNIM hit San, and Niger''s junta survived a coup attempt on 29-30 Aug 2026 only with Africa Corps help. On 10 Sept JNIM overran the Dioura camp in central Mali, killing around 100 soldiers and five Africa Corps personnel and taking dozens prisoner. On 6 Oct a Malian and Russian convoy reoccupied Kidal after the FLA withdrew.'
-  situation: As of late October 2026 the juntas hold the capitals, regional towns and main bases, and Mali has regained Kidal, but JNIM dominates much of rural central and southern Mali, northern and eastern Burkina Faso, and the roads around Bamako, where its declared blockade persists. ISSP holds sway in the Menaka-Tillaberi-Tahoua borderlands and competes violently with JNIM. Niger's junta is weakened by the August coup attempt and two attacks on Niamey airport, and Mali's by the loss of its defence minister and a string of base overruns (Dioura in September). The dry season, which favours large offensives, starts in November.
+  updated: '2026-11-14'
+  situation: "As of 14 November 2026 the juntas hold the capitals, regional towns and main bases, and Mali has regained Kidal, but JNIM dominates much of rural central and southern Mali, northern and eastern Burkina Faso, and the roads around Bamako, where its declared blockade persists. ISSP holds sway in the Menaka-Tillaberi-Tahoua borderlands and competes violently with JNIM. Niger's junta is weakened by the August coup attempt and two attacks on Niamey airport, and Mali's by the loss of its defence minister and a string of base overruns (Dioura in September). The dry season, which favours large offensives, starts in November. Gunmen killed at least 38 villagers from Tilim, seven of them women, as they travelled to the market in Tera in Niger's Tillaberi region around 12 November, AFP reported citing local sources; no group has claimed it, and TASS blamed the Islamic State. JNIM and ISSP have fought increasingly deadly battles along Burkina Faso's border with Mali since September, with ISSP claiming hundreds of JNIM dead in unverified statements, which ACLED analysts say diverts JNIM fighters from the juntas (Al Jazeera)."
   technical:
   - 'JNIM blockade method: ambush escorted tanker convoys, burn trucks, set roadside ''tax'' checkpoints, kidnap drivers, and coerce transport firms (Diarra Transport was forced to accept JNIM rules on gender segregation). More than 300 tankers destroyed; 50+ burned on the Kolondieba-Kadiana road on 17-21 Oct 2025 alone (Wikipedia, Mali fuel blockade).'
   - 'Targeted corridors: Senegal road RN1 via Kayes (Kaniara-Lakamane), Sikasso-Zegoua, Niono-Segou, Neguela-Soribougou, Kolondieba-Kadiana. After April 2026 JNIM roadblocks were reported at Soribougou (west of Bamako), Narena (southwest) and Ouelessebougou (south).'
@@ -180,6 +181,7 @@ conflicts:
     event: JNIM overruns the Dioura camp in central Mali; about 100 soldiers killed.
   - date: '2026-10-06'
     event: Malian and Russian forces reoccupy Kidal after an FLA withdrawal.
+  - {date: "2026-11-12", event: "Gunmen kill at least 38 villagers travelling to Tera market in Niger's Tillaberi region (AFP)."}
   outlook: Watch the November-May dry season for large JNIM offensives, possible retaliation for the loss of Kidal, and whether the Bamako blockade tightens again. Watch for renewed JNIM-ISSP fighting in Niger and Menaka, further attacks on airbases and drone assets, and the political stability of the Niamey and Bamako juntas after the 2026 coup attempt and the Camara assassination. Critical Threats assesses JNIM aims to shape a new Bamako authority rather than seize the whole country.
   sources:
   - label: 'Wikipedia: Mali fuel blockade'
@@ -252,6 +254,8 @@ conflicts:
     url: https://acleddata.com/update/africa-overview-july-2026
   - label: 'eNCA (AFP): Jihadist attack kills several dozen in Burkina Faso'
     url: https://www.enca.com/news/jihadist-attack-kills-several-dozen-burkina-faso
+  - {label: "SBS News (AFP): Armed attack in western Niger border region leaves at least 38 dead", url: "https://news.sbs.co.kr/english/article.do?news_id=N1008845576"}
+  - {label: "Al Jazeera: Burkina Faso's rival armed groups turn on each other as state loses ground", url: "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground"}
 - id: northern-mali-fla-rebellion
   name: Azawad Liberation Front (FLA) rebellion in northern Mali
   type: civil-war
