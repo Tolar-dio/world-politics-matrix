@@ -1,5 +1,130 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-14'
+  countries: [SOM]
+  category: political
+  headline: "Somalia's election talks fail to open as the opposition, Puntland and Jubaland stay away after a court ruled the president's term expired"
+  summary: "Five days of talks on the electoral framework that President Hassan Sheikh Mohamud called at Villa Somalia did not start on 14 November; the opposition Somali Future Council told the US, UK, EU and Turkey it would not attend on the presidency's terms and wants international mediation, and Puntland and Jubaland rejected the invitation outright. The presidency said the talks would open soon but gave no date. It matters because the Supreme Court ruled on 5 November that the president's and parliament's terms had expired and gave leaders until early December to agree how to hold elections, which the government disputes."
+  sources:
+  - {label: "Somali Guardian: Somalia election talks called by president Hassan Sheikh fail to start as opposition boycotts", url: "https://www.somaliguardian.com/news/somalia-news/somalia-election-talks-president-hassan-sheikh-fail-start-opposition-boycott/"}
+  confidence: reported
+- date: '2026-11-12'
+  countries: [STP]
+  category: political
+  headline: "Sao Tome's president reappoints Américo Ramos as prime minister, passing over the largest party"
+  summary: "President Carlos Vila Nova named the ADI's Américo Ramos prime minister again after the ADI, with 23 of 55 seats, gave him a written guarantee of a majority through its pact with the six-seat MCI-PS/PUN coalition, Lusa reported. The MLSTP, which won the most seats in September with 24, contests the appointment, and its leader Américo Barros said the president had once called such a deal a red line. It matters because it ends seven weeks of uncertainty but leaves the biggest party in opposition and angry."
+  sources:
+  - {label: "Noticias ao Minuto (Lusa): Américo Ramos nomeado primeiro-ministro de São Tomé após acordo", url: "https://www.noticiasaominuto.com/mundo/3083401/americo-ramos-nomeado-primeiro-ministro-de-sao-tome-apos-acordo"}
+  - {label: "Jornal Económico: Américo Ramos nomeado primeiro-ministro, com contestação do MLSTP", url: "https://jornaleconomico.sapo.pt/noticias/americo-ramos-nomeado-primeiro-ministro-com-contestacao-do-mlstp/"}
+- date: '2026-11-05'
+  countries: [SOM]
+  category: political
+  headline: "Somalia's Supreme Court rules President Hassan Sheikh Mohamud's term has expired and orders elections within 90 days"
+  summary: "In a five-page judgment the court rejected the president's argument that the move from four-year to five-year terms let him stay in office until 2027, gave political leaders 30 days to agree how to hold elections and 90 days to hold them, and limited the government to routine administration. It also overturned his dismissal of Chief Justice Baashe Yusuf Ahmed the day before, saying he had violated the constitution. Former president Sharif Sheikh Ahmed, who brought the case, welcomed the ruling; Hiiraan Online reported troops deployed around the court, which AP could not verify. It matters because it gives the opposition legal backing just as the UN's political mission has left."
+  sources:
+  - {label: "AP via myMotherLode: Somalia's top court rules president's term extension is unlawful, deepening power struggle", url: "https://mymotherlode.com/news/africa/11286148/somalias-top-court-rules-presidents-term-extension-is-unlawful-deepening-power-struggle.html"}
+  - {label: "Washington Post (AP): Somalia's top court rules president's term extension is unlawful", url: "https://www.washingtonpost.com/world/2026/11/06/somalia-elections-security-political-judicial-constitutional/8d3ea502-d9ec-11f1-930a-e08f8086f5ac_story.html"}
+- date: '2026-11-15'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russian drones hit Odesa region's power grid as attacks kill 4 and injure 69 across Ukraine in a day"
+  summary: "Ukraine's air force said Russia launched 132 long-range drones overnight into 15 November, 78 of them jet-powered, and that 106 were shot down or jammed, with hits at 20 locations. Odesa governor Oleh Kiper said a 'mass attack' hit a DTEK energy facility, leaving about 41,000 families temporarily without power and injuring six; regional officials put the day's toll at 4 killed and 69 injured nationwide, including 2 dead in Chernihiv region and 32 injured in Zaporizhzhia region. It matters because Russia keeps up pressure on Ukraine's energy system and southern ports as winter begins."
+  sources:
+  - {label: "Kyiv Independent: Russia launches 'mass attack' on Odesa Oblast as strikes kill 4, injure 69 across Ukraine over past day", url: "https://www.yahoo.com/news/world/articles/russia-launches-mass-attack-odesa-093315477.html"}
+  - {label: "Ukrinform: Air defense neutralizes 106 of 132 Russian drones used to attack Ukraine", url: "https://www.ukrinform.net/rubric-ato/4184783-air-defense-neutralizes-106-of-132-russian-drones-used-to-attack-ukraine.html"}
+- date: '2026-11-14'
+  countries: [ROU, UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Drones hit three merchant ships off Romania's Danube Delta in two days, and Romania scrambles F-16s"
+  summary: "Romania's Defence Ministry said the Greek-flagged tanker Evia Petrol V and the bulk carrier Marsol were struck by drones and caught fire on the evening of 14 November about 4 to 5 nautical miles from Sulina, a day after the Palau-flagged cargo ship Larissa 1, reportedly bound for Ukraine, was hit off Sfantu Gheorghe. The crews put out the fires and nobody was hurt; radar tracked an aerial target east of Snake Island and two F-16s were sent up. Romania has not said where the drones came from, and Defence Minister Stefan-Radu Oprea said an investigation was under way. It matters because attacks on shipping using the Danube route to Ukraine are now happening close to the coast of a NATO member."
+  sources:
+  - {label: "Anadolu: 2 commercial vessels struck by drones near Romania's Danube Delta, Defense Ministry says", url: "https://www.aa.com.tr/en/europe/2-commercial-vessels-struck-by-drones-near-romanias-danube-delta-defense-ministry/4125475"}
+  - {label: "Kyiv Independent: Three commercial ships struck by drones near Romania's Black Sea coast over two days", url: "https://www.yahoo.com/news/world/articles/three-commercial-ships-struck-drones-001921724.html"}
+- date: '2026-11-14'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Ukraine says it hit the Samara pumping station that blends Urals crude, and the Lipetsk-2 air base"
+  summary: "Ukraine's General Staff said its forces struck the Samara linear production control station near Prosvet, about 950 km from the front, where oil from Tatarstan and Siberia is blended into Urals crude, setting several storage tanks on fire, and that a strike on the Lipetsk-2 military airfield on 13 November hit a hangar, a fuel tank and the command post. Overnight into 15 November Russian officials reported one person killed in Rostov region and two substations damaged in Taganrog, a fire at an industrial site in Nizhnekamsk, and 31 drones downed over Astrakhan region. It matters because Ukraine is targeting the export system behind up to half of Russia's oil sales."
+  sources:
+  - {label: "Kyiv Independent: Ukraine hits key Russian oil hub, military airbase in latest long-range strikes", url: "https://kyivindependent.com/ukraine-hits-key-russian-oil-hub-military-airbase-in-latest-long-range-strikes"}
+  - {label: "Kyiv Independent: Ukraine reportedly strikes Russian military airfield in Astrakhan Oblast", url: "https://kyivindependent.com/ukraine-reportedly-strikes-russian-military-airfield-in-astrakhan-oblast-at-least-30-explosions-heard/"}
+  - {label: "Anadolu: Morning briefing, 15 November 2026", url: "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"}
+- date: '2026-11-15'
+  countries: [IRN, BHR, USA]
+  category: military
+  conflict: iran-war-2026
+  headline: "Iran says it sent six drones at a US radar at Bahrain's Riffa air base, its second claimed attack on Bahrain in three days"
+  summary: "Iran's Revolutionary Guards said they launched six drones at a US air defence radar at Riffa Air Base early on 15 November; Bahrain sounded two alerts and its Defence Force said air defences stopped several Iranian 'aerial attacks', and the US military did not comment. After the Guards' 13 November claim to have destroyed a US early-warning radar in Bahrain, US Central Command said it shot down two drones and reported no damage. The Guards also said they shot down a US MQ-1 drone over Qeshm Island, which the US has not confirmed. It matters because these are the first Iranian claims of attacks on US forces in a Gulf state since September, and each one risks breaking the uneasy pause in the war."
+  sources:
+  - {label: "Al Jazeera: Iran says it targets US radar in Bahrain. What do we know?", url: "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know"}
+  - {label: "Mehr News Agency: IRGC says it shot down US MQ-1 drone over Qeshm island", url: "https://en.mehrnews.com/news/249198/IRGC-says-it-shot-down-US-MQ-1-drone-over-Qeshm-island"}
+  - {label: "Anadolu: Morning briefing, 15 November 2026", url: "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"}
+  confidence: reported
+- date: '2026-11-15'
+  countries: [SAU, YEM]
+  category: military
+  conflict: yemen-civil-war
+  headline: "Saudi Arabia says it shot down two Houthi ballistic missiles and two drones aimed at Riyadh"
+  summary: "The Saudi-led coalition's spokesman Turki al-Maliki said air defences destroyed two ballistic missiles fired by the Houthis toward Riyadh early on 15 November, after two drones were downed over Riyadh and the south the day before; no damage was reported, and the US embassy issued a nationwide security alert. The Houthis said they fired missiles at Saudi-backed forces in Lahj and that the coalition carried out 72 air strikes on their areas in 24 hours, while government forces reported gains in al-Jawf. It matters because Saudi authorities say at least 26 people have been killed by Houthi attacks on the kingdom since 23 September, and the IOM says more than 340,000 Yemenis have been displaced since August."
+  sources:
+  - {label: "Al Jazeera: Saudi-led coalition intercepts suspected Houthi missiles and drones", url: "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh"}
+- date: '2026-11-14'
+  countries: [PSE, ISR]
+  category: military
+  conflict: israel-hamas-gaza
+  headline: "Israeli drone strike on a tent in al-Mawasi kills Hamas's Rafah brigade commander Samir Abu Younis"
+  summary: "Israel's military and the Shin Bet said they targeted a senior Hamas commander in a drone strike in Khan Younis on 14 November, and Hamas confirmed the death of Samir Abu Younis, its Rafah brigade commander; the strike hit a tent sheltering displaced people in al-Mawasi and wounded two others. Gaza's Health Ministry said 16 people were killed in the previous 48 hours and that 11 people, including a nine-month-old baby, have died of cold. It matters because Israel keeps up targeted killings under the October 2025 ceasefire, which Gaza health officials say has seen at least 1,643 Palestinians killed, while Turkey and 17 other countries condemned the strike on Nasser Hospital earlier in the week."
+  sources:
+  - {label: "Al Jazeera: Israeli air strike kills senior Hamas commander in Gaza", url: "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza"}
+  - {label: "Anadolu: Morning briefing, 15 November 2026", url: "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"}
+- date: '2026-11-13'
+  countries: [SDN]
+  category: military
+  conflict: sudan-saf-rsf
+  headline: "Sudan's army and allied Darfur forces retake Al-Khuwei, their first major gain in West Kordofan"
+  summary: "The army and the allied Joint Force of former Darfur rebels said on 13 November they had recaptured Al-Khuwei, a road hub the RSF had held since May 2025, along with nearby villages, and Sudans Post reported they took Al-Murkab the next day, about 60 km short of RSF-held En Nahud. The Joint Force claimed it killed an RSF field commander, destroyed 20 combat vehicles and seized 40, which could not be verified, and the RSF did not comment. It matters because Al-Khuwei sits on the roads linking Kordofan with Darfur, and Darfur governor Minni Minnawi called it 'a route towards Umm Dafuq'. A local relief group said the RSF had killed 10 civilians in RSF-held En Nahud since 12 November."
+  sources:
+  - {label: "Radio Tamazuj: Sudanese army, allies announce recapture of key West Kordofan town", url: "https://www.radiotamazuj.org/en/news/article/sudanese-army-allies-announce-recapture-of-key-west-kordofan-town"}
+  - {label: "Sudans Post: Sudanese army advances on Al-Nahud after major gains in West Kordofan", url: "https://www.sudanspost.com/sudanese-army-advances-on-al-nahud-after-major-gains-in-west-kordofan/"}
+  - {label: "Al Jazeera: How SAF successes in Sudan's Kordofan could turn tide against the RSF", url: "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf"}
+  - {label: "Anadolu: Morning briefing, 15 November 2026", url: "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"}
+- date: '2026-11-14'
+  countries: [MYS]
+  category: political
+  headline: "Barisan Nasional wins 21 of 28 seats in Melaka as Anwar's Pakatan Harapan is cut to four"
+  summary: "The Election Commission said Barisan Nasional won 21 seats in the Melaka state election, Perikatan Nasional 3 and Pakatan Harapan 4, all of them DAP seats, on a turnout of about 72 percent; caretaker chief minister Ab Rauf Yusoh of BN held his Tanjung Bidara seat, and BN leader Ahmad Zahid Hamidi thanked voters for the mandate given to BN and PN. Former chief minister Adly Zahari of Amanah lost Bukit Katil to PN, and Communications Minister Fahmi Fadzil said PH would review its candidates, youth voting and lower turnout. It matters because BN is a partner in Anwar Ibrahim's federal unity government yet fought PH in Melaka, and the rout follows July's Johor election, where BN won 48 seats to PH's 8, ahead of a general election due by early 2028."
+  sources:
+  - {label: "Bernama: Melaka polls, BN wins 21 seats, PN 3, PH 4, EC says", url: "https://prn.bernama.com/johor/news-en.php?id=2634493"}
+  - {label: "Free Malaysia Today: Official, BN-PN wins 24 seats in Melaka, PH 4", url: "https://www.freemalaysiatoday.com/category/nation/2026/11/14/live-vote-counting-for-melaka-polls-begins"}
+  - {label: "The Edge Malaysia: PH routed in Melaka, retains just four seats", url: "https://theedgemalaysia.com/node/825776"}
+  - {label: "Malay Mail: EC tally shows BN wins landslide Johor victory with 48 seats, Pakatan reduced to eight", url: "https://www.malaymail.com/amp/news/malaysia/2026/07/11/ec-tally-shows-bn-wins-landslide-johor-victory-with-48-seats-pakatan-reduced-to-eight/227242"}
+  - {label: "Malay Mail: 2026 Melaka state election live report", url: "https://www.malaymail.com/news/malaysia/2026/11/14/live-2026-melaka-state-election-voting-ends-first-results-due-by-930pm/243278"}
+- date: '2026-11-14'
+  countries: [ISR]
+  category: political
+  headline: "Netanyahu urges Eisenkot to talk unity without preconditions as Likud and Yashar! teams set a first meeting"
+  summary: "Caretaker prime minister Benjamin Netanyahu called on Gadi Eisenkot, who holds President Herzog's mandate to form a government, to negotiate a unity government without preconditions, citing the Iranian nuclear threat, and Ynet reported that negotiating teams from Likud and Eisenkot's Yashar! would meet on 15 November. Neither side will give up the premiership: Likud wants Netanyahu first in any rotation, while Eisenkot refuses a rotation and rejects talks with Ben-Gvir's Otzma Yehudit, and his separate talks with the ultra-Orthodox parties are stuck on conscription. It matters because Eisenkot's 28-day mandate runs out on 6 December, and the Knesset is expected to elect Yashar!'s Matan Kahana as speaker on 17 November."
+  sources:
+  - {label: "Ynet: Netanyahu-Eisenkot unity talks set, but neither will give up premiership", url: "https://www.ynetnews.com/article/h17p1i80zg"}
+  - {label: "Haaretz: Netanyahu urges Eisenkot to hold unity talks without preconditions, citing Iran nuclear threat", url: "https://www.haaretz.com/israel-news/israel-politics/2026-11-14/ty-article/.premium/after-briefing-eisenkot-netanyahu-urges-unity-government-without-preconditions/000001a1-db08-ddc9-abb7-dfca699e0000"}
+- date: '2026-11-15'
+  countries: [PHL, IDN, MMR, CHN, SGP, TLS]
+  category: diplomatic
+  headline: "ASEAN summit opens in Manila with a South China Sea code of conduct about 80 percent agreed but not finished"
+  summary: "Philippine Foreign Secretary Theresa Lazaro said on the first day of the 49th ASEAN summit that ASEAN and China had provisionally agreed about 80 percent of a South China Sea code of conduct, but that three of four key issues, including whether it will be legally binding, remain open, so talks pass to Singapore, which chairs ASEAN in 2027. Leaders said Myanmar's full representation could be restored step by step only if the junta makes progress on the five-point peace plan, and Min Aung Hlaing was again kept out. It matters because Manila will miss its goal of finishing the code, and the summit sets up visits by China's Premier Li Qiang and, on 17 November, Donald Trump."
+  sources:
+  - {label: "Philstar: ASEAN Summit Day 1: South China Sea, Indonesia haze, Myanmar review", url: "https://www.philstar.com/headlines/2026/11/15/2570333/asean-summit-day-1-south-china-sea-indonesia-haze-myanmar-review"}
+  - {label: "AP via ClickOnDetroit: Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda", url: "https://www.clickondetroit.com/news/world/2026/11/15/southeast-asian-leaders-open-annual-summit-with-major-conflicts-and-their-impact-topping-the-agenda/"}
+- date: '2026-11-15'
+  countries: [KHM, FRA, COD, RWA, ROU, MRT]
+  category: diplomatic
+  headline: "Francophonie summit opens in Phnom Penh after Congo drops its candidate to back Romania's Ciolos against Rwanda's Mushikiwabo"
+  summary: "The 20th Francophonie summit opened in Cambodia, with leaders due on 16 November to choose a secretary-general for four years. On 14 November Congo withdrew its candidate, Juliana Lumumba, and backed former Romanian prime minister Dacian Ciolos against Rwanda's Louise Mushikiwabo, who has led the organisation since 2018 and is seeking a third term; Mauritania's Coumba Ba is also running. Congo has threatened to leave if Mushikiwabo wins, and Rwanda says Emmanuel Macron asked Paul Kagame to withdraw her, which Kigali refused. It matters because the vote has become a proxy fight over Rwanda's backing for the M23 rebels in eastern Congo."
+  sources:
+  - {label: "Al Jazeera: Francophone summit opens in Cambodia amid Rwanda-DR Congo rift", url: "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift"}
 - date: '2026-11-13'
   countries: [UKR, USA, RUS]
   category: diplomatic
@@ -3092,6 +3217,18 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2026-11-16'
+  countries: [KHM, RWA, COD, ROU, MRT]
+  event: "Francophonie leaders choose a secretary-general: Louise Mushikiwabo (Rwanda), Dacian Ciolos (Romania, backed by Congo) and Coumba Ba (Mauritania)"
+- date: '2026-11-17'
+  countries: [ISR]
+  event: "Knesset votes on a new speaker, with Yashar! MK Matan Kahana expected to replace Likud's Amir Ohana"
+- date: '2026-11-17'
+  countries: [USA, JPN, AUS, IND, PHL]
+  event: "Trump arrives at the ASEAN summit in Manila and attends a Quad leaders' meeting; he meets President Marcos on 18 November"
+- date: '2026-11-19'
+  countries: [USA, CHN, RUS]
+  event: "Trump, Xi and Putin hold their first three-way meeting in Shenzhen, on the APEC sidelines, according to the Kremlin"
 - date: '2026-11-17'
   countries: [MOZ]
   event: "Opposition leader Venâncio Mondlane's trial opens at Mozambique's Supreme Court on five charges, including incitement to terrorism"

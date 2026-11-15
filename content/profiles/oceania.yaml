@@ -112,8 +112,10 @@ NRU:
   society: >-
     Phosphate mining made Nauru briefly one of the richest countries per head in the 1970s, but left most of the island a moonscape, and the money was lost to bad investments. Australia's regional processing centre for asylum seekers is a major source of income. Obesity and diabetes rates are among the world's highest.
   baseline: >-
-    David Adeang was elected president in 2023. Nauru switched recognition from Taiwan to China in January 2024 and signed a security and banking treaty with Australia in 2024 that gives Canberra a say over its security deals.
+    David Adeang was elected president in 2023. Nauru switched recognition from Taiwan to China in January 2024 and signed a security and banking treaty with Australia in 2024 that gives Canberra a say over its security deals. In November 2026 Adeang said every opposition MP had joined his government, leaving the 19-seat parliament with no opposition for the first time since independence in 1968; all of Nauru's news outlets are government-owned.
   leaders: {state: "President David Adeang, since 2023", gov: "The president heads the government"}
+  sources:
+    - {label: "AP via ABC News: Nauru's president has no political opponents after lawmakers joined government", url: "https://abcnews.com/International/wireStory/naurus-president-political-opponents-after-lawmakers-joined-government-138102578"}
   power: >-
     A parliamentary republic. The 19-member parliament elects the president, who heads both state
     and government.

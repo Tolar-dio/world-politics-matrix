@@ -236,26 +236,28 @@ MYS:
   system_note: A federal monarchy whose king rotates among nine state rulers.
   story: steady
   snapshot: >-
-    Anwar Ibrahim's unity government faces corruption rows and ethnic tension ahead of an election due by early 2028.
+    Anwar Ibrahim's unity government faces corruption rows, ethnic tension and heavy state-election losses ahead of a general election due by early 2028.
   tags: [Rotating monarchy, Multi-ethnic, Semiconductors, Palm oil]
   culture: >-
     Malaysia's Malay, Chinese and Indian communities each keep their own festivals, cuisines and languages, and "open house" visits during Hari Raya, Chinese New Year and Deepavali bring them together. Hawker food, from nasi lemak to char kway teow, is a shared passion. Its king is chosen every five years from nine hereditary sultans.
   society: >-
     Malaysia is a major hub for chip packaging and testing, and exports palm oil and gas. Policies favouring ethnic Malays, known as bumiputera, have shaped politics since 1971. The 1MDB scandal, in which billions were looted from a state fund, sent former prime minister Najib Razak to prison.
   update: >-
-    On 10 November former prime minister Najib Razak moved from prison to house arrest after the High
-    Court issued a fresh order under the king's conditional pardon of 18 September; he will serve the
-    rest of his SRC International sentence at home until August 2028, after the Attorney-General's
-    Chambers had held him back over the wording of an earlier order and the king warned against defying
-    his decree. Najib still faces a separate 15-year 1MDB sentence. Parliament's term runs to December
-    2027, so the next general election is due by about February 2028, and Anwar Ibrahim's Pakatan
-    Harapan is contesting the Melaka state election on 14 November.
-  update_date: 2026-11-10
+    Barisan Nasional won 21 of 28 seats in the Melaka state election on 14 November, Perikatan
+    Nasional 3 and Anwar Ibrahim's Pakatan Harapan only 4, all DAP seats, on a turnout of about 72
+    percent. BN is a partner in Anwar's federal unity government but fought PH in Melaka, and the result
+    follows BN's 48-seat landslide in Johor in July, where PH was cut to 8. On 10 November former prime
+    minister Najib Razak moved from prison to house arrest under the king's conditional pardon; he still
+    faces a separate 15-year 1MDB sentence. The next general election is due by about February 2028.
+  update_date: 2026-11-15
   sources_extra:
     - {label: "Malay Mail: We still have until February 2028, Pakatan sec-gen says as GE16 chatter grows", url: "https://www.malaymail.com/amp/news/malaysia/2026/09/12/we-still-have-until-february-2028-pakatan-sec-gen-says-as-ge16-chatter-grows/234955"}
     - {label: "Malay Mail: Anwar calls for service over rhetoric as Pakatan targets Melaka victory", url: "https://www.malaymail.com/news/malaysia/2026/10/26/anwar-calls-for-service-over-rhetoric-as-pakatan-targets-melaka-victory/240627"}
     - {label: "Straits Times (Reuters): Malaysia court clears way for ex-PM Najib to start house arrest", url: "https://www.straitstimes.com/asia/se-asia/malaysian-attorney-general-seeks-high-court-review-of-najib-house-arrest-order-bernama-reports"}
     - {label: "Malay Mail: Home Ministry says ready to carry out Najib's house arrest", url: "https://www.malaymail.com/news/malaysia/2026/11/10/home-ministry-says-ready-to-carry-out-najibs-house-arrest-court-order-today-cleared-the-air/242748"}
+    - {label: "Bernama: Melaka polls, BN wins 21 seats, PN 3, PH 4, EC says", url: "https://prn.bernama.com/johor/news-en.php?id=2634493"}
+    - {label: "The Edge Malaysia: PH routed in Melaka, retains just four seats", url: "https://theedgemalaysia.com/node/825776"}
+    - {label: "Malay Mail: EC tally shows BN wins landslide Johor victory with 48 seats", url: "https://www.malaymail.com/amp/news/malaysia/2026/07/11/ec-tally-shows-bn-wins-landslide-johor-victory-with-48-seats-pakatan-reduced-to-eight/227242"}
 
 MDV:
   pop: 0.53

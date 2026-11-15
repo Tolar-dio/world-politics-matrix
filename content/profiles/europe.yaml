@@ -845,8 +845,10 @@ SMR:
   society: >-
     San Marino is surrounded by Italy and uses the euro. Tourism, banking and light industry support a high standard of living. Many Sammarinese work across the border. An association agreement with the EU was concluded to deepen access to the single market.
   baseline: >-
-    San Marino is governed by a coalition led by the Christian Democrats. The Great and General Council elects the two Captains Regent every six months.
-  leaders: {state: "Two Captains Regent, elected every six months", gov: "Secretary of State for Foreign Affairs Luca Beccari"}
+    San Marino is governed by a coalition led by the Christian Democrats. The Great and General Council elects the two Captains Regent every six months; Gerardo Giovagnoli and William Casali took office on 1 October 2026.
+  leaders: {state: "Captains Regent Gerardo Giovagnoli and William Casali, 1 October 2026 to 1 April 2027", gov: "Secretary of State for Foreign Affairs Luca Beccari"}
+  sources:
+    - {label: "San Marino RTV: Gerardo Giovagnoli e William Casali sono i nuovi Capitani Reggenti", url: "https://www.sanmarinortv.sm/news/politica-c2/gerardo-giovagnoli-e-william-casali-sono-i-nuovi-capitani-reggenti-a296659"}
   power: >-
     A parliamentary republic. The 60-member Great and General Council elects the government, the
     Congress of State, and every six months two Captains Regent who serve jointly as heads of state.
@@ -967,14 +969,16 @@ SWE:
     Andersson after the Left and Centre parties refused to back it. Centre leader Elisabeth Thand
     Ringqvist then explored a centrist option, found no majority, and was herself rejected by 324 votes
     to 25 on 3 November. Speaker Andreas Norlén then asked caretaker prime minister Ulf Kristersson to
-    explore a centre-right government by 10 November, which Kristersson called very difficult. Two of
-    the four permitted votes remain; if all fail, a snap election must be held within three months.
-  update_date: 2026-11-06
+    explore a centre-right government, and on 10 November gave him another week, to about 17 November,
+    after the Sweden Democrats dropped their demand for cabinet posts. Two of the four permitted votes
+    remain; if all fail, a snap election must be held within three months.
+  update_date: 2026-11-15
   sources_extra:
     - {label: "Sveriges riksdag: No to Elisabeth Thand Ringqvist (Cen) as Prime Minister", url: "https://www.riksdagen.se/en/news/articles/2026/nov/3/no-to-elisabeth-thand-ringqvist-cen-as-prime_cms6afacb7c-be00-432a-b75e-37e169872323en/"}
     - {label: "Reuters via Yahoo News: Swedish PM tries to form a new government amid post-election gridlock", url: "https://malaysia.news.yahoo.com/sweden-parliament-rejects-centre-leader-124824112.html"}
     - {label: "AA: Swedish parliament votes against Andersson as prime minister", url: "https://www.aa.com.tr/en/europe/swedish-parliamet-votes-against-andersson-as-prime-minister-/4089695"}
     - {label: "Wikipedia: 2026 Swedish government formation", url: "https://en.wikipedia.org/wiki/2026_Swedish_government_formation"}
+    - {label: "Anadolu via aNews: Swedish premier gets another week to form government", url: "https://www.anews.com.tr/world/2026/11/10/swedish-premier-gets-another-week-to-form-government"}
 
 CHE:
   pop: 9.0
