@@ -6,10 +6,15 @@
   const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const CAT_LABEL = { military: 'Military', political: 'Political', diplomatic: 'Diplomatic', economic: 'Economic', humanitarian: 'Humanitarian' };
   const state = { cat: 'all', region: 'all' };
-  let news, byId, conflicts;
+  let news, byId, conflicts, threads = new Map();
+  const CONF = {
+    confirmed: ['Confirmed', 'Reported by a wire service (Reuters, AP, AFP or the BBC) or by two independent outlets.'],
+    reported: ['Reported', 'Rests on one outlet or on a claim that has not been independently verified. Treat with care.'],
+    disputed: ['Disputed', 'Credible sources disagree about what happened. Both sides are given in the summary.'],
+  };
 
   function render() {
-    const items = news.items.filter((n) => (state.cat === 'all' || n.category === state.cat)
+    const items = news.items.filter((n) => (state.cat === 'all' || n.category === state.cat || (state.cat === 'good' && n.good))
       && (state.region === 'all' || n.countries.some((iso) => (byId.get(iso) || {}).group === state.region)));
     if (!items.length) {
       $('#feed').innerHTML = '<p class="feed-empty">Nothing matches that filter yet.</p>';
@@ -26,8 +31,11 @@
         ${list.map((n) => `
           <article class="item" id="${esc(n.id)}">
             <p class="item-meta"><span class="cat cat-${n.category}">${esc(CAT_LABEL[n.category] || n.category)}</span>
+              ${n.confidence ? `<span class="conf conf-${n.confidence}" title="${esc(CONF[n.confidence][1])}">${esc(CONF[n.confidence][0])}</span>` : ''}
+              ${n.good ? '<span class="conf conf-good" title="A story about something going right">Good news</span>' : ''}
               ${n.countries.map((iso) => byId.get(iso)).filter(Boolean).map((e) => `<a class="ctry" href="./#${e.id}">${esc(e.flag)} ${esc(e.name)}</a>`).join('')}
               ${n.conflict && conflicts.get(n.conflict) ? `<a class="ctry war" href="./#c/${esc(n.conflict)}">${esc(conflicts.get(n.conflict).name)}</a>` : ''}
+              ${n.thread && threads.get(n.thread) ? `<a class="ctry thread" href="./#t/${esc(n.thread)}">Storyline: ${esc(threads.get(n.thread).title)}</a>` : ''}
             </p>
             <h4 class="item-h">${esc(n.headline)}</h4>
             ${n.summary ? `<p class="item-sum">${n.summary}</p>` : ''}
@@ -59,11 +67,13 @@
   }
 
   async function boot() {
-    const [n, idx, mil] = await Promise.all([
+    const [n, idx, mil, th] = await Promise.all([
       fetch('data/news.json').then((r) => r.json()),
       fetch('data/index.json').then((r) => r.json()),
       fetch('data/military.json').then((r) => (r.ok ? r.json() : { conflicts: [] })).catch(() => ({ conflicts: [] })),
+      fetch('data/threads.json').then((r) => (r.ok ? r.json() : { threads: [] })).catch(() => ({ threads: [] })),
     ]);
+    threads = new Map((th.threads || []).map((x) => [x.id, x]));
     news = n;
     byId = new Map(idx.entities.map((e) => [e.id, e]));
     conflicts = new Map(mil.conflicts.map((c) => [c.id, c]));

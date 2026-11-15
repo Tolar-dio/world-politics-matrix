@@ -221,6 +221,21 @@ def build(content: Path, data: Path, ids: set[str], md, paras, pretty_date) -> d
     (data / "military.json").write_text(json.dumps(military, ensure_ascii=False, separators=(",", ":")))
 
     # ---------- news ----------
+    WIRE = re.compile(r"\b(Reuters|AP|Associated Press|AFP|Agence France-Presse|BBC)\b")
+    UNVERIFIED = re.compile(r"(could not|cannot|can't|couldn't) be independently (verified|confirmed)|not (been )?independently (verified|confirmed)|unverified", re.I)
+
+    def _confidence(n: dict) -> str:
+        # An explicit label wins; otherwise wire copy or two independent outlets count as confirmed.
+        if n.get("confidence") in ("confirmed", "reported", "disputed"):
+            return n["confidence"]
+        if UNVERIFIED.search(str(n.get("summary") or "")):
+            return "reported"
+        srcs = n.get("sources") or []
+        hosts = {re.sub(r"^www\.", "", (s.get("url") or "").split("/")[2]) for s in srcs if (s.get("url") or "").count("/") >= 2}
+        if any(WIRE.search(str(s.get("label") or "")) for s in srcs) or len(hosts) >= 2:
+            return "confirmed"
+        return "reported"
+
     npath = content / "news.yaml"
     news = {"built": date.today().isoformat(), "items": [], "upcoming": []}
     if npath.exists():
@@ -237,6 +252,9 @@ def build(content: Path, data: Path, ids: set[str], md, paras, pretty_date) -> d
                 "summary": text(n.get("summary")),
                 "conflict": n.get("conflict") if n.get("conflict") in conflicts else None,
                 "sources": _sources(n.get("sources"), where),
+                "confidence": _confidence(n),
+                "good": bool(n.get("good")),
+                "thread": str(n["thread"]) if n.get("thread") else None,
             })
         for u in doc.get("upcoming") or []:
             if not u.get("date") or not u.get("event"):

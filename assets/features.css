@@ -161,3 +161,21 @@ body.tm-on .lens-box, body.tm-on .globe-tools { display: none; }
   .tm-months span:not(.q) { display: none; }
   .tm-close { width: 30px; height: 30px; }
 }
+
+/* ---------- trust layer ---------- */
+.checked { color: var(--ink-3); }
+.corrected { font-family: var(--sans); font-size: 13.5px; line-height: 1.45; color: var(--ink-2); margin: 10px 0 0; padding: 8px 12px; border-left: 3px solid var(--war); background: color-mix(in srgb, var(--war) 7%, transparent); border-radius: 0 6px 6px 0; }
+.trust-dl { margin: 0; display: grid; gap: 10px; }
+.trust-dl div { display: grid; grid-template-columns: 112px 1fr; gap: 12px; align-items: baseline; }
+.trust-dl dd { margin: 0; font-size: 15.5px; line-height: 1.45; }
+.tchip { font-family: var(--sans); font-size: 12px; font-weight: 700; padding: 2px 8px; border-radius: 4px; background: var(--chip); white-space: nowrap; }
+.tchip.ok { background: color-mix(in srgb, #4A8E7F 18%, transparent); }
+.tchip.rep { background: color-mix(in srgb, #D8AE58 26%, transparent); }
+.tchip.dis { background: color-mix(in srgb, #B9473C 20%, transparent); }
+.corr-list { list-style: none; margin: 0; padding: 0; }
+.corr { border-bottom: 1px solid var(--rule); padding: 12px 0; }
+.corr h3 { font-family: var(--sans); font-size: 16px; font-weight: 700; margin: 2px 0 6px; line-height: 1.3; }
+.corr p { font-size: 15px !important; line-height: 1.45; margin: 0 0 6px !important; }
+.corr-meta { font-family: var(--sans); font-size: 12.5px !important; color: var(--ink-3); }
+.corr-why { color: var(--ink-2); }
+.corr-src { font-family: var(--sans); font-size: 12.5px !important; }

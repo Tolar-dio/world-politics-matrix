@@ -64,4 +64,30 @@ def build(content: Path, data: Path, ids: set[str], md, paras, pretty_date) -> d
     if ind.exists():
         (data / "indicators.json").write_text(ind.read_text())
 
+    # Corrections log.
+    corr = _load_yaml(content / "corrections.yaml") or {}
+    out = []
+    for c in corr.get("corrections") or []:
+        where = f"corrections.yaml: {c.get('what')}"
+        if not ISO_DATE.match(str(c.get("date") or "")) or not c.get("what"):
+            raise BuildError(f"{where}: needs a YYYY-MM-DD date and a 'what'")
+        w = c.get("where") or {}
+        out.append({
+            "date": str(c["date"]), "pretty": pretty_date(str(c["date"])),
+            "type": w.get("type") or "", "id": str(w.get("id") or ""),
+            "what": str(c["what"]), "was": md(str(c.get("was") or ""))[0], "now": md(str(c.get("now") or ""))[0],
+            "why": md(str(c.get("why") or ""))[0], "sources": _sources(c.get("sources"), where),
+        })
+    out.sort(key=lambda x: x["date"], reverse=True)
+    (data / "corrections.json").write_text(json.dumps({"corrections": out}, ensure_ascii=False, separators=(",", ":")))
+    for c in out:
+        if c["type"] == "country" and c["id"] in per_country:
+            per_country[c["id"]].setdefault("corrections", []).append({"date": c["pretty"], "what": c["what"]})
+
+    # When each profile was last checked by the daily rotation.
+    rot = _load_yaml(content / "rotation.yaml") or {}
+    for cid, d in rot.items():
+        if cid in per_country and d:
+            per_country[cid]["checked"] = pretty_date(str(d))
+
     return {"per_country": per_country}

@@ -1008,7 +1008,7 @@
       return;
     }
     if (!state.focus || state.focus.id !== id) return;
-    const chips = [TYPE_LABEL[d.type] || d.type, INTENSITY_LABEL[d.intensity], STATUS_LABEL[d.status], d.started ? `since ${fmtDate(d.started)}` : '']
+    const chips = [TYPE_LABEL[d.type] || d.type, INTENSITY_LABEL[d.intensity], STATUS_LABEL[d.status], d.started ? `since ${fmtDate(d.started)}` : '', d.updated ? `updated ${fmtDate(d.updated)}` : '']
       .filter(Boolean).map((t) => `<li>${esc(t)}</li>`).join('');
     const sides = d.sides.map((sd) => `
       <div class="side">
@@ -1054,10 +1054,12 @@
       full = d.battles.find((b) => b.id === id) || light;
     } catch (_) { /* fall back to light data */ }
     if (!state.focus || state.focus.id !== id) return;
+    const nsrc = (full.sources || []).length;
     const facts = [
       ['When', esc(dateRange(full.start, full.end))],
       ['Where', esc(full.place)],
       ['Result', full.outcome],
+      ['How sure', nsrc >= 2 ? `${nsrc} independent sources cited` : nsrc === 1 ? 'One source cited. Treat figures with care.' : ''],
     ].filter(([, v]) => v).map(([k, v]) => `<div class="wide"><dt>${k}</dt><dd>${v}</dd></div>`).join('');
     showPanel(`
       ${panelTop(full.name, `${full.tier === 'major' ? 'Major battle' : 'Mid-size engagement'}${c ? ` in <button type="button" class="link" data-conflict="${c.id}">${esc(c.name)}</button>` : ''}`)}

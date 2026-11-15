@@ -65,3 +65,12 @@ body.news-page { overflow: auto; height: auto; }
 
 .up-more { display: none; margin-top: 10px; font: inherit; font-weight: 600; color: var(--ink); background: none; border: 1px solid var(--rule); border-radius: 999px; padding: 6px 14px; cursor: pointer; }
 .up-more:focus-visible { outline: 2px solid var(--brass); outline-offset: 2px; }
+
+.conf { font-family: var(--sans); font-size: 11.5px; font-weight: 700; padding: 2px 7px; border-radius: 4px; cursor: help; }
+.conf-confirmed { background: color-mix(in srgb, #4A8E7F 18%, transparent); color: var(--ink); }
+.conf-reported { background: color-mix(in srgb, #D8AE58 26%, transparent); color: var(--ink); }
+.conf-disputed { background: color-mix(in srgb, #B9473C 20%, transparent); color: var(--ink); }
+.conf-good { background: color-mix(in srgb, #7DB4A5 28%, transparent); color: var(--ink); }
+.news-trust { font-family: var(--sans); font-size: 13.5px; color: var(--ink-2); line-height: 1.5; max-width: 70ch; }
+.news-trust b { font-weight: 600; color: var(--ink); }
+.ctry.thread { color: var(--brass-deep); font-weight: 600; }
