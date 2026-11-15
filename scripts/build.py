@@ -26,6 +26,7 @@ from pathlib import Path
 
 import yaml
 
+import extras
 import military
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -368,6 +369,10 @@ def main() -> None:
         mil = military.build(CONTENT, DATA, ids | set(territories), md_inline, paras, pretty_date)
     except military.BuildError as err:
         fail(str(err))
+    try:
+        extra = extras.build(CONTENT, DATA, ids, md_inline, paras, pretty_date)
+    except extras.BuildError as err:
+        fail(str(err))
 
     entities = []
     for cid in sorted(ids):
@@ -421,6 +426,7 @@ def main() -> None:
                       if prof.get("update") else None,
             "sources": merge_sources(prof.get("sources_extra"), nar["sources"] if nar else [], prof.get("sources")),
             "conflicts": mil["by_country"].get(cid, []),
+            **extra["per_country"].get(cid, {}),
         }
         (out_dir / f"{cid}.json").write_text(json.dumps(detail, ensure_ascii=False, separators=(",", ":")))
 

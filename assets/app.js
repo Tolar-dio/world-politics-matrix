@@ -73,6 +73,21 @@
   };
 
   let index, byId, features, world, lensColor;
+
+  /* ---------- extension points: feature scripts in assets/features/ plug in here ---------- */
+  const ext = {
+    profileSections: [],   // (detail, entity) => html, rendered before Sources
+    afterProfile: [],      // (detail, entity) => void, after the profile is in the DOM
+    colorOverrides: [],    // (entity, baseColour) => colour | null, applied in order
+    arcs: new Map(),       // source -> arcs [{startLat, startLng, endLat, endLng, color, label}]
+    rings: new Map(),      // source -> rings [{lat, lng, maxR, speed, color}]
+    html: new Map(),       // source -> html markers [{lat, lng, render(d) => element}]
+    routes: [],            // (hash) => true if handled
+    battleFilter: null,    // (battle) => bool, used by the time machine
+    lineSource: null,      // () => [{name, points, conflict}] | null, used by the time machine
+    listeners: {},         // event -> [fn]
+  };
+  const emit = (evt, ...args) => (ext.listeners[evt] || []).forEach((fn) => { try { fn(...args); } catch (err) { console.error(err); } });
   let mil = { conflicts: [], battles: [], bases: [] };
   let news = { items: [], upcoming: [] };
   let conflictById = new Map(), battleById = new Map(), baseById = new Map();
@@ -95,6 +110,7 @@
       if (!entity) return TERRITORY_COLOR();
       if (entity.kind === 'territory') return TERRITORY_COLOR();
       const lens = LENSES[state.lens];
+      if (lens.color) return lens.color(entity) || lens.none[1];
       const k = lens.key(entity);
       return (k && map.get(state.lens).get(k)) || lens.none[1];
     };
@@ -104,6 +120,7 @@
     if (!entity) return '';
     if (entity.kind === 'territory') return 'Territory or dependency';
     const lens = LENSES[state.lens];
+    if (lens.label) return lens.label(entity);
     const k = lens.key(entity);
     const item = lens.items.find(([key]) => key === k);
     return item ? item[1] : lens.none[0];
@@ -157,7 +174,8 @@
     const id = f.properties.id;
     const e = id && byId.get(id);
     if (id && id === state.selected) return isDark() ? '#F3EBDA' : '#1F2A33';
-    const base = state.mode === 'conflict' ? warColor(e) : lensColor(e);
+    let base = state.mode === 'conflict' ? warColor(e) : lensColor(e);
+    for (const fn of ext.colorOverrides) { const c = e && fn(e, base); if (c) base = c; }
     if (id && id === state.hovered) return mix(base, '#1F2A33', 0.18);
     return base;
   }
@@ -179,13 +197,16 @@
   function refreshPolygons() {
     if (!world) return;
     world.polygonCapColor(capColor).polygonAltitude(altitude).polygonSideColor(world.polygonSideColor());
-    document.querySelectorAll('.micro').forEach((el) => {
+    // Walk the markers globe.gl holds, not the DOM: new markers aren't attached until the next frame.
+    markerEls.forEach((el) => {
+      if (!el.classList.contains('micro')) return;
       const e = byId.get(el.dataset.id);
       el.style.background = state.mode === 'conflict' ? warColor(e) : lensColor(e);
       el.classList.toggle('is-selected', el.dataset.id === state.selected);
     });
     const fc = focusConflict();
-    document.querySelectorAll('.mk').forEach((el) => {
+    markerEls.forEach((el) => {
+      if (!el.classList.contains('mk')) return;
       el.classList.toggle('is-selected', !!state.focus && state.focus.type === el.dataset.type && state.focus.id === el.dataset.id);
       el.classList.toggle('dim', !!fc && el.dataset.conflict !== fc);
     });
@@ -252,8 +273,18 @@
       .pathTransitionDuration(0)
       .onPathHover((p) => setHoverMil(p ? { type: 'conflict', id: p.conflict, line: p.name } : null))
       .onPathClick((p) => p && !markerClaimed() && openConflict(p.conflict, { fromGlobe: true }))
+      .arcsData([])
+      .arcStartLat('startLat').arcStartLng('startLng').arcEndLat('endLat').arcEndLng('endLng')
+      .arcColor((d) => d.color || '#C8962E')
+      .arcStroke((d) => d.stroke || 0.6)
+      .arcAltitudeAutoScale((d) => d.scale || 0.4)
+      .arcDashLength((d) => (reduceMotion ? 1 : d.dash || 0.5)).arcDashGap((d) => (reduceMotion ? 0 : d.gap ?? 0.2))
+      .arcDashAnimateTime((d) => (reduceMotion ? 0 : d.animate ?? 2600))
+      .arcsTransitionDuration(0)
+      .arcLabel((d) => (d.label ? `<div class="arc-tip">${esc(d.label)}</div>` : ''))
+      .onArcClick((d) => { if (d && d.onClick) d.onClick(d); })
       .ringsData([])
-      .ringColor(() => (t) => `rgba(185,71,60,${Math.max(0, 0.55 * (1 - t))})`)
+      .ringColor((d) => (t) => (d.rgb ? `rgba(${d.rgb},${Math.max(0, 0.7 * (1 - t))})` : `rgba(185,71,60,${Math.max(0, 0.55 * (1 - t))})`))
       .ringMaxRadius('maxR').ringPropagationSpeed('speed').ringRepeatPeriod(2200).ringAltitude(0.0125)
       .htmlElementVisibilityModifier((elem, visible) => { elem.style.visibility = visible ? 'visible' : 'hidden'; })
       .onZoom(() => scheduleMeridian());
@@ -291,12 +322,17 @@
     scheduleMeridian();
   }
 
+  const markerEls = new Set();
   function htmlData() {
-    if (state.mode !== 'conflict') return index.entities.filter((e) => e.tiny && e.kind === 'country').map((e) => ({ ...e, __type: 'micro' }));
+    markerEls.clear();
+    const extra = [];
+    for (const list of ext.html.values()) for (const d of list) extra.push({ ...d, __type: 'ext' });
+    if (state.mode !== 'conflict') return index.entities.filter((e) => e.tiny && e.kind === 'country').map((e) => ({ ...e, __type: 'micro' })).concat(extra);
     const out = [];
-    if (state.layers.battles) for (const b of mil.battles) if (!state.majorOnly || b.tier === 'major') out.push({ ...b, __type: 'battle' });
+    const keep = ext.battleFilter || (() => true);
+    if (state.layers.battles) for (const b of mil.battles) if ((!state.majorOnly || b.tier === 'major') && keep(b)) out.push({ ...b, __type: 'battle' });
     if (state.layers.bases) for (const b of mil.bases) out.push({ ...b, __type: 'base' });
-    return out;
+    return out.concat(extra);
   }
 
   const SWORDS = '<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 3l10 10M13 3L3 13M2.2 9.6l4.2 4.2M9.6 13.8l4.2-4.2" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" fill="none"/></svg>';
@@ -304,7 +340,12 @@
   const DIAMOND = '<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 1.5L14.5 8 8 14.5 1.5 8z" fill="rgba(31,42,51,.35)" stroke="#F3D27A" stroke-width="2.2"/></svg>';
 
   function markerFor(d) {
-    if (d.__type === 'micro') return microMarker(d);
+    const el = d.__type === 'micro' ? microMarker(d) : d.__type === 'ext' ? d.render(d) : militaryMarker(d);
+    markerEls.add(el);
+    return el;
+  }
+
+  function militaryMarker(d) {
     const b = document.createElement('button');
     b.type = 'button';
     b.dataset.type = d.__type;
@@ -471,6 +512,11 @@
   /* ---------- legend + lens ---------- */
   function renderLegend() {
     const lens = LENSES[state.lens];
+    if (lens.legend) {
+      $('#legend').innerHTML = lens.legend();
+      $('#legend-title').textContent = lens.title;
+      return;
+    }
     const counts = new Map();
     let noneCount = 0;
     for (const e of index.entities) {
@@ -489,8 +535,10 @@
   }
 
   function setLens(name) {
+    if (!LENSES[name]) name = 'system';
     state.lens = name;
     document.querySelectorAll('.lens-switch button').forEach((b) => b.setAttribute('aria-checked', String(b.dataset.lens === name)));
+    emit('lens', name);
     renderLegend();
     refreshPolygons();
     refreshBrowseDots();
@@ -687,10 +735,12 @@
       ${d.power ? sec('How power works', `<p class="power">${d.power}</p>`) : ''}
       ${sec('Culture', paras(d.culture))}
       ${sec('Society', paras(d.society))}
+      ${ext.profileSections.map((fn) => { try { return fn(d, byId.get(d.id)) || ''; } catch (err) { console.error(err); return ''; } }).join('')}
       ${sec('Sources', sources)}`;
 
     $('#profile').querySelectorAll('section a[href^="http"]').forEach((a) => { a.target = '_blank'; a.rel = 'noopener'; });
     $('#close-btn').addEventListener('click', closeProfile);
+    ext.afterProfile.forEach((fn) => { try { fn(d, byId.get(d.id)); } catch (err) { console.error(err); } });
   }
 
   function renderTerritory(e) {
@@ -760,7 +810,9 @@
   }
 
   function currentFeatures() {
-    return state.mode === 'conflict' && state.layers.zones ? features.concat(zoneFeatures) : features;
+    if (state.mode !== 'conflict' || !state.layers.zones) return features;
+    const zones = ext.conflictVisible ? zoneFeatures.filter((f) => ext.conflictVisible(conflictById.get(f.properties.conflict))) : zoneFeatures;
+    return features.concat(zones);
   }
 
   function refreshLayers() {
@@ -771,11 +823,16 @@
     if (state.mode === 'conflict' && state.layers.lines) {
       for (const c of mil.conflicts) for (const ln of c.lines) lines.push({ ...ln, conflict: c.id });
     }
-    world.pathsData(lines);
+    world.pathsData(ext.lineSource && state.mode === 'conflict' && state.layers.lines ? (ext.lineSource() || []) : lines);
+    const arcs = [];
+    for (const list of ext.arcs.values()) arcs.push(...list);
+    world.arcsData(arcs);
     const rings = [];
+    for (const list of ext.rings.values()) rings.push(...list);
     if (state.mode === 'conflict' && state.layers.zones && !reduceMotion) {
       for (const c of mil.conflicts) {
         if (c.intensity !== 'high' || c.status !== 'active') continue;
+        if (ext.conflictVisible && !ext.conflictVisible(c)) continue;
         for (const z of c.zones.slice(0, 4)) rings.push({ lat: z.lat, lng: z.lng, maxR: Math.min(6, (z.r / 111) * 1.4), speed: Math.max(0.4, (z.r / 111) * 0.9) });
       }
     }
@@ -796,6 +853,7 @@
     }
     refreshLayers();
     refreshBrowseDots();
+    emit('mode', mode);
     if (!keepPanel && !state.selected && !state.focus) showIntro();
   }
 
@@ -1047,6 +1105,7 @@
 
   function routeFromHash() {
     const h = decodeURIComponent(location.hash.slice(1));
+    for (const r of ext.routes) { try { if (r(h)) return true; } catch (err) { console.error(err); } }
     if (h === 'conflicts') { setMode('conflict'); return true; }
     const m = h.match(/^([cbm])\/(.+)$/);
     if (m) {
@@ -1085,6 +1144,7 @@
         const d = await loadDetail(id);
         if (state.selected !== id) return;
         renderProfile(d);
+        emit('select', id, d);
       } catch (err) {
         $('#profile').innerHTML = `<p>Couldn't load the profile for ${esc(e.name)}. Check your connection and pick the country again.</p>`;
       }
@@ -1098,6 +1158,7 @@
   function closeProfile() {
     state.selected = null;
     state.focus = null;
+    emit('close');
     refreshPolygons();
     showIntro();
     history.replaceState(null, '', location.pathname + location.search);
@@ -1265,7 +1326,8 @@
     features = topojson.feature(topo, topo.objects.countries).features;
     buildZones();
 
-    try { const saved = localStorage.getItem('wpm-lens'); if (saved && LENSES[saved]) state.lens = saved; } catch (_) { /* storage unavailable */ }
+    emit('data');
+    try { const saved = localStorage.getItem('wpm-lens'); state.savedLens = saved; if (saved && LENSES[saved]) state.lens = saved; } catch (_) { /* storage unavailable */ }
 
     // Always open in politics mode; only an explicit conflict link (#conflicts, #c/..., #b/..., #m/...) opens conflicts.
     let savedMode = 'politics';
@@ -1307,8 +1369,34 @@
       else if (ev.key === 'Escape' && !typing && (state.selected || state.focus)) closeProfile();
     });
     window.addEventListener('hashchange', routeFromHash);
+    emit('ready');
     routeFromHash();
   }
+
+  // Open a panel that belongs to neither a country nor a war (storylines, this week, compare...).
+  function openPanel({ hash, title, html }) {
+    state.selected = null;
+    state.focus = null;
+    refreshPolygons();
+    if (hash && location.hash !== hash) history.replaceState(null, '', hash);
+    document.title = `${title}, World Politics Matrix`;
+    showPanel(html);
+  }
+
+  window.WPM = {
+    ext, state, LENSES, YEAR,
+    get world() { return world; }, get index() { return index; }, get byId() { return byId; },
+    get mil() { return mil; }, get news() { return news; }, get mobile() { return mobileMQ.matches; },
+    get conflictById() { return conflictById; },
+    reduceMotion, esc, norm, mix, cssVar, isDark, fmtDate, dateRange, panelTop, section, sourceList, pList, flagsFor,
+    on(evt, fn) { (ext.listeners[evt] = ext.listeners[evt] || []).push(fn); },
+    emit, select, closeProfile, openPanel, showPanel, flyTo, flyToPoint, setMode, setLens, renderLegend,
+    refreshLayers, refreshPolygons, refreshBrowseDots, openConflict, openBattle, loadDetail, renderTip,
+    setArcs(source, list) { if (list && list.length) ext.arcs.set(source, list); else ext.arcs.delete(source); refreshLayers(); },
+    setRings(source, list) { if (list && list.length) ext.rings.set(source, list); else ext.rings.delete(source); refreshLayers(); },
+    setHtml(source, list) { if (list && list.length) ext.html.set(source, list); else ext.html.delete(source); refreshLayers(); },
+    registerLens(name, def) { LENSES[name] = { items: [], none: ['No data', cssVar('--quiet') || '#E4DED0'], key: () => null, ...def }; },
+  };
 
   boot().catch((err) => {
     console.error(err);
