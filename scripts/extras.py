@@ -90,4 +90,98 @@ def build(content: Path, data: Path, ids: set[str], md, paras, pretty_date) -> d
         if cid in per_country and d:
             per_country[cid]["checked"] = pretty_date(str(d))
 
+    # Storylines.
+    build_threads(content, data, ids, per_country, md, pretty_date)
+
     return {"per_country": per_country}
+
+
+THREAD_STATUS = {"escalating", "grinding", "talks", "shifting", "cooling"}
+
+
+def build_threads(content: Path, data: Path, ids: set[str], per_country: dict, md, pretty_date) -> None:
+    doc = _load_yaml(content / "threads.yaml") or {}
+    news_path = data / "news.json"
+    news = json.loads(news_path.read_text()) if news_path.exists() else {"items": []}
+    mil_path = data / "military.json"
+    conflicts = {c["id"] for c in json.loads(mil_path.read_text())["conflicts"]} if mil_path.exists() else set()
+    out = []
+    for th in doc.get("threads") or []:
+        tid = th.get("id") or ""
+        where = f"threads.yaml: {tid or th.get('title')}"
+        if not re.match(r"^[a-z0-9-]+$", tid) or not th.get("title"):
+            raise BuildError(f"{where}: needs a kebab-case id and a title")
+        if th.get("status") not in THREAD_STATUS:
+            raise BuildError(f"{where}: status must be one of {', '.join(sorted(THREAD_STATUS))}")
+        links = []
+        for ln in th.get("links") or []:
+            if ln.get("from") not in ids or ln.get("to") not in ids:
+                raise BuildError(f"{where}: link {ln.get('from')} to {ln.get('to')} uses an unknown country code")
+            links.append({"from": ln["from"], "to": ln["to"], "label": str(ln.get("label") or "")})
+        tc = [c for c in th.get("conflicts") or [] if c in conflicts]
+        unknown = [c for c in th.get("conflicts") or [] if c not in conflicts]
+        if unknown:
+            raise BuildError(f"{where}: unknown conflict ids {unknown}")
+        m = th.get("match") or {}
+        mc = set(m.get("countries") or [])
+        kw = [k.lower() for k in m.get("keywords") or []]
+
+        def matches(n):
+            if n.get("thread") == tid or (n.get("conflict") and n["conflict"] in tc):
+                return True
+            # Keyword matches skip items filed under some other war, to keep threads from swallowing each other.
+            if n.get("conflict") and n["conflict"] not in tc:
+                return False
+            if mc & set(n.get("countries") or []):
+                hay = (n["headline"] + " " + re.sub("<[^>]+>", "", n.get("summary") or "")).lower()
+                return any(k in hay for k in kw)
+            return False
+
+        hits = [n for n in news["items"] if matches(n)]
+        for n in hits:
+            n.setdefault("threads", [])
+            if tid not in n["threads"]:
+                n["threads"].append(tid)
+        key = []
+        for k in th.get("key") or []:
+            if not ISO_DATE.match(str(k.get("date") or "")):
+                raise BuildError(f"{where}: milestone needs a YYYY-MM-DD date")
+            item = {"date": str(k["date"]), "pretty": pretty_date(str(k["date"])), "text": md(str(k.get("text") or ""))[0]}
+            if k.get("conflict"):
+                if k["conflict"] not in conflicts:
+                    raise BuildError(f"{where}: milestone links unknown conflict {k['conflict']}")
+                item["conflict"] = k["conflict"]
+            elif k.get("news"):
+                ref = str(k["news"])
+                d, _, start = ref.partition(" ")
+                found = next((n for n in news["items"] if n["date"] == d and n["headline"].lower().startswith(start.lower())), None)
+                if not found:
+                    raise BuildError(f"{where}: milestone news '{ref}' matches no news item (use 'YYYY-MM-DD start of headline')")
+                item["news"] = found["id"]
+                item["sources"] = found["sources"][:2]
+            else:
+                item["sources"] = _sources(k.get("sources"), where)
+                if not item["sources"]:
+                    raise BuildError(f"{where}: milestone '{k.get('text')}' needs a conflict, news or sources reference")
+            key.append(item)
+        key.sort(key=lambda x: x["date"])
+        countries = sorted(mc | {x for ln in links for x in (ln["from"], ln["to"])})
+        out.append({
+            "id": tid, "title": str(th["title"]), "dek": str(th.get("dek") or ""), "status": th["status"],
+            "why": md(" ".join(str(th.get("why") or "").split()))[0], "watch": md(" ".join(str(th.get("watch") or "").split()))[0],
+            "links": links, "conflicts": tc, "countries": countries, "key": key,
+            "news": [n["id"] for n in hits[:30]], "latest": hits[0]["date"] if hits else None,
+            "count7": sum(1 for n in hits if n["date"] >= _days_ago(news, 7)),
+        })
+        for cid in countries:
+            if cid in per_country:
+                per_country[cid].setdefault("threads", []).append({"id": tid, "title": str(th["title"])})
+    (data / "threads.json").write_text(json.dumps({"threads": out}, ensure_ascii=False, separators=(",", ":")))
+    news_path.write_text(json.dumps(news, ensure_ascii=False, separators=(",", ":")))
+
+
+def _days_ago(news: dict, n: int) -> str:
+    latest = max((x["date"] for x in news["items"]), default=date.today().isoformat())
+    y, m, d = map(int, latest.split("-"))
+    from datetime import timedelta
+    return (date(y, m, d) - timedelta(days=n - 1)).isoformat()

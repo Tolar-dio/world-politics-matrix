@@ -1,0 +1,351 @@
+# Storylines: the big threads that connect countries. Each one is drawn on the globe as arcs
+# between the countries involved, and pulls in matching news automatically.
+# See UPDATING.md ("Storylines") for how the daily update maintains these.
+#
+# - id: kebab-case-id
+#   title: "Short title"
+#   dek: "One sentence: what this storyline is."
+#   status: escalating | grinding | talks | shifting | cooling
+#   why: >-      Two to four sentences on why it matters and how the pieces connect.
+#   watch: >-    What to watch next.
+#   links:       arcs on the globe: {from: ISO3, to: ISO3, label: "what connects them"}
+#   conflicts:   conflict ids from content/military/*.yaml
+#   match:       news is pulled in when it is tagged `thread: <id>`, or touches one of these
+#                conflicts, or names one of `countries` AND contains one of `keywords`
+#   key:         milestones: {date, text, and one of conflict: id | news: "YYYY-MM-DD headline start" | sources: [...]}
+
+threads:
+  - id: hormuz-shock
+    title: "The Hormuz shock"
+    dek: "Iran's near-closure of the Strait of Hormuz is rippling through oil prices, shipping and politics far beyond the Gulf."
+    status: escalating
+    why: >-
+      About a fifth of the world's oil and much of its liquefied gas normally pass through the Strait of Hormuz.
+      Since the US-Israeli war on Iran began in February, Iran has mined and attacked shipping there while a US
+      blockade chokes Iran's own exports, so the strait is shut to most traffic. That one choke point now links
+      tanker crews off Oman, fuel prices in Pakistan and Kenya, gas supplies in Japan and Korea, Qatar's role as
+      mediator and Trump's political fortunes at home.
+    watch: >-
+      Whether Qatar's mediation produces a reopening deal, or Washington and Israel resume strikes. Iran says the
+      strait stays shut until its seven conditions are met.
+    links:
+      - {from: IRN, to: USA, label: "At war since February 2026; US blockade of Iranian ports"}
+      - {from: IRN, to: OMN, label: "Mines and attacks on tankers off Oman"}
+      - {from: IRN, to: ARE, label: "Ships hit off Ras al-Khaimah and in UAE waters"}
+      - {from: QAT, to: IRN, label: "Qatar mediates between Tehran and Washington"}
+      - {from: IRN, to: CHN, label: "China is the biggest buyer of Gulf oil"}
+      - {from: IRN, to: IND, label: "India imports most of its oil, much of it via Hormuz"}
+      - {from: IRN, to: JPN, label: "Japan and Korea depend on Gulf oil and gas"}
+      - {from: IRN, to: BHR, label: "Iran claims strikes on US sites in Bahrain"}
+    conflicts: [iran-war-2026, strait-of-hormuz-shipping-war]
+    match:
+      countries: [IRN, OMN, QAT]
+      keywords: [Hormuz, tanker, blockade, oil]
+    key:
+      - {date: "2026-02-28", text: "The US and Israel launch war on Iran.", conflict: iran-war-2026}
+      - {date: "2026-10-16", text: "CENTCOM says the blockade has cost Iran 25 billion dollars in oil exports.", news: "2026-10-16 CENTCOM says blockade"}
+      - {date: "2026-10-22", text: "Seven tankers are hit in the war's worst single day for shipping.", news: "2026-10-22 Seven tankers hit"}
+      - {date: "2026-11-09", text: "Trump calls the war 'effectively over' militarily but keeps the blockade.", news: "2026-11-09 Trump calls the Iran war"}
+      - {date: "2026-11-11", text: "Iran says Hormuz stays shut until its conditions are met.", news: "2026-11-11 Iran rejects moving"}
+
+  - id: ukraine-talks
+    title: "Talking while fighting in Ukraine"
+    dek: "US-brokered talks between Russia and Ukraine have restarted, while the air war on power grids and refineries hits new peaks."
+    status: talks
+    why: >-
+      For the first time since February, Russia and Ukraine are meeting face to face, with US envoys Witkoff and
+      Kushner shuttling between Kyiv, Moscow and Abu Dhabi and Europe pushing to join. At the same time both sides
+      are firing record numbers of drones: Russia at Ukraine's power stations as winter starts, Ukraine at Russian
+      refineries and Baltic ports. Every strike is also a message to the negotiators, and the talks now reach into
+      US-China-Russia summitry.
+    watch: >-
+      The prisoner exchange agreed in Abu Dhabi, whether Europe gets a seat at the next round, and what comes out of
+      the Trump, Xi and Putin meeting in Shenzhen.
+    links:
+      - {from: USA, to: RUS, label: "Witkoff and Kushner carry US proposals to Putin"}
+      - {from: USA, to: UKR, label: "US mediates and sells Patriot missiles to Kyiv"}
+      - {from: RUS, to: UKR, label: "Full-scale war since 2022"}
+      - {from: ARE, to: UKR, label: "Abu Dhabi hosts the three-way talks"}
+      - {from: CHN, to: RUS, label: "Trump, Xi and Putin to meet in Shenzhen"}
+      - {from: FRA, to: UKR, label: "Europeans push to join the talks"}
+    conflicts: [russia-ukraine-war, russia-ukraine-strike-war]
+    match:
+      countries: [UKR, RUS]
+      keywords: [talks, Abu Dhabi, Witkoff, Kushner, ceasefire, prisoner, Shenzhen, NATO, Donbas, truce]
+    key:
+      - {date: "2026-10-21", text: "Putin agrees with Witkoff to restart three-way talks.", news: "2026-10-21 Putin agrees with Witkoff"}
+      - {date: "2026-10-23", text: "A local humanitarian ceasefire begins in occupied Oleshky.", news: "2026-10-23 Melania Trump brokers"}
+      - {date: "2026-11-10", text: "The first three-way round since February opens in Abu Dhabi.", news: "2026-11-10 US-mediated Russia-Ukraine talks open"}
+      - {date: "2026-11-11", text: "The talks end with a prisoner exchange deal but no ceasefire.", news: "2026-11-11 Abu Dhabi talks end"}
+      - {date: "2026-11-13", text: "Zelensky says US negotiators floated NATO membership in exchange for leaving Donbas.", news: "2026-11-13 Zelensky says US negotiators"}
+
+  - id: gulf-realignment
+    title: "The Gulf rearms and realigns"
+    dek: "Houthi missiles on Riyadh, a new Saudi-Pakistani-Turkish defence pact and wavering US support are redrawing Gulf security."
+    status: escalating
+    why: >-
+      Saudi Arabia is at war with Yemen's Houthis again, with missiles hitting Riyadh's financial district and
+      airports. Unsure how far Washington will go, Riyadh has built its own coalition: the Mecca defence pact with
+      Pakistan and Turkey, Egyptian promises of support and British jets. These deals tie Pakistan's army and
+      Turkey's arms industry to Gulf wars, and they could outlast this crisis.
+    watch: >-
+      Whether the Houthi offensive toward the Mokha-Aden road succeeds, and whether Pakistan or Egypt send forces.
+    links:
+      - {from: YEM, to: SAU, label: "Houthi missiles and drones on Saudi cities; Saudi air strikes on Yemen"}
+      - {from: SAU, to: PAK, label: "Mecca defence pact"}
+      - {from: SAU, to: TUR, label: "Mecca defence pact, ratified by Turkey on 5 November"}
+      - {from: EGY, to: SAU, label: "Egypt's parliament authorises military support"}
+      - {from: GBR, to: SAU, label: "RAF Typhoons help defend Saudi airspace"}
+      - {from: IRN, to: YEM, label: "Iran arms the Houthis"}
+    conflicts: [yemen-civil-war]
+    match:
+      countries: [SAU, YEM]
+      keywords: [Houthi, Riyadh, Aramco, Mecca, pact, Saudi]
+    key:
+      - {date: "2026-10-20", text: "Britain sends RAF Typhoons to defend Saudi Arabia.", news: "2026-10-20 UK sends RAF Typhoons"}
+      - {date: "2026-10-26", text: "Egypt's parliament authorises military support for Saudi Arabia.", news: "2026-10-26 Egypt's parliament authorises"}
+      - {date: "2026-11-05", text: "Turkey ratifies the Mecca defence pact with Saudi Arabia and Pakistan.", news: "2026-11-05 Turkey's parliament ratifies"}
+      - {date: "2026-11-08", text: "Houthi missiles damage Aramco's tower in Riyadh.", news: "2026-11-08 Aramco's tower in Riyadh"}
+      - {date: "2026-11-12", text: "Houthis open an offensive in Lahj aimed at the Mokha-Aden road.", news: "2026-11-12 Houthis open an offensive"}
+
+  - id: horn-of-africa
+    title: "The Horn of Africa's linked wars"
+    dek: "Sudan's civil war, renewed fighting in Ethiopia and an Ethiopia-Eritrea standoff are bleeding into each other."
+    status: escalating
+    why: >-
+      Sudan accuses Ethiopia of letting drones be launched against it from Ethiopian soil; Ethiopia and Eritrea have
+      cut relations after war returned to Tigray; Egypt has built a bloc with Eritrea, Somalia and Sudan against
+      Ethiopia; and the UAE is widely reported to back Sudan's RSF. A strike on a market in disputed Abyei dragged
+      South Sudan in. Each war feeds the others, and together they make the region the world's largest humanitarian
+      crisis.
+    watch: >-
+      Fighting around El Obeid in Sudan, drone strikes across the Sudan-Ethiopia border, and any Ethiopian move
+      toward Eritrea's port of Assab.
+    links:
+      - {from: SDN, to: ETH, label: "Drone accusations and expelled consular staff"}
+      - {from: ETH, to: ERI, label: "Relations cut on 1 October; troops face off at the border"}
+      - {from: ARE, to: SDN, label: "Reported backing for the RSF"}
+      - {from: EGY, to: ERI, label: "Egypt's bloc with Eritrea, Somalia and Sudan"}
+      - {from: SDN, to: SSD, label: "Abyei market strike kills at least 153"}
+      - {from: ETH, to: KEN, label: "50,000 flee clashes in Moyale into Kenya"}
+    conflicts: [sudan-saf-rsf, ethiopia-tigray-war, ethiopia-amhara-fano, ethiopia-oromia-ola, ethiopia-eritrea-standoff, south-sudan-civil-conflict]
+    match:
+      countries: [SDN, ETH, ERI, SSD]
+      keywords: [drone, Tigray, Abyei, RSF, Eritrea, Kordofan, Darfur]
+    key:
+      - {date: "2026-10-01", text: "Ethiopia and Eritrea cut diplomatic relations.", conflict: ethiopia-eritrea-standoff}
+      - {date: "2026-10-19", text: "A drone strike on Abyei's Amiet market kills at least 153.", news: "2026-10-19 Drone strike on Abyei"}
+      - {date: "2026-10-29", text: "Sudan accuses Ethiopia of letting 162 drone attacks be launched from its soil.", news: "2026-10-29 Sudan accuses Ethiopia"}
+      - {date: "2026-11-04", text: "Ethiopia and Sudan expel each other's consular staff.", news: "2026-11-04 Ethiopia and Sudan expel"}
+
+  - id: sahel-new-order
+    title: "The Sahel's new order"
+    dek: "Military juntas, Russia's Africa Corps and jihadist blockades are remaking the Sahel, and the violence is moving toward the coast."
+    status: grinding
+    why: >-
+      Mali, Burkina Faso and Niger expelled French and US forces, left ECOWAS and turned to Russia. Jihadists from
+      JNIM and Islamic State now besiege towns and roads across all three, a coup attempt in Niger was put down with
+      Russian help, and Algeria has broken with its old caution by sending troops into Niger. Attacks are spreading
+      into Benin, Togo and Nigeria.
+    watch: >-
+      JNIM's blockades around Bamako, Algeria's deployment in Niger, and attacks in northern Benin and Togo.
+    links:
+      - {from: RUS, to: MLI, label: "Africa Corps fights alongside Mali's army"}
+      - {from: RUS, to: NER, label: "Russian forces helped crush the August coup attempt"}
+      - {from: RUS, to: BFA, label: "Russian security partnership with Traoré's junta"}
+      - {from: DZA, to: NER, label: "Algerian troops sent to Madama in northern Niger"}
+      - {from: MLI, to: BEN, label: "Jihadist violence spreading to coastal states"}
+      - {from: BFA, to: TGO, label: "Attacks in northern Togo"}
+    conflicts: [sahel-jihadist-insurgency, northern-mali-fla-rebellion, coastal-west-africa-spillover]
+    match:
+      countries: [MLI, BFA, NER]
+      keywords: [junta, JNIM, jihad, Africa Corps, gunmen, attack, coup, villagers]
+    key:
+      - {date: "2026-08-29", text: "Soldiers attempt a coup in Niamey; Russian forces help put it down.", sources: [{label: "Sahara Reporters: Niger arrests dozens of soldiers over attempted coup", url: "https://saharareporters.com/2026/08/30/niger-republic-arrests-dozens-soldiers-over-attempted-coup-nigeria-calls-constitutional"}]}
+      - {date: "2026-10-21", text: "Burkina Faso's junta-appointed parliament restores the death penalty.", news: "2026-10-21 Burkina Faso's junta-appointed"}
+      - {date: "2026-10-25", text: "Algeria approves its first foreign troop deployment since 1973, to Niger.", news: "2026-10-25 Algeria approves"}
+      - {date: "2026-11-12", text: "Gunmen kill at least 38 villagers on their way to market in western Niger.", news: "2026-11-12 Gunmen kill at least 38"}
+
+  - id: congo-war
+    title: "Congo's war turns political"
+    dek: "Former president Kabila has joined the M23 rebels in a bid to topple Tshisekedi, as Ebola spreads in the same region."
+    status: escalating
+    why: >-
+      The Rwandan-backed M23 already holds Goma and Bukavu. In October former president Joseph Kabila launched a
+      coalition with it, aimed at toppling President Tshisekedi, turning a regional war into a fight for Kinshasa
+      itself. US-brokered peace deals between Congo and Rwanda have not stopped the fighting, and an Ebola outbreak
+      has passed 5,000 deaths in the same eastern provinces.
+    watch: >-
+      Whether the FRN pushes south toward Uvira and Kalemie, and whether Washington leans on Rwanda.
+    links:
+      - {from: RWA, to: COD, label: "UN experts say Rwanda backs and commands M23"}
+      - {from: UGA, to: COD, label: "Ugandan troops fight the ADF in Ituri"}
+      - {from: BDI, to: COD, label: "Burundian troops support Kinshasa"}
+      - {from: USA, to: COD, label: "Washington brokered the Congo-Rwanda accords"}
+    conflicts: [eastern-drc-m23-war, drc-adf-insurgency]
+    match:
+      countries: [COD, RWA]
+      keywords: [Kabila, M23, FRN, rebels, Ebola, Kivu, ADF]
+    key:
+      - {date: "2026-10-12", text: "Kabila launches an armed coalition with M23 to topple Tshisekedi.", news: "2026-10-12 Joseph Kabila launches"}
+      - {date: "2026-11-01", text: "Congo's Ebola deaths pass 5,000.", news: "2026-11-01 Congo's Ebola deaths"}
+      - {date: "2026-11-08", text: "The FRN takes Bunyakiri and more than 160,000 people flee.", news: "2026-11-08 Kabila's FRN rebels"}
+
+  - id: americas-campaign
+    title: "Washington's war in its own hemisphere"
+    dek: "Since capturing Maduro in January, the US has used force across the Caribbean and Latin America, and now talks of Cuba."
+    status: escalating
+    why: >-
+      The US calls its campaign against drug cartels an armed conflict. It has sunk scores of boats, seized
+      Venezuela's president in a raid in January, helped Venezuela strike Colombian guerrillas, and Trump now says he
+      wants to 'get Cuba done'. Governments across the region are choosing sides, from El Salvador sending troops to
+      Haiti to Colombia's new government ending peace talks with armed groups.
+    watch: >-
+      Any US move against Cuba, Venezuela's transition, and boat strikes in the Caribbean and eastern Pacific.
+    links:
+      - {from: USA, to: VEN, label: "Maduro captured in January; US-backed strikes on the ELN"}
+      - {from: USA, to: CUB, label: "Trump threatens force; arrest warrant for Raúl Castro"}
+      - {from: VEN, to: COL, label: "Strike on an ELN camp in Apure near the border"}
+      - {from: USA, to: MEX, label: "Pressure over cartels and the CIA's role in raids"}
+      - {from: SLV, to: HTI, label: "Salvadoran troops lead raids on Haiti's gangs"}
+    conflicts: [us-caribbean-narco-campaign, colombia-armed-conflict, mexico-cartel-war, haiti-gang-war, ecuador-gang-war]
+    match:
+      countries: [VEN, CUB, HTI]
+      keywords: [strike, Cuba, Maduro, gang, ELN, cartel, Bukele]
+    key:
+      - {date: "2026-01-03", text: "US forces capture Nicolás Maduro in Caracas.", conflict: us-caribbean-narco-campaign}
+      - {date: "2026-10-30", text: "US officials say Washington helped Venezuela strike an ELN camp in Apure.", news: "2026-10-30 US officials say Washington helped"}
+      - {date: "2026-11-03", text: "Colombia's Congress passes a law ending Petro's 'total peace' talks.", news: "2026-11-03 Colombia's Congress passes"}
+      - {date: "2026-11-12", text: "Trump says he wants to 'get Cuba done' and would consider force.", news: "2026-11-12 Trump says he wants to 'get Cuba done'"}
+
+  - id: europe-incumbents
+    title: "Europe's incumbents under pressure"
+    dek: "From Budapest to Brussels, long-serving leaders and coalitions are losing power, majorities or the street."
+    status: shifting
+    why: >-
+      Orbán lost Hungary in April, Vučić conceded defeat in Serbia in October, Czech governing parties were shut out
+      of the Senate, Slovakia's Fico lost his majority, Belgium's government nearly fell over its budget, and Poland's
+      president and prime minister are locked in a constitutional standoff. Behind it are the cost of living, the
+      war next door and anger at entrenched elites, which also drive the protests in France, Germany, Spain and
+      Albania.
+    watch: >-
+      Serbia's new government, Fico's survival, France's 17 November protests, and Poland's court crisis.
+    links:
+      - {from: HUN, to: UKR, label: "Magyar's Hungary lifts its block on Ukraine's EU talks"}
+      - {from: SRB, to: HUN, label: "Two strongmen voted out in one year"}
+      - {from: SVK, to: CZE, label: "Babiš and Fico both weakened"}
+      - {from: POL, to: BEL, label: "Governments paralysed by courts and budgets"}
+      - {from: FRA, to: DEU, label: "Mass protests over pay and prices"}
+    conflicts: []
+    match:
+      countries: [HUN, SRB, CZE, SVK, BEL, POL, BGR, ROU, FRA, DEU, ESP, ITA, IRL, ALB, SWE, AUT, NLD]
+      keywords: [coalition, protest, resign, election, budget, majority, tribunal, general strike, impeach, Orbán, Fico, Babiš, Vučić, Le Pen, unrest]
+    key:
+      - {date: "2026-10-13", text: "Hungary repeals most of Orbán's anti-LGBTQ law.", news: "2026-10-13 Hungary repeals"}
+      - {date: "2026-10-25", text: "The Student List wins Serbia's snap election and Vučić concedes.", news: "2026-10-25 Student List wins"}
+      - {date: "2026-11-02", text: "Belgium's prime minister offers his resignation after budget talks collapse.", news: "2026-11-02 Belgian prime minister"}
+      - {date: "2026-11-11", text: "Slovakia's parliament sinks a Fico priority bill, confirming he has lost his majority.", news: "2026-11-11 Slovakia's parliament sinks"}
+
+  - id: israel-after-netanyahu
+    title: "Israel after Netanyahu?"
+    dek: "Gadi Eisenkot is trying to form Israel's first government without Netanyahu in years, as Gaza's ceasefire frays."
+    status: shifting
+    why: >-
+      Israel's 27 October election left Netanyahu's bloc short of a majority, and President Herzog gave the mandate to
+      former army chief Gadi Eisenkot. Whoever governs inherits a fragile Gaza ceasefire with more than 1,500 killed
+      since it began, Israeli troops deep in south Lebanon, a possible new strike on Iran, and Trump's statement that
+      US military aid will end this year.
+    watch: >-
+      Whether Eisenkot builds a coalition by his deadline, and whether the caretaker cabinet strikes Iran first.
+    links:
+      - {from: ISR, to: PSE, label: "Gaza ceasefire under strain; West Bank raids"}
+      - {from: ISR, to: LBN, label: "Israeli forces hold a zone in south Lebanon"}
+      - {from: ISR, to: IRN, label: "Caretaker cabinet readies a possible new strike"}
+      - {from: USA, to: ISR, label: "Trump says military aid ends this year"}
+    conflicts: [israel-hamas-gaza, israel-hezbollah-lebanon, west-bank-violence, israel-syria-southern-zone]
+    match:
+      countries: [ISR]
+      keywords: [Eisenkot, Netanyahu, Herzog, Knesset, coalition, election, Likud]
+    key:
+      - {date: "2026-10-27", text: "Israelis vote in the first general election since 7 October 2023.", news: "2026-10-27 Israelis vote"}
+      - {date: "2026-11-07", text: "Herzog picks Eisenkot over Netanyahu to form a government.", news: "2026-11-07 Herzog picks"}
+      - {date: "2026-11-10", text: "Eisenkot cancels coalition talks with Likud.", news: "2026-11-10 Eisenkot cancels"}
+      - {date: "2026-11-11", text: "The caretaker cabinet reportedly orders preparations for a new attack on Iran.", news: "2026-11-11 Israel's caretaker cabinet"}
+
+  - id: trump-after-midterms
+    title: "Trump after the midterms"
+    dek: "Democrats won both houses of Congress, partly on the Iran war, and the world is watching what a weakened Trump does next."
+    status: shifting
+    why: >-
+      The 3 November midterms gave Democrats the House and the Senate, and Vice President Vance blamed the Iran war.
+      From January, Congress can block funding and investigate. Trump, now questioning results he first accepted, is
+      leaning on foreign policy where he acts alone: Iran, Ukraine talks, a summit with Xi and Putin, threats against
+      Cuba and a permanent base in Poland.
+    watch: >-
+      The Shenzhen summit, a decision on new Iran strikes, and the new Congress's first moves in January.
+    links:
+      - {from: USA, to: IRN, label: "The war that cost Republicans at the polls"}
+      - {from: USA, to: CHN, label: "Tariff pause extended; Shenzhen summit"}
+      - {from: USA, to: POL, label: "Pentagon backs a permanent US base"}
+      - {from: USA, to: CUB, label: "Threats of force"}
+    conflicts: []
+    match:
+      countries: [USA]
+      keywords: [midterm, Congress, Democrats, Vance, impeach, Hegseth, Trump]
+    key:
+      - {date: "2026-11-03", text: "Democrats win control of both the House and the Senate.", news: "2026-11-03 Democrats win control"}
+      - {date: "2026-11-04", text: "Vance blames the Iran war for the midterm rout.", news: "2026-11-04 Vance blames"}
+      - {date: "2026-11-10", text: "The House shelves the impeachment of Defense Secretary Hegseth.", news: "2026-11-10 US House shelves"}
+      - {date: "2026-11-14", text: "The White House announces a Trump, Xi and Putin meeting in Shenzhen.", news: "2026-11-14 White House says Trump, Xi and Putin"}
+
+  - id: china-pressure
+    title: "China's pressure campaign"
+    dek: "Around Taiwan, in the South China Sea and on the Korean peninsula, pressure on US allies keeps building."
+    status: grinding
+    why: >-
+      Chinese coast guard and naval ships push into waters claimed by Taiwan and the Philippines almost daily, North
+      Korea is testing missiles at twice last year's pace, and Washington is distracted by wars in the Middle East.
+      At the same time Trump and Xi are trading tariff pauses and planning a summit, so pressure and dealmaking run
+      side by side.
+    watch: >-
+      Any large Chinese drill around Taiwan, incidents at Scarborough and Second Thomas shoals, and the Shenzhen summit.
+    links:
+      - {from: CHN, to: TWN, label: "Coast guard and navy pressure, including near Pratas"}
+      - {from: CHN, to: PHL, label: "Clashes at Scarborough and Second Thomas shoals"}
+      - {from: PRK, to: KOR, label: "Missile tests at a record pace"}
+      - {from: PRK, to: JPN, label: "Ballistic missiles toward the Sea of Japan"}
+      - {from: USA, to: CHN, label: "Tariff truce and summitry"}
+    conflicts: [taiwan-strait, south-china-sea-philippines-china, korean-peninsula]
+    match:
+      countries: [CHN, TWN, PRK, PHL]
+      keywords: [Taiwan, missile, coast guard, vessels, South China Sea, tariff, Pratas]
+    key:
+      - {date: "2026-10-18", text: "Taiwan drives away 16 Chinese vessels near Pratas.", news: "2026-10-18 Taiwan drives away"}
+      - {date: "2026-10-29", text: "North Korea fires about ten ballistic missiles from near Wonsan.", news: "2026-10-29 North Korea fires about 10"}
+      - {date: "2026-11-09", text: "China extends its pause on tariffs against US firms.", news: "2026-11-09 China extends its pause"}
+
+  - id: pakistan-two-fronts
+    title: "Pakistan's war on two fronts"
+    dek: "Pakistan is fighting the Taliban government in Afghanistan and insurgents at home, while its army takes on Gulf commitments."
+    status: grinding
+    why: >-
+      Pakistan declared 'open war' on Afghanistan's Taliban in February, accusing it of sheltering the Pakistani
+      Taliban (TTP), whose attacks keep killing police and soldiers in Khyber Pakhtunkhwa. At home the government
+      imposed emergency rule on that province and detained Imran Khan's party leaders, and abroad it has signed the
+      Mecca defence pact with Saudi Arabia. China, which has billions invested in Pakistan, is trying to mediate.
+    watch: >-
+      Cross-border strikes on Afghanistan, TTP attacks in Khyber Pakhtunkhwa, and whether Pakistan sends troops to
+      the Gulf.
+    links:
+      - {from: PAK, to: AFG, label: "Open war declared in February 2026"}
+      - {from: CHN, to: PAK, label: "China mediates and protects its investments"}
+      - {from: PAK, to: SAU, label: "Mecca defence pact"}
+      - {from: PAK, to: IND, label: "Uneasy ceasefire since the 2025 clashes"}
+    conflicts: [pakistan-afghanistan-war, pakistan-insurgencies, india-pakistan-rivalry]
+    match:
+      countries: [PAK, AFG]
+      keywords: [Taliban, TTP, Khyber, attack, border, emergency, police]
+    key:
+      - {date: "2026-02-27", text: "Pakistan declares 'open war' on Afghanistan's Taliban.", conflict: pakistan-afghanistan-war}
+      - {date: "2026-10-12", text: "Pakistan imposes emergency rule in Khyber Pakhtunkhwa and detains PTI leaders.", news: "2026-10-12 Pakistan imposes emergency"}
+      - {date: "2026-11-11", text: "A Pakistani Taliban ambush kills 10 police officers in Kohat.", news: "2026-11-11 Pakistani Taliban ambush"}

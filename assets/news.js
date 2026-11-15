@@ -35,7 +35,7 @@
               ${n.good ? '<span class="conf conf-good" title="A story about something going right">Good news</span>' : ''}
               ${n.countries.map((iso) => byId.get(iso)).filter(Boolean).map((e) => `<a class="ctry" href="./#${e.id}">${esc(e.flag)} ${esc(e.name)}</a>`).join('')}
               ${n.conflict && conflicts.get(n.conflict) ? `<a class="ctry war" href="./#c/${esc(n.conflict)}">${esc(conflicts.get(n.conflict).name)}</a>` : ''}
-              ${n.thread && threads.get(n.thread) ? `<a class="ctry thread" href="./#t/${esc(n.thread)}">Storyline: ${esc(threads.get(n.thread).title)}</a>` : ''}
+              ${(n.threads || []).filter((id) => threads.get(id)).slice(0, 2).map((id) => `<a class="ctry thread" href="./#t/${esc(id)}">${esc(threads.get(id).title)}</a>`).join('')}
             </p>
             <h4 class="item-h">${esc(n.headline)}</h4>
             ${n.summary ? `<p class="item-sum">${n.summary}</p>` : ''}
