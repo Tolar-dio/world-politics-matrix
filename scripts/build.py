@@ -376,6 +376,7 @@ def main() -> None:
         fail(str(err))
 
     entities = []
+    quiz_facts: dict[str, dict] = {}
     for cid in sorted(ids):
         c = base[cid]
         prof = profiles.get(cid, {})
@@ -430,6 +431,8 @@ def main() -> None:
             **extra["per_country"].get(cid, {}),
         }
         (out_dir / f"{cid}.json").write_text(json.dumps(detail, ensure_ascii=False, separators=(",", ":")))
+        quiz_facts[cid] = {"capital": detail["facts"]["capital"], "currency": currs[0] if currs else None,
+                           "language": langs[0] if langs else None}
 
     for tid, t in sorted(territories.items()):
         sov = t["sovereign"]
@@ -459,6 +462,8 @@ def main() -> None:
         "counts": {"countries": len(ids), "full": covered, "profiled": profiled},
         "entities": entities,
     }
+    # Small facts file for the quiz (capitals, currencies, languages for all countries in one request).
+    (DATA / "facts.json").write_text(json.dumps(quiz_facts, ensure_ascii=False, separators=(",", ":")))
     (DATA / "index.json").write_text(json.dumps(index, ensure_ascii=False, separators=(",", ":")))
     history.snapshot_today()
 

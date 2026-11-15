@@ -76,7 +76,7 @@
       ${res}
       ${s.resolved ? yours : `<div class="fc-mine">
         <label><span>Your call</span><input type="range" min="1" max="99" value="${c ? Math.round(c.p * 100) : Math.round((s.prob || 0.5) * 100)}" data-fc-range="${f.id}" aria-label="Your probability for: ${esc(f.question)}"><output>${c ? pct(c.p) : pct(s.prob)}</output></label>
-        <button type="button" class="tm-btn" data-fc-save="${f.id}">${c ? 'Update' : 'Lock it in'}</button>
+        <button type="button" class="pbtn" data-fc-save="${f.id}">${c ? 'Update' : 'Lock it in'}</button>
         ${yours}
       </div>`}
       <p class="fc-src"><a href="${esc(s.url)}" target="_blank" rel="noopener">Market on ${f.market.source === 'polymarket' ? 'Polymarket' : 'Manifold'}</a>${f.thread && threads.get(f.thread) ? ` · <button type="button" class="link" data-thread="${f.thread}">${esc(threads.get(f.thread))}</button>` : ''}</p>
