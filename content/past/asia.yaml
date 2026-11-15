@@ -1,0 +1,193 @@
+# How it got here: see africa.yaml for the format.
+
+AFG:
+  story: "Afghanistan was a crossroads of empires and the 'graveyard' of British and Soviet armies. A communist coup in 1978 brought a Soviet invasion and a decade of war against US-backed mujahideen. Civil war followed, then Taliban rule from 1996. After 9/11 a US-led invasion toppled the Taliban, but 20 years of war and nation-building collapsed in August 2021, when the Taliban took Kabul as US troops left."
+  timeline: [["1747", "Ahmad Shah Durrani founds the modern Afghan state"], ["1919", "Full independence from British influence"], ["1979", "Soviet invasion"], ["1989", "Soviet troops withdraw; civil war follows"], ["1996", "The Taliban take Kabul"], ["2001", "US-led invasion topples the Taliban"], ["2021", "The Taliban return as US forces leave"]]
+
+ARE:
+  story: "The Trucial States were British-protected sheikhdoms living off pearling and trade. Oil was found in Abu Dhabi in 1958. In 1971, as Britain left, seven emirates formed the United Arab Emirates under Sheikh Zayed. Dubai turned itself into a global hub for trade, finance and tourism. Under Mohammed bin Zayed it became an assertive military and diplomatic power."
+  timeline: [["1820", "Truce treaties with Britain"], ["1958", "Oil is discovered in Abu Dhabi"], ["1971", "The federation is formed"], ["2010", "The Burj Khalifa opens"], ["2020", "Normalises relations with Israel in the Abraham Accords"], ["2026", "Leaves OPEC"]]
+
+ARM:
+  story: "Armenia was the first state to adopt Christianity, in 301. For centuries it was divided between empires. In 1915 the Ottoman government killed up to 1.5 million Armenians in the Armenian genocide. Independent from the Soviet Union in 1991, it won a war with Azerbaijan over Nagorno-Karabakh, then lost it in 2020 and 2023, when the region's Armenians fled. The 2018 Velvet Revolution brought Nikol Pashinyan to power."
+  timeline: [["301", "Adopts Christianity as the state religion"], ["1915", "The Armenian genocide"], ["1991", "Independence from the Soviet Union"], ["1994", "Ceasefire leaves Karabakh under Armenian control"], ["2018", "The Velvet Revolution"], ["2023", "Azerbaijan retakes Karabakh; over 100,000 Armenians flee"]]
+
+AZE:
+  story: "Baku's oil fields supplied half the world's oil around 1900. Briefly independent in 1918, Azerbaijan was absorbed by the Soviet Union and became independent again in 1991. It lost Nagorno-Karabakh to Armenia in the 1990s war. Heydar Aliyev and then his son Ilham ruled with oil and gas money, rebuilt the army, and retook Karabakh in 2020 and 2023."
+  timeline: [["1872", "The Baku oil boom begins"], ["1918", "The first Azerbaijani republic"], ["1991", "Independence"], ["1994", "Ceasefire after losing Karabakh"], ["2003", "Ilham Aliyev succeeds his father"], ["2023", "Retakes all of Karabakh"]]
+
+BHR:
+  story: "Once the centre of the ancient Dilmun civilisation and of Gulf pearling. The Sunni Al Khalifa family has ruled a Shia majority since 1783. A British protectorate until 1971, Bahrain was the first Gulf state to find oil. Saudi-led troops helped crush the 2011 uprising. It hosts the US Navy's Fifth Fleet."
+  timeline: [["1783", "The Al Khalifa family takes Bahrain"], ["1932", "The first oil in the Arab Gulf"], ["1971", "Independence"], ["2011", "Uprising crushed with Saudi help"], ["2020", "Normalises relations with Israel"]]
+
+BGD:
+  story: "Part of Bengal under the British, it became East Pakistan at partition in 1947. Discrimination by West Pakistan led to the 1971 war of independence, in which the Pakistani army killed hundreds of thousands. Sheikh Mujibur Rahman founded the country and was assassinated in 1975. Two women, his daughter Sheikh Hasina and Khaleda Zia, dominated politics for decades. A student uprising toppled Hasina in 2024."
+  timeline: [["1905", "Britain partitions Bengal, provoking protest"], ["1947", "Becomes East Pakistan"], ["1952", "The Language Movement for Bengali"], ["1971", "War of independence"], ["1975", "Sheikh Mujib is assassinated"], ["2024", "A student uprising ousts Sheikh Hasina"]]
+
+BTN:
+  story: "Unified in the 17th century by a Tibetan lama, the Zhabdrung, Bhutan has been ruled by the Wangchuck kings since 1907. It stayed isolated, letting in television only in 1999. The fourth king coined 'Gross National Happiness' and handed power to an elected parliament in 2008. In the 1990s it expelled about 100,000 ethnic Nepalis."
+  timeline: [["1616", "The Zhabdrung unifies Bhutan"], ["1907", "The Wangchuck monarchy begins"], ["1990s", "Some 100,000 Lhotshampa are expelled"], ["1999", "Television and the internet arrive"], ["2008", "First parliamentary elections"]]
+
+BRN:
+  story: "The Bruneian sultanate once ruled much of Borneo and the southern Philippines. It shrank under pressure from Europeans and became a British protectorate in 1888. Oil was found in 1929. It became independent in 1984 under Sultan Hassanal Bolkiah, who rules as an absolute monarch."
+  timeline: [["1400s", "The sultanate at its height"], ["1888", "British protectorate"], ["1929", "Oil is discovered"], ["1984", "Independence"], ["2019", "Sharia penal code fully introduced"]]
+
+KHM:
+  story: "The Khmer Empire built Angkor Wat in the 12th century. France ruled Cambodia from 1863. After independence in 1953 it was dragged into the Vietnam War. The Khmer Rouge took power in 1975 and killed about 1.7 million people, a quarter of the population, before Vietnam invaded in 1979. Hun Sen ruled from 1985 to 2023 and handed power to his son."
+  timeline: [["1113", "Angkor Wat construction begins"], ["1863", "French protectorate"], ["1953", "Independence"], ["1975", "The Khmer Rouge take power"], ["1979", "Vietnam ousts the Khmer Rouge"], ["1985", "Hun Sen becomes prime minister"], ["2023", "Hun Manet succeeds his father"]]
+
+CHN:
+  story: "Chinese dynasties ruled for over 2,000 years. The 19th century brought defeat in the Opium Wars and humiliation by foreign powers. The Qing fell in 1912; civil war and Japanese invasion followed. Mao's Communists won in 1949. The Great Leap Forward famine killed tens of millions and the Cultural Revolution tore society apart. Deng Xiaoping's reforms from 1978 made China the world's factory and second-largest economy. Xi Jinping has centralised power since 2012."
+  timeline: [["221 BC", "Qin Shi Huang unifies China"], ["1839", "The First Opium War"], ["1912", "The Qing dynasty falls"], ["1949", "The People's Republic is founded"], ["1959", "The Great Leap Forward famine"], ["1966", "The Cultural Revolution"], ["1978", "Deng's reforms begin"], ["1989", "The Tiananmen Square crackdown"], ["2012", "Xi Jinping takes power"]]
+
+GEO:
+  story: "Georgia's kingdom peaked under Queen Tamar in the 12th century. It was absorbed by Russia in 1801, and briefly independent from 1918 to 1921. Stalin was Georgian. Independent again in 1991, it lost control of Abkhazia and South Ossetia in wars. The Rose Revolution of 2003 brought pro-Western reformer Mikheil Saakashvili; Russia invaded in 2008. Georgian Dream, founded by a billionaire, has ruled since 2012 and turned away from the West."
+  timeline: [["1184", "Queen Tamar begins her reign"], ["1801", "Russia annexes Georgia"], ["1991", "Independence"], ["2003", "The Rose Revolution"], ["2008", "War with Russia"], ["2012", "Georgian Dream wins power"], ["2024", "The government suspends EU accession talks"]]
+
+IND:
+  story: "Home to the Indus Valley civilisation and the birthplace of Hinduism, Buddhism, Jainism and Sikhism. The Mughals ruled much of it before the British East India Company and then the Crown took over. Gandhi's non-violent movement helped win independence in 1947, but partition with Pakistan killed up to a million and displaced 15 million. India became the world's largest democracy. Economic reforms from 1991 brought fast growth. Narendra Modi has led since 2014."
+  timeline: [["2600 BC", "Indus Valley cities flourish"], ["1526", "The Mughal Empire is founded"], ["1857", "The Indian Rebellion; the British Crown takes over"], ["1947", "Independence and partition"], ["1975", "Indira Gandhi's Emergency"], ["1991", "Economic liberalisation"], ["2014", "Narendra Modi becomes prime minister"]]
+
+IDN:
+  story: "Hindu-Buddhist and then Muslim kingdoms ruled the islands before the Dutch East India Company took control. Sukarno declared independence in 1945 and fought the Dutch until 1949. Suharto took power in 1965 amid massacres of perhaps 500,000 suspected communists, and ruled for 32 years. The Asian financial crisis brought him down in 1998, and Indonesia became the world's third-largest democracy."
+  timeline: [["1293", "The Majapahit Empire is founded"], ["1602", "The Dutch East India Company arrives"], ["1945", "Sukarno declares independence"], ["1965", "Anti-communist massacres; Suharto rises"], ["1998", "Suharto resigns"], ["2004", "The Indian Ocean tsunami kills 170,000 in Aceh"], ["2024", "Prabowo Subianto is elected"]]
+
+IRN:
+  story: "Persia was one of the world's great empires under Cyrus and the Sasanians. The Safavids made Shia Islam the state religion in 1501. The US and Britain organised a coup in 1953 that restored the shah's power. The 1979 Islamic Revolution created a theocracy under Ayatollah Khomeini, followed by an eight-year war with Iraq. Its nuclear programme brought sanctions and, in 2025 and 2026, US and Israeli strikes."
+  timeline: [["550 BC", "Cyrus the Great founds the Persian Empire"], ["1501", "The Safavids make Shia Islam the state religion"], ["1953", "A US- and British-backed coup ousts Mossadegh"], ["1979", "The Islamic Revolution"], ["1980", "Iraq invades; an eight-year war follows"], ["2015", "The nuclear deal with world powers"], ["2026", "US-Israeli strikes kill Ali Khamenei"]]
+
+IRQ:
+  story: "Mesopotamia, between the Tigris and Euphrates, saw the first cities and writing. Baghdad was the Abbasid capital. Britain created Iraq from three Ottoman provinces after World War One. The Baath party took power in 1968, and Saddam Hussein ruled from 1979, waging war on Iran and invading Kuwait. A US-led invasion toppled him in 2003, unleashing sectarian war and later the rise of Islamic State."
+  timeline: [["3500 BC", "The first cities in Sumer"], ["762", "Baghdad is founded"], ["1920", "British mandate"], ["1958", "The monarchy is overthrown"], ["1979", "Saddam Hussein takes power"], ["1990", "Invades Kuwait"], ["2003", "US-led invasion"], ["2014", "Islamic State seizes Mosul"]]
+
+ISR:
+  story: "Jewish immigration to Ottoman and then British Palestine grew with the Zionist movement and after the Holocaust. Israel declared independence in 1948; some 700,000 Palestinians fled or were expelled in what they call the Nakba. Wars followed in 1967, when Israel took the West Bank, Gaza, East Jerusalem and the Golan, and in 1973. Peace with Egypt and Jordan came, but the Oslo process with the Palestinians collapsed. Hamas's attack on 7 October 2023 began the Gaza war."
+  timeline: [["1917", "The Balfour Declaration"], ["1948", "Independence; the Nakba"], ["1967", "The Six-Day War"], ["1979", "Peace with Egypt"], ["1993", "The Oslo Accords"], ["1995", "Prime Minister Rabin is assassinated"], ["2023", "Hamas's 7 October attack and the war in Gaza"]]
+
+JPN:
+  story: "Japan was ruled by shoguns and closed to the world until US warships forced it open in 1853. The Meiji Restoration of 1868 made it a modern industrial power that built an empire in Asia. Defeat in World War Two, after the atomic bombings, brought US occupation and a pacifist constitution. It became the world's second-largest economy, before an asset bubble burst in 1990 and growth stalled."
+  timeline: [["1603", "The Tokugawa shogunate begins"], ["1853", "Commodore Perry's ships arrive"], ["1868", "The Meiji Restoration"], ["1941", "Attacks Pearl Harbor"], ["1945", "Hiroshima and Nagasaki; surrender"], ["1990", "The bubble economy collapses"], ["2011", "Earthquake, tsunami and the Fukushima disaster"]]
+
+JOR:
+  story: "Britain created Transjordan in 1921 for the Hashemite prince Abdullah. Independent in 1946, it took the West Bank in 1948 and lost it in 1967. Palestinian refugees and their descendants make up much of the population. King Hussein ruled for 46 years and made peace with Israel in 1994; his son Abdullah II succeeded him in 1999."
+  timeline: [["1921", "The emirate of Transjordan is created"], ["1946", "Independence"], ["1967", "Loses the West Bank to Israel"], ["1970", "Black September: war with Palestinian groups"], ["1994", "Peace treaty with Israel"], ["1999", "Abdullah II becomes king"]]
+
+KAZ:
+  story: "Kazakh nomads were conquered by Russia in the 19th century. Soviet collectivisation caused a famine that killed over a third of Kazakhs in the early 1930s. The Soviets tested nuclear weapons at Semipalatinsk. Nursultan Nazarbayev led the country from independence in 1991 until 2019, building a new capital, Astana, on oil wealth. Protests in January 2022 ended his influence."
+  timeline: [["1731", "The first Kazakh khans accept Russian protection"], ["1930", "Collectivisation famine begins"], ["1949", "The first Soviet nuclear test at Semipalatinsk"], ["1991", "Independence"], ["1997", "The capital moves to Astana"], ["2022", "Deadly unrest; Nazarbayev's influence ends"]]
+
+KWT:
+  story: "The Al Sabah family has ruled since the 18th century. A British protectorate from 1899, Kuwait found oil in 1938 and became independent in 1961, with the Gulf's most powerful elected parliament. Iraq invaded in 1990 and was driven out by a US-led coalition in 1991. In 2024 the emir suspended parliament."
+  timeline: [["1752", "The Al Sabah family begins to rule"], ["1899", "British protectorate"], ["1938", "Oil is discovered"], ["1961", "Independence"], ["1990", "Iraq invades"], ["1991", "Liberated in the Gulf War"], ["2024", "Parliament is suspended"]]
+
+KGZ:
+  story: "Kyrgyz nomads came under Russian rule in the 19th century. Independent in 1991, Kyrgyzstan became Central Asia's most open country, but three presidents have been ousted by street protests, in 2005, 2010 and 2020. Sadyr Japarov rose from prison in 2020 and has concentrated power."
+  timeline: [["1876", "Russian conquest"], ["1991", "Independence"], ["2005", "The Tulip Revolution"], ["2010", "Uprising and ethnic violence in the south"], ["2020", "Protests bring Sadyr Japarov to power"]]
+
+LAO:
+  story: "The kingdom of Lan Xang was founded in 1353. France made Laos part of Indochina. During the Vietnam War, the US dropped more bombs on Laos than on all of Europe in World War Two, and unexploded bombs still kill people. The communist Pathet Lao took power in 1975 and still rules."
+  timeline: [["1353", "The kingdom of Lan Xang"], ["1893", "French protectorate"], ["1953", "Independence"], ["1964", "The US bombing campaign begins"], ["1975", "The communist Pathet Lao take power"], ["2021", "Railway to China opens"]]
+
+LBN:
+  story: "France created Greater Lebanon in 1920 and a political system that shares power among religious sects. Independent in 1943, Beirut was the 'Paris of the Middle East' until the 1975 to 1990 civil war. Israel occupied the south until 2000; Syria dominated until 2005. Hezbollah grew into a state within the state. A banking collapse from 2019 and the Beirut port explosion of 2020 wrecked the economy."
+  timeline: [["1920", "France creates Greater Lebanon"], ["1943", "Independence"], ["1975", "Civil war begins"], ["1982", "Israel invades"], ["2005", "Prime Minister Hariri is assassinated; Syrian troops leave"], ["2006", "War between Israel and Hezbollah"], ["2020", "The Beirut port explosion"]]
+
+MYS:
+  story: "The Malacca sultanate was a great trading port before the Portuguese, Dutch and British arrived. Britain brought Chinese and Indian workers for tin and rubber. Malaya became independent in 1957 and Malaysia was formed in 1963; Singapore left in 1965. Race riots in 1969 led to policies favouring ethnic Malays. One coalition ruled for 61 years until a corruption scandal ended its run in 2018."
+  timeline: [["1400", "The Malacca sultanate is founded"], ["1511", "Portugal captures Malacca"], ["1957", "Malaya's independence"], ["1963", "Malaysia is formed"], ["1969", "Race riots"], ["2018", "The ruling coalition loses power for the first time"], ["2022", "Anwar Ibrahim becomes prime minister"]]
+
+MDV:
+  story: "The islands converted to Islam in 1153 and were ruled by sultans, under British protection from 1887 until independence in 1965. Maumoon Abdul Gayoom ruled for 30 years until the first democratic election in 2008. Tourism made it the richest country in South Asia per head. Rising seas threaten its very existence."
+  timeline: [["1153", "Conversion to Islam"], ["1887", "British protectorate"], ["1965", "Independence"], ["1978", "Gayoom begins 30 years in power"], ["2008", "First multiparty election"]]
+
+MNG:
+  story: "Genghis Khan united the Mongol tribes in 1206 and built the largest land empire in history. Later ruled by China's Qing dynasty, Mongolia broke free in 1911 and became the world's second communist state in 1924, under Soviet control. A peaceful democratic revolution in 1990 made it a democracy, wedged between Russia and China."
+  timeline: [["1206", "Genghis Khan unites the Mongols"], ["1691", "Qing rule begins"], ["1911", "Independence from the Qing"], ["1924", "The Mongolian People's Republic"], ["1990", "Democratic revolution"]]
+
+MMR:
+  story: "The Bagan kingdom built thousands of temples. Britain conquered Burma in the 19th century. Independent in 1948, it fell to a military coup in 1962. Aung San Suu Kyi led the democracy movement and spent 15 years under house arrest. The army allowed elections from 2010 and her party won in 2015, but in 2021 the army seized power again, setting off a nationwide civil war. The army's 2017 campaign drove 700,000 Rohingya into Bangladesh."
+  timeline: [["1044", "The Bagan kingdom"], ["1885", "Britain completes its conquest"], ["1948", "Independence"], ["1962", "Military coup"], ["1988", "Uprising crushed"], ["2015", "Suu Kyi's party wins elections"], ["2017", "Rohingya expelled"], ["2021", "Coup and civil war"]]
+
+NPL:
+  story: "Prithvi Narayan Shah unified Nepal in 1768. It was never colonised, though Britain recruited its Gurkha soldiers. A Maoist insurgency from 1996 to 2006 killed 17,000. In 2001 the crown prince massacred most of the royal family. The monarchy was abolished in 2008. Gen Z protests in 2025 burned parliament and brought new leaders to power."
+  timeline: [["1768", "Unification under Prithvi Narayan Shah"], ["1996", "The Maoist insurgency begins"], ["2001", "The royal massacre"], ["2008", "The monarchy is abolished"], ["2015", "Earthquake kills 9,000"], ["2025", "Gen Z protests topple the government"]]
+
+PRK:
+  story: "Japan ruled Korea from 1910 to 1945. The peninsula was divided by the US and the Soviet Union, and Kim Il Sung's North invaded the South in 1950. The war killed millions and ended in an armistice, not peace. Three generations of Kims have ruled since. A famine in the 1990s killed hundreds of thousands. North Korea tested its first nuclear weapon in 2006."
+  timeline: [["1910", "Japan annexes Korea"], ["1945", "Korea is divided"], ["1950", "The Korean War begins"], ["1953", "Armistice"], ["1994", "Kim Jong Il succeeds his father; famine follows"], ["2006", "First nuclear test"], ["2011", "Kim Jong Un takes over"]]
+
+OMN:
+  story: "Oman's sultans once ruled an empire stretching to Zanzibar and Mombasa. Sultan Said bin Taimur kept it isolated until his son Qaboos overthrew him in 1970 and modernised the country with oil money over 50 years. Oman became the Gulf's quiet mediator. Sultan Haitham succeeded Qaboos in 2020."
+  timeline: [["1650", "Omanis expel the Portuguese from Muscat"], ["1856", "The empire splits; Zanzibar goes its own way"], ["1970", "Qaboos takes power"], ["1975", "The Dhofar rebellion is defeated"], ["2020", "Sultan Haitham succeeds Qaboos"]]
+
+PAK:
+  story: "Created in 1947 as a homeland for South Asia's Muslims, Pakistan was born amid the bloodshed of partition. It fought India over Kashmir and lost its eastern half, now Bangladesh, in 1971. The army has ruled directly for about half its history and dominates from behind the scenes the rest of the time. It tested nuclear weapons in 1998."
+  timeline: [["1947", "Independence and partition"], ["1958", "First military coup"], ["1971", "East Pakistan becomes Bangladesh"], ["1977", "General Zia seizes power"], ["1998", "Nuclear tests"], ["1999", "General Musharraf's coup"], ["2022", "Imran Khan is removed; later jailed"]]
+
+PSE:
+  story: "Palestinian Arabs lived under Ottoman and British rule. In 1948 most were displaced as Israel was created. Jordan held the West Bank and Egypt held Gaza until Israel took both in 1967. The PLO led the national movement; the Oslo Accords of 1993 created the Palestinian Authority. Hamas won elections in 2006 and took over Gaza in 2007. The war after 7 October 2023 killed tens of thousands and destroyed most of Gaza."
+  timeline: [["1948", "The Nakba"], ["1967", "Israel occupies the West Bank and Gaza"], ["1987", "The first intifada"], ["1993", "The Oslo Accords"], ["2000", "The second intifada"], ["2007", "Hamas takes over Gaza"], ["2023", "War in Gaza"]]
+
+PHL:
+  story: "Spain ruled for over 300 years and made the islands mostly Catholic. The US took over in 1898 and crushed the independence movement in a brutal war. Independent in 1946, the Philippines fell under Ferdinand Marcos's dictatorship until the People Power revolution of 1986. Rodrigo Duterte's drug war killed thousands. Marcos's son became president in 2022."
+  timeline: [["1565", "Spanish colonisation begins"], ["1898", "Revolution against Spain; the US takes over"], ["1946", "Independence"], ["1972", "Marcos declares martial law"], ["1986", "The People Power revolution"], ["2016", "Duterte's drug war begins"], ["2022", "Ferdinand Marcos Jr. is elected"]]
+
+QAT:
+  story: "A poor pearling peninsula under the Al Thani family, Qatar became a British protectorate and then independent in 1971. The world's largest gas field turned it into one of the richest countries on Earth. It launched Al Jazeera, hosted the 2022 World Cup, and became a mediator in conflicts from Afghanistan to Gaza."
+  timeline: [["1868", "Britain recognises the Al Thani family"], ["1971", "Independence"], ["1995", "Emir Hamad takes power from his father"], ["1996", "Al Jazeera is launched"], ["2017", "Saudi-led blockade begins"], ["2022", "Hosts the World Cup"]]
+
+SAU:
+  story: "Muhammad ibn Saud's alliance with the preacher Muhammad ibn Abd al-Wahhab in 1744 founded the first Saudi state. Ibn Saud conquered most of Arabia and founded the kingdom in 1932; oil was found six years later. As guardian of Mecca and Medina and the top oil exporter, it became an ally of the US. Crown Prince Mohammed bin Salman has ruled in practice since 2017, opening society while crushing dissent."
+  timeline: [["1744", "The Saudi-Wahhabi alliance"], ["1932", "The kingdom is founded"], ["1938", "Oil is discovered"], ["1979", "Militants seize the Grand Mosque in Mecca"], ["2017", "Mohammed bin Salman becomes crown prince"], ["2018", "Journalist Jamal Khashoggi is murdered"]]
+
+SGP:
+  story: "Stamford Raffles founded a British trading post here in 1819. Japan occupied it in World War Two. Singapore joined Malaysia in 1963 and was expelled two years later. Lee Kuan Yew turned the island without resources into one of the world's richest countries. His People's Action Party has won every election since 1959."
+  timeline: [["1819", "Raffles founds the British settlement"], ["1942", "Japanese occupation"], ["1963", "Joins Malaysia"], ["1965", "Expelled; becomes independent"], ["1990", "Lee Kuan Yew steps down after 31 years"], ["2024", "Lawrence Wong becomes prime minister"]]
+
+KOR:
+  story: "Korea was divided in 1945 and devastated by war from 1950 to 1953. The South was a dictatorship under Syngman Rhee and then General Park Chung-hee, whose rule also launched rapid industrialisation. Mass protests brought democracy in 1987. South Korea became a rich technology power and a cultural exporter. In December 2024 President Yoon declared martial law; he was impeached and removed."
+  timeline: [["1945", "Korea is divided"], ["1950", "The Korean War"], ["1961", "Park Chung-hee's coup"], ["1980", "The Gwangju massacre"], ["1987", "Democracy"], ["2017", "President Park Geun-hye is removed from office"], ["2024", "Yoon declares martial law and is impeached"]]
+
+LKA:
+  story: "Ancient Sinhalese kingdoms built great irrigation works. The Portuguese, Dutch and British ruled in turn. Independent in 1948 as Ceylon, it passed laws favouring the Sinhalese majority. A civil war with the Tamil Tigers from 1983 to 2009 killed up to 100,000, ending with a bloody army offensive. An economic collapse in 2022 brought down the Rajapaksa family."
+  timeline: [["377 BC", "Anuradhapura becomes capital"], ["1505", "The Portuguese arrive"], ["1948", "Independence"], ["1956", "Sinhala Only Act"], ["1983", "Civil war begins"], ["2009", "The Tamil Tigers are defeated"], ["2022", "Economic collapse; protesters oust the president"]]
+
+SYR:
+  story: "Damascus is one of the oldest continuously inhabited cities. France ruled Syria after World War One. Independent in 1946, it had many coups until Hafez al-Assad took power in 1970. His son Bashar succeeded him in 2000. When protests began in 2011, the regime's crackdown led to a civil war that killed over 500,000 and displaced half the population. Rebels led by Ahmed al-Sharaa toppled Assad in December 2024."
+  timeline: [["661", "Damascus becomes capital of the Umayyad caliphate"], ["1920", "French mandate"], ["1946", "Independence"], ["1970", "Hafez al-Assad takes power"], ["1982", "The Hama massacre"], ["2011", "Uprising and civil war"], ["2024", "Assad falls"]]
+
+TWN:
+  story: "Indigenous peoples lived here before Chinese settlers came. Qing China ceded Taiwan to Japan in 1895. After World War Two it went to the Republic of China, whose Kuomintang government retreated here after losing the civil war in 1949 and ruled under martial law until 1987. Taiwan became a vibrant democracy and a world leader in computer chips, while Beijing claims it."
+  timeline: [["1624", "The Dutch establish a colony"], ["1895", "Ceded to Japan"], ["1947", "The 228 massacre"], ["1949", "The Kuomintang government retreats to Taiwan"], ["1987", "Martial law ends"], ["1996", "First direct presidential election"]]
+
+TJK:
+  story: "Persian-speaking Tajiks came under Russian rule in the 19th century. Independent in 1991, Tajikistan fell into a civil war that killed up to 100,000. Emomali Rahmon emerged as leader in 1992 and has ruled ever since. It is the poorest former Soviet republic, relying on money sent home by migrants in Russia."
+  timeline: [["1868", "Russian protectorate over Bukhara"], ["1929", "Becomes a Soviet republic"], ["1991", "Independence"], ["1992", "Civil war; Rahmon takes power"], ["1997", "Peace agreement"]]
+
+THA:
+  story: "Siam was never colonised, playing Britain and France against each other. A 1932 revolution ended absolute monarchy, but the army has staged about a dozen successful coups since. The popular king Bhumibol reigned for 70 years. A long struggle between the Shinawatra family's supporters and the royalist establishment has defined politics this century."
+  timeline: [["1782", "The Chakri dynasty founds Bangkok"], ["1932", "End of absolute monarchy"], ["1946", "King Bhumibol begins his reign"], ["2006", "Coup ousts Thaksin Shinawatra"], ["2014", "Another coup"], ["2016", "King Vajiralongkorn succeeds his father"], ["2025", "Border war with Cambodia"]]
+
+TLS:
+  story: "Portugal ruled Timor for 400 years. When it left in 1975, Indonesia invaded and its occupation killed perhaps a quarter of the population. In 1999 East Timorese voted for independence in a UN referendum, and Indonesian-backed militias burned the country. It became independent in 2002."
+  timeline: [["1515", "The Portuguese arrive"], ["1975", "Indonesia invades"], ["1991", "The Santa Cruz massacre"], ["1999", "Independence referendum"], ["2002", "Independence"], ["2025", "Joins ASEAN"]]
+
+TUR:
+  story: "The Ottoman Empire ruled much of the Middle East, North Africa and southeastern Europe for six centuries. After its defeat in World War One, Mustafa Kemal Atatürk founded a secular republic in 1923. The army staged coups to guard his legacy. Recep Tayyip Erdoğan's party took power in 2002; after a failed coup in 2016, he concentrated power in the presidency."
+  timeline: [["1453", "The Ottomans take Constantinople"], ["1915", "The Armenian genocide"], ["1923", "The republic is founded"], ["1980", "Military coup"], ["2003", "Erdoğan becomes prime minister"], ["2016", "Failed coup attempt"], ["2017", "Referendum creates a presidential system"]]
+
+TKM:
+  story: "Turkmen tribes resisted Russian conquest until 1881. Independent in 1991, Turkmenistan was ruled by Saparmurat Niyazov, who built a personality cult and renamed months after himself. Gurbanguly Berdimuhamedov succeeded him in 2006 and handed power to his son in 2022."
+  timeline: [["1881", "Russian forces take Geok Tepe"], ["1924", "Becomes a Soviet republic"], ["1991", "Independence"], ["2006", "Niyazov dies"], ["2022", "Serdar Berdimuhamedov succeeds his father"]]
+
+UZB:
+  story: "Samarkand and Bukhara were Silk Road cities, and Timur ruled a vast empire from here in the 14th century. Russia conquered the khanates in the 19th century. The Soviets turned it into a cotton plantation, draining the Aral Sea. Islam Karimov ruled harshly from independence in 1991 until his death in 2016; Shavkat Mirziyoyev has opened it up."
+  timeline: [["1370", "Timur makes Samarkand his capital"], ["1865", "Russia captures Tashkent"], ["1991", "Independence"], ["2005", "The Andijan massacre"], ["2016", "Karimov dies; Mirziyoyev takes over"]]
+
+VNM:
+  story: "Vietnam fought off Chinese rule for centuries. France colonised it in the 19th century. Ho Chi Minh's forces defeated France in 1954, and the country was split. The war with the US-backed South ended with the fall of Saigon in 1975. After years of poverty, the Doi Moi reforms of 1986 opened the economy, making Vietnam one of the world's fastest-growing countries under Communist Party rule."
+  timeline: [["938", "Independence from China"], ["1887", "French Indochina"], ["1954", "Defeat of France at Dien Bien Phu"], ["1965", "US combat troops arrive"], ["1975", "The fall of Saigon"], ["1986", "Doi Moi reforms"]]
+
+YEM:
+  story: "Ancient Yemen was the land of Sheba and frankincense. The north was ruled by Zaydi imams; Britain held Aden in the south. Two Yemens became independent and united in 1990 under Ali Abdullah Saleh. After he was forced out in the Arab Spring, the Houthis seized Sanaa in 2014 and Saudi Arabia led a war against them from 2015, causing one of the world's worst humanitarian disasters."
+  timeline: [["1839", "Britain takes Aden"], ["1962", "Revolution ends the imamate in the north"], ["1967", "South Yemen's independence"], ["1990", "Unification"], ["2012", "Saleh steps down"], ["2014", "Houthis take Sanaa"], ["2015", "Saudi-led intervention"]]

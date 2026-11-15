@@ -1,0 +1,57 @@
+# How it got here: see africa.yaml for the format.
+
+AUS:
+  story: "Aboriginal and Torres Strait Islander peoples have lived here for at least 65,000 years. Britain founded a penal colony at Sydney in 1788, and colonisation brought disease, dispossession and frontier violence. Six colonies federated in 1901, and Australia kept a 'White Australia' immigration policy until the 1970s. It is now a multicultural democracy tied to the US and dependent on trade with China."
+  timeline: [["65,000 years ago", "First Australians arrive"], ["1788", "The First Fleet lands at Sydney"], ["1901", "Federation"], ["1967", "Referendum counts Aboriginal people in the population"], ["1973", "White Australia policy ends"], ["2023", "Voters reject an Indigenous Voice to Parliament"]]
+
+FJI:
+  story: "Britain annexed Fiji in 1874 and brought Indian indentured labourers to work sugar plantations. Tensions between indigenous Fijians and Indo-Fijians shaped politics after independence in 1970. There were four coups, in 1987 (twice), 2000 and 2006."
+  timeline: [["1874", "Britain annexes Fiji"], ["1879", "Indian indentured labour begins"], ["1970", "Independence"], ["1987", "Two coups by Sitiveni Rabuka"], ["2000", "Civilian coup"], ["2006", "Military coup by Frank Bainimarama"], ["2022", "Rabuka returns to power at the ballot box"]]
+
+KIR:
+  story: "Britain ruled the Gilbert Islands; the Battle of Tarawa in 1943 was one of the Pacific War's bloodiest. Kiribati became independent in 1979. Britain mined Banaba for phosphate until the island was stripped. Today rising seas threaten the low atolls."
+  timeline: [["1892", "British protectorate"], ["1943", "The Battle of Tarawa"], ["1979", "Independence"], ["2019", "Switches recognition from Taiwan to China"]]
+
+MHL:
+  story: "Germany, then Japan ruled the islands. The US took them in World War Two and tested 67 nuclear weapons at Bikini and Enewetak from 1946 to 1958, poisoning islands and people. The Marshall Islands became independent in 1986 in free association with the US."
+  timeline: [["1885", "German protectorate"], ["1914", "Japanese rule"], ["1946", "US nuclear testing begins at Bikini"], ["1954", "The Castle Bravo test"], ["1986", "Independence in free association with the US"]]
+
+FSM:
+  story: "Spain, Germany and Japan ruled the Caroline Islands before the US took them in World War Two. The Federated States of Micronesia became independent in 1986 in free association with the US, which handles defence and provides aid."
+  timeline: [["1899", "Spain sells the islands to Germany"], ["1914", "Japanese rule"], ["1947", "US trust territory"], ["1986", "Independence in free association with the US"]]
+
+NRU:
+  story: "Nauru's phosphate made its people briefly among the world's richest per head after independence in 1968. Mining stripped most of the island, the money was squandered, and it now relies on hosting Australia's asylum detention centre."
+  timeline: [["1888", "German annexation"], ["1914", "Australian administration"], ["1968", "Independence"], ["2001", "Australia's offshore detention begins"]]
+
+NZL:
+  story: "Polynesian voyagers settled Aotearoa about 800 years ago and became the Māori. British settlement grew after the Treaty of Waitangi in 1840, whose meaning is still disputed, and land wars followed. New Zealand was the first country to give women the vote, in 1893. It became fully independent in stages and is known for progressive politics."
+  timeline: [["1300", "Polynesian settlement"], ["1840", "The Treaty of Waitangi"], ["1860s", "The New Zealand Wars"], ["1893", "Women win the vote"], ["1987", "Goes nuclear-free"], ["2019", "The Christchurch mosque attacks"]]
+
+PLW:
+  story: "Spain, Germany and Japan ruled Palau; the Battle of Peleliu in 1944 was among the Pacific War's fiercest. A US trust territory after the war, Palau became independent in 1994 in free association with the US."
+  timeline: [["1899", "Sold to Germany"], ["1914", "Japanese rule"], ["1944", "The Battle of Peleliu"], ["1994", "Independence"]]
+
+PNG:
+  story: "The world's most linguistically diverse country, with over 800 languages. Germany and Britain split the territory, and Australia ran both halves until independence in 1975. A civil war on Bougainville over a copper mine killed thousands in the 1990s; Bougainville voted for independence in 2019."
+  timeline: [["1884", "Germany and Britain divide New Guinea"], ["1906", "Australia takes over Papua"], ["1975", "Independence"], ["1988", "The Bougainville civil war begins"], ["2019", "Bougainville votes for independence"]]
+
+WSM:
+  story: "Germany ruled Western Samoa from 1900; New Zealand took over in 1914, and the Mau movement resisted its rule. Samoa became the first Pacific island country to win independence, in 1962."
+  timeline: [["1900", "German rule"], ["1914", "New Zealand takes over"], ["1929", "Black Saturday: police fire on Mau protesters"], ["1962", "Independence"], ["2021", "Constitutional crisis brings Fiamē Naomi Mataʻafa to power"]]
+
+SLB:
+  story: "Britain declared a protectorate in 1893. Guadalcanal was a turning point of the Pacific War. Independent in 1978, the country saw ethnic conflict from 1998 that brought an Australian-led peace mission. It switched recognition to China in 2019 and signed a security pact with Beijing in 2022."
+  timeline: [["1893", "British protectorate"], ["1942", "The Battle of Guadalcanal"], ["1978", "Independence"], ["2003", "Australian-led intervention"], ["2019", "Switches recognition to China"]]
+
+TON:
+  story: "Tonga is the only Pacific kingdom that was never formally colonised, though it was a British protected state until 1970. A pro-democracy movement won an elected majority in parliament in 2010. A volcanic eruption and tsunami hit it in 2022."
+  timeline: [["1845", "George Tupou I unifies Tonga"], ["1875", "Constitution"], ["1900", "British protected state"], ["1970", "Full independence"], ["2010", "Most of parliament is elected"], ["2022", "The Hunga Tonga eruption"]]
+
+TUV:
+  story: "The Ellice Islands were ruled with the Gilberts until a referendum split them in 1975. Tuvalu became independent in 1978. Earning money from its '.tv' internet domain, it is among the countries most threatened by rising seas."
+  timeline: [["1892", "British protectorate"], ["1975", "Separates from the Gilbert Islands"], ["1978", "Independence"], ["2023", "Treaty lets Tuvaluans move to Australia"]]
+
+VUT:
+  story: "Britain and France ran the New Hebrides jointly from 1906, a 'condominium' with two police forces and two legal systems. Independence came in 1980. It is highly exposed to cyclones and earthquakes, and has led a global legal push on climate change."
+  timeline: [["1906", "Anglo-French condominium"], ["1980", "Independence"], ["2015", "Cyclone Pam"], ["2024", "Deadly earthquake hits Port Vila"], ["2025", "The International Court rules on climate obligations after Vanuatu's push"]]

@@ -1,0 +1,219 @@
+# How it got here: a short history and a timeline for each country.
+# Background, not news: settled history that explains the present. See UPDATING.md ("History").
+# story: one or two short paragraphs. timeline: [year, event], oldest first, 5 to 8 entries.
+
+DZA:
+  story: "France invaded in 1830 and made Algeria part of France itself, settling a million Europeans on the best land. The war of independence from 1954 to 1962 killed hundreds of thousands and still shapes everything. The National Liberation Front and the army ran the new state, nationalised its oil and gas, and fought a brutal civil war against Islamist insurgents in the 1990s. The army remains the real power behind elected presidents."
+  timeline: [["1830", "France invades and begins 132 years of colonial rule"], ["1954", "The FLN launches the war of independence"], ["1962", "Independence after a referendum; most settlers flee"], ["1991", "The army cancels elections an Islamist party was winning, setting off a civil war that kills up to 200,000"], ["1999", "Abdelaziz Bouteflika becomes president and offers amnesty to insurgents"], ["2019", "Mass Hirak protests force Bouteflika out before a fifth term"]]
+
+AGO:
+  story: "Portugal held Angola for nearly 500 years, first as a hub of the Atlantic slave trade. Three liberation movements fought Portugal and then each other: independence in 1975 became a Cold War proxy war, with Cuba and the Soviet Union backing the MPLA and South Africa and the US backing UNITA. The war ended in 2002 when UNITA's leader was killed. Oil made the dos Santos family and their circle fabulously rich while most Angolans stayed poor."
+  timeline: [["1575", "Portugal founds Luanda, later a centre of the slave trade"], ["1961", "Uprisings begin the war of independence"], ["1975", "Independence and the start of a 27-year civil war"], ["2002", "UNITA leader Jonas Savimbi is killed and the war ends"], ["2017", "José Eduardo dos Santos steps down after 38 years; João Lourenço takes over"]]
+
+BEN:
+  story: "The Kingdom of Dahomey grew rich on the slave trade and was famed for its women soldiers before France conquered it in 1894. After independence in 1960 it went through so many coups it was called the sick child of Africa, then a Marxist-Leninist regime under Mathieu Kérékou. In 1990 a national conference ended one-party rule peacefully, a model copied across francophone Africa, and Benin became a stable democracy, though one that has narrowed under Patrice Talon."
+  timeline: [["1600s", "The Kingdom of Dahomey rises"], ["1894", "France conquers Dahomey"], ["1960", "Independence"], ["1972", "Mathieu Kérékou seizes power and declares a Marxist state"], ["1990", "A national conference ends one-party rule"], ["2016", "Businessman Patrice Talon is elected president"]]
+
+BWA:
+  story: "Three Tswana chiefs travelled to London in 1895 to keep their land out of Cecil Rhodes's hands, and Britain ruled it lightly as the Bechuanaland Protectorate. At independence in 1966 it was one of the poorest countries on Earth. Then diamonds were found, and a deal with De Beers and careful management turned it into a middle-income democracy. The Botswana Democratic Party ruled for 58 years until voters threw it out in 2024."
+  timeline: [["1885", "Britain declares the Bechuanaland Protectorate"], ["1966", "Independence under Seretse Khama"], ["1967", "Diamonds are discovered at Orapa"], ["2000s", "One of the world's worst HIV epidemics, then a pioneering treatment programme"], ["2024", "The ruling BDP loses power for the first time since independence"]]
+
+BFA:
+  story: "The Mossi kingdoms ruled the area for centuries before France made it the colony of Upper Volta. Independent in 1960, it had a string of coups. Thomas Sankara, who seized power in 1983 and renamed the country Burkina Faso, 'land of upright people', is still a hero to many; he was killed in 1987 by his friend Blaise Compaoré, who ruled for 27 years until a popular uprising. Jihadist violence spreading from Mali since 2015 led to two coups in 2022."
+  timeline: [["1896", "France conquers the Mossi kingdoms"], ["1960", "Independence as Upper Volta"], ["1983", "Thomas Sankara seizes power"], ["1987", "Sankara is assassinated; Blaise Compaoré takes over"], ["2014", "An uprising ousts Compaoré"], ["2022", "Two coups; Captain Ibrahim Traoré takes charge"]]
+
+BDI:
+  story: "A Tutsi monarchy ruled a Hutu majority before German and then Belgian colonisers hardened the divide. Independence in 1962 was followed by decades of massacres, including the killing of perhaps 100,000 Hutu in 1972. The assassination of the first Hutu president in 1993 began a civil war that killed some 300,000. The Arusha peace deal shared power by ethnic quota, and former rebel Pierre Nkurunziza ruled from 2005, his third term in 2015 sparking a crisis."
+  timeline: [["1890", "Becomes part of German East Africa"], ["1962", "Independence from Belgium"], ["1972", "Massacres of Hutu by the Tutsi-led army"], ["1993", "President Melchior Ndadaye is assassinated; civil war begins"], ["2000", "Arusha peace agreement"], ["2015", "Nkurunziza's third term sets off protests and a failed coup"]]
+
+CPV:
+  story: "The islands were uninhabited until the Portuguese arrived in 1456 and used them as a slave-trading post. Droughts and famines killed tens of thousands and pushed people to emigrate. Cape Verdeans fought alongside Guinea-Bissau for independence under Amílcar Cabral, won in 1975, and planned to unite the two countries until a coup in Bissau in 1980. Multiparty elections came in 1991, and it has been one of Africa's most stable democracies since."
+  timeline: [["1462", "Portuguese settlers found Ribeira Grande, the first European town in the tropics"], ["1940s", "Famines kill tens of thousands"], ["1975", "Independence"], ["1991", "First multiparty elections; power changes hands peacefully"]]
+
+CMR:
+  story: "Germany took Kamerun in 1884; after World War One it was split between France and Britain. The French part fought a bloody independence war and became independent in 1960; part of the British side joined in 1961, the root of today's Anglophone crisis. Ahmadou Ahidjo ruled for 22 years, then handed over in 1982 to Paul Biya, who is still president, making him the world's oldest head of state."
+  timeline: [["1884", "Germany claims Kamerun"], ["1919", "Split between France and Britain"], ["1960", "French Cameroun becomes independent"], ["1961", "Southern British Cameroons joins as an English-speaking region"], ["1982", "Paul Biya becomes president"], ["2016", "Protests in English-speaking regions turn into an armed separatist conflict"]]
+
+CAF:
+  story: "French concession companies used forced labour to strip the territory of rubber and ivory. Independence in 1960 brought coups and the absurd 'empire' of Jean-Bédel Bokassa, who crowned himself emperor in 1977 in a ceremony costing a third of the budget. Since 2013, when the mostly Muslim Séléka rebels seized power and Christian anti-balaka militias struck back, the state has controlled little outside the capital. Russian Wagner fighters now guard the president."
+  timeline: [["1910", "Becomes part of French Equatorial Africa"], ["1960", "Independence"], ["1966", "Jean-Bédel Bokassa seizes power"], ["1977", "Bokassa crowns himself emperor"], ["2013", "Séléka rebels take Bangui; sectarian war follows"], ["2018", "Russian Wagner contractors arrive"]]
+
+TCD:
+  story: "Chad sits where the Sahara meets the Sahel, between Arab and Muslim herders in the north and mostly Christian and animist farmers in the south, a divide France exploited. Since independence in 1960 power has changed hands by force: civil war, Libyan invasions, and the brutal rule of Hissène Habré, later convicted of crimes against humanity. Idriss Déby took power in 1990 and ruled until killed on the battlefield in 2021; his son took over."
+  timeline: [["1900", "France defeats Rabih az-Zubayr and takes the region"], ["1960", "Independence"], ["1979", "Civil war; Libya intervenes"], ["1982", "Hissène Habré takes power"], ["1990", "Idriss Déby ousts Habré"], ["2021", "Déby is killed fighting rebels; his son Mahamat takes over"]]
+
+COM:
+  story: "Swahili sultanates ruled the islands, which became a French colony in the 19th century. In 1975 three islands voted for independence, but Mayotte voted to stay French, a wound that remains. The new country suffered some 20 coups and attempts, several led by the French mercenary Bob Denard. Azali Assoumani first took power in a 1999 coup and has ruled for most of the time since."
+  timeline: [["1841", "France acquires Mayotte"], ["1975", "Independence; Mayotte stays French"], ["1978", "Mercenary Bob Denard takes power behind a puppet president"], ["1997", "Anjouan and Mohéli try to secede"], ["1999", "Azali Assoumani seizes power"]]
+
+COD:
+  story: "King Leopold II of Belgium ran the Congo as his personal property from 1885, and millions died under forced labour for rubber. Independence in 1960 collapsed into chaos; Prime Minister Patrice Lumumba was murdered with Belgian and US complicity, and Mobutu Sese Seko ruled for 32 years. After the Rwandan genocide, two wars from 1996 to 2003 drew in nine countries and killed millions. Armed groups still fight in the mineral-rich east."
+  timeline: [["1885", "Leopold II's Congo Free State"], ["1908", "Belgium takes over after international outrage"], ["1960", "Independence; Lumumba is killed months later"], ["1965", "Mobutu seizes power, later renaming the country Zaire"], ["1997", "Rebels backed by Rwanda and Uganda overthrow Mobutu"], ["1998", "The Second Congo War begins, drawing in nine countries"], ["2019", "Félix Tshisekedi becomes president"]]
+
+COG:
+  story: "Brazzaville was the capital of French Equatorial Africa and of Free France during World War Two. After independence in 1960 it became Africa's first declared Marxist-Leninist state. Denis Sassou Nguesso took power in 1979, lost an election in 1992, and won back power in a civil war in 1997. He has ruled since, on oil revenues that have left heavy debts."
+  timeline: [["1880", "Explorer Pierre de Brazza signs a treaty for France"], ["1940", "Brazzaville becomes the capital of Free France"], ["1960", "Independence"], ["1969", "Declared a people's republic"], ["1979", "Denis Sassou Nguesso takes power"], ["1997", "Civil war returns Sassou Nguesso to power"]]
+
+CIV:
+  story: "France built Côte d'Ivoire into West Africa's richest colony on cocoa and coffee. Félix Houphouët-Boigny ruled for 33 years after independence in 1960, presiding over the 'Ivorian miracle'. After his death, a toxic debate over who counted as truly Ivorian split north from south. A civil war in 2002 and the violent dispute over the 2010 election, when Laurent Gbagbo refused to concede, left thousands dead before Alassane Ouattara took office."
+  timeline: [["1893", "Becomes a French colony"], ["1960", "Independence under Houphouët-Boigny"], ["1993", "Houphouët-Boigny dies; 'Ivoirité' politics take hold"], ["2002", "Civil war splits the country north and south"], ["2011", "Post-election war ends with Gbagbo's arrest; Ouattara takes power"]]
+
+DJI:
+  story: "France built Djibouti as the port for the railway to Addis Ababa. Independence came in 1977 under Hassan Gouled Aptidon, an Issa Somali, and an Afar rebellion followed in the 1990s. His nephew Ismaïl Omar Guelleh has ruled since 1999. Its location at the mouth of the Red Sea made it the world's most crowded host of foreign military bases."
+  timeline: [["1888", "France founds the town of Djibouti"], ["1917", "Railway to Addis Ababa completed"], ["1977", "Independence"], ["1991", "Afar rebellion begins"], ["1999", "Ismaïl Omar Guelleh becomes president"], ["2017", "China opens its first overseas military base here"]]
+
+EGY:
+  story: "Five thousand years of pharaohs, Greeks, Romans, Arabs and Ottomans preceded British control in 1882. Gamal Abdel Nasser's officers overthrew the king in 1952 and nationalised the Suez Canal, making Egypt the leader of the Arab world. Anwar Sadat made peace with Israel; Hosni Mubarak ruled for 30 years until the 2011 uprising. The Muslim Brotherhood won the elections that followed, and the army, led by Abdel Fattah el-Sisi, removed them in 2013."
+  timeline: [["3100 BC", "Upper and Lower Egypt unite under the first pharaohs"], ["1882", "Britain occupies Egypt"], ["1952", "Free Officers overthrow King Farouk"], ["1956", "Nasser nationalises the Suez Canal"], ["1979", "Peace treaty with Israel"], ["2011", "Uprising ends Mubarak's 30-year rule"], ["2013", "The army ousts President Mohamed Morsi; Sisi takes power"]]
+
+GNQ:
+  story: "Spain's only colony in sub-Saharan Africa became independent in 1968 under Francisco Macías Nguema, whose terror killed or drove out perhaps a third of the population. His nephew Teodoro Obiang overthrew and executed him in 1979 and has ruled ever since, the world's longest-serving president. Oil found in the 1990s made it one of Africa's richest countries per head, with most people still poor."
+  timeline: [["1778", "Portugal cedes the islands to Spain"], ["1968", "Independence; Macías Nguema's dictatorship begins"], ["1979", "Teodoro Obiang seizes power"], ["1996", "Large-scale oil production begins"], ["2004", "A coup plot involving British mercenaries is foiled"]]
+
+ERI:
+  story: "Italy made Eritrea its colony in 1890; Britain took over in 1941, and in 1952 it was federated with Ethiopia, which annexed it outright ten years later. A 30-year war of independence ended in 1991 and Eritreans voted almost unanimously to separate in 1993. A border war with Ethiopia from 1998 to 2000 killed 80,000. Isaias Afwerki has ruled ever since without elections or a constitution."
+  timeline: [["1890", "Italy declares the colony of Eritrea"], ["1952", "Federated with Ethiopia"], ["1961", "The war of independence begins"], ["1993", "Independence after a referendum"], ["1998", "Border war with Ethiopia"], ["2018", "Peace with Ethiopia under Abiy Ahmed"]]
+
+SWZ:
+  story: "The Swazi kingdom kept its monarchy through British rule and won independence in 1968. In 1973 King Sobhuza II, who reigned for 82 years, banned political parties. His son Mswati III, crowned in 1986, rules as Africa's last absolute monarch, renamed the country Eswatini in 2018, and crushed pro-democracy protests in 2021."
+  timeline: [["1903", "Becomes a British protectorate"], ["1968", "Independence"], ["1973", "King Sobhuza II bans political parties"], ["1986", "Mswati III is crowned"], ["2018", "Renamed Eswatini"], ["2021", "Pro-democracy protests are put down with deadly force"]]
+
+ETH:
+  story: "Ethiopia is one of the world's oldest states and among its first Christian kingdoms; it defeated Italy at Adwa in 1896 and was never colonised, apart from Mussolini's occupation from 1936 to 1941. Emperor Haile Selassie was deposed in 1974 by the Derg, a Marxist junta whose Red Terror and famines killed hundreds of thousands. Rebels led by the Tigrayans took power in 1991 and built an ethnic federation. Abiy Ahmed won the Nobel Peace Prize in 2019, then fought a devastating war in Tigray."
+  timeline: [["330s", "The Kingdom of Aksum adopts Christianity"], ["1896", "Ethiopia defeats Italy at Adwa"], ["1936", "Italy occupies the country until 1941"], ["1974", "The Derg overthrows Haile Selassie"], ["1984", "Famine kills hundreds of thousands"], ["1991", "Rebels led by the TPLF take power"], ["2020", "War in Tigray begins; hundreds of thousands die before a 2022 truce"]]
+
+GAB:
+  story: "France ruled Gabon as part of French Equatorial Africa. Omar Bongo became president in 1967 and ruled for 41 years, turning oil money into a patronage machine and a pillar of France's network in Africa. His son Ali succeeded him in 2009. Minutes after Ali was declared winner of a third term in 2023, the army took over, led by his cousin, General Brice Oligui Nguema."
+  timeline: [["1839", "France signs its first treaty on the coast"], ["1960", "Independence"], ["1967", "Omar Bongo becomes president"], ["2009", "Ali Bongo succeeds his father"], ["2023", "A coup ends the Bongo dynasty"], ["2025", "Oligui Nguema is elected president"]]
+
+GMB:
+  story: "A sliver of land along the Gambia River that Britain held while France took the surrounding Senegal. Independent in 1965, it was a rare democracy under Dawda Jawara until Yahya Jammeh seized power in 1994 and ruled with terror for 22 years. In 2016 he lost an election to Adama Barrow and was forced into exile when West African troops moved in."
+  timeline: [["1816", "Britain founds Bathurst, now Banjul"], ["1965", "Independence"], ["1982", "Confederation with Senegal, dissolved in 1989"], ["1994", "Yahya Jammeh seizes power"], ["2017", "Jammeh flees after losing the election"]]
+
+GHA:
+  story: "The Ashanti Empire dominated the forest kingdoms and the gold trade before Britain made the Gold Coast a colony. In 1957 it became the first sub-Saharan colony to win independence, under Kwame Nkrumah, the champion of pan-Africanism. Coups followed, and Jerry Rawlings ruled twice before turning the country into a multiparty democracy in 1992. Power has since passed peacefully between two big parties."
+  timeline: [["1700s", "The Ashanti Empire at its height"], ["1874", "Britain declares the Gold Coast Colony"], ["1957", "Independence under Kwame Nkrumah"], ["1966", "Nkrumah is overthrown"], ["1981", "Jerry Rawlings takes power for the second time"], ["1992", "Return to multiparty democracy"]]
+
+GIN:
+  story: "France's colony of Guinea was the only one to vote no to staying in the French community in 1958, and France stripped it bare on the way out. Ahmed Sékou Touré ruled as a paranoid dictator until 1984; Lansana Conté followed for 24 years. A massacre of protesters in a stadium in 2009 shocked the world. Alpha Condé won the first free election in 2010 but changed the constitution for a third term and was overthrown in 2021."
+  timeline: [["1891", "Becomes a French colony"], ["1958", "Votes no to France and becomes independent"], ["1984", "Lansana Conté takes power"], ["2009", "Soldiers massacre over 150 protesters at a stadium"], ["2010", "Alpha Condé wins the first democratic election"], ["2021", "Colonel Mamady Doumbouya seizes power"]]
+
+GNB:
+  story: "Amílcar Cabral led one of Africa's most effective liberation wars against Portugal, and independence came in 1974. Since then no elected president has completed a full term without a coup or attempt. Weak institutions made it a hub for South American cocaine heading to Europe. The army took power again in late 2025, hours before election results were due."
+  timeline: [["1446", "Portuguese traders arrive"], ["1963", "The PAIGC begins the war of independence"], ["1973", "Amílcar Cabral is assassinated"], ["1974", "Independence"], ["1998", "Civil war"], ["2025", "The military seizes power during the election count"]]
+
+KEN:
+  story: "Britain built Kenya around a railway and the white settlers who took the highlands. The Mau Mau uprising of the 1950s was crushed with detention camps, but it hastened independence in 1963 under Jomo Kenyatta. Daniel arap Moi ruled for 24 years. The disputed 2007 election set off ethnic violence that killed over 1,100, leading to a new constitution in 2010. In 2024 Gen Z protests over taxes stormed parliament."
+  timeline: [["1895", "Britain declares the East Africa Protectorate"], ["1952", "The Mau Mau uprising; a state of emergency until 1960"], ["1963", "Independence under Jomo Kenyatta"], ["1978", "Daniel arap Moi becomes president"], ["2007", "Post-election violence kills over 1,100"], ["2010", "A new constitution"], ["2024", "Youth protests against tax rises storm parliament"]]
+
+LSO:
+  story: "King Moshoeshoe I united the Basotho in the mountains in the 1820s and sought British protection to keep the Boers out. Independent in 1966, it is entirely surrounded by South Africa. It has had coups, a 1998 crisis that brought South African troops in, and frequent unstable coalitions. Its economy relies on water sold to South Africa, textiles, and workers in South African mines."
+  timeline: [["1822", "Moshoeshoe I founds the Basotho nation"], ["1868", "Becomes the British protectorate of Basutoland"], ["1966", "Independence"], ["1986", "Military coup"], ["1998", "South African troops intervene after a disputed election"]]
+
+LBR:
+  story: "Founded in 1822 by the American Colonization Society as a home for freed slaves, Liberia became Africa's first republic in 1847. The Americo-Liberian minority ruled the indigenous majority for over a century, until Samuel Doe's coup in 1980. Civil wars from 1989 to 2003, launched by Charles Taylor, killed some 250,000. Ellen Johnson Sirleaf became Africa's first elected woman head of state in 2006."
+  timeline: [["1822", "Freed slaves from the US settle at Monrovia"], ["1847", "Independence"], ["1980", "Samuel Doe seizes power"], ["1989", "Charles Taylor's invasion starts the first civil war"], ["2003", "Taylor goes into exile; the wars end"], ["2006", "Ellen Johnson Sirleaf becomes president"], ["2014", "Ebola kills nearly 5,000"]]
+
+LBY:
+  story: "Italy seized Libya from the Ottomans in 1911 and crushed resistance brutally. After World War Two it became a kingdom under King Idris, and oil was found in 1959. Muammar Gaddafi overthrew the king in 1969 and ruled for 42 years. The 2011 uprising, backed by NATO airstrikes, killed him, and the country split between rival governments and militias in the west and the east, where Khalifa Haftar rules."
+  timeline: [["1911", "Italy invades"], ["1951", "Independence as a kingdom"], ["1969", "Muammar Gaddafi seizes power"], ["1988", "The Lockerbie bombing"], ["2011", "Uprising and NATO intervention; Gaddafi is killed"], ["2014", "The country splits between rival governments"]]
+
+MDG:
+  story: "Austronesian seafarers settled the island about 1,500 years ago, and the Merina kingdom unified most of it in the 19th century. France conquered it in 1896 and crushed a 1947 revolt, killing tens of thousands. Since independence in 1960 it has lurched through socialist rule, disputed elections and coups. Andry Rajoelina first took power in 2009 and won back the presidency in 2018; youth protests over water and power cuts brought a military takeover in 2025."
+  timeline: [["500s", "Austronesian settlers arrive"], ["1817", "The Merina king is recognised by Britain"], ["1896", "France annexes Madagascar"], ["1947", "A revolt against France is crushed"], ["1960", "Independence"], ["2009", "Andry Rajoelina takes power with army backing"], ["2025", "Gen Z protests end with a military takeover"]]
+
+MWI:
+  story: "Britain's Nyasaland was a labour reserve for the mines of Rhodesia and South Africa. Hastings Banda led it to independence in 1964 and ruled as 'president for life' until a referendum in 1993 brought multiparty democracy. In 2020 its courts annulled a rigged election, a first in Africa, and the opposition won the rerun."
+  timeline: [["1891", "Britain declares a protectorate"], ["1964", "Independence under Hastings Banda"], ["1971", "Banda becomes president for life"], ["1994", "First multiparty elections"], ["2020", "Courts annul a presidential election; Lazarus Chakwera wins the rerun"], ["2025", "Peter Mutharika returns to power"]]
+
+MLI:
+  story: "The empires of Ghana, Mali and Songhai made this the heart of medieval West Africa; Mansa Musa's 14th-century pilgrimage to Mecca was so lavish it crashed the price of gold in Cairo, and Timbuktu was a centre of learning. France conquered it in the 1890s. After independence in 1960 came dictatorship, then democracy in 1992. A Tuareg rebellion in 2012 let jihadists seize the north; France intervened, then was expelled by the juntas that took power in 2020 and 2021."
+  timeline: [["1324", "Mansa Musa's pilgrimage to Mecca"], ["1591", "Morocco invades and ends the Songhai Empire"], ["1960", "Independence"], ["1991", "Popular revolt ends Moussa Traoré's dictatorship"], ["2012", "Tuareg rebels and jihadists take the north"], ["2013", "French troops intervene"], ["2021", "Second coup; Colonel Assimi Goïta takes full control"]]
+
+MRT:
+  story: "A land of Moorish emirates and Berber and Arab nomads, colonised by France and independent in 1960. Its society is still marked by the legacy of slavery, abolished only in 1981 and criminalised in 2007. The army has staged several coups. Mohamed Ould Ghazouani's election in 2019 was the first transfer between elected presidents."
+  timeline: [["1000s", "The Almoravid movement rises here"], ["1903", "France begins its conquest"], ["1960", "Independence"], ["1981", "Slavery is formally abolished"], ["2008", "Military coup"], ["2019", "First peaceful handover between elected presidents"]]
+
+MUS:
+  story: "Uninhabited until the Dutch arrived; the French brought enslaved Africans to work sugar plantations, and after abolition the British brought Indian indentured labourers, whose descendants are now the majority. Independent in 1968, it has been a stable democracy and one of Africa's richest countries. In 2025 Britain agreed to hand over the Chagos Islands, whose people it had expelled to make way for a US base."
+  timeline: [["1598", "The Dutch land and name it after Prince Maurice"], ["1715", "France takes over"], ["1810", "Britain captures the island"], ["1835", "Slavery is abolished; Indian indentured labour follows"], ["1968", "Independence"], ["2025", "Britain agrees to hand over the Chagos Islands"]]
+
+MAR:
+  story: "The Alaouite dynasty has ruled since the 1600s, making it one of the world's oldest monarchies. France and Spain carved out protectorates in 1912; independence came in 1956. Hassan II ruled with an iron fist during the 'years of lead' and marched 350,000 Moroccans into Western Sahara in 1975. His son Mohammed VI introduced reforms and a 2011 constitution, but the king keeps the final word."
+  timeline: [["788", "The Idrisid dynasty founds the first Moroccan state"], ["1666", "The Alaouite dynasty takes power"], ["1912", "French and Spanish protectorates"], ["1956", "Independence"], ["1975", "The Green March into Western Sahara"], ["1999", "Mohammed VI becomes king"], ["2020", "The US recognises Morocco's claim to Western Sahara"]]
+
+MOZ:
+  story: "Portuguese traders arrived in 1498, but full colonial control came only in the 20th century. FRELIMO fought a ten-year war for independence, won in 1975, and set up a one-party Marxist state. A civil war against RENAMO, backed by Rhodesia and South Africa, killed about a million people before peace in 1992. FRELIMO has won every election since. An Islamist insurgency in Cabo Delgado began in 2017, near huge gas fields."
+  timeline: [["1498", "Vasco da Gama reaches the coast"], ["1964", "FRELIMO launches the independence war"], ["1975", "Independence"], ["1977", "Civil war with RENAMO begins"], ["1992", "Peace agreement"], ["2017", "Insurgency begins in Cabo Delgado"], ["2024", "Disputed elections spark deadly protests"]]
+
+NAM:
+  story: "German South West Africa saw the 20th century's first genocide, of the Herero and Nama, from 1904 to 1908. South Africa took it over after World War One and imposed apartheid. SWAPO fought a long liberation war, and independence came in 1990. SWAPO has governed ever since, and in 2024 elected Netumbo Nandi-Ndaitwah as the first woman president."
+  timeline: [["1884", "Germany claims the territory"], ["1904", "German forces begin the genocide of the Herero and Nama"], ["1920", "South Africa takes control under a League of Nations mandate"], ["1966", "SWAPO begins armed struggle"], ["1990", "Independence"], ["2024", "Netumbo Nandi-Ndaitwah is elected president"]]
+
+NER:
+  story: "The Hausa city-states and the Songhai and Kanem empires ruled before France colonised Niger. Independent in 1960, it has had five successful coups. Uranium made it a key supplier to France's nuclear plants. In 2023 the army overthrew elected president Mohamed Bazoum, expelled French and US troops, and joined Mali and Burkina Faso in a new alliance."
+  timeline: [["1500s", "Agadez thrives on trans-Saharan trade"], ["1922", "Becomes a French colony"], ["1960", "Independence"], ["1974", "First military coup"], ["2021", "First transfer between elected presidents"], ["2023", "The army ousts Mohamed Bazoum"]]
+
+NGA:
+  story: "Britain stitched together hundreds of kingdoms and peoples, including the Muslim Sokoto Caliphate in the north and the Yoruba and Igbo in the south, into Nigeria in 1914. Independence in 1960 was followed by coups and the Biafran war, in which perhaps a million died when the southeast tried to break away. Oil brought wealth and corruption under military rulers until democracy returned in 1999. Its population is set to pass America's this century."
+  timeline: [["1804", "The Sokoto Caliphate is founded"], ["1914", "Britain merges north and south into Nigeria"], ["1960", "Independence"], ["1967", "The Biafran war begins; up to a million die"], ["1999", "Return to civilian rule"], ["2009", "Boko Haram's insurgency begins"], ["2015", "First defeat of an incumbent president at the polls"]]
+
+RWA:
+  story: "A Tutsi monarchy ruled a Hutu majority; Belgian colonisers issued ethnic identity cards that made the divide rigid. The Hutu-led republic that followed independence in 1962 drove many Tutsi into exile. In 1994, after the president's plane was shot down, extremists killed about 800,000 Tutsi and moderate Hutu in 100 days. Paul Kagame's Tutsi rebel army ended the genocide and has ruled since, rebuilding the country under tight control."
+  timeline: [["1897", "Becomes part of German East Africa"], ["1916", "Belgium takes over"], ["1959", "Hutu revolution; Tutsi flee into exile"], ["1962", "Independence"], ["1994", "Genocide kills about 800,000 people in 100 days"], ["2000", "Paul Kagame becomes president"]]
+
+STP:
+  story: "Portugal settled the uninhabited islands in the 1470s and built sugar and later cocoa plantations worked by enslaved and forced labourers; a massacre of protesting workers in 1953 is remembered every year. Independent in 1975 as a one-party state, it became a multiparty democracy in 1990."
+  timeline: [["1470", "Portuguese sailors find the uninhabited islands"], ["1953", "The Batepá massacre of forced labourers"], ["1975", "Independence"], ["1990", "A new constitution brings multiparty democracy"]]
+
+SEN:
+  story: "Dakar was the capital of French West Africa, and the four communes of Senegal sent the first black African to the French parliament in 1914. Independence came in 1960 under the poet Léopold Sédar Senghor. Senegal has never had a coup and is one of Africa's steadiest democracies. In 2024 voters elected a political newcomer, Bassirou Diomaye Faye, just days after he was released from prison."
+  timeline: [["1444", "Portuguese reach Cape Verde peninsula"], ["1659", "France founds Saint-Louis"], ["1960", "Independence under Senghor"], ["2000", "Abdoulaye Wade wins, the first change of party in power"], ["2024", "Bassirou Diomaye Faye wins the presidency"]]
+
+SYC:
+  story: "Uninhabited until French settlers and enslaved Africans arrived in the 1770s; Britain took over in 1814. Independent in 1976, it saw a coup the next year and one-party rule by France-Albert René until 1993. In 2020 the opposition won power for the first time."
+  timeline: [["1770", "French settlers arrive"], ["1814", "Britain takes control"], ["1976", "Independence"], ["1977", "France-Albert René seizes power"], ["1993", "Multiparty democracy returns"], ["2020", "The opposition wins for the first time"]]
+
+SLE:
+  story: "Freetown was founded in 1792 by Britain as a home for freed slaves. Independent in 1961, it slid into one-party rule. Its civil war from 1991 to 2002, fuelled by diamonds and notorious for the rebels' amputations, killed some 50,000. British troops helped end it. Democracy has held since."
+  timeline: [["1792", "Freed slaves found Freetown"], ["1961", "Independence"], ["1991", "The Revolutionary United Front starts a civil war"], ["2000", "British troops intervene"], ["2002", "The war ends"], ["2014", "Ebola kills nearly 4,000"]]
+
+SOM:
+  story: "Italy and Britain split the Somali lands; they united at independence in 1960. Siad Barre seized power in 1969 and ruled until 1991, when the state collapsed into clan warfare. Somaliland declared independence in the north, a US intervention ended in the Black Hawk Down disaster, and the Islamist group al-Shabaab rose after 2006. A federal government backed by African Union troops controls the capital and some towns."
+  timeline: [["1889", "Italy begins colonising the south"], ["1960", "The British and Italian territories unite at independence"], ["1969", "Siad Barre takes power"], ["1991", "Barre falls; the state collapses; Somaliland breaks away"], ["1993", "The Battle of Mogadishu"], ["2012", "A new federal government is formed"]]
+
+ZAF:
+  story: "Dutch settlers arrived in 1652, Britain took the Cape in 1806, and the discovery of diamonds and gold led to the Boer War. The National Party imposed apartheid from 1948, a total system of racial segregation. After decades of resistance, sanctions and violence, Nelson Mandela was freed in 1990 and became president in the first free election in 1994. The ANC lost its majority in 2024 and now governs in coalition."
+  timeline: [["1652", "The Dutch East India Company settles the Cape"], ["1899", "The Boer War"], ["1948", "Apartheid becomes law"], ["1960", "The Sharpeville massacre"], ["1990", "Mandela is released"], ["1994", "First democratic election; Mandela becomes president"], ["2024", "The ANC loses its majority and forms a coalition"]]
+
+SSD:
+  story: "Britain ruled the south separately from the Arab north of Sudan. Two civil wars against Khartoum, from 1955 to 1972 and 1983 to 2005, killed some two million. South Sudan became the world's newest country in 2011. Two years later a power struggle between President Salva Kiir and his deputy Riek Machar became a civil war that killed about 400,000."
+  timeline: [["1899", "Anglo-Egyptian rule over Sudan begins"], ["1955", "The first civil war"], ["1983", "The second civil war, led by John Garang"], ["2005", "Peace agreement"], ["2011", "Independence"], ["2013", "Civil war between Kiir and Machar"], ["2018", "Peace deal"]]
+
+SDN:
+  story: "The ancient kingdom of Kush once ruled Egypt. In 1885 the Mahdi's forces killed General Gordon in Khartoum, and Britain and Egypt ruled until independence in 1956. Omar al-Bashir took power in 1989, presided over genocide in Darfur, and lost the south in 2011. A popular revolution ousted him in 2019, but the army and the Rapid Support Forces took over and in 2023 turned on each other."
+  timeline: [["750 BC", "Kushite kings conquer Egypt"], ["1885", "The Mahdists take Khartoum"], ["1956", "Independence"], ["1989", "Omar al-Bashir seizes power"], ["2003", "War and genocide in Darfur"], ["2019", "Revolution ousts Bashir"], ["2023", "War between the army and the RSF"]]
+
+TZA:
+  story: "Swahili city-states traded across the Indian Ocean; Zanzibar's Omani sultans ran a slave and spice trade. Germany took the mainland and Britain took over after World War One. Julius Nyerere led Tanganyika to independence in 1961 and united it with Zanzibar in 1964. His socialist villagisation failed economically but built a strong national identity. The ruling party has held power since independence."
+  timeline: [["1500s", "The Portuguese attack the Swahili coast"], ["1840", "The Omani sultan moves his capital to Zanzibar"], ["1885", "German East Africa"], ["1961", "Tanganyika's independence"], ["1964", "Union with Zanzibar"], ["1967", "The Arusha Declaration launches African socialism"], ["2021", "Samia Suluhu Hassan becomes the first woman president"]]
+
+TGO:
+  story: "Germany's colony of Togoland was split between Britain and France after World War One. French Togo won independence in 1960; its first president, Sylvanus Olympio, was killed in 1963 in a coup involving Gnassingbé Eyadéma, who took power in 1967 and ruled for 38 years. His son Faure Gnassingbé succeeded him in 2005."
+  timeline: [["1884", "Germany claims Togoland"], ["1960", "Independence"], ["1963", "President Olympio is assassinated"], ["1967", "Gnassingbé Eyadéma seizes power"], ["2005", "His son Faure Gnassingbé succeeds him"], ["2024", "A new constitution shifts power to a prime minister role he can hold indefinitely"]]
+
+TUN:
+  story: "Carthage was the Phoenician rival to Rome. Arabs arrived in the 7th century, the Ottomans later, and France made it a protectorate in 1881. Habib Bourguiba won independence in 1956 and built a secular state with advanced women's rights. Zine el-Abidine Ben Ali ruled from 1987 until a street vendor's self-immolation set off the 2011 revolution that began the Arab Spring. Democracy survived a decade before President Kais Saied took full power in 2021."
+  timeline: [["814 BC", "Carthage is founded"], ["146 BC", "Rome destroys Carthage"], ["1881", "French protectorate"], ["1956", "Independence under Bourguiba"], ["2011", "Revolution ousts Ben Ali, starting the Arab Spring"], ["2021", "Kais Saied suspends parliament and rules by decree"]]
+
+UGA:
+  story: "The Kingdom of Buganda dominated before Britain made Uganda a protectorate. After independence in 1962, Milton Obote abolished the kingdoms, Idi Amin seized power in 1971, expelled Asians, and killed perhaps 300,000. Tanzania ousted Amin in 1979. Yoweri Museveni's rebels took power in 1986, and he has ruled ever since, while Joseph Kony's Lord's Resistance Army terrorised the north for two decades."
+  timeline: [["1894", "Britain declares a protectorate"], ["1962", "Independence"], ["1971", "Idi Amin seizes power"], ["1972", "Amin expels the Asian community"], ["1979", "Tanzania ousts Amin"], ["1986", "Museveni takes power"]]
+
+ZMB:
+  story: "Northern Rhodesia was run by the British South Africa Company and then Britain, around the copper mines. Kenneth Kaunda led it to independence in 1964 and ran a one-party state until 1991, when he lost a free election and stepped down peacefully. Power has changed hands at the ballot box several times since."
+  timeline: [["1890s", "Cecil Rhodes's company takes control"], ["1924", "Britain takes over as Northern Rhodesia"], ["1964", "Independence under Kenneth Kaunda"], ["1991", "Multiparty elections; Kaunda loses and leaves office"], ["2021", "Hakainde Hichilema defeats the incumbent"]]
+
+ZWE:
+  story: "Great Zimbabwe was the stone capital of a medieval trading kingdom. Cecil Rhodes's company seized the land in the 1890s, and in 1965 the white minority declared independence as Rhodesia. A liberation war led to majority rule in 1980 under Robert Mugabe, who massacred thousands in Matabeleland, seized white farms from 2000, and wrecked the economy with hyperinflation. The army removed him in 2017."
+  timeline: [["1200s", "Great Zimbabwe at its height"], ["1890", "Rhodes's pioneers occupy Mashonaland"], ["1965", "White-minority Rhodesia declares independence"], ["1980", "Independence under Robert Mugabe"], ["1983", "The Gukurahundi massacres"], ["2000", "Farm seizures begin"], ["2017", "The army ousts Mugabe"]]

@@ -1,0 +1,141 @@
+# How it got here: see africa.yaml for the format.
+
+ATG:
+  story: "Britain colonised Antigua in 1632 and turned it into a sugar island worked by enslaved Africans; Nelson's Dockyard was the Royal Navy's Caribbean base. Slavery ended in 1834. Independent in 1981, it was dominated for decades by the Bird family."
+  timeline: [["1632", "English settlers arrive"], ["1834", "Slavery is abolished"], ["1981", "Independence"], ["2004", "The Bird family's party loses power after nearly 30 years"]]
+
+ARG:
+  story: "Spain ruled from Buenos Aires until independence in 1816. Massive European immigration and beef and grain exports made Argentina one of the world's richest countries by 1900. Juan Perón's populism in the 1940s split the country into camps that still exist. A military junta's 'dirty war' disappeared up to 30,000 people, and its defeat in the 1982 Falklands War brought democracy back. Economic crises, defaults and inflation have recurred ever since."
+  timeline: [["1816", "Independence from Spain"], ["1880s", "Mass European immigration begins"], ["1946", "Juan Perón becomes president"], ["1976", "Military coup and the 'dirty war'"], ["1982", "Defeat in the Falklands War"], ["2001", "Economic collapse and default"], ["2023", "Javier Milei is elected promising to cut the state with a chainsaw"]]
+
+BHS:
+  story: "Columbus made his first landfall here in 1492; the Lucayan people were enslaved and wiped out within decades. Britain colonised the islands, which became a haven for pirates and later for loyalists fleeing the American Revolution. Independent in 1973, it lives on tourism and offshore finance."
+  timeline: [["1492", "Columbus lands, probably on San Salvador"], ["1718", "Britain cracks down on the pirates of Nassau"], ["1834", "Slavery is abolished"], ["1973", "Independence"], ["2019", "Hurricane Dorian devastates Abaco and Grand Bahama"]]
+
+BRB:
+  story: "English settlers arrived in 1627, and Barbados became the model sugar-and-slavery colony that was copied across the Caribbean. After emancipation in 1834 it kept a strong parliamentary tradition. Independent in 1966, it removed the Queen as head of state in 2021."
+  timeline: [["1627", "English settlers arrive"], ["1640s", "The sugar revolution; enslaved Africans become the majority"], ["1834", "Slavery is abolished"], ["1966", "Independence"], ["2021", "Becomes a republic"]]
+
+BLZ:
+  story: "Maya cities flourished here for centuries. British loggers settled the coast in the 1600s, cutting mahogany with enslaved labour, and it became British Honduras. Independence came only in 1981 because Guatemala claimed the territory; British troops stayed to deter invasion, and the dispute is now before the International Court of Justice."
+  timeline: [["250", "The Maya classic period begins"], ["1638", "British buccaneers and loggers settle"], ["1862", "Becomes the colony of British Honduras"], ["1981", "Independence"], ["2019", "Voters agree to send Guatemala's claim to the World Court"]]
+
+BOL:
+  story: "Silver from Potosí funded the Spanish Empire for centuries, at a terrible cost to indigenous forced labourers. Independent in 1825 and named after Simón Bolívar, it lost its coastline to Chile in 1879 and more land in later wars. The 1952 revolution gave land and votes to the indigenous majority. Evo Morales, the first indigenous president, ruled from 2006 to 2019, when he was forced out after a disputed election."
+  timeline: [["1545", "Silver is found at Potosí"], ["1825", "Independence"], ["1879", "Loses its coast to Chile in the War of the Pacific"], ["1952", "The national revolution"], ["2006", "Evo Morales becomes president"], ["2019", "Morales resigns amid protests over a disputed election"], ["2025", "The MAS party loses power after almost 20 years"]]
+
+BRA:
+  story: "Portugal claimed Brazil in 1500 and built it on sugar, gold and coffee worked by more enslaved Africans than any other country took in. It became independent as an empire in 1822 and abolished slavery last in the Americas, in 1888. A military dictatorship ruled from 1964 to 1985. Since then it has been a large, unequal democracy swinging between the left of Lula and the right of Bolsonaro."
+  timeline: [["1500", "Pedro Álvares Cabral claims Brazil for Portugal"], ["1822", "Independence as the Empire of Brazil"], ["1888", "Slavery is abolished"], ["1964", "Military coup"], ["1985", "Return to civilian rule"], ["2003", "Lula becomes president for the first time"], ["2023", "Bolsonaro supporters storm government buildings"]]
+
+CAN:
+  story: "Indigenous nations lived here for thousands of years before French and British colonists fought over the land. Britain won in 1763, and Canada became a self-governing dominion in 1867. It grew into a rich, bilingual country. Quebec nearly voted to leave in 1995. The legacy of residential schools that took indigenous children from their families is still being reckoned with."
+  timeline: [["1608", "Samuel de Champlain founds Quebec City"], ["1763", "France cedes New France to Britain"], ["1867", "Confederation creates the Dominion of Canada"], ["1982", "The constitution is brought home from Britain"], ["1995", "Quebec votes narrowly to stay"], ["2015", "The Truth and Reconciliation Commission reports on residential schools"]]
+
+CHL:
+  story: "Spain conquered most of Chile but never subdued the Mapuche in the south. Independent in 1818, it won nitrate-rich land in the War of the Pacific. Socialist Salvador Allende was elected in 1970 and overthrown in 1973 by General Augusto Pinochet, whose regime killed or disappeared over 3,000 people and remade the economy along free-market lines. Democracy returned in 1990. Mass protests in 2019 led to two failed attempts at a new constitution."
+  timeline: [["1541", "Spain founds Santiago"], ["1818", "Independence"], ["1879", "The War of the Pacific"], ["1970", "Salvador Allende is elected"], ["1973", "Pinochet's coup"], ["1990", "Democracy returns"], ["2019", "Mass protests over inequality"]]
+
+COL:
+  story: "Spain ruled from Bogotá over New Granada; independence came under Bolívar in 1819. Liberals and Conservatives fought civil wars for a century, culminating in La Violencia, which killed some 200,000 from 1948. Leftist guerrillas such as the FARC, right-wing paramilitaries and the cocaine cartels of Pablo Escobar fought a war for decades. A peace deal with the FARC was signed in 2016, but other armed groups grew."
+  timeline: [["1538", "Spain founds Bogotá"], ["1819", "Independence"], ["1948", "La Violencia begins"], ["1964", "The FARC is founded"], ["1993", "Pablo Escobar is killed"], ["2016", "Peace deal with the FARC"], ["2022", "Gustavo Petro becomes the first leftist president"]]
+
+CRI:
+  story: "A poor, remote corner of Spain's empire, Costa Rica became independent in 1821. After a short civil war in 1948, José Figueres abolished the army and spent the money on schools and health. It became Central America's most stable democracy, and a pioneer of conservation and ecotourism."
+  timeline: [["1821", "Independence"], ["1948", "Civil war; the army is abolished"], ["1987", "President Óscar Arias wins the Nobel Peace Prize for Central American peace plans"], ["1990s", "Ecotourism takes off"]]
+
+CUB:
+  story: "Spain's richest colony, built on sugar and slavery, fought two wars for independence before the US intervened in 1898 and kept a right to meddle. Fulgencio Batista's dictatorship was overthrown in 1959 by Fidel Castro, who allied with the Soviet Union. The Bay of Pigs and the missile crisis followed. The US embargo has lasted since 1962. When the Soviet Union collapsed, Cuba suffered a 'special period' of hunger, and the economy is in crisis again today."
+  timeline: [["1492", "Columbus lands"], ["1898", "The Spanish-American War ends Spanish rule"], ["1959", "Castro's revolution"], ["1962", "The Cuban missile crisis"], ["1991", "Soviet collapse begins the 'special period'"], ["2021", "The largest protests since the revolution"]]
+
+DMA:
+  story: "The mountainous island's Kalinago people resisted Europeans longer than most. France and Britain fought over it; Britain won in 1763. Independent in 1978, it was devastated by Hurricane Maria in 2017."
+  timeline: [["1763", "Britain takes the island"], ["1978", "Independence"], ["1979", "Hurricane David"], ["2017", "Hurricane Maria damages almost every building"]]
+
+DOM:
+  story: "Santo Domingo was Spain's first city in the Americas. The country won independence from Haiti in 1844, after 22 years of Haitian rule. Rafael Trujillo's dictatorship from 1930 to 1961 included the massacre of thousands of Haitians in 1937. A US invasion followed in 1965. Since the 1990s it has grown fast on tourism and free-trade zones."
+  timeline: [["1496", "Spain founds Santo Domingo"], ["1844", "Independence from Haiti"], ["1930", "Trujillo takes power"], ["1937", "The Parsley Massacre of Haitians"], ["1961", "Trujillo is assassinated"], ["1965", "US invasion"]]
+
+ECU:
+  story: "Quito was part of the Inca Empire before the Spanish conquest. Independent in 1830, Ecuador swung between coastal Guayaquil's business elite and the highland capital. Oil was found in the Amazon in 1967. It adopted the US dollar in 2000 after a banking collapse. Since 2020, drug gangs moving cocaine through its ports have made it one of Latin America's most violent countries."
+  timeline: [["1534", "Spain conquers Quito"], ["1830", "Independence"], ["1967", "Oil is found in the Amazon"], ["2000", "Adopts the US dollar"], ["2007", "Rafael Correa begins a decade in power"], ["2024", "President Noboa declares war on the gangs"]]
+
+SLV:
+  story: "The smallest country in Central America, ruled for a century by a coffee oligarchy. A 1932 peasant revolt was crushed in a massacre. A civil war from 1980 to 1992 between the army and leftist guerrillas killed 75,000. Gangs born in Los Angeles took over after deportations. Nayib Bukele, elected in 2019, jailed tens of thousands under a state of emergency, and murders fell sharply."
+  timeline: [["1821", "Independence"], ["1932", "La Matanza: thousands of peasants killed"], ["1980", "Archbishop Óscar Romero is assassinated; civil war begins"], ["1992", "Peace accords"], ["2019", "Nayib Bukele is elected"], ["2022", "A state of exception begins mass arrests"]]
+
+GRD:
+  story: "France and Britain fought over the spice island; Britain won in 1783. Independent in 1974, it saw a leftist coup in 1979 under Maurice Bishop. When Bishop was killed by rivals in 1983, the US invaded."
+  timeline: [["1783", "Britain takes control"], ["1974", "Independence"], ["1979", "Maurice Bishop takes power"], ["1983", "Bishop is killed; the US invades"], ["2024", "Hurricane Beryl devastates Carriacou"]]
+
+GTM:
+  story: "The heartland of the Maya, conquered by Spain in the 1520s. Independence came in 1821. A CIA-backed coup in 1954 ousted the reformist president Jacobo Árbenz and opened a 36-year civil war in which the army killed some 200,000 people, mostly Maya, in what a UN-backed commission called genocide. Peace came in 1996, but corruption and violence remain."
+  timeline: [["250", "Tikal rises"], ["1524", "Spanish conquest"], ["1821", "Independence"], ["1954", "CIA-backed coup"], ["1960", "Civil war begins"], ["1996", "Peace accords"], ["2024", "Anti-corruption reformer Bernardo Arévalo takes office"]]
+
+GUY:
+  story: "The Dutch and then the British ran sugar plantations here with enslaved Africans and, after abolition, indentured labourers from India. Politics split along those lines. Independent in 1966, it was a poor socialist state for decades until huge offshore oil discoveries from 2015 made it the world's fastest-growing economy."
+  timeline: [["1616", "Dutch traders settle"], ["1814", "Britain takes over"], ["1838", "Indentured labour from India begins"], ["1966", "Independence"], ["2015", "ExxonMobil finds oil offshore"], ["2023", "Venezuela holds a referendum claiming two-thirds of Guyana"]]
+
+HTI:
+  story: "France's Saint-Domingue was the world's richest colony, built on brutal slavery. Enslaved people rose up in 1791, and in 1804 Haiti became the first black republic and the first country founded by a slave revolt. France forced it to pay a crushing indemnity. The US occupied it from 1915 to 1934; the Duvalier dictatorship ruled from 1957 to 1986. A 2010 earthquake killed over 200,000, and since the president's assassination in 2021 gangs have taken over much of the capital."
+  timeline: [["1791", "The slave revolt begins"], ["1804", "Independence"], ["1825", "France imposes an indemnity Haiti pays for over a century"], ["1915", "US occupation"], ["1957", "François 'Papa Doc' Duvalier takes power"], ["2010", "Earthquake kills over 200,000"], ["2021", "President Jovenel Moïse is assassinated"]]
+
+HND:
+  story: "US banana companies dominated Honduras in the early 20th century, the original 'banana republic'. It served as a US base during the Central American wars of the 1980s. A coup in 2009 ousted President Manuel Zelaya. Gang violence and poverty drive migration north."
+  timeline: [["1821", "Independence"], ["1900s", "US fruit companies dominate the economy"], ["1980s", "Base for the US-backed Contras"], ["1998", "Hurricane Mitch kills thousands"], ["2009", "Military coup ousts Zelaya"], ["2022", "Xiomara Castro becomes the first woman president"]]
+
+JAM:
+  story: "Spain held Jamaica until Britain seized it in 1655 and made it the biggest sugar producer of the British Caribbean. Enslaved people led frequent revolts, including the 1831 Christmas Rebellion. Independent in 1962, it gave the world reggae, Rastafari and Usain Bolt. Political violence between the two main parties peaked in the 1980 election."
+  timeline: [["1655", "England captures Jamaica from Spain"], ["1831", "Sam Sharpe's Christmas Rebellion"], ["1834", "Slavery is abolished"], ["1962", "Independence"], ["1980", "Election violence kills hundreds"], ["2025", "Hurricane Melissa, the strongest storm on record to hit the island"]]
+
+MEX:
+  story: "The Aztec Empire fell to Spain in 1521, and New Spain was the richest part of its empire. Independent in 1821, Mexico lost half its territory to the US by 1848. The revolution of 1910 to 1920 killed perhaps a million people and led to 71 years of one-party rule by the PRI. Democracy came in 2000. Drug cartel violence since 2006 has killed hundreds of thousands. Claudia Sheinbaum became the first woman president in 2024."
+  timeline: [["1521", "Spanish conquest of Tenochtitlan"], ["1821", "Independence"], ["1848", "Loses half its territory to the US"], ["1910", "The Mexican Revolution"], ["1994", "NAFTA takes effect; the Zapatista uprising"], ["2000", "The PRI loses power"], ["2006", "The war on cartels begins"]]
+
+NIC:
+  story: "The US occupied Nicaragua from 1912 to 1933, and the Somoza family ruled from 1936 until the Sandinista revolution of 1979. The US backed the Contra rebels against the Sandinistas in the 1980s. Daniel Ortega lost power in 1990 and returned in 2007; after crushing protests in 2018, he and his wife Rosario Murillo built a family dictatorship."
+  timeline: [["1912", "US occupation"], ["1936", "The Somoza dynasty begins"], ["1979", "The Sandinista revolution"], ["1990", "Violeta Chamorro defeats Ortega"], ["2007", "Ortega returns to power"], ["2018", "Protests crushed; over 300 killed"]]
+
+PAN:
+  story: "Part of Colombia until 1903, when it broke away with US backing so the US could build the canal, which opened in 1914. The US ran the Canal Zone until 1999. General Manuel Noriega's rule ended with a US invasion in 1989. The canal and banking made it one of Latin America's richest countries."
+  timeline: [["1513", "Balboa crosses the isthmus"], ["1903", "Independence from Colombia"], ["1914", "The canal opens"], ["1989", "US invasion ousts Noriega"], ["1999", "The canal is handed to Panama"]]
+
+PRY:
+  story: "Jesuit missions and the Guaraní language shaped Paraguay. In the War of the Triple Alliance from 1864 to 1870 against Brazil, Argentina and Uruguay, it lost perhaps half its population. General Alfredo Stroessner ruled from 1954 to 1989, and his Colorado Party has governed almost continuously since 1947."
+  timeline: [["1537", "Spain founds Asunción"], ["1811", "Independence"], ["1864", "The War of the Triple Alliance devastates the country"], ["1932", "The Chaco War with Bolivia"], ["1954", "Stroessner takes power"], ["1989", "Stroessner is overthrown"]]
+
+PER:
+  story: "The Inca Empire, the largest in the pre-Columbian Americas, fell to Pizarro in 1532. Lima ruled Spain's South American empire. Independent in 1821, Peru later lost land to Chile. The Shining Path insurgency of the 1980s and 1990s killed about 70,000. Alberto Fujimori defeated it but ruled as an autocrat. Since 2016 Peru has had a revolving door of presidents."
+  timeline: [["1438", "The Inca Empire begins expanding"], ["1532", "Pizarro captures the Inca emperor"], ["1821", "Independence"], ["1980", "Shining Path begins its war"], ["1992", "Fujimori shuts Congress; Shining Path's leader is captured"], ["2022", "President Castillo's self-coup fails"]]
+
+KNA:
+  story: "St Kitts was England's first Caribbean colony, settled in 1623, and the Kalinago were massacred soon after. Sugar dominated until 2005. Independent in 1983, it is the smallest country in the Americas."
+  timeline: [["1623", "English settlers arrive"], ["1626", "The Kalinago massacre at Bloody Point"], ["1983", "Independence"], ["2005", "The sugar industry closes"]]
+
+LCA:
+  story: "France and Britain fought over the island 14 times before Britain kept it in 1814. Independent in 1979, it has produced two Nobel laureates, the economist Arthur Lewis and the poet Derek Walcott."
+  timeline: [["1660", "France takes control"], ["1814", "Britain gains the island for good"], ["1979", "Independence"], ["1992", "Derek Walcott wins the Nobel Prize for Literature"]]
+
+VCT:
+  story: "The Garifuna, descended from Carib and African people, resisted the British until they were deported in 1797. Independent in 1979, the islands were led by Ralph Gonsalves for 24 years until 2025. La Soufrière volcano erupted in 2021."
+  timeline: [["1797", "Britain deports the Garifuna"], ["1979", "Independence"], ["2001", "Ralph Gonsalves becomes prime minister"], ["2021", "La Soufrière erupts"], ["2025", "Gonsalves loses power"]]
+
+SUR:
+  story: "The Dutch got Suriname from England in 1667 in exchange for New Amsterdam, now New York. Plantations used enslaved Africans; escaped Maroons built their own societies in the forest. Indian, Javanese and Chinese indentured labourers followed. Independent in 1975, it suffered a military regime under Dési Bouterse, who later returned as elected president."
+  timeline: [["1667", "The Dutch take Suriname, trading away New Amsterdam"], ["1863", "Slavery is abolished"], ["1975", "Independence"], ["1980", "Dési Bouterse's coup"], ["1982", "The December murders of 15 critics"], ["2020", "Offshore oil is discovered"]]
+
+TTO:
+  story: "Spain held Trinidad until Britain took it in 1797. After slavery, indentured labourers from India came, and today Afro- and Indo-Trinidadians are about equal in number. Oil and gas made it the richest country in the Caribbean. Independent in 1962, it invented the steelpan and calypso."
+  timeline: [["1498", "Columbus arrives"], ["1797", "Britain takes Trinidad"], ["1845", "Indian indentured labour begins"], ["1962", "Independence"], ["1990", "Islamist coup attempt fails"]]
+
+USA:
+  story: "Thirteen British colonies declared independence in 1776 and wrote a constitution that still governs. The country expanded west at the expense of Native Americans and Mexico. The Civil War of 1861 to 1865 ended slavery, but segregation lasted until the civil rights movement of the 1950s and 1960s. Victory in two world wars and the Cold War made it the world's leading power. Politics has since polarised sharply."
+  timeline: [["1776", "Declaration of Independence"], ["1861", "The Civil War begins"], ["1865", "Slavery is abolished"], ["1941", "Enters World War Two after Pearl Harbor"], ["1964", "The Civil Rights Act"], ["2001", "The 9/11 attacks"], ["2021", "Trump supporters storm the Capitol"]]
+
+URY:
+  story: "A buffer between Spanish and Portuguese empires, Uruguay became independent in 1828. Early 20th-century reforms under José Batlle created Latin America's first welfare state. A military dictatorship ruled from 1973 to 1985. Today it is one of the region's most stable and liberal democracies, the first country to legalise cannabis."
+  timeline: [["1726", "Spain founds Montevideo"], ["1828", "Independence"], ["1903", "José Batlle begins his reforms"], ["1930", "Hosts and wins the first World Cup"], ["1973", "Military coup"], ["1985", "Democracy returns"], ["2013", "Legalises cannabis"]]
+
+VEN:
+  story: "Simón Bolívar, born in Caracas, led the independence wars against Spain. Oil discovered in the 1910s made Venezuela rich. A two-party democracy from 1958 frayed as oil prices fell. Hugo Chávez, elected in 1998, used oil money for his 'Bolivarian revolution'. Under his successor Nicolás Maduro, the economy collapsed and about eight million people left. US forces seized Maduro in January 2026."
+  timeline: [["1811", "Declares independence"], ["1914", "Oil is struck at Lake Maracaibo"], ["1958", "Democracy after the fall of dictator Pérez Jiménez"], ["1998", "Hugo Chávez is elected"], ["2013", "Chávez dies; Maduro takes over"], ["2024", "Maduro claims a disputed election"], ["2026", "US forces seize Maduro"]]

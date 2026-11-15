@@ -1,0 +1,185 @@
+# How it got here: see africa.yaml for the format.
+
+ALB:
+  story: "Skanderbeg resisted the Ottomans in the 15th century, but Albania stayed Ottoman until 1912. Enver Hoxha's communist regime from 1944 to 1985 was the most isolated in Europe, breaking with Yugoslavia, the Soviet Union and China in turn and building hundreds of thousands of bunkers. After communism fell in 1991, a pyramid-scheme collapse in 1997 led to anarchy. Albania joined NATO in 2009 and is an EU candidate."
+  timeline: [["1443", "Skanderbeg's revolt against the Ottomans"], ["1912", "Independence"], ["1944", "Enver Hoxha's communists take power"], ["1991", "Communism falls"], ["1997", "Pyramid schemes collapse; near civil war"], ["2009", "Joins NATO"]]
+
+AND:
+  story: "A 1278 agreement gave Andorra two co-princes, now the president of France and the Bishop of Urgell in Spain. It stayed a poor shepherding valley until tourism, skiing and duty-free shopping made it rich. A constitution in 1993 made it a parliamentary democracy."
+  timeline: [["1278", "The co-principality is established"], ["1993", "First constitution; joins the UN"], ["2011", "Agrees to end banking secrecy"]]
+
+AUT:
+  story: "The Habsburgs ruled from Vienna for over 600 years over a multinational empire. It collapsed in 1918, leaving a small German-speaking republic that Hitler annexed in 1938. After occupation by the Allies, Austria regained independence in 1955 as a neutral state and joined the EU in 1995."
+  timeline: [["1278", "The Habsburgs take Austria"], ["1683", "The Ottoman siege of Vienna fails"], ["1918", "The empire collapses"], ["1938", "Annexed by Nazi Germany"], ["1955", "Independence and neutrality"], ["1995", "Joins the EU"]]
+
+BLR:
+  story: "Belarusian lands were part of the Grand Duchy of Lithuania and Poland, then Russia. World War Two killed a quarter of the population, including most of its Jews. Chernobyl's fallout landed heavily here in 1986. Independent in 1991, it has been ruled since 1994 by Alexander Lukashenko, who crushed mass protests over a rigged election in 2020 and let Russia use its territory to invade Ukraine."
+  timeline: [["1569", "Part of the Polish-Lithuanian Commonwealth"], ["1795", "Absorbed by Russia"], ["1941", "Nazi occupation"], ["1986", "Chernobyl fallout"], ["1991", "Independence"], ["1994", "Lukashenko is elected"], ["2020", "Mass protests are crushed"]]
+
+BEL:
+  story: "The battlefields of Europe, Belgium broke away from the Netherlands in 1830. King Leopold II's private rule of the Congo was one of colonialism's worst crimes. Germany invaded in both world wars. Tensions between Dutch-speaking Flanders and French-speaking Wallonia turned it into a complex federation. Brussels hosts the EU and NATO."
+  timeline: [["1815", "Waterloo"], ["1830", "Independence from the Netherlands"], ["1885", "Leopold II takes the Congo"], ["1914", "German invasion"], ["1957", "Founding member of the European Community"], ["1993", "Becomes a federal state"]]
+
+BIH:
+  story: "Ottoman for four centuries, then Austro-Hungarian; the assassination of Archduke Franz Ferdinand in Sarajevo in 1914 triggered World War One. In Yugoslavia it was a mix of Bosniaks, Serbs and Croats. Its 1992 independence led to a war that killed about 100,000, including the Srebrenica genocide. The 1995 Dayton accords ended the war but created a divided state."
+  timeline: [["1463", "Ottoman conquest"], ["1878", "Austro-Hungarian rule"], ["1914", "Franz Ferdinand is assassinated in Sarajevo"], ["1992", "Independence and war"], ["1995", "The Srebrenica genocide; the Dayton accords"]]
+
+BGR:
+  story: "The First Bulgarian Empire rivalled Byzantium and gave the Slavic world the Cyrillic alphabet. Five centuries of Ottoman rule ended in 1878. A loyal Soviet satellite from 1944, Bulgaria became a democracy in 1990, joined the EU in 2007 and the euro in 2026. Unstable governments and corruption led to seven elections between 2021 and 2024."
+  timeline: [["681", "The First Bulgarian Empire"], ["893", "The Cyrillic script spreads from here"], ["1396", "Ottoman conquest"], ["1878", "Liberation"], ["1944", "Communist rule"], ["2007", "Joins the EU"], ["2026", "Adopts the euro"]]
+
+HRV:
+  story: "Croatia joined Hungary in 1102 and was later part of the Habsburg Empire. In World War Two the fascist Ustaša regime killed hundreds of thousands of Serbs, Jews and Roma. Independent from Yugoslavia in 1991, it fought a war with Serb rebels until 1995. It joined the EU in 2013 and the euro in 2023."
+  timeline: [["925", "The Kingdom of Croatia"], ["1102", "Union with Hungary"], ["1941", "The Ustaša state"], ["1991", "Independence and war"], ["1995", "Operation Storm ends the war"], ["2013", "Joins the EU"]]
+
+CYP:
+  story: "Cyprus passed from empire to empire; Britain took it from the Ottomans in 1878. Independent in 1960, it was torn by violence between Greek and Turkish Cypriots. A Greek-backed coup in 1974 led Turkey to invade and occupy the north, which declared itself a state recognised only by Turkey. The divided island joined the EU in 2004."
+  timeline: [["1571", "Ottoman conquest"], ["1878", "British rule"], ["1960", "Independence"], ["1974", "Coup and Turkish invasion"], ["1983", "The north declares independence"], ["2004", "Joins the EU; reunification plan fails"]]
+
+CZE:
+  story: "The kingdom of Bohemia was part of the Holy Roman Empire, then the Habsburgs. Czechoslovakia was founded in 1918, carved up by Hitler in 1938, and taken over by communists in 1948. The Prague Spring of 1968 was crushed by Soviet tanks. The Velvet Revolution of 1989 brought Václav Havel to power, and the country split peacefully from Slovakia in 1993."
+  timeline: [["1348", "Charles University is founded in Prague"], ["1918", "Czechoslovakia is created"], ["1938", "The Munich Agreement"], ["1968", "The Prague Spring is crushed"], ["1989", "The Velvet Revolution"], ["1993", "The Velvet Divorce"], ["2004", "Joins the EU"]]
+
+DNK:
+  story: "The Vikings raided and settled across Europe; Danish kings once ruled Norway, Sweden and England. Denmark lost Norway in 1814 and Schleswig to Prussia in 1864. Occupied by Germany in World War Two, it rescued most of its Jews. It built one of the world's most generous welfare states. Greenland and the Faroe Islands remain part of the kingdom."
+  timeline: [["800s", "The Viking Age"], ["1397", "The Kalmar Union with Norway and Sweden"], ["1849", "First democratic constitution"], ["1940", "German occupation"], ["1973", "Joins the European Community"], ["2025", "Trump presses his claim to Greenland"]]
+
+EST:
+  story: "German crusaders conquered Estonia in the 13th century; Sweden and then Russia ruled it. Independent in 1918, it was occupied by the Soviet Union in 1940, which deported tens of thousands. The 'Singing Revolution' won independence in 1991. It joined NATO and the EU in 2004 and became a pioneer of digital government."
+  timeline: [["1219", "Danish and German conquest"], ["1918", "Independence"], ["1940", "Soviet occupation"], ["1988", "The Singing Revolution begins"], ["1991", "Independence restored"], ["2004", "Joins NATO and the EU"]]
+
+FIN:
+  story: "Part of Sweden for 600 years, Finland became a Russian grand duchy in 1809 and declared independence in 1917. It fought off the Soviet Union in the Winter War of 1939 but lost territory. During the Cold War it stayed neutral. After Russia invaded Ukraine, Finland joined NATO in 2023."
+  timeline: [["1150s", "Swedish rule begins"], ["1809", "Russian grand duchy"], ["1917", "Independence"], ["1939", "The Winter War"], ["1995", "Joins the EU"], ["2023", "Joins NATO"]]
+
+FRA:
+  story: "The kingdom of France became the great power of Europe under Louis XIV. The Revolution of 1789 abolished the monarchy and spread ideas of rights across the world; Napoleon then conquered much of Europe. France was invaded three times by Germany, and occupied in World War Two. It lost Indochina and Algeria in bloody wars. Charles de Gaulle founded the Fifth Republic in 1958, with a powerful presidency."
+  timeline: [["987", "Hugh Capet founds the Capetian dynasty"], ["1789", "The French Revolution"], ["1804", "Napoleon crowns himself emperor"], ["1940", "German occupation"], ["1958", "The Fifth Republic"], ["1962", "Algerian independence"], ["1968", "May 1968 student and worker revolt"]]
+
+DEU:
+  story: "German states were loosely joined in the Holy Roman Empire until Prussia united them in 1871. Defeat in World War One led to the Weimar Republic and then Hitler, whose Nazi regime started World War Two and murdered six million Jews. Germany was divided in 1949; the Berlin Wall fell in 1989 and the country reunited in 1990. It became the EU's economic engine."
+  timeline: [["1517", "Martin Luther starts the Reformation"], ["1871", "Unification"], ["1933", "Hitler takes power"], ["1945", "Defeat and division"], ["1961", "The Berlin Wall is built"], ["1989", "The wall falls"], ["1990", "Reunification"]]
+
+GRC:
+  story: "Ancient Greece gave the world democracy, philosophy and the Olympics. After Byzantine and then Ottoman rule, Greece won independence in 1830. The 20th century brought war, occupation, civil war and a military junta from 1967 to 1974. It joined the European Community in 1981. The debt crisis from 2009 brought bailouts and a deep depression."
+  timeline: [["508 BC", "Athenian democracy"], ["1453", "Ottoman conquest of Constantinople"], ["1830", "Independence"], ["1946", "Civil war"], ["1967", "Military junta"], ["1981", "Joins the European Community"], ["2010", "First bailout"]]
+
+HUN:
+  story: "Magyar tribes settled the Carpathian Basin in 896. Hungary was a great medieval kingdom, then split between Ottomans and Habsburgs. It lost two-thirds of its territory after World War One. The 1956 revolution against Soviet rule was crushed. A democracy since 1990, it joined the EU in 2004. Viktor Orbán ruled from 2010 to 2026 and built what he called an illiberal democracy."
+  timeline: [["896", "Magyar tribes arrive"], ["1526", "Ottoman victory at Mohács"], ["1867", "The Austro-Hungarian compromise"], ["1920", "The Treaty of Trianon"], ["1956", "The revolution is crushed"], ["1989", "The border opens; communism ends"], ["2026", "Orbán loses power"]]
+
+ISL:
+  story: "Norse settlers arrived in 874 and founded the Althing, one of the world's oldest parliaments, in 930. Iceland came under Norwegian and then Danish rule and became independent in 1944. Its banks collapsed in 2008, but it recovered fast on tourism and fish."
+  timeline: [["874", "Norse settlement"], ["930", "The Althing is founded"], ["1262", "Comes under the Norwegian crown"], ["1944", "Independence"], ["2008", "Banking collapse"]]
+
+IRL:
+  story: "England began conquering Ireland in the 12th century. The Great Famine of the 1840s killed a million and drove another million to emigrate. After the Easter Rising and a war of independence, the Irish Free State was created in 1922, leaving Northern Ireland in the UK. The Troubles in the north killed 3,500 until the Good Friday Agreement in 1998. The 'Celtic Tiger' economy boomed."
+  timeline: [["1169", "Norman invasion"], ["1845", "The Great Famine"], ["1916", "The Easter Rising"], ["1922", "Independence for 26 counties"], ["1973", "Joins the European Community"], ["1998", "The Good Friday Agreement"]]
+
+ITA:
+  story: "Rome ruled the Mediterranean world; the Renaissance began in Florence. Italy was divided among city-states and foreign powers until unification in 1861. Mussolini's fascists took power in 1922 and allied with Hitler. Italy became a republic in 1946 and a founding member of the European Community. Governments change often; the economy has barely grown in decades."
+  timeline: [["27 BC", "Augustus becomes Rome's first emperor"], ["1400s", "The Renaissance"], ["1861", "Unification"], ["1922", "Mussolini takes power"], ["1946", "Becomes a republic"], ["1992", "Clean Hands corruption investigations"], ["2022", "Giorgia Meloni becomes prime minister"]]
+
+XKX:
+  story: "Kosovo was the heart of medieval Serbia, and the 1389 battle there is central to Serbian identity, but most people today are ethnic Albanians. Serbia stripped its autonomy in 1989. In 1998 and 1999 Serbian forces fought the Kosovo Liberation Army and expelled hundreds of thousands until NATO bombed Serbia. Kosovo declared independence in 2008; Serbia, Russia and China reject it."
+  timeline: [["1389", "The Battle of Kosovo"], ["1912", "Serbia takes Kosovo from the Ottomans"], ["1989", "Autonomy revoked"], ["1999", "NATO bombing; UN administration"], ["2008", "Declares independence"]]
+
+LVA:
+  story: "German knights conquered the Latvian lands in the 13th century, and Riga became a Hanseatic city. Latvia was independent from 1918 until the Soviet occupation of 1940, which brought deportations and mass Russian settlement. It regained independence in 1991 and joined NATO and the EU in 2004."
+  timeline: [["1201", "Riga is founded"], ["1918", "Independence"], ["1940", "Soviet occupation"], ["1989", "The Baltic Way human chain"], ["1991", "Independence restored"], ["2004", "Joins NATO and the EU"]]
+
+LIE:
+  story: "The Liechtenstein princes bought these lands in 1699 and 1712. It became sovereign in 1806, abolished its army in 1868, and has used the Swiss franc since 1924. A 2003 referendum gave the prince more power, not less."
+  timeline: [["1719", "The principality is created"], ["1806", "Sovereignty"], ["1868", "The army is abolished"], ["1923", "Customs union with Switzerland"], ["2003", "Referendum strengthens the prince"]]
+
+LTU:
+  story: "The Grand Duchy of Lithuania was Europe's largest state in the 15th century and later united with Poland. Russia took it in 1795. Independent in 1918, it was occupied by the Soviets in 1940; the Holocaust killed over 90% of its Jews. In 1990 it was the first Soviet republic to declare independence."
+  timeline: [["1253", "Mindaugas is crowned king"], ["1569", "Union with Poland"], ["1795", "Absorbed by Russia"], ["1918", "Independence"], ["1940", "Soviet occupation"], ["1990", "Declares independence"], ["2004", "Joins NATO and the EU"]]
+
+LUX:
+  story: "A medieval county whose rulers became Holy Roman Emperors. Independent as a grand duchy since 1867, it was occupied by Germany in both world wars. A founder of the European Community, it grew rich on steel and then banking. Grand Duke Guillaume took the throne in 2025."
+  timeline: [["963", "Count Siegfried acquires the castle"], ["1867", "Independence and neutrality"], ["1940", "German occupation"], ["1957", "Founding member of the European Community"], ["2025", "Grand Duke Guillaume succeeds his father"]]
+
+MLT:
+  story: "Phoenicians, Romans, Arabs and Normans all ruled Malta. The Knights of St John held off the Ottomans in the Great Siege of 1565. Britain ruled from 1800; the island withstood heavy bombing in World War Two. Independent in 1964, it joined the EU in 2004."
+  timeline: [["1530", "The Knights of St John arrive"], ["1565", "The Great Siege"], ["1800", "British rule"], ["1942", "Awarded the George Cross for its wartime siege"], ["1964", "Independence"], ["2004", "Joins the EU"]]
+
+MDA:
+  story: "Part of the principality of Moldavia, the land between the Prut and Dniester was taken by Russia in 1812, joined Romania in 1918 and was annexed by the Soviets in 1940. Independent in 1991, Moldova fought a brief war with Russian-backed separatists in Transnistria, where Russian troops remain. It became an EU candidate in 2022."
+  timeline: [["1359", "The principality of Moldavia"], ["1812", "Russia annexes Bessarabia"], ["1918", "Union with Romania"], ["1940", "Soviet annexation"], ["1991", "Independence"], ["1992", "War in Transnistria"], ["2022", "EU candidate status"]]
+
+MCO:
+  story: "François Grimaldi seized the fortress in 1297 disguised as a monk, and his family still rules. Monaco lost most of its land in 1861. The casino of Monte Carlo opened in 1863 and made it rich. Prince Rainier's marriage to Grace Kelly in 1956 made it famous."
+  timeline: [["1297", "The Grimaldis take the fortress"], ["1861", "Loses Menton and Roquebrune to France"], ["1863", "The casino opens"], ["1956", "Prince Rainier marries Grace Kelly"], ["2005", "Albert II becomes prince"]]
+
+MNE:
+  story: "Montenegro's mountains kept it largely free of Ottoman rule, under prince-bishops. Recognised as independent in 1878, it joined Yugoslavia after 1918. It stayed with Serbia after 1991, then voted for independence in 2006. It joined NATO in 2017 and leads the queue to join the EU."
+  timeline: [["1516", "Rule by prince-bishops begins"], ["1878", "Independence is recognised"], ["1918", "Joins Yugoslavia"], ["2006", "Independence referendum"], ["2017", "Joins NATO"]]
+
+NLD:
+  story: "The Dutch revolted against Spain in 1568 and built a republic that dominated world trade in its 17th-century golden age. It reclaimed land from the sea. Occupied by Germany in World War Two, it lost Indonesia after a bitter war. A founding EU member, it is known for tolerance and, lately, a fierce immigration debate."
+  timeline: [["1568", "Revolt against Spain"], ["1602", "The Dutch East India Company"], ["1815", "Becomes a kingdom"], ["1940", "German occupation"], ["1949", "Indonesia's independence"], ["1953", "The North Sea flood leads to the Delta Works"], ["2023", "Geert Wilders's party comes first"]]
+
+MKD:
+  story: "Ottoman for five centuries, Macedonia was fought over by Serbia, Bulgaria and Greece in the Balkan Wars. It became a Yugoslav republic and independent in 1991. Greece objected to its name until a 2018 deal made it North Macedonia. Bulgaria now blocks its EU talks over language and history."
+  timeline: [["1392", "Ottoman conquest"], ["1913", "Divided after the Balkan Wars"], ["1991", "Independence"], ["2001", "Ethnic Albanian insurgency ends in a peace deal"], ["2019", "Renamed North Macedonia"], ["2020", "Joins NATO"]]
+
+NOR:
+  story: "Viking Norway was later ruled by Denmark for 400 years and by Sweden until independence in 1905. Occupied by Germany in World War Two, it became a founding NATO member. Oil found in 1969 made it one of the world's richest countries, and it saves the money in the largest sovereign wealth fund. Voters twice rejected joining the EU."
+  timeline: [["872", "Harald Fairhair unites Norway"], ["1380", "Union with Denmark"], ["1905", "Independence from Sweden"], ["1940", "German occupation"], ["1969", "Oil is discovered"], ["1994", "Voters reject the EU again"], ["2011", "Breivik's attacks kill 77"]]
+
+POL:
+  story: "Poland was a great power with Lithuania until neighbours partitioned it out of existence in 1795. Reborn in 1918, it was invaded by Germany and the Soviet Union in 1939; six million Polish citizens died in World War Two, half of them Jews. Under communism, the Solidarity union led resistance and won the first semi-free elections in 1989. It joined NATO and the EU and became one of Europe's fastest-growing economies."
+  timeline: [["966", "Mieszko I adopts Christianity"], ["1569", "The Polish-Lithuanian Commonwealth"], ["1795", "The third partition erases Poland"], ["1918", "Independence"], ["1939", "Invaded by Germany and the Soviet Union"], ["1980", "Solidarity is founded"], ["1989", "Communism ends"], ["2004", "Joins the EU"]]
+
+PRT:
+  story: "Portugal's navigators opened sea routes to Africa, India and Brazil, building the first global empire. An earthquake destroyed Lisbon in 1755. António Salazar's dictatorship ruled from 1932 until the Carnation Revolution of 1974, which ended the colonial wars in Africa. It joined the European Community in 1986."
+  timeline: [["1143", "Independence as a kingdom"], ["1498", "Vasco da Gama reaches India"], ["1755", "The Lisbon earthquake"], ["1910", "Becomes a republic"], ["1932", "Salazar takes power"], ["1974", "The Carnation Revolution"], ["1986", "Joins the European Community"]]
+
+ROU:
+  story: "The principalities of Wallachia and Moldavia united in 1859 and became independent in 1878. Romania doubled in size after World War One. Nicolae Ceaușescu's communist dictatorship ended in the bloody revolution of 1989, when he was executed. Romania joined NATO in 2004 and the EU in 2007. In 2024 a presidential election was annulled over Russian interference."
+  timeline: [["1859", "Union of the principalities"], ["1878", "Independence"], ["1918", "Greater Romania"], ["1965", "Ceaușescu takes power"], ["1989", "Revolution"], ["2007", "Joins the EU"], ["2024", "Presidential election annulled"]]
+
+RUS:
+  story: "Kyivan Rus was the first East Slavic state; Moscow later rose to unite Russia and its tsars built an empire across Eurasia. The 1917 revolution brought the Bolsheviks and the Soviet Union, which under Stalin industrialised at the cost of millions of lives and defeated Nazi Germany. The Soviet Union collapsed in 1991. Vladimir Putin, in power since 2000, rebuilt central control and invaded Ukraine in 2014 and 2022."
+  timeline: [["988", "Kyivan Rus adopts Christianity"], ["1547", "Ivan the Terrible is crowned tsar"], ["1917", "The Russian Revolution"], ["1941", "Nazi invasion"], ["1991", "The Soviet Union collapses"], ["2000", "Putin becomes president"], ["2022", "Full-scale invasion of Ukraine"]]
+
+SMR:
+  story: "By tradition, a stonemason named Marinus founded San Marino in 301, making it one of the oldest republics in the world. It survived Italian unification as an independent enclave, and is governed by two Captains Regent who change every six months."
+  timeline: [["301", "Traditional founding date"], ["1600", "The constitution, still in force"], ["1862", "Treaty of friendship with Italy"], ["1992", "Joins the UN"]]
+
+SRB:
+  story: "The medieval Serbian kingdom fell to the Ottomans after the Battle of Kosovo in 1389. Serbia won independence in the 19th century, and its quarrel with Austria-Hungary sparked World War One. It dominated Yugoslavia. Under Slobodan Milošević in the 1990s it fought wars in Croatia, Bosnia and Kosovo. Milošević fell in 2000. Aleksandar Vučić dominated from 2012 until student protests after a deadly station collapse in Novi Sad in 2024 swept his party from power."
+  timeline: [["1389", "The Battle of Kosovo"], ["1878", "Independence"], ["1914", "War with Austria-Hungary"], ["1918", "Yugoslavia is created"], ["1991", "Yugoslavia breaks up; wars follow"], ["2000", "Milošević falls"], ["2024", "The Novi Sad station collapse sparks a protest movement"]]
+
+SVK:
+  story: "Ruled by Hungary for a thousand years, Slovakia joined Czechoslovakia in 1918 and was a Nazi puppet state in World War Two. After communism, it split peacefully from the Czech Republic in 1993. It joined NATO and the EU in 2004 and the euro in 2009. The murder of a journalist in 2018 brought down Robert Fico, who returned in 2023."
+  timeline: [["1000s", "Part of the Kingdom of Hungary"], ["1918", "Czechoslovakia"], ["1939", "Nazi client state"], ["1993", "Independence"], ["2004", "Joins NATO and the EU"], ["2018", "Journalist Ján Kuciak is murdered"]]
+
+SVN:
+  story: "Habsburg for centuries, Slovenia joined Yugoslavia and was its richest republic. It broke away in 1991 after a ten-day war, and joined the EU and NATO in 2004, the first former Yugoslav republic to do so."
+  timeline: [["1335", "Habsburg rule begins"], ["1918", "Joins Yugoslavia"], ["1991", "Independence after the Ten-Day War"], ["2004", "Joins the EU and NATO"], ["2007", "Adopts the euro"]]
+
+ESP:
+  story: "Muslim rulers held much of Iberia for 700 years until the Catholic monarchs completed the reconquest in 1492, the year Columbus reached the Americas and Spain began a global empire. The civil war of 1936 to 1939 brought Franco's dictatorship, which lasted until his death in 1975. Spain became a democracy, joined the European Community in 1986 and faces a strong Catalan independence movement."
+  timeline: [["711", "Muslim conquest"], ["1492", "Granada falls; Columbus sails"], ["1936", "Civil war"], ["1975", "Franco dies"], ["1981", "Failed coup"], ["1986", "Joins the European Community"], ["2017", "Catalonia's independence referendum"]]
+
+SWE:
+  story: "Sweden was a great power in the 17th century, ruling much of the Baltic. It has not fought a war since 1814. In the 20th century the Social Democrats built a famous welfare state. It stayed neutral in both world wars and the Cold War, joined the EU in 1995, and joined NATO in 2024."
+  timeline: [["1523", "Gustav Vasa becomes king"], ["1648", "Height of Swedish power"], ["1814", "Last war"], ["1932", "Social Democrats begin 44 years in power"], ["1995", "Joins the EU"], ["2024", "Joins NATO"]]
+
+CHE:
+  story: "Three cantons swore an alliance in 1291, the start of the Swiss Confederation. It has been neutral since 1815 and became a federal state in 1848, with direct democracy that lets citizens vote on laws several times a year. It stayed out of both world wars and the EU, and grew rich on banking, pharmaceuticals and precision industry."
+  timeline: [["1291", "The founding alliance"], ["1815", "Neutrality is recognised"], ["1848", "The federal constitution"], ["1971", "Women get the vote nationally"], ["2002", "Joins the UN"]]
+
+UKR:
+  story: "Kyiv was the capital of Kyivan Rus. Ukrainian lands were later divided among Poland-Lithuania, the Cossacks, Russia and Austria. A brief independence after 1917 ended in Soviet rule, and Stalin's man-made famine of 1932 and 1933, the Holodomor, killed millions. Independent in 1991, Ukraine turned west after the Orange Revolution of 2004 and the Maidan of 2014. Russia seized Crimea and backed a war in the Donbas, then launched a full-scale invasion in 2022."
+  timeline: [["988", "Kyivan Rus adopts Christianity"], ["1648", "The Cossack uprising"], ["1932", "The Holodomor famine"], ["1986", "Chernobyl"], ["1991", "Independence"], ["2014", "The Maidan revolution; Russia seizes Crimea"], ["2022", "Full-scale Russian invasion"]]
+
+GBR:
+  story: "England and Scotland united in 1707, and the British Empire became the largest in history after the Industrial Revolution began here. Britain stood against Nazi Germany in 1940 but emerged from World War Two exhausted and gave up most of its empire. It built the NHS and welfare state, joined the European Community in 1973, and voted to leave the EU in 2016."
+  timeline: [["1066", "The Norman conquest"], ["1707", "Union of England and Scotland"], ["1760s", "The Industrial Revolution begins"], ["1940", "The Battle of Britain"], ["1948", "The NHS is founded"], ["1973", "Joins the European Community"], ["2020", "Leaves the EU"]]
+
+VAT:
+  story: "The popes ruled the Papal States across central Italy until Italian unification took them in 1870. The 1929 Lateran Treaty created the Vatican City as a tiny sovereign state. It is the seat of the Catholic Church, led since 2025 by Pope Leo XIV, the first American pope."
+  timeline: [["1506", "Construction of St Peter's Basilica begins"], ["1870", "Italy takes Rome"], ["1929", "The Lateran Treaty"], ["1962", "The Second Vatican Council"], ["2013", "Francis becomes the first Latin American pope"], ["2025", "Leo XIV is elected"]]
