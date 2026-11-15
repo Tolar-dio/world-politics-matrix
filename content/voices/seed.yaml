@@ -1,0 +1,79 @@
+# In its own voice: what a country's leaders say, what its own press leads with, and how outsiders see it.
+# Every item is dated and linked. Quotes must be exact, inside quotation marks; anything else is a
+# close paraphrase and must read as one. Keep 1 to 3 items per list, newest first; the daily
+# rotation adds and replaces items. See UPDATING.md ("Voices").
+#
+# ISO3:
+#   leader: [{date: YYYY-MM-DD, who: "Name, role", text: "...", source: "Outlet", url: "..."}]
+#   press:  [... local outlets, summarised and translated]
+#   abroad: [... foreign outlets]
+
+RUS:
+  leader:
+    - {date: "2026-10-01", who: "Vladimir Putin, at the Valdai forum", text: "Ruling out a halt to long-range and energy strikes: “It is simply ridiculous.” And on escalation: “The logic of escalating, increasingly harsh retaliatory measures leads to a fatal point of no return.”", source: "Al Jazeera", url: "https://aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow"}
+  press:
+    - {date: "2026-11-13", who: "TASS, the state news agency", text: "Led with the human cost of Ukrainian drone attacks inside Russia: deaths in Volgograd and damaged homes in Rostov-on-Don.", source: "TASS", url: "https://tass.com/politics/2217617"}
+  abroad:
+    - {date: "2026-11-08", who: "Politico Europe", text: "Norway's prime minister, who spoke to Putin, warned that the Russian leader may not want peace at all.", source: "Politico Europe", url: "https://www.politico.eu/article/vladimir-putin-peace-norway-jonas-gahr-store-russia-ukraine-war/"}
+
+UKR:
+  leader:
+    - {date: "2026-10-27", who: "Volodymyr Zelensky, in his evening address", text: "With more help from partners, especially air defence, “Ukraine would be in a completely different position, and diplomatically, in a much better position.”", source: "LIGA.net", url: "https://news.liga.net/en/amp/war/news/zelenskyy-ukraines-positions-at-the-front-are-the-strongest-they-have-been-in-a-long-time-during-the-war"}
+  press:
+    - {date: "2026-11-13", who: "Kyiv Independent", text: "Reported Zelensky's account that US negotiators floated NATO membership for Ukraine in exchange for withdrawing from the Donbas.", source: "Kyiv Independent", url: "https://kyivindependent.com/us-floats-nato-membership-for-ukraine-in-exchange-for-donbas-withdrawal-zelensky-says/"}
+  abroad:
+    - {date: "2026-11-14", who: "Al Jazeera", text: "Framed the week as strikes continuing on both sides while Kyiv says Washington is floating NATO membership as part of a deal.", source: "Al Jazeera", url: "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option"}
+
+BRA:
+  leader:
+    - {date: "2026-10-25", who: "Luiz Inácio Lula da Silva, in his victory speech in São Paulo", text: "“This election was a defeat for denialism, a defeat for lies.” And, to those refusing to accept it: “This country has a Constitution.”", source: "The Nation", url: "https://www.thenation.com/article/world/lula-victory-speech/"}
+  press:
+    - {date: "2026-10-25", who: "The Rio Times", text: "Tracked the runoff results as Lula won a fourth term against Flávio Bolsonaro.", source: "The Rio Times", url: "https://riotimesonline.com/brazil-election-results-2026"}
+  abroad:
+    - {date: "2026-10-31", who: "Al Jazeera", text: "Reported that Brazil summoned an Argentine diplomat after Bolsonaro's flight to the United States, a sign of how the defeated camp's resistance is spilling across borders.", source: "Al Jazeera", url: "https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us"}
+
+USA:
+  leader:
+    - {date: "2026-11-09", who: "Donald Trump, on CBS's 60 Minutes", text: "Said Ukraine will likely “end up with a little bit different shape” once the war ends, a hint at territorial changes.", source: "Meduza", url: "https://meduza.io/en/news/2026/11/09/trump-says-ukraine-will-have-a-somewhat-different-shape-once-the-war-ends"}
+  press:
+    - {date: "2026-11-12", who: "ABC News", text: "Covered envoys Steve Witkoff and Jared Kushner arriving in Moscow to talk Ukraine with Putin.", source: "ABC News", url: "https://abcnews.com/International/witkoff-kushner-arrive-moscow-meet-putin-discuss-ukraine/story?id=138070892"}
+  abroad:
+    - {date: "2026-11-12", who: "Dawn (Pakistan)", text: "Reported Trump's claim that Gulf allies asked him to hold off on further strikes on Iran.", source: "Dawn", url: "https://www.dawn.com/news/2044218/trump-says-gulf-allies-asked-him-to-hold-off-on-further-iran-strikes"}
+
+ISR:
+  leader:
+    - {date: "2026-11-11", who: "Gadi Eisenkot, prime minister-designate", text: "On whether to return to war with Iran: “I will not allow even a millimetre's deviation from security considerations.”", source: "The National", url: "https://www.thenationalnews.com/news/mena/2026/11/11/eisenkot-says-israel-should-not-return-to-war-for-now/"}
+  press:
+    - {date: "2026-11-10", who: "Israel Hayom", text: "Reported Eisenkot breaking off coalition talks with Likud after Netanyahu's speech in the Knesset.", source: "Israel Hayom", url: "https://www.israelhayom.com/2026/11/10/eisenkot-cancels-likud-coalition-talks-over-netanyahus-knesset-speech"}
+  abroad:
+    - {date: "2026-11-11", who: "Türkiye Today", text: "Led on reports that the caretaker cabinet ordered the army to prepare for a new attack on Iran, as Eisenkot warned Netanyahu off.", source: "Türkiye Today", url: "https://www.turkiyetoday.com/region/israel-orders-military-to-prepare-for-iran-attack-as-eisenkot-warns-netanyahu-3232218"}
+
+HUN:
+  leader:
+    - {date: "2026-05-09", who: "Péter Magyar, sworn in as prime minister", text: "“I will serve my country, not rule over it.”", source: "Telex", url: "https://telex.hu/english/2026/05/09/i-will-serve-my-country-not-rule-over-it-peter-magyar-sworn-in-as-hungary-s-new-prime-minister"}
+  press:
+    - {date: "2026-04-13", who: "Telex", text: "The day after the election, quoted Magyar's aim to return Hungary to the front rank of Central Europe.", source: "Telex", url: "https://telex.hu/english/2026/04/13/elso-nap-mp"}
+  abroad:
+    - {date: "2026-10-13", who: "DW (Germany)", text: "Reported parliament voting to reverse anti-LGBTQ laws passed under Orbán, one of the clearest breaks with the old government.", source: "DW", url: "https://www.dw.com/en/hungarys-parliament-votes-to-reverse-anti-lgbtq-legislation-from-orban-era/a-79647826"}
+
+VEN:
+  leader:
+    - {date: "2026-10-25", who: "María Corina Machado, opposition leader, on returning from exile", text: "“I'm here, with you all.”", source: "OPB (NPR)", url: "https://www.opb.org/article/2026/10/26/maria-corina-machado-venezuela-s-opposition-leader-returns/"}
+  abroad:
+    - {date: "2026-10-30", who: "The Rio Times (Brazil)", text: "Reported US help for a Venezuelan strike on a guerrilla camp, a measure of how far Washington now works with the government in Caracas.", source: "The Rio Times", url: "https://www.riotimesonline.com/us-said-to-help-venezuela-strike-rebel-camp/"}
+
+IRN:
+  leader:
+    - {date: "2026-11-09", who: "Masoud Pezeshkian, president", text: "“We can negotiate with dignity and bring the issue to an end with dignity.”", source: "Tasnim", url: "https://www.tasnimnews.ir/en/news/2026/11/09/3744367/leader-has-ordered-end-to-no-war-no-peace-situation-iranian-president-says/amp"}
+  press:
+    - {date: "2026-11-09", who: "Tasnim, close to the Revolutionary Guards", text: "Led with the supreme leader ordering an end to the ‘no war, no peace’ situation, presenting Iran as open to talks but unbowed by pressure.", source: "Tasnim", url: "https://www.tasnimnews.ir/en/news/2026/11/09/3744367/leader-has-ordered-end-to-no-war-no-peace-situation-iranian-president-says/amp"}
+  abroad:
+    - {date: "2026-11-11", who: "Al Jazeera", text: "Reported Iran warning of expanded retaliation as Israel was said to be readying another attack.", source: "Al Jazeera", url: "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack"}
+
+CHN:
+  leader:
+    - {date: "2026-10-30", who: "Communist Party Central Committee, plenum communiqué", text: "“Stronger measures will be taken to improve the framework of Party regulations and institutions.”", source: "China Daily", url: "https://www.chinadailyhk.com/article/641958"}
+  press:
+    - {date: "2026-11-09", who: "Global Times, a party-run paper", text: "Reported China extending its pause on extra tariffs and ‘unreliable entity’ measures against certain US firms.", source: "Global Times", url: "https://www.globaltimes.cn/page/202611/1373982.shtml"}
+  abroad:
+    - {date: "2026-10-29", who: "Christian Science Monitor", text: "Reported the plenum praising the party's ‘rigorous self-governance’ after sweeping purges of generals and officials.", source: "Christian Science Monitor", url: "https://www.csmonitor.com/World/Asia-Pacific/2026/1029/china-communist-party-purges-plenum"}

@@ -78,7 +78,7 @@
   W.ext.profileSections.push((d) => {
     const v = d.voices;
     if (!v) return '';
-    const block = (title, help, items) => (items && items.length ? `<h3 class="num-h">${title}</h3><p class="num-help">${help}</p><ul class="voice-list">${items.map((x) => `<li><blockquote>${x.text}</blockquote><p class="voice-by">${esc(x.who)}${x.who ? ', ' : ''}<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.src || 'source')}</a>, ${esc(x.pretty)}</p></li>`).join('')}</ul>` : '');
+    const block = (title, help, items) => (items && items.length ? `<h3 class="num-h">${title}</h3><p class="num-help">${help}</p><ul class="voice-list">${items.map((x) => `<li><blockquote>${x.text}</blockquote><p class="voice-by">${x.src && x.who.startsWith(x.src) ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.who)}</a>` : `${esc(x.who)}${x.who ? ', ' : ''}<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.src || 'source')}</a>`}, ${esc(x.pretty)}</p></li>`).join('')}</ul>` : '');
     return `<section class="voices"><h2>In its own voice</h2>
       ${block('What its leaders say', 'In their words, or closely paraphrased, with the original linked.', v.leader)}
       ${block('What its own press is saying', 'Summarised and translated from local outlets.', v.press)}

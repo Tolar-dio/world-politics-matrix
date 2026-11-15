@@ -89,14 +89,16 @@ blocs:
     sources:
       - {label: "Council on Foreign Relations: The China-North Korea relationship", url: "https://www.cfr.org/backgrounder/china-north-korea-relationship"}
 
-  - id: sau-pak
-    name: Saudi Arabia and Pakistan defence agreement
-    short: Saudi-Pakistan pact
+  - id: mecca-pact
+    name: Mecca Joint Defence Agreement
+    short: Mecca pact
     kind: military
-    what: "Strategic Mutual Defence Agreement signed in September 2025: aggression against one is treated as aggression against both."
-    members: [SAU, PAK]
+    what: "Ten-year mutual defence pact under which an attack on one member counts as an attack on all. It grew out of the Saudi-Pakistan defence agreement of September 2025; Turkey's parliament ratified joining in November 2026."
+    members: [SAU, PAK, TUR]
+    status: {TUR: "ratified November 2026, in force once documents are deposited"}
     sources:
       - {label: "Wikipedia: Strategic Mutual Defence Agreement", url: "https://en.wikipedia.org/wiki/Strategic_Mutual_Defense_Agreement"}
+      - {label: "Turkish Minute: Turkish Parliament approves Saudi-Pakistan defense pact (Nov 2026)", url: "https://turkishminute.com/2026/11/06/turkish-parliament-approves-saudi-pakistan-defense-pact-despite-opposition-concerns/"}
 
   - id: aes
     name: Alliance of Sahel States
