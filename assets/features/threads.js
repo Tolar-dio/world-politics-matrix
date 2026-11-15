@@ -126,6 +126,6 @@
     queue.splice(0).forEach((fn) => fn());
     const el = $('#intro-threads');
     if (el && threads.length) el.innerHTML = `<h2 class="intro-h">Storylines</h2><ul class="thread-cards">${threads.slice(0, 4).map(card).join('')}</ul><p class="more-link"><a href="#threads">All ${threads.length} storylines</a></p>`;
-    if (W.state.selected) W.select(W.state.selected, { fly: false });
+    W.rerenderProfile();
   });
 })();

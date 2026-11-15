@@ -1,0 +1,186 @@
+# Forecast questions shown on the site, each tied to a live prediction market.
+# The browser pulls the current odds from the market; `snapshot` is the fallback shown if
+# that fails, and records the odds when the question was added. A question resolves by
+# itself when its market closes. See UPDATING.md ("Forecasts").
+#
+# - id: kebab-case-id
+#   question: "Plain-English yes/no question"
+#   closes: "YYYY-MM-DD"          when the question is decided
+#   countries: [ISO3, ...]
+#   thread: storyline-id          optional
+#   why: "One sentence on why it matters."
+#   market: {source: polymarket, slug: market-slug}
+#   snapshot: {prob: 0.12, as_of: "YYYY-MM-DD"}
+#   resolution: yes | no          optional; set only if the market can't be read
+
+as_of: "2026-11-15"
+forecasts:
+  - id: iran-ceasefire-dec
+    question: "Will the US and Iran reach an effective ceasefire by 31 December?"
+    closes: "2026-12-31"
+    countries: [USA, IRN]
+    thread: hormuz-shock
+    why: "Trump calls the war 'effectively over' but keeps the blockade and threatens new strikes; a ceasefire would be the first step to reopening Hormuz."
+    market: {source: polymarket, slug: us-x-iran-effective-ceasefire-by-december-31-20261108}
+    snapshot: {prob: 0.815, as_of: "2026-11-15"}
+
+  - id: blockade-end-dec
+    question: "Will the US announce the end of its blockade of Iran by 31 December?"
+    closes: "2026-12-31"
+    countries: [USA, IRN]
+    thread: hormuz-shock
+    why: "The blockade has cut Iran's oil exports by billions; ending it is Tehran's first condition for reopening the strait."
+    market: {source: polymarket, slug: us-announces-end-of-iranian-blockade-by-december-31-2026-20260727171803489-375-949-645-919-269-157-255-857}
+    snapshot: {prob: 0.19, as_of: "2026-11-15"}
+
+  - id: hormuz-normal-dec
+    question: "Will traffic through the Strait of Hormuz return to normal by 31 December?"
+    closes: "2026-12-31"
+    countries: [IRN, OMN, ARE]
+    thread: hormuz-shock
+    why: "Normal traffic would mean oil and gas flowing again from the Gulf, and lower prices worldwide."
+    market: {source: polymarket, slug: strait-of-hormuz-traffic-returns-to-normal-by-december-31}
+    snapshot: {prob: 0.045, as_of: "2026-11-15"}
+
+  - id: hormuz-deal-dec
+    question: "Will the US and Iran sign an agreement on Hormuz by 31 December?"
+    closes: "2026-12-31"
+    countries: [USA, IRN, QAT]
+    thread: hormuz-shock
+    why: "Qatar's mediation is aimed at exactly this; Iran says the strait stays shut until its conditions are met."
+    market: {source: polymarket, slug: us-iran-hormuz-agreement-by-december-31}
+    snapshot: {prob: 0.165, as_of: "2026-11-15"}
+
+  - id: iran-nuclear-deal
+    question: "Will the US and Iran sign a final nuclear deal by 31 December?"
+    closes: "2026-12-31"
+    countries: [USA, IRN]
+    thread: hormuz-shock
+    why: "Iran refuses to send its enriched uranium abroad, the core US demand."
+    market: {source: polymarket, slug: us-iran-final-nuclear-deal-by-december-31-2026-191}
+    snapshot: {prob: 0.075, as_of: "2026-11-15"}
+
+  - id: us-invade-iran
+    question: "Will US ground forces invade Iran before 2027?"
+    closes: "2026-12-31"
+    countries: [USA, IRN]
+    thread: hormuz-shock
+    why: "So far the war has been fought from the air and sea; a ground invasion would be a different war."
+    market: {source: polymarket, slug: will-the-us-invade-iran-before-2027}
+    snapshot: {prob: 0.075, as_of: "2026-11-15"}
+
+  - id: ukraine-ceasefire-dec
+    question: "Will Russia and Ukraine agree a ceasefire by 31 December?"
+    closes: "2026-12-31"
+    countries: [RUS, UKR]
+    thread: ukraine-talks
+    why: "The Abu Dhabi talks produced a prisoner swap but no ceasefire; the Kremlin still rejects one without territorial concessions."
+    market: {source: polymarket, slug: russia-x-ukraine-ceasefire-by-december-31-2026}
+    snapshot: {prob: 0.069, as_of: "2026-11-15"}
+
+  - id: ukraine-ceasefire-mar
+    question: "Will Russia and Ukraine agree a ceasefire by 31 March 2027?"
+    closes: "2027-03-31"
+    countries: [RUS, UKR]
+    thread: ukraine-talks
+    why: "A longer horizon shows how much the market thinks the current talks could deliver over the winter."
+    market: {source: polymarket, slug: russia-x-ukraine-ceasefire-by-march-31-2027}
+    snapshot: {prob: 0.225, as_of: "2026-11-15"}
+
+  - id: zelensky-putin
+    question: "Will Zelensky and Putin talk directly by 31 December?"
+    closes: "2026-12-31"
+    countries: [UKR, RUS]
+    thread: ukraine-talks
+    why: "The two have not spoken since the full-scale invasion; a call or meeting would signal the talks are serious."
+    market: {source: polymarket, slug: will-zelenskyy-talk-to-putin-by-december-31-992-711}
+    snapshot: {prob: 0.07, as_of: "2026-11-15"}
+
+  - id: nato-russia-clash
+    question: "Will NATO and Russia clash militarily by 31 December?"
+    closes: "2026-12-31"
+    countries: [RUS, POL, FIN, EST]
+    thread: ukraine-talks
+    why: "Drone incursions, a warship strike in the Gulf of Finland and border provocations keep raising the risk of a direct clash."
+    market: {source: polymarket, slug: nato-x-russia-military-clash-by-december-31-2026-244-538-582}
+    snapshot: {prob: 0.105, as_of: "2026-11-15"}
+
+  - id: netanyahu-out
+    question: "Will Netanyahu be out as Israel's prime minister by the end of 2026?"
+    closes: "2026-12-31"
+    countries: [ISR]
+    thread: israel-after-netanyahu
+    why: "Eisenkot holds the mandate, but forming a coalition can take weeks and Netanyahu stays caretaker until a new government is sworn in."
+    market: {source: polymarket, slug: netanyahu-out-before-2027-684-719-226-657}
+    snapshot: {prob: 0.49, as_of: "2026-11-15"}
+
+  - id: israel-leaves-lebanon
+    question: "Will Israel withdraw from Lebanon by 31 March 2027?"
+    closes: "2027-03-31"
+    countries: [ISR, LBN]
+    thread: israel-after-netanyahu
+    why: "Israeli troops hold a zone in south Lebanon; Hezbollah refuses to disarm while they stay."
+    market: {source: polymarket, slug: israel-withdraws-from-lebanon-by-march-31-2027}
+    snapshot: {prob: 0.08, as_of: "2026-11-15"}
+
+  - id: hamas-disarm
+    question: "Will Hamas agree to disarm by 31 December?"
+    closes: "2026-12-31"
+    countries: [PSE, ISR]
+    why: "Disarmament is the sticking point for the second phase of the Gaza ceasefire."
+    market: {source: polymarket, slug: will-hamas-agree-to-disarm-by-december-31}
+    snapshot: {prob: 0.038, as_of: "2026-11-15"}
+
+  - id: bab-el-mandeb
+    question: "Will the Bab el-Mandeb strait be effectively closed by 31 December?"
+    closes: "2026-12-31"
+    countries: [YEM, DJI, ERI, SAU]
+    thread: gulf-realignment
+    why: "The Houthis hold Mocha and threaten the southern entrance to the Red Sea; closing both Gulf exits at once would be unprecedented."
+    market: {source: polymarket, slug: bab-el-mandeb-strait-effectively-closed-by-december-31-983-117-222-252}
+    snapshot: {prob: 0.065, as_of: "2026-11-15"}
+
+  - id: us-strike-cuba
+    question: "Will the US strike Cuba by 31 December?"
+    closes: "2026-12-31"
+    countries: [USA, CUB]
+    thread: americas-campaign
+    why: "Trump says he wants to 'get Cuba done' and would consider force."
+    market: {source: polymarket, slug: us-strike-on-cuba-by-december-31}
+    snapshot: {prob: 0.08, as_of: "2026-11-15"}
+
+  - id: hegseth-out
+    question: "Will Pete Hegseth be out as US defense secretary by 31 December?"
+    closes: "2026-12-31"
+    countries: [USA]
+    thread: trump-after-midterms
+    why: "The House shelved his impeachment by seven votes; the new Democratic majority arrives in January."
+    market: {source: polymarket, slug: pete-hegseth-out-as-secretary-of-defense-by-december-31}
+    snapshot: {prob: 0.155, as_of: "2026-11-15"}
+
+  - id: china-taiwan-clash
+    question: "Will China and Taiwan clash militarily before 2027?"
+    closes: "2026-12-31"
+    countries: [CHN, TWN]
+    thread: china-pressure
+    why: "Chinese ships push into Taiwan's waters almost daily; a clash would be the most dangerous escalation in Asia."
+    market: {source: polymarket, slug: china-x-taiwan-military-clash-before-2027}
+    snapshot: {prob: 0.0285, as_of: "2026-11-15"}
+
+  - id: sweden-snap
+    question: "Will Sweden call a snap election in 2026?"
+    closes: "2026-12-31"
+    countries: [SWE]
+    thread: europe-incumbents
+    why: "Parliament has rejected one candidate for prime minister; four failed votes would force a new election."
+    market: {source: polymarket, slug: sweden-snap-election-called-in-2026}
+    snapshot: {prob: 0.145, as_of: "2026-11-15"}
+
+  - id: oil-record
+    question: "Will crude oil hit a new all-time high by 31 March 2027?"
+    closes: "2027-03-31"
+    countries: [IRN, SAU, USA]
+    thread: hormuz-shock
+    why: "The record was set in 2008; with Hormuz shut, another shock could break it."
+    market: {source: polymarket, slug: will-crude-oil-reach-a-new-all-time-high-by-march-31-2027}
+    snapshot: {prob: 0.155, as_of: "2026-11-15"}

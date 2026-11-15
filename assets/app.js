@@ -1375,6 +1375,19 @@
     routeFromHash();
   }
 
+  // Feature data that arrives after a profile is open re-renders it in place, once.
+  let rerenderTimer = null;
+  function rerenderProfile() {
+    clearTimeout(rerenderTimer);
+    rerenderTimer = setTimeout(() => {
+      const d = state.selected && state.details.get(state.selected);
+      if (!d || $('#profile').hidden) return;
+      const top = $('#sheet-scroll').scrollTop;
+      renderProfile(d);
+      $('#sheet-scroll').scrollTop = top;
+    }, 60);
+  }
+
   // Open a panel that belongs to neither a country nor a war (storylines, this week, compare...).
   function openPanel({ hash, title, html }) {
     state.selected = null;
@@ -1394,7 +1407,7 @@
     hideTip() { tip.hidden = true; renderTip(); },
     reduceMotion, esc, norm, mix, cssVar, isDark, fmtDate, dateRange, panelTop, section, sourceList, pList, flagsFor,
     on(evt, fn) { (ext.listeners[evt] = ext.listeners[evt] || []).push(fn); },
-    emit, select, closeProfile, openPanel, showPanel, flyTo, flyToPoint, setMode, setLens, renderLegend,
+    emit, select, closeProfile, openPanel, rerenderProfile, showPanel, flyTo, flyToPoint, setMode, setLens, renderLegend,
     refreshLayers, refreshPolygons, refreshBrowseDots, openConflict, openBattle, loadDetail, renderTip,
     setArcs(source, list) { if (list && list.length) ext.arcs.set(source, list); else ext.arcs.delete(source); refreshLayers(); },
     setRings(source, list) { if (list && list.length) ext.rings.set(source, list); else ext.rings.delete(source); refreshLayers(); },

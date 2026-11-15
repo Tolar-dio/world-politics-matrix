@@ -93,6 +93,32 @@ def build(content: Path, data: Path, ids: set[str], md, paras, pretty_date) -> d
     # Storylines.
     build_threads(content, data, ids, per_country, md, pretty_date)
 
+    # Forecasts.
+    fdoc = _load_yaml(content / "forecasts.yaml") or {}
+    thread_ids = {t["id"] for t in json.loads((data / "threads.json").read_text())["threads"]}
+    fout = []
+    for f in fdoc.get("forecasts") or []:
+        where = f"forecasts.yaml: {f.get('id')}"
+        mk = f.get("market") or {}
+        if not f.get("id") or not f.get("question") or mk.get("source") not in ("polymarket", "manifold") or not mk.get("slug"):
+            raise BuildError(f"{where}: needs id, question and market {{source: polymarket|manifold, slug}}")
+        if not ISO_DATE.match(str(f.get("closes") or "")):
+            raise BuildError(f"{where}: closes must be YYYY-MM-DD")
+        if f.get("thread") and f["thread"] not in thread_ids:
+            raise BuildError(f"{where}: unknown storyline {f['thread']}")
+        snap = f.get("snapshot") or {}
+        fout.append({
+            "id": f["id"], "question": str(f["question"]), "closes": str(f["closes"]), "pretty": pretty_date(str(f["closes"])),
+            "countries": [c for c in f.get("countries") or [] if c in ids], "thread": f.get("thread"),
+            "why": str(f.get("why") or ""), "market": {"source": mk["source"], "slug": str(mk["slug"])},
+            "snapshot": {"prob": float(snap.get("prob", 0)), "as_of": str(snap.get("as_of") or "")},
+            "resolution": f.get("resolution") if f.get("resolution") in ("yes", "no") else None,
+        })
+    (data / "forecasts.json").write_text(json.dumps({"as_of": str(fdoc.get("as_of") or ""), "forecasts": fout}, ensure_ascii=False, separators=(",", ":")))
+    for f in fout:
+        for cid in f["countries"]:
+            per_country[cid].setdefault("forecasts", []).append(f["id"])
+
     return {"per_country": per_country}
 
 

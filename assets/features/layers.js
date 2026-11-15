@@ -271,7 +271,7 @@
       return;
     }
     // A profile opened before the data arrived gets its numbers now.
-    if (W.state.selected) W.select(W.state.selected, { fly: false });
+    W.rerenderProfile();
   });
 
   window.WPMLayers = { fmt, get data() { return data; }, byInd };
