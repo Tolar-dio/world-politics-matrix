@@ -155,7 +155,7 @@ def build(content: Path, data: Path, ids: set[str], md, paras, pretty_date) -> d
             "id": cid, "name": str(c["name"]), "type": c["type"], "intensity": c["intensity"],
             "status": c["status"], "started": _iso(c.get("started")), "countries": c["countries"],
             "summary": text(c["summary"]), "zones": zones, "lines": lines,
-            "battles": len(my_battles),
+            "battles": len(my_battles), "updated": _iso(c.get("updated")) or None,
         })
         sides = []
         for s in c.get("sides") or []:

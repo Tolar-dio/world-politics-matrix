@@ -27,6 +27,7 @@ from pathlib import Path
 import yaml
 
 import extras
+import history
 import military
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -459,6 +460,7 @@ def main() -> None:
         "entities": entities,
     }
     (DATA / "index.json").write_text(json.dumps(index, ensure_ascii=False, separators=(",", ":")))
+    history.snapshot_today()
 
     missing_prof = sorted(cid for cid in ids if not profiles.get(cid, {}).get("culture"))
     print(f"build: {len(ids)} countries, {covered} with 2026 briefings, {profiled} with profiles, {len(territories)} territories")
