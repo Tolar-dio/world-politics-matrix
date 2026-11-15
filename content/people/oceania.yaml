@@ -1,0 +1,85 @@
+# Everyday life: see africa.yaml for the format.
+
+AUS:
+  eat: ["Meat pies and sausage sizzles", "Vegemite on toast", "Flat whites and smashed avocado"]
+  listen: ["AC/DC, INXS and Kylie Minogue", "Triple J's Hottest 100, every January", "Yothu Yindi and Indigenous artists"]
+  argue: ["Housing prices", "One Nation's surge", "Immigration and China"]
+  say: {lang: en-AU, name: English, phrases: [["G'day", "Hello", "guh-DAY"], ["Cheers / Ta", "Thanks", "CHEERZ / TAH"]]}
+
+FJI:
+  eat: ["Kokoda, raw fish in coconut and lime", "Lovo, food cooked in an earth oven", "Kava, drunk at every gathering"]
+  listen: ["Meke, dance with song", "Island reggae", "Church choirs"]
+  argue: ["The new constitution", "Indigenous Fijian and Indo-Fijian politics", "Drugs passing through the Pacific"]
+  say: {lang: fj, name: Fijian, phrases: [["Bula", "Hello", "BOO-la"], ["Vinaka", "Thank you", "vee-NAH-ka"]]}
+
+KIR:
+  eat: ["Fish and breadfruit", "Te bua toro, pandanus paste", "Coconut toddy"]
+  listen: ["Te buki, seated dance songs", "Church choirs", "Island pop"]
+  argue: ["Rising seas", "Switching recognition to China", "Jobs and overcrowding on Tarawa"]
+  say: {lang: gil, name: Gilbertese, phrases: [["Mauri", "Hello", "MAO-ree"], ["Ko rabwa", "Thank you", "koh RAH-ba"]]}
+
+MHL:
+  eat: ["Breadfruit and pandanus", "Fish and coconut crab", "Spam and rice, a US legacy"]
+  listen: ["Jobwa stick dance", "Church singing", "Island reggae"]
+  argue: ["Nuclear test legacy", "Rising seas", "The US compact"]
+  say: {lang: mh, name: Marshallese, phrases: [["Iakwe", "Hello (love to you)", "YAH-kway"], ["Kommol", "Thank you", "KOM-mol"]]}
+
+FSM:
+  eat: ["Breadfruit, taro and fish", "Sakau, kava from Pohnpei", "Rice and canned meat"]
+  listen: ["Stick dances", "Church choirs", "Island reggae"]
+  argue: ["China's courtship", "The US compact", "Rising seas"]
+  say: {lang: en-FM, name: English (each state has its own language), phrases: [["Kaselehlie", "Hello (Pohnpeian)", "ka-seh-LEH-lee-eh"], ["Kalahngan", "Thank you (Pohnpeian)", "ka-LAHNG-an"]]}
+
+NRU:
+  eat: ["Coconut fish", "Imported rice and canned food", "Noddy birds, a traditional catch"]
+  listen: ["Church singing", "Island pop", "Traditional dance"]
+  argue: ["The Australian detention centre", "Selling citizenship", "What remains after phosphate"]
+  say: {lang: na, name: Nauruan, phrases: [["Ekamawir omo", "Hello", "eh-ka-MAH-weer OH-mo"], ["Ko maeko", "Thank you", "koh MY-ko"]]}
+
+NZL:
+  eat: ["Hāngī, food cooked in an earth oven", "Pavlova, also claimed by Australia", "Meat pies and fish and chips"]
+  listen: ["Lorde", "Haka and Māori waiata", "Six60 and Kiwi reggae"]
+  argue: ["The close election and who governs", "The Treaty of Waitangi", "Cost of living"]
+  say: {lang: mi, name: Māori (English is most widely spoken), phrases: [["Kia ora", "Hello", "kee-ah OH-ra"], ["Kia ora / Ngā mihi", "Thank you", "kee-ah OH-ra / nah MEE-hee"]]}
+
+PLW:
+  eat: ["Taro and fish", "Coconut crab", "Fruit bat soup, a traditional dish"]
+  listen: ["Chants and dances", "Church music", "Island pop"]
+  argue: ["US military plans", "Tourism and the environment", "Taiwan"]
+  say: {lang: pau, name: Palauan, phrases: [["Alii", "Hello", "ah-LEE"], ["Sulang", "Thank you", "SOO-lang"]]}
+
+PNG:
+  eat: ["Mumu, pork and vegetables cooked in an earth oven", "Kaukau, sweet potato", "Sago in the lowlands"]
+  listen: ["Sing-sing festivals", "PNG string bands", "Local reggae"]
+  argue: ["Bougainville's independence", "Tribal violence in the highlands", "Mining money"]
+  say: {lang: tpi, name: Tok Pisin, phrases: [["Gude", "Hello", "GOO-day"], ["Tenkyu", "Thank you", "TENK-yoo"]]}
+
+WSM:
+  eat: ["Oka, raw fish in coconut cream", "Palusami, taro leaves baked in coconut cream", "Umu, the earth oven"]
+  listen: ["Siva, the Samoan dance", "Church choirs", "Pacific reggae"]
+  argue: ["Political splits in the ruling party", "Emigration to New Zealand", "Rising seas"]
+  say: {lang: sm, name: Samoan, phrases: [["Talofa", "Hello", "ta-LOH-fa"], ["Fa'afetai", "Thank you", "fa-ah-feh-TIE"]]}
+
+SLB:
+  eat: ["Fish and taro", "Cassava pudding", "Betel nut, chewed everywhere"]
+  listen: ["Bamboo bands and panpipes", "Island reggae", "Church choirs"]
+  argue: ["China versus Australia", "Political instability", "Logging"]
+  say: {lang: pis, name: Pijin, phrases: [["Halo", "Hello", "HAH-lo"], ["Tanggio", "Thank you", "tang-GEE-yo"]]}
+
+TON:
+  eat: ["Lu pulu, corned beef in taro leaves", "Ota ika, raw fish salad", "Roast pig at feasts"]
+  listen: ["Lakalaka dance on UNESCO's list", "Church brass bands", "Pacific reggae"]
+  argue: ["The king and nobles' power", "Emigration", "Rebuilding after the 2022 volcano"]
+  say: {lang: to, name: Tongan, phrases: [["Mālō e lelei", "Hello", "MAH-loh eh leh-LAY"], ["Mālō", "Thank you", "MAH-loh"]]}
+
+TUV:
+  eat: ["Pulaka, swamp taro", "Fish and coconut", "Imported rice"]
+  listen: ["Fatele dance", "Church singing", "Island pop"]
+  argue: ["Rising seas", "The treaty letting citizens move to Australia", "Keeping the nation alive digitally"]
+  say: {lang: tvl, name: Tuvaluan, phrases: [["Talofa", "Hello", "ta-LOH-fa"], ["Fakafetai", "Thank you", "fa-ka-feh-TIE"]]}
+
+VUT:
+  eat: ["Laplap, grated root vegetable cake baked in an earth oven", "Kava", "Fish and coconut"]
+  listen: ["Water music, women drumming on the sea", "String bands", "Reggae"]
+  argue: ["Rebuilding after the earthquake", "Climate justice", "Selling passports"]
+  say: {lang: bi, name: Bislama, phrases: [["Halo", "Hello", "HAH-lo"], ["Tankyu tumas", "Thank you very much", "TANK-yoo too-MAS"]]}

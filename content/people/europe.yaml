@@ -1,0 +1,277 @@
+# Everyday life: see africa.yaml for the format.
+
+ALB:
+  eat: ["Tavë kosi, baked lamb with yoghurt and egg", "Byrek, flaky pastry with cheese or spinach", "Raki, home-distilled, offered to every guest"]
+  listen: ["Iso-polyphony, the southern folk singing on UNESCO's list", "Dua Lipa and Rita Ora, Albanian stars abroad", "Tallava and Albanian pop at weddings"]
+  argue: ["Corruption and the student protests", "Emigration: a third of Albanians live abroad", "Rama's deal to host Italy's migrant camps"]
+  say: {lang: sq, name: Albanian, phrases: [["Përshëndetje", "Hello", "per-shen-DET-yeh"], ["Faleminderit", "Thank you", "fa-leh-min-DEH-rit"]]}
+
+AND:
+  eat: ["Escudella, a winter stew of meat and pasta", "Trinxat, cabbage and potato with bacon", "Mountain cheese and cured ham"]
+  listen: ["Catalan folk and the sardana dance", "Spanish and French pop", "The Andorra jazz festival"]
+  argue: ["Housing prices pushed up by wealthy newcomers", "The EU association deal", "Overtourism from shoppers and skiers"]
+  say: {lang: ca, name: Catalan, phrases: [["Hola", "Hello", "OH-la"], ["Gràcies", "Thank you", "GRAH-see-es"]]}
+
+AUT:
+  eat: ["Wiener schnitzel with potato salad", "Tafelspitz, boiled beef with horseradish", "Sachertorte and apple strudel in a Viennese café"]
+  listen: ["Mozart, Schubert and the Strauss waltzes", "Austropop, Falco to Wanda", "Schlager and the Vienna Philharmonic's New Year's concert"]
+  argue: ["Austerity and the recession", "Whether the far-right FPÖ will win power", "Immigration and asylum"]
+  say: {lang: de-AT, name: German, phrases: [["Grüß Gott / Servus", "Hello / Hi", "grooss GOTT / SAIR-voos"], ["Danke", "Thank you", "DAHN-keh"]]}
+
+BLR:
+  eat: ["Draniki, potato pancakes with sour cream", "Machanka, pork stew dipped with pancakes", "Kvass and black bread"]
+  listen: ["Lyapis Trubetskoy and banned rock bands", "Belarusian folk", "Russian pop"]
+  argue: ["Nothing openly: protest means prison", "Political prisoners released in deals with the US", "Russian troops and nuclear weapons on its soil"]
+  say: {lang: be, name: Belarusian (Russian is more widely spoken), phrases: [["Pryvitannie", "Hello", "pry-vee-TAN-nyeh"], ["Dziakuj", "Thank you", "JA-kooy"]]}
+
+BEL:
+  eat: ["Moules-frites, mussels with chips", "Waffles, Liège or Brussels", "Chocolate, and hundreds of beers"]
+  listen: ["Jacques Brel and Stromae", "Techno and new beat from the 1980s", "Tomorrowland, the dance festival"]
+  argue: ["Pension cuts and the general strikes", "Flemish versus French-speaking politics", "Drug violence around Antwerp's port"]
+  say: {lang: nl-BE, name: Dutch and French, phrases: [["Hallo / Bonjour", "Hello", "HAH-lo / bon-ZHOOR"], ["Dank u / Merci", "Thank you", "DAHNK oo / mair-SEE"]]}
+
+BIH:
+  eat: ["Ćevapi, grilled minced meat in flatbread with onions", "Burek, meat pie", "Bosnian coffee, served in a džezva"]
+  listen: ["Sevdalinka, the melancholy love songs", "Dino Merlin and Yugo-rock", "Turbo-folk"]
+  argue: ["Dodik and Republika Srpska's threats to break away", "Emigration of the young", "The EU path"]
+  say: {lang: bs, name: Bosnian, phrases: [["Zdravo", "Hello", "ZDRAH-vo"], ["Hvala", "Thank you", "HVAH-la"]]}
+
+BGR:
+  eat: ["Shopska salad, tomato, cucumber and white cheese", "Banitsa, cheese pastry, for breakfast", "Yoghurt, which Bulgarians say they invented"]
+  listen: ["Le Mystère des Voix Bulgares, the state women's choir", "Chalga, pop-folk", "Wedding brass bands"]
+  argue: ["Whether Radev will really dismantle the 'mafia state'", "Joining the euro in 2026", "Russia and Ukraine"]
+  say: {lang: bg, name: Bulgarian, phrases: [["Здравейте (zdraveyte)", "Hello", "zdra-VAY-teh"], ["Благодаря (blagodarya)", "Thank you", "bla-go-da-RYA"]]}
+
+HRV:
+  eat: ["Peka, meat or octopus slow-cooked under a bell", "Black risotto with cuttlefish ink", "Štrukli, cheese dumplings"]
+  listen: ["Klapa, a cappella singing from Dalmatia", "Thompson, the nationalist singer whose concerts divide the country", "Tamburica bands"]
+  argue: ["Nationalism and the Ustaša past", "Overtourism on the coast", "Prices since joining the euro"]
+  say: {lang: hr, name: Croatian, phrases: [["Bok", "Hi", "BOHK"], ["Hvala", "Thank you", "HVAH-la"]]}
+
+CYP:
+  eat: ["Halloumi, grilled", "Souvla, big chunks of meat on a spit", "Meze, twenty small dishes at once"]
+  listen: ["Greek bouzouki music", "Turkish Cypriot folk", "Eurovision entries"]
+  argue: ["The division of the island", "The far right's rise", "Housing prices and Russian money"]
+  say: {lang: el-CY, name: Greek (Turkish in the north), phrases: [["Γεια σας (yia sas)", "Hello", "YAH sas"], ["Ευχαριστώ (efharistó)", "Thank you", "ef-ha-ree-STOH"]]}
+
+CZE:
+  eat: ["Svíčková, beef in cream sauce with dumplings", "Smažený sýr, fried cheese", "Pilsner beer, invented in Plzeň"]
+  listen: ["Dvořák and Smetana", "Karel Gott, the 'golden voice of Prague'", "Czech rap"]
+  argue: ["Babiš's government and aid to Ukraine", "Prices", "Russia"]
+  say: {lang: cs, name: Czech, phrases: [["Dobrý den", "Hello", "DOB-ree den"], ["Děkuji", "Thank you", "DYEH-koo-yee"]]}
+
+DNK:
+  eat: ["Smørrebrød, open sandwiches on rye", "Frikadeller, meatballs", "Pastries, the 'Danish'"]
+  listen: ["Danish pop and MØ", "Lukas Graham", "Roskilde Festival"]
+  argue: ["Trump's designs on Greenland", "Immigration rules, among Europe's strictest", "Coalition politics after Frederiksen's worst result"]
+  say: {lang: da, name: Danish, phrases: [["Hej", "Hi", "HI"], ["Tak", "Thank you", "TAHK"]]}
+
+EST:
+  eat: ["Black rye bread at every meal", "Verivorst, blood sausage, at Christmas", "Kama, a roasted grain flour mixed into kefir"]
+  listen: ["The Song Festival, 30,000 voices at once", "Arvo Pärt", "Estonian electronic music"]
+  argue: ["Russia next door", "Taxes raised to pay for defence", "The Russian-speaking minority"]
+  say: {lang: et, name: Estonian, phrases: [["Tere", "Hello", "TEH-reh"], ["Aitäh", "Thank you", "EYE-tah"]]}
+
+FIN:
+  eat: ["Karjalanpiirakka, Karelian rice pies", "Salmon soup", "Salmiakki, salty liquorice"]
+  listen: ["Heavy metal, more bands per head than anywhere", "Sibelius", "Käärijä and Finnish rap"]
+  argue: ["Spending cuts and unemployment", "The Russian border, closed since 2023", "NATO membership"]
+  say: {lang: fi, name: Finnish, phrases: [["Moi", "Hi", "MOY"], ["Kiitos", "Thank you", "KEE-tos"]]}
+
+FRA:
+  eat: ["Baguette and cheese at every meal", "Steak-frites and croque-monsieur at the brasserie", "Couscous, among the most popular dishes"]
+  listen: ["Chanson, from Piaf to Aznavour", "French rap, the second biggest scene in the world: Aya Nakamura, Jul, PNL", "Daft Punk and French touch"]
+  argue: ["Budgets, pensions and governments that keep falling", "The far right's chances in 2027", "Immigration and secularism"]
+  say: {lang: fr-FR, name: French, phrases: [["Bonjour", "Hello", "bon-ZHOOR"], ["Merci", "Thank you", "mair-SEE"]]}
+
+DEU:
+  eat: ["Bread, a national obsession", "Bratwurst and currywurst", "Döner kebab, the most popular fast food"]
+  listen: ["Beethoven and Bach", "Kraftwerk and techno in Berlin's clubs", "Deutschrap"]
+  argue: ["The AfD's rise in the east", "A stagnant economy and car industry", "Migration"]
+  say: {lang: de-DE, name: German, phrases: [["Hallo / Guten Tag", "Hello", "HAH-lo / GOO-ten tahk"], ["Danke", "Thank you", "DAHN-keh"]]}
+
+GRC:
+  eat: ["Souvlaki and gyros", "Moussaka", "Greek salad, olive oil and feta"]
+  listen: ["Rebetiko, the 'Greek blues'", "Laïko and bouzouki nights", "Mikis Theodorakis"]
+  argue: ["The farm subsidy scandal", "The 2023 Tempi train crash", "Low wages and young people leaving"]
+  say: {lang: el, name: Greek, phrases: [["Γεια σας (yia sas)", "Hello", "YAH sas"], ["Ευχαριστώ (efharistó)", "Thank you", "ef-ha-ree-STOH"]]}
+
+HUN:
+  eat: ["Gulyás, beef and paprika soup", "Lángos, fried dough with sour cream and cheese", "Chicken paprikash"]
+  listen: ["Liszt and Bartók", "Táncház, folk dance houses", "Hungarian rap"]
+  argue: ["What Magyar's government will undo of the Orbán years", "Relations with the EU and Russia", "Corruption"]
+  say: {lang: hu, name: Hungarian, phrases: [["Szia", "Hi", "SEE-ya"], ["Köszönöm", "Thank you", "KUH-suh-nuhm"]]}
+
+ISL:
+  eat: ["Lamb soup", "Skyr, a thick yoghurt", "Hot dogs from the Bæjarins Beztu stand"]
+  listen: ["Björk and Sigur Rós", "Of Monsters and Men", "Iceland Airwaves festival"]
+  argue: ["The EU vote", "Tourism", "Trump and Greenland, the neighbour"]
+  say: {lang: is, name: Icelandic, phrases: [["Halló", "Hello", "HAH-loh"], ["Takk", "Thank you", "TAHK"]]}
+
+IRL:
+  eat: ["Irish stew of lamb and potato", "Full Irish breakfast", "Soda bread"]
+  listen: ["Trad sessions in the pub", "U2, The Cranberries, Hozier", "Kneecap, Irish-language rap"]
+  argue: ["The housing crisis", "Gaza", "Relying on US tech giants and their taxes"]
+  say: {lang: ga, name: Irish (English is spoken by nearly everyone), phrases: [["Dia duit", "Hello", "DEE-a gwit"], ["Go raibh maith agat", "Thank you", "guh rev MAH a-gut"]]}
+
+ITA:
+  eat: ["Pasta, in hundreds of regional shapes", "Pizza from Naples", "Espresso standing at the bar"]
+  listen: ["Opera, from Verdi and Puccini", "Cantautori: Lucio Dalla, Fabrizio De André", "Måneskin and Sanremo, the song festival everyone watches"]
+  argue: ["Meloni's referendum defeat", "Young people leaving", "Migrants crossing the Mediterranean"]
+  say: {lang: it, name: Italian, phrases: [["Ciao / Buongiorno", "Hi / Hello", "CHOW / bwon-JOR-no"], ["Grazie", "Thank you", "GRAHT-see-eh"]]}
+
+XKX:
+  eat: ["Flija, a layered pancake baked for hours", "Byrek", "Macchiato, the café culture of Pristina"]
+  listen: ["Rita Ora and Dua Lipa, Kosovo Albanian roots", "Albanian folk with the çifteli", "Rap"]
+  argue: ["Serbia and the north", "Deadlock and repeated elections", "Visa-free travel and jobs"]
+  say: {lang: sq-XK, name: Albanian (Serbian in Serb areas), phrases: [["Tungjatjeta", "Hello", "toon-jat-YEH-ta"], ["Faleminderit", "Thank you", "fa-leh-min-DEH-rit"]]}
+
+LVA:
+  eat: ["Grey peas with bacon", "Rye bread", "Sklandrausis, carrot and potato tart"]
+  listen: ["The Song and Dance Festival", "Dainas, folk verses", "Brainstorm, the rock band"]
+  argue: ["Russian-language schools", "Defence spending", "Emigration"]
+  say: {lang: lv, name: Latvian, phrases: [["Sveiki", "Hello", "SVAY-kee"], ["Paldies", "Thank you", "PAL-dee-es"]]}
+
+LIE:
+  eat: ["Käsknöpfle, cheese dumplings with onions", "Ribel, cornmeal", "Local wine"]
+  listen: ["Alpine brass bands", "Swiss and Austrian pop", "Classical concerts"]
+  argue: ["The prince's power", "Banking and taxes", "Housing for workers who cross from Switzerland and Austria"]
+  say: {lang: de-LI, name: German, phrases: [["Hoi", "Hi", "HOY"], ["Danke", "Thank you", "DAHN-keh"]]}
+
+LTU:
+  eat: ["Cepelinai, potato dumplings stuffed with meat", "Šaltibarščiai, cold pink beet soup", "Kugelis, potato pudding"]
+  listen: ["Sutartinės, polyphonic songs", "Basketball anthems", "Lithuanian pop"]
+  argue: ["Russia and Belarus next door", "Government instability", "Emigration"]
+  say: {lang: lt, name: Lithuanian, phrases: [["Labas", "Hi", "LAH-bas"], ["Ačiū", "Thank you", "AH-choo"]]}
+
+LUX:
+  eat: ["Judd mat Gaardebounen, smoked pork with broad beans", "Bouneschlupp, green bean soup", "Riesling from the Moselle"]
+  listen: ["Classical music", "Luxembourgish rap", "Everything else, with so many nationalities"]
+  argue: ["Housing costs", "The new Grand Duke", "Cross-border workers"]
+  say: {lang: lb, name: Luxembourgish, phrases: [["Moien", "Hello", "MOY-en"], ["Merci", "Thank you", "mair-SEE"]]}
+
+MLT:
+  eat: ["Pastizzi, ricotta or pea pastries", "Fenkata, rabbit stew", "Ftira, Maltese bread"]
+  listen: ["Għana, Maltese folk singing", "Band clubs at village feasts", "Eurovision"]
+  argue: ["Overdevelopment and construction", "Corruption and Daphne Caruana Galizia's murder", "Foreign workers"]
+  say: {lang: mt, name: Maltese (English is also official), phrases: [["Bonġu", "Good morning", "BON-joo"], ["Grazzi", "Thank you", "GRAHT-see"]]}
+
+MDA:
+  eat: ["Mămăligă, polenta, with cheese and sour cream", "Plăcintă, stuffed pastries", "Wine from huge underground cellars"]
+  listen: ["Zdob și Zdub", "O-Zone's 'Dragostea din tei'", "Folk with the nai panpipes"]
+  argue: ["EU membership versus Russia", "Transnistria", "Emigration"]
+  say: {lang: ro-MD, name: Romanian, phrases: [["Bună ziua", "Hello", "BOO-nuh ZEE-wa"], ["Mulțumesc", "Thank you", "mool-tsoo-MESK"]]}
+
+MCO:
+  eat: ["Barbagiuan, fried pastries of chard and ricotta", "Socca, chickpea pancake", "Riviera seafood"]
+  listen: ["The Monte-Carlo Opera", "Jazz", "French and Italian pop"]
+  argue: ["Land reclaimed from the sea", "Housing for the Monégasques", "Tax-haven reputation"]
+  say: {lang: fr-MC, name: French, phrases: [["Bonjour", "Hello", "bon-ZHOOR"], ["Merci", "Thank you", "mair-SEE"]]}
+
+MNE:
+  eat: ["Njeguški pršut, smoked ham", "Kačamak, cornmeal with cheese", "Seafood on the coast"]
+  listen: ["Gusle epic singing", "Yugo-pop", "Turbo-folk"]
+  argue: ["Joining the EU", "Ties to Serbia and the Orthodox church", "Overdevelopment of the coast"]
+  say: {lang: sr-ME, name: Montenegrin, phrases: [["Zdravo", "Hello", "ZDRAH-vo"], ["Hvala", "Thank you", "HVAH-la"]]}
+
+NLD:
+  eat: ["Stamppot, mashed potato with kale and sausage", "Herring, raw with onions", "Stroopwafels and cheese"]
+  listen: ["DJs, from Tiësto to Martin Garrix", "Nederpop", "Dutch rap"]
+  argue: ["The housing shortage", "Asylum and immigration", "Nitrogen rules and farmers"]
+  say: {lang: nl-NL, name: Dutch, phrases: [["Hoi / Hallo", "Hi", "HOY / HAH-lo"], ["Dank je", "Thank you", "DAHNK yeh"]]}
+
+MKD:
+  eat: ["Tavče gravče, baked beans", "Ajvar, roasted pepper relish", "Burek for breakfast"]
+  listen: ["Toše Proeski, the beloved pop singer", "Čalgija, urban folk", "Brass bands"]
+  argue: ["Bulgaria's veto on EU talks", "Emigration", "Corruption"]
+  say: {lang: mk, name: Macedonian, phrases: [["Здраво (zdravo)", "Hello", "ZDRAH-vo"], ["Благодарам (blagodaram)", "Thank you", "bla-go-DAH-ram"]]}
+
+NOR:
+  eat: ["Brunost, brown cheese, on bread", "Salmon and cod", "Matpakke, the packed sandwich lunch"]
+  listen: ["Black metal", "a-ha and Kygo", "Grieg"]
+  argue: ["New oil drilling", "The oil fund's investments", "Rural versus urban Norway"]
+  say: {lang: nb, name: Norwegian, phrases: [["Hei", "Hi", "HI"], ["Takk", "Thank you", "TAHK"]]}
+
+POL:
+  eat: ["Pierogi, dumplings", "Żurek, sour rye soup", "Bigos, hunter's stew"]
+  listen: ["Chopin", "Disco polo", "Polish rap"]
+  argue: ["The president's vetoes against Tusk", "Defence and Russia", "Abortion"]
+  say: {lang: pl, name: Polish, phrases: [["Cześć / Dzień dobry", "Hi / Hello", "CHESHCH / jen DOB-ri"], ["Dziękuję", "Thank you", "jen-KOO-yeh"]]}
+
+PRT:
+  eat: ["Bacalhau, salt cod, in hundreds of recipes", "Pastel de nata", "Grilled sardines in June"]
+  listen: ["Fado, the mournful songs of Lisbon and Coimbra", "Pimba, cheesy pop", "Kizomba and Afro-Portuguese music"]
+  argue: ["Housing prices", "The far right's rise", "Low wages"]
+  say: {lang: pt-PT, name: Portuguese, phrases: [["Olá", "Hello", "oh-LAH"], ["Obrigado / Obrigada", "Thank you (men / women)", "oh-bree-GAH-doo / -da"]]}
+
+ROU:
+  eat: ["Sarmale, cabbage rolls", "Mici, grilled sausages, with mustard and beer", "Mămăligă"]
+  listen: ["Manele, Roma-influenced pop", "Doina laments", "Inna and Romanian dance pop"]
+  argue: ["Austerity and recession", "The far right", "Corruption"]
+  say: {lang: ro, name: Romanian, phrases: [["Bună ziua", "Hello", "BOO-nuh ZEE-wa"], ["Mulțumesc", "Thank you", "mool-tsoo-MESK"]]}
+
+RUS:
+  eat: ["Borscht and pelmeni", "Blini at Maslenitsa", "Olivier salad at New Year"]
+  listen: ["Tchaikovsky and Rachmaninoff", "Russian rock: Kino and Viktor Tsoi", "Estrada pop and Russian rap, now censored"]
+  argue: ["The war, though criticising it is a crime", "Prices and sanctions", "Mobilisation"]
+  say: {lang: ru, name: Russian, phrases: [["Привет / Здравствуйте (privet / zdravstvuyte)", "Hi / Hello", "pree-VYET / ZDRAST-vooy-tyeh"], ["Спасибо (spasibo)", "Thank you", "spa-SEE-ba"]]}
+
+SMR:
+  eat: ["Torta Tre Monti, a layered wafer cake", "Piadina flatbread", "Pasta from neighbouring Romagna"]
+  listen: ["Italian pop", "Eurovision entries", "Medieval festival music"]
+  argue: ["The EU association agreement", "Banking", "Tourism"]
+  say: {lang: it-SM, name: Italian, phrases: [["Ciao", "Hi", "CHOW"], ["Grazie", "Thank you", "GRAHT-see-eh"]]}
+
+SRB:
+  eat: ["Ćevapi and pljeskavica", "Sarma", "Rakija"]
+  listen: ["Turbo-folk", "Guča trumpet festival brass", "Yugo-rock"]
+  argue: ["The student movement's victory and Vučić's fall", "Kosovo", "Russia versus the EU"]
+  say: {lang: sr, name: Serbian, phrases: [["Здраво (zdravo)", "Hello", "ZDRAH-vo"], ["Хвала (hvala)", "Thank you", "HVAH-la"]]}
+
+SVK:
+  eat: ["Bryndzové halušky, potato dumplings with sheep cheese", "Kapustnica, sauerkraut soup", "Lokše, potato pancakes"]
+  listen: ["Fujara, a giant shepherd's flute", "Slovak pop", "Folk festivals"]
+  argue: ["Fico and the anti-corruption prosecutor", "Russia and Ukraine", "NGOs"]
+  say: {lang: sk, name: Slovak, phrases: [["Ahoj / Dobrý deň", "Hi / Hello", "AH-hoy / DOB-ree dyen"], ["Ďakujem", "Thank you", "JAH-koo-yem"]]}
+
+SVN:
+  eat: ["Potica, nut roll", "Kranjska klobasa, sausage", "Štruklji, rolled dumplings"]
+  listen: ["Laibach", "Polka from Avsenik", "Alpine choirs"]
+  argue: ["Janša's return", "Healthcare waiting lists", "Migrants"]
+  say: {lang: sl, name: Slovene, phrases: [["Živjo", "Hi", "ZHEEV-yo"], ["Hvala", "Thank you", "HVAH-la"]]}
+
+ESP:
+  eat: ["Tortilla de patatas", "Paella from Valencia", "Tapas and late dinners after 9pm"]
+  listen: ["Flamenco", "Rosalía and Bad Gyal", "Reggaetón"]
+  argue: ["Housing and rents", "Sánchez's coalition and amnesty for Catalan separatists", "Overtourism"]
+  say: {lang: es-ES, name: Spanish, phrases: [["Hola", "Hello", "OH-la"], ["Gracias", "Thank you", "GRAH-thyas"]]}
+
+SWE:
+  eat: ["Köttbullar, meatballs with lingonberry", "Fika, coffee and cinnamon buns", "Pickled herring at midsummer"]
+  listen: ["ABBA", "Swedish pop producers behind global hits", "Robyn and Swedish rap"]
+  argue: ["Gang shootings and bombings", "Who forms the next government", "Immigration"]
+  say: {lang: sv, name: Swedish, phrases: [["Hej", "Hi", "HAY"], ["Tack", "Thank you", "TAHK"]]}
+
+CHE:
+  eat: ["Fondue and raclette", "Rösti, potato pancake", "Chocolate"]
+  listen: ["Alphorns and yodelling", "Swiss rap in dialect", "Montreux Jazz Festival"]
+  argue: ["Relations with the EU", "Immigration", "US tariffs"]
+  say: {lang: de-CH, name: Swiss German, French, Italian, phrases: [["Grüezi", "Hello (Swiss German)", "GROO-et-see"], ["Merci", "Thank you", "MAIR-see"]]}
+
+UKR:
+  eat: ["Borshch, beetroot soup, on UNESCO's list as Ukrainian", "Varenyky, dumplings", "Salo, cured pork fat"]
+  listen: ["Kalush Orchestra and Jamala", "Folk with the bandura", "Ukrainian pop, now sung in Ukrainian not Russian"]
+  argue: ["Whether to accept a ceasefire and on what terms", "Mobilisation", "Corruption"]
+  say: {lang: uk, name: Ukrainian, phrases: [["Привіт / Добрий день (pryvit / dobryi den)", "Hi / Hello", "pree-VEET / DOH-bree den"], ["Дякую (diakuiu)", "Thank you", "DYA-koo-yoo"]]}
+
+GBR:
+  eat: ["Fish and chips", "Sunday roast", "Curry, with chicken tikka masala a national favourite"]
+  listen: ["The Beatles and the Rolling Stones", "Grime and UK rap", "Adele and Ed Sheeran"]
+  argue: ["A new prime minister and Labour's direction", "Immigration and small boats", "The NHS"]
+  say: {lang: en-GB, name: English, phrases: [["Hiya / Alright?", "Hello", "HI-ya / orl-RITE"], ["Cheers", "Thanks", "CHEERZ"]]}
+
+VAT:
+  eat: ["Roman food", "Vatican's own pharmacy and supermarket", "Communion wafers"]
+  listen: ["Gregorian chant", "The Sistine Chapel Choir", "Papal masses"]
+  argue: ["AI and the Church", "Traditionalists and reform", "Abuse scandals"]
+  say: {lang: it-VA, name: Italian (Latin is the official language of the Holy See), phrases: [["Buongiorno", "Hello", "bwon-JOR-no"], ["Grazie", "Thank you", "GRAHT-see-eh"]]}
