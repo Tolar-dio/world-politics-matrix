@@ -1388,6 +1388,8 @@
     get world() { return world; }, get index() { return index; }, get byId() { return byId; },
     get mil() { return mil; }, get news() { return news; }, get mobile() { return mobileMQ.matches; },
     get conflictById() { return conflictById; },
+    showTip(html) { tip.innerHTML = html; tip.hidden = false; placeTip(); },
+    hideTip() { tip.hidden = true; renderTip(); },
     reduceMotion, esc, norm, mix, cssVar, isDark, fmtDate, dateRange, panelTop, section, sourceList, pList, flagsFor,
     on(evt, fn) { (ext.listeners[evt] = ext.listeners[evt] || []).push(fn); },
     emit, select, closeProfile, openPanel, showPanel, flyTo, flyToPoint, setMode, setLens, renderLegend,

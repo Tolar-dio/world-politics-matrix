@@ -62,3 +62,51 @@ table.cmp .cmp-group th { text-align: left; padding: 16px 0 4px; font-size: 12.5
 @media (max-width: 899px) {
   .data-pop { grid-template-columns: 1fr 1fr; gap: 2px 10px; font-size: 13px; }
 }
+
+/* ---------- globe tools (time machine, live earth) ---------- */
+.globe-tools {
+  position: absolute; right: 28px; bottom: 26px; z-index: 4;
+  display: flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end;
+}
+.tool {
+  display: inline-flex; align-items: center; gap: 7px; cursor: pointer;
+  font-family: var(--sans); font-size: 13.5px; font-weight: 600; color: var(--ink);
+  background: var(--paper); border: 1px solid var(--rule); border-radius: 999px; padding: 7px 14px 7px 11px;
+}
+.tool svg { width: 16px; height: 16px; flex: none; }
+.tool[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.tool:hover { border-color: var(--ink); }
+.tool.busy svg { animation: tool-spin 1s linear infinite; }
+@keyframes tool-spin { to { transform: rotate(360deg); } }
+
+/* ---------- live earth markers ---------- */
+.live-mk {
+  width: var(--s, 14px); height: var(--s, 14px); padding: 2px; border: 0; border-radius: 50%; cursor: pointer;
+  pointer-events: auto; transform: translate(-50%, -50%); display: grid; place-items: center;
+  background: color-mix(in srgb, var(--c) 18%, #fff); color: var(--c);
+  box-shadow: 0 0 0 1.5px var(--c), 0 1px 3px rgba(0,0,0,.35);
+}
+.live-mk svg { width: 100%; height: 100%; }
+.live-mk.severe { box-shadow: 0 0 0 2.5px var(--c), 0 0 0 5px color-mix(in srgb, var(--c) 30%, transparent), 0 1px 3px rgba(0,0,0,.35); }
+.live-mk:hover { outline: 2px solid #F3D27A; outline-offset: 2px; z-index: 3; }
+.live-focus { margin: 16px 0 6px; padding: 12px 14px; border-radius: 8px; background: var(--chip); }
+.live-warn { font-family: var(--sans); font-size: 13.5px; color: var(--war); }
+.num-h span { font-weight: 400; color: var(--ink-3); }
+.live-list { list-style: none; margin: 0; padding: 0; }
+.live-list li { display: grid; grid-template-columns: 1fr auto; gap: 10px; align-items: center; border-bottom: 1px solid var(--rule); }
+.live-list li.on { background: color-mix(in srgb, var(--brass) 12%, transparent); }
+.live-list button { display: grid; grid-template-columns: 22px 1fr; gap: 10px; align-items: center; width: 100%; text-align: left; border: 0; background: none; padding: 8px 0; cursor: pointer; }
+.live-ico { width: 20px; height: 20px; color: var(--c); }
+.live-txt { display: flex; flex-direction: column; font-family: var(--sans); line-height: 1.3; }
+.live-txt b { font-size: 14.5px; font-weight: 600; color: var(--ink); }
+.live-txt small { font-size: 12.5px; color: var(--ink-2); }
+.live-list button:hover b { text-decoration: underline; text-decoration-color: var(--brass); }
+.live-src { font-family: var(--sans); font-size: 12px; color: var(--ink-3); white-space: nowrap; }
+.arc-tip { font-family: var(--sans); font-size: 13px; background: var(--paper); color: var(--ink); border: 1px solid var(--rule); border-radius: 6px; padding: 5px 8px; box-shadow: var(--shadow); }
+
+@media (max-width: 899px) {
+  .globe-tools { top: 172px; right: 12px; bottom: auto; flex-direction: column; align-items: flex-end; gap: 6px; }
+  .tool { padding: 8px; font-size: 12.5px; }
+  .tool span { display: none; }
+  .tool svg { width: 18px; height: 18px; }
+}
