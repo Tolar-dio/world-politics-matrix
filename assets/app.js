@@ -942,6 +942,7 @@
     setSheet(mobileMQ.matches ? (state.sheet === 'full' ? 'full' : 'open') : 'open');
     const heading = $('#profile-name');
     if (heading && !mobileMQ.matches) heading.focus({ preventScroll: true });
+    emit('panel');
   }
 
   function focusMil(type, id, title) {

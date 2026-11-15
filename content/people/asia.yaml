@@ -1,0 +1,289 @@
+# Everyday life: see africa.yaml for the format.
+
+AFG:
+  eat: ["Kabuli pulao, rice with carrots, raisins and lamb, the national dish", "Mantu, steamed dumplings with yoghurt", "Bolani, stuffed flatbread, and green tea"]
+  listen: ["Ahmad Zahir, the 1970s 'Afghan Elvis'", "The rubab, a lute, and Afghan classical music", "Music itself, which the Taliban have banned in public"]
+  argue: ["The Taliban's ban on girls' schooling beyond primary", "The war with Pakistan and refugees forced back across the border", "Hunger and lost foreign aid"]
+  say: {lang: fa-AF, name: Dari, phrases: [["Salaam", "Hello", "sa-LAAM"], ["Tashakor", "Thank you", "ta-sha-KOOR"]]}
+
+ARE:
+  eat: ["Machboos, spiced rice with meat or fish", "Luqaimat, sweet dumplings with date syrup", "Shawarma and biryani, the food of a city of migrants"]
+  listen: ["Khaleeji pop, from Hussain Al Jassmi", "Al-ayyala, the stick dance with drums", "Bollywood, Filipino and every other migrant's music"]
+  argue: ["Whether Dubai is still a safe harbour after the Iranian strikes", "Leaving OPEC to pump more oil", "Rights for the migrant workers who are 9 in 10 residents"]
+  say: {lang: ar-AE, name: Arabic, phrases: [["Marhaba", "Hello", "MAR-ha-ba"], ["Shukran", "Thank you", "SHOOK-ran"]]}
+
+ARM:
+  eat: ["Khorovats, barbecued pork or lamb", "Dolma, stuffed vine leaves", "Lavash, thin flatbread on UNESCO's heritage list, with apricots"]
+  listen: ["The duduk, an apricot-wood oboe", "Komitas, father of Armenian classical music", "System of a Down and the diaspora"]
+  argue: ["The peace deal with Azerbaijan and losing Karabakh", "Pashinyan's clash with the Armenian Church", "Breaking with Russia for the West"]
+  say: {lang: hy, name: Armenian, phrases: [["Barev", "Hello", "BAH-rev"], ["Shnorhakalutyun", "Thank you", "shnor-ha-ka-loo-TYOON"]]}
+
+AZE:
+  eat: ["Plov, saffron rice with dozens of variations", "Dolma and kebabs", "Tea with jam, never with milk"]
+  listen: ["Mugham, improvised classical music on UNESCO's list", "Tar and kamancha, lute and spike fiddle", "Eurovision-style pop"]
+  argue: ["Peace with Armenia and the US-run transit route", "Jailed journalists", "Life after oil"]
+  say: {lang: az, name: Azerbaijani, phrases: [["Salam", "Hello", "sa-LAHM"], ["Sağ ol", "Thanks", "SAH-ol"]]}
+
+BHR:
+  eat: ["Machboos, spiced rice with fish or chicken", "Muhammar, sweet rice with fish", "Halwa from Showaiter, a sweet shop since 1850"]
+  listen: ["Fijiri, the songs of the old pearl divers", "Khaleeji pop", "Shia religious chanting"]
+  argue: ["Arrests of Shia citizens accused of sympathising with Iran", "Hosting the US Fifth Fleet", "Jobs for Bahrainis versus foreigners"]
+  say: {lang: ar-BH, name: Arabic, phrases: [["Marhaba", "Hello", "MAR-ha-ba"], ["Shukran", "Thank you", "SHOOK-ran"]]}
+
+BGD:
+  eat: ["Rice and fish, especially hilsa in mustard sauce", "Bhorta, mashed vegetables with mustard oil and chilli", "Biryani in Old Dhaka"]
+  listen: ["Rabindranath Tagore's songs, including the national anthem", "Baul, the mystic minstrel music", "Coke Studio Bangla"]
+  argue: ["Justice for the 2024 killings and Sheikh Hasina's trial in absentia", "Whether the BNP will rule differently", "Garment wages"]
+  say: {lang: bn-BD, name: Bengali, phrases: [["Assalamu alaikum", "Hello", "as-sa-LAA-moo a-LAY-kum"], ["Dhonnobad", "Thank you", "DHON-no-bad"]]}
+
+BTN:
+  eat: ["Ema datshi, chillies in cheese sauce, eaten with red rice", "Momos, dumplings", "Suja, butter tea"]
+  listen: ["Zhungdra and boedra, the classical folk songs", "Rigsar, modern Bhutanese pop", "Masked tsechu festival dances"]
+  argue: ["Young people leaving for Australia", "The new Gelephu mindfulness city", "Tourist fees"]
+  say: {lang: dz, name: Dzongkha, phrases: [["Kuzuzangpo la", "Hello", "koo-zoo-ZANG-po la"], ["Kadrinchey la", "Thank you", "ka-DRIN-chay la"]]}
+
+BRN:
+  eat: ["Ambuyat, a sticky sago starch eaten with sour dips", "Nasi katok, rice with fried chicken, cheap and everywhere", "Satay"]
+  listen: ["Adai-adai, fishermen's work songs", "Malay pop", "Islamic nasyid"]
+  argue: ["What happens when the oil runs out", "Sharia penal code", "Jobs outside government"]
+  say: {lang: ms-BN, name: Malay, phrases: [["Selamat pagi", "Good morning", "seh-LA-mat PAH-gee"], ["Terima kasih", "Thank you", "teh-REE-ma KA-see"]]}
+
+KHM:
+  eat: ["Fish amok, fish steamed in coconut curry", "Bai sach chrouk, pork and rice for breakfast", "Kuy teav, noodle soup"]
+  listen: ["Sinn Sisamouth and 1960s Khmer rock, silenced by the Khmer Rouge", "Pinpeat orchestras for classical dance", "Khmer pop"]
+  argue: ["The border war with Thailand", "Scam compounds and trafficked workers", "Hun Manet's inheritance of power from his father"]
+  say: {lang: km, name: Khmer, phrases: [["Sous-dey", "Hello", "soos-DAY"], ["Or-kun", "Thank you", "aw-KOON"]]}
+
+CHN:
+  eat: ["Rice in the south, noodles and dumplings in the north", "Hotpot, Sichuan-spicy or mild", "Peking duck and Cantonese dim sum"]
+  listen: ["Mandopop, from Jay Chou", "C-pop idols and talent shows", "Peking opera"]
+  argue: ["Jobs for young graduates, 'lying flat' and 'let it rot'", "House prices that keep falling", "Having children, or not"]
+  say: {lang: zh-CN, name: Mandarin Chinese, phrases: [["你好 (nǐ hǎo)", "Hello", "nee HOW"], ["谢谢 (xièxie)", "Thank you", "SHYEH-shyeh"]]}
+
+GEO:
+  eat: ["Khachapuri, cheese-filled bread; the Adjarian one has an egg", "Khinkali, soup dumplings", "Wine made in clay qvevri jars, an 8,000-year tradition"]
+  listen: ["Polyphonic singing, on UNESCO's list", "Supra toasts led by the tamada", "Katie Melua and Georgian jazz"]
+  argue: ["Georgian Dream's crackdown and the end of the EU bid", "Russia, which occupies a fifth of the country", "The nightly protests on Rustaveli Avenue"]
+  say: {lang: ka, name: Georgian, phrases: [["Gamarjoba", "Hello", "ga-mar-JO-ba"], ["Madloba", "Thank you", "mad-LO-ba"]]}
+
+IND:
+  eat: ["Dal and rice or roti, daily, in endless regional versions", "Biryani, the most ordered dish on delivery apps", "Masala chai, sold at every station"]
+  listen: ["Bollywood film songs, from Lata Mangeshkar to Arijit Singh", "Punjabi pop and Diljit Dosanjh", "Classical ragas, Hindustani and Carnatic"]
+  argue: ["Jobs for young people", "Hindu nationalism and minorities", "Cricket, always"]
+  say: {lang: hi-IN, name: Hindi, phrases: [["नमस्ते (namaste)", "Hello", "na-ma-STAY"], ["धन्यवाद (dhanyavaad)", "Thank you", "DHUN-ya-vaad"]]}
+
+IDN:
+  eat: ["Nasi goreng, fried rice", "Rendang, slow-cooked spiced beef from Sumatra", "Satay and tempeh"]
+  listen: ["Dangdut, a mix of Malay, Indian and Arab pop", "Gamelan orchestras in Java and Bali", "Indie bands and K-pop fans"]
+  argue: ["Fuel prices after the Iran war", "Prabowo's free school meals and who pays", "The military's growing role in government"]
+  say: {lang: id, name: Indonesian, phrases: [["Halo, apa kabar?", "Hi, how are you?", "HA-lo, AH-pa KA-bar"], ["Terima kasih", "Thank you", "teh-REE-ma KA-see"]]}
+
+IRN:
+  eat: ["Chelow kabab, saffron rice with grilled meat", "Ghormeh sabzi, herb and bean stew", "Tahdig, the crispy rice from the bottom of the pot"]
+  listen: ["Persian classical music and the poetry of Hafez", "Googoosh and 1970s pop, still loved", "Underground rap and the women's protest songs"]
+  argue: ["The war, the new supreme leader and what comes next", "Prices and a collapsing rial", "Hijab rules and the 'Woman, Life, Freedom' movement"]
+  say: {lang: fa-IR, name: Persian, phrases: [["Salaam", "Hello", "sa-LAAM"], ["Merci / Mamnoon", "Thank you", "mer-SEE / mam-NOON"]]}
+
+IRQ:
+  eat: ["Masgouf, carp grilled by the Tigris", "Dolma, stuffed vegetables", "Kleicha, date cookies"]
+  listen: ["Maqam, Baghdad's classical vocal music", "Kadim Al Sahir, the Caesar of Arab song", "Kurdish folk in the north"]
+  argue: ["Militias and US forces trading fire", "Power cuts in the summer heat", "Water shortages from dams upstream"]
+  say: {lang: ar-IQ, name: Iraqi Arabic, phrases: [["Shlonak?", "How are you?", "SHLOH-nak"], ["Shukran", "Thank you", "SHOOK-ran"]]}
+
+ISR:
+  eat: ["Hummus, falafel and sabich in pitta", "Shakshuka, eggs in tomato sauce", "Shabbat dinner with challah bread"]
+  listen: ["Mizrahi pop, from Omer Adam", "Israeli rock and folk songs", "Psytrance"]
+  argue: ["Who forms the next government", "The cost of the wars", "Military service for the ultra-Orthodox"]
+  say: {lang: he, name: Hebrew, phrases: [["שלום (shalom)", "Hello", "sha-LOHM"], ["תודה (toda)", "Thank you", "toh-DAH"]]}
+
+JPN:
+  eat: ["Rice, miso soup and pickles, the base of every meal", "Ramen, sushi and convenience-store onigiri", "Curry rice, a home favourite"]
+  listen: ["J-pop and anime theme songs", "City pop from the 1980s, rediscovered online", "Enka ballads"]
+  argue: ["An ageing, shrinking population", "Immigration", "Rearmament and relations with China"]
+  say: {lang: ja-JP, name: Japanese, phrases: [["こんにちは (konnichiwa)", "Hello", "kon-NEE-chee-wa"], ["ありがとう (arigatō)", "Thank you", "ah-ree-GAH-toh"]]}
+
+JOR:
+  eat: ["Mansaf, lamb in fermented yoghurt over rice, the national dish", "Falafel and hummus for breakfast", "Knafeh, sweet cheese pastry"]
+  listen: ["Bedouin songs with the rababa", "Arab pop", "Mashrou' Leila and indie bands of Amman"]
+  argue: ["Gaza and the Palestinian majority's anger", "Water scarcity", "Unemployment"]
+  say: {lang: ar-JO, name: Arabic, phrases: [["Marhaba", "Hello", "MAR-ha-ba"], ["Shukran", "Thank you", "SHOOK-ran"]]}
+
+KAZ:
+  eat: ["Beshbarmak, boiled meat on flat noodles, eaten by hand", "Baursak, fried dough", "Kumis, fermented mare's milk"]
+  listen: ["Dombra, the two-stringed lute", "Q-pop and Dimash Qudaibergen's six-octave voice", "Russian pop"]
+  argue: ["The new constitution and Tokayev's power", "Russian versus Kazakh language", "Oil wealth that stays in Astana"]
+  say: {lang: kk, name: Kazakh, phrases: [["Sälemetsiz be", "Hello", "sa-leh-met-SIZ beh"], ["Rakhmet", "Thank you", "rakh-MET"]]}
+
+KWT:
+  eat: ["Machboos, spiced rice with chicken", "Gabout, stuffed dumplings in stew", "Dates and Arabic coffee"]
+  listen: ["Sawt, Gulf urban music with the oud", "Khaleeji pop", "Sea songs of the pearl divers"]
+  argue: ["Tens of thousands stripped of citizenship", "Parliament's suspension", "Bidoon, the stateless"]
+  say: {lang: ar-KW, name: Arabic, phrases: [["Marhaba", "Hello", "MAR-ha-ba"], ["Shukran", "Thank you", "SHOOK-ran"]]}
+
+KGZ:
+  eat: ["Beshbarmak and plov", "Laghman, hand-pulled noodles", "Kymyz, fermented mare's milk, in summer pastures"]
+  listen: ["Komuz, the three-stringed lute", "Manas, the epic recited by manaschi", "Russian and Kyrgyz pop"]
+  argue: ["Japarov's tightening grip", "Migrant work in Russia", "Corruption"]
+  say: {lang: ky, name: Kyrgyz, phrases: [["Salamatsyzby", "Hello", "sa-la-mat-SUZ-buh"], ["Rakhmat", "Thank you", "rakh-MAT"]]}
+
+LAO:
+  eat: ["Sticky rice, eaten by hand", "Larb, a minced meat salad with herbs and lime", "Tam mak hoong, spicy papaya salad"]
+  listen: ["Lam, sung poetry with the khaen mouth organ", "Mor lam", "Thai pop"]
+  argue: ["Debt to China", "Inflation and the falling kip", "Dams on the Mekong"]
+  say: {lang: lo, name: Lao, phrases: [["Sabaidee", "Hello", "sa-bai-DEE"], ["Khop chai", "Thank you", "kop JAI"]]}
+
+LBN:
+  eat: ["Mezze: hummus, tabbouleh, fattoush", "Manakish, za'atar flatbread, for breakfast", "Kibbeh"]
+  listen: ["Fairuz, played every morning", "Dabke at weddings", "Mashrou' Leila"]
+  argue: ["Hezbollah dragging the country back to war", "Disarming Hezbollah", "Savings lost in the banking collapse"]
+  say: {lang: ar-LB, name: Lebanese Arabic, phrases: [["Marhaba / Bonjour", "Hello", "MAR-ha-ba / bon-ZHOOR"], ["Merci / Shukran", "Thank you", "mer-SEE / SHOOK-ran"]]}
+
+MYS:
+  eat: ["Nasi lemak, coconut rice with sambal, the national breakfast", "Roti canai and teh tarik, pulled tea", "Char kway teow and laksa"]
+  listen: ["Malay pop and P. Ramlee classics", "Dikir barat, group singing", "Cantopop and Tamil film songs"]
+  argue: ["Race and religion in politics", "Subsidy cuts", "Corruption scandals"]
+  say: {lang: ms-MY, name: Malay, phrases: [["Apa khabar?", "How are you?", "AH-pa KA-bar"], ["Terima kasih", "Thank you", "teh-REE-ma KA-see"]]}
+
+MDV:
+  eat: ["Mas huni, tuna with coconut and chilli, with roshi flatbread", "Garudhiya, fish broth", "Hedhikaa, short eats with tea"]
+  listen: ["Boduberu, big-drum music", "Bollywood", "Local pop"]
+  argue: ["Rising seas", "Debt to China and India", "Press freedom"]
+  say: {lang: dv, name: Dhivehi, phrases: [["Assalaamu alaikum", "Hello", "as-sa-LAA-moo a-LAY-kum"], ["Shukuriyyaa", "Thank you", "shoo-koo-REE-ya"]]}
+
+MNG:
+  eat: ["Buuz, steamed mutton dumplings, especially at Lunar New Year", "Khuushuur, fried meat pastries", "Suutei tsai, salty milk tea"]
+  listen: ["Khöömii, throat singing", "The morin khuur, horsehead fiddle", "The HU, the throat-singing metal band"]
+  argue: ["Corruption and changing governments", "Air pollution in Ulaanbaatar's winter", "Mining money"]
+  say: {lang: mn, name: Mongolian, phrases: [["Sain baina uu", "Hello", "sain BAIN-oo"], ["Bayarlalaa", "Thank you", "BA-yar-la-laa"]]}
+
+MMR:
+  eat: ["Mohinga, fish noodle soup, for breakfast", "Laphet thoke, fermented tea leaf salad", "Curries with rice"]
+  listen: ["Saing waing orchestras", "Burmese pop and rock", "Revolution songs since the coup"]
+  argue: ["The civil war against the junta", "Conscription", "The Rohingya"]
+  say: {lang: my, name: Burmese, phrases: [["Mingalaba", "Hello", "min-ga-la-BA"], ["Kyay zu tin ba deh", "Thank you", "jay-zoo TIN ba deh"]]}
+
+NPL:
+  eat: ["Dal bhat, lentils and rice, twice a day", "Momos, dumplings", "Sel roti, ring-shaped rice bread, at Tihar"]
+  listen: ["Lok geet, folk songs with the sarangi", "Nepali pop", "Rap, now in power with the former rapper prime minister"]
+  argue: ["Whether the Gen Z government can deliver", "Jobs, so young men stop leaving for the Gulf", "Corruption"]
+  say: {lang: ne, name: Nepali, phrases: [["नमस्ते (namaste)", "Hello", "na-ma-STAY"], ["धन्यवाद (dhanyabad)", "Thank you", "DHUN-ya-bad"]]}
+
+PRK:
+  eat: ["Naengmyeon, cold buckwheat noodles from Pyongyang", "Kimchi", "Rice and maize porridge when times are hard"]
+  listen: ["Moranbong Band, the state girl group", "Revolutionary songs", "South Korean dramas, smuggled in at great risk"]
+  argue: ["Nothing in public: dissent is punished", "Food shortages, discussed in private", "Troops sent to fight for Russia"]
+  say: {lang: ko-KP, name: Korean, phrases: [["안녕하십니까 (annyeonghashimnikka)", "Hello", "an-nyong-ha-SHIM-nee-kka"], ["감사합니다 (kamsahamnida)", "Thank you", "KAM-sa-ham-nee-da"]]}
+
+OMN:
+  eat: ["Shuwa, lamb slow-cooked underground for two days", "Halwa, served with coffee", "Majboos rice"]
+  listen: ["Razha, sword dance with song", "Sea songs", "Khaleeji pop"]
+  argue: ["Jobs for young Omanis", "The war next door and Trump's threats", "Life after oil"]
+  say: {lang: ar-OM, name: Arabic, phrases: [["Marhaba", "Hello", "MAR-ha-ba"], ["Shukran", "Thank you", "SHOOK-ran"]]}
+
+PAK:
+  eat: ["Biryani, nihari and karahi", "Roti or naan with daal", "Chai, sweet and milky"]
+  listen: ["Qawwali, Nusrat Fateh Ali Khan's Sufi devotional music", "Coke Studio Pakistan", "Atif Aslam and Punjabi pop"]
+  argue: ["The army's power and Imran Khan in jail", "The war with the Taliban", "Inflation and the IMF"]
+  say: {lang: ur, name: Urdu, phrases: [["Assalam-o-alaikum", "Hello", "as-sa-LAAM-oh a-LAY-kum"], ["Shukriya", "Thank you", "SHOOK-ree-ya"]]}
+
+PSE:
+  eat: ["Maqluba, upside-down rice with chicken and vegetables", "Musakhan, sumac chicken on taboon bread", "Knafeh from Nablus"]
+  listen: ["Dabke at weddings", "Mohammed Assaf, the Gaza singer who won Arab Idol", "Palestinian rap"]
+  argue: ["Rebuilding Gaza and who governs it", "Settlements and violence in the West Bank", "The postponed election"]
+  say: {lang: ar-PS, name: Arabic, phrases: [["Marhaba", "Hello", "MAR-ha-ba"], ["Shukran", "Thank you", "SHOOK-ran"]]}
+
+PHL:
+  eat: ["Adobo, meat braised in vinegar and soy", "Sinigang, sour tamarind soup", "Lechon, whole roast pig, for fiestas"]
+  listen: ["OPM, Original Pilipino Music", "Karaoke, everywhere", "P-pop groups like SB19"]
+  argue: ["The Marcos-Duterte feud and Sara Duterte's trial", "Flood-control corruption", "China in the South China Sea"]
+  say: {lang: fil, name: Filipino, phrases: [["Kumusta?", "How are you?", "koo-MOOS-ta"], ["Salamat", "Thank you", "sa-LA-mat"]]}
+
+QAT:
+  eat: ["Machboos, spiced rice with meat", "Harees, wheat and meat porridge at Ramadan", "Karak tea"]
+  listen: ["Ardah, sword dance", "Khaleeji pop", "Sea songs"]
+  argue: ["Damage to the gas industry", "Its role as mediator", "Rights for migrant workers"]
+  say: {lang: ar-QA, name: Arabic, phrases: [["Marhaba", "Hello", "MAR-ha-ba"], ["Shukran", "Thank you", "SHOOK-ran"]]}
+
+SAU:
+  eat: ["Kabsa, spiced rice with chicken or lamb", "Jareesh, cracked wheat porridge", "Dates and cardamom coffee"]
+  listen: ["Mohammed Abdu, the 'artist of the Arabs'", "Saudi pop and the new concerts of Riyadh Season", "Ardah, the sword dance"]
+  argue: ["Being dragged into the war", "How fast social change should go", "Vision 2030 projects being scaled back"]
+  say: {lang: ar-SA, name: Arabic, phrases: [["Marhaba", "Hello", "MAR-ha-ba"], ["Shukran", "Thank you", "SHOOK-ran"]]}
+
+SGP:
+  eat: ["Hainanese chicken rice", "Chilli crab", "Laksa and kaya toast at hawker centres"]
+  listen: ["Mandopop and Cantopop", "Local indie and xinyao", "Tamil and Malay pop"]
+  argue: ["The cost of housing and cars", "Foreign workers", "The oil price shock"]
+  say: {lang: en-SG, name: English (Singlish), phrases: [["Eh, how ah?", "Hey, how's it going?", "EH, how AH"], ["Thank you", "Thank you", "TANK yoo"]]}
+
+KOR:
+  eat: ["Kimchi with every meal", "Korean barbecue, samgyeopsal pork belly", "Fried chicken and beer, chimaek"]
+  listen: ["K-pop, BTS and BLACKPINK", "Trot, old-style pop", "OSTs from K-dramas"]
+  argue: ["The martial law trials", "The world's lowest birth rate", "House prices in Seoul"]
+  say: {lang: ko-KR, name: Korean, phrases: [["안녕하세요 (annyeonghaseyo)", "Hello", "an-nyong-ha-SAY-yo"], ["감사합니다 (gamsahamnida)", "Thank you", "KAM-sa-ham-nee-da"]]}
+
+LKA:
+  eat: ["Rice and curry, several curries at once", "Hoppers, bowl-shaped pancakes", "Kottu roti, chopped flatbread stir-fried on a griddle"]
+  listen: ["Baila, Portuguese-influenced dance music", "Kandyan drums", "Sinhala pop"]
+  argue: ["Rebuilding after Cyclone Ditwah", "Whether the left-wing government keeps its promises", "Debt"]
+  say: {lang: si, name: Sinhala, phrases: [["Ayubowan", "Hello (may you live long)", "ah-yoo-BOH-wan"], ["Sthuthi", "Thank you", "STOO-tee"]]}
+
+SYR:
+  eat: ["Shawarma and falafel", "Kibbeh", "Fattoush and muhammara"]
+  listen: ["Sabah Fakhri and Aleppo's muwashshahat", "Omar Souleyman's wedding dabke", "Revolution songs"]
+  argue: ["The new government and minorities", "Rebuilding and returning refugees", "Merging the Kurdish-led forces"]
+  say: {lang: ar-SY, name: Arabic, phrases: [["Marhaba", "Hello", "MAR-ha-ba"], ["Shukran", "Thank you", "SHOOK-ran"]]}
+
+TWN:
+  eat: ["Beef noodle soup", "Night market snacks: stinky tofu, oyster omelette", "Bubble tea, invented here"]
+  listen: ["Mandopop, Jay Chou and Mayday", "Taiwanese Hokkien songs", "Indie bands"]
+  argue: ["Defence spending and China", "The opposition-run legislature", "Low wages and high house prices"]
+  say: {lang: zh-TW, name: Mandarin Chinese, phrases: [["你好 (nǐ hǎo)", "Hello", "nee HOW"], ["謝謝 (xièxie)", "Thank you", "SHYEH-shyeh"]]}
+
+TJK:
+  eat: ["Plov", "Qurutob, flatbread with yoghurt sauce", "Sambusa"]
+  listen: ["Shashmaqam, classical music", "Falak, mountain songs", "Tajik pop"]
+  argue: ["Migrant work in Russia", "Rahmon's son and succession", "Restrictions on religion"]
+  say: {lang: tg, name: Tajik, phrases: [["Salom", "Hello", "sa-LOM"], ["Rahmat", "Thank you", "rah-MAT"]]}
+
+THA:
+  eat: ["Pad krapow, stir-fried basil with rice", "Som tam, papaya salad, with sticky rice", "Tom yum soup"]
+  listen: ["Luk thung, country music", "Mor lam from the northeast", "T-pop and LISA of BLACKPINK"]
+  argue: ["The border with Cambodia", "The monarchy and lèse-majesté laws", "Household debt"]
+  say: {lang: th, name: Thai, phrases: [["Sawasdee krap/ka", "Hello (men/women)", "sa-wat-DEE krap / ka"], ["Khop khun krap/ka", "Thank you", "kop KOON krap / ka"]]}
+
+TLS:
+  eat: ["Ikan sabuko, grilled fish", "Batar da'an, corn with pumpkin and beans", "Coffee, the main export"]
+  listen: ["Tebe dance songs", "Portuguese-influenced folk", "Reggae"]
+  argue: ["The oil fund running down", "Jobs for young people", "Joining ASEAN"]
+  say: {lang: pt-TL, name: Tetum (Portuguese is also official), phrases: [["Botarde", "Good morning", "boh-TAR-deh"], ["Obrigadu", "Thank you", "oh-bree-GAH-doo"]]}
+
+TUR:
+  eat: ["Döner and lahmacun", "Breakfast spreads of cheese, olives, eggs and simit", "Tea, all day, in tulip glasses"]
+  listen: ["Arabesk, melancholy pop", "Tarkan and Sezen Aksu", "Turkish rap"]
+  argue: ["The jailing of Istanbul's mayor", "Inflation", "Refugees"]
+  say: {lang: tr, name: Turkish, phrases: [["Merhaba", "Hello", "MER-ha-ba"], ["Teşekkürler", "Thank you", "teh-shek-KOOR-ler"]]}
+
+TKM:
+  eat: ["Plov", "Dograma, bread and meat soup", "Chorek bread"]
+  listen: ["Bakhshi, bards with the dutar lute", "State concerts", "Songs by the former president"]
+  argue: ["Nothing openly: criticism is banned", "Shortages", "Internet blocks"]
+  say: {lang: tk, name: Turkmen, phrases: [["Salam", "Hello", "sa-LAM"], ["Sag boluň", "Thank you", "SAG bo-lun"]]}
+
+UZB:
+  eat: ["Plov, the national dish, cooked by men in giant kazans", "Samsa, baked pastries", "Non, round bread"]
+  listen: ["Shashmaqam", "Sevara Nazarkhan", "Uzbek pop"]
+  argue: ["The Taliban canal on the Amu Darya", "Migrant work", "How much has really opened up"]
+  say: {lang: uz, name: Uzbek, phrases: [["Assalomu alaykum", "Hello", "as-sa-LO-moo a-LAY-kum"], ["Rahmat", "Thank you", "rah-MAT"]]}
+
+VNM:
+  eat: ["Phở, beef or chicken noodle soup", "Bánh mì", "Cơm tấm, broken rice with grilled pork"]
+  listen: ["V-pop and Sơn Tùng M-TP", "Trịnh Công Sơn's ballads", "Ca trù and quan họ folk singing"]
+  argue: ["Anti-corruption campaign", "Merged provinces and civil service cuts", "Traffic and pollution"]
+  say: {lang: vi, name: Vietnamese, phrases: [["Xin chào", "Hello", "sin CHOW"], ["Cảm ơn", "Thank you", "gahm UHN"]]}
+
+YEM:
+  eat: ["Saltah, a meat stew topped with fenugreek froth", "Mandi, slow-cooked meat and rice", "Bint al-sahn, honey cake"]
+  listen: ["Sanaani song with the oud", "Ayoub Tarish", "Houthi zamil chants"]
+  argue: ["The war between the Houthis and Saudi Arabia", "Hunger", "The southern question"]
+  say: {lang: ar-YE, name: Arabic, phrases: [["Marhaba", "Hello", "MAR-ha-ba"], ["Shukran", "Thank you", "SHOOK-ran"]]}

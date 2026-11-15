@@ -1,0 +1,211 @@
+# Everyday life: see africa.yaml for the format.
+
+ATG:
+  eat: ["Fungee and pepperpot, cornmeal with a spinach and meat stew, the national dish", "Ducana, sweet potato dumplings, with saltfish", "Black pineapple, grown only here"]
+  listen: ["Calypso and soca at Carnival", "Steel pan bands", "Benna, an old call-and-response folk song"]
+  argue: ["Citizenship sold to foreigners for investment", "Whether to replace the king with a president", "Hurricane rebuilding costs"]
+  say: {lang: en-AG, name: English, phrases: [["Wha gwan", "What's up", "wah GWAN"], ["Tanks", "Thanks", "TANKS"]]}
+
+ARG:
+  eat: ["Asado, the Sunday barbecue of beef and chorizo", "Empanadas, baked or fried pastries", "Dulce de leche and mate tea, shared from one gourd"]
+  listen: ["Tango, born in the port bars of Buenos Aires", "Rock nacional, from Charly García to Soda Stereo", "Cumbia villera and the trap of Bizarrap and Duki"]
+  argue: ["Milei's chainsaw cuts and whether inflation stays down", "Peronism and anti-Peronism, the eternal divide", "Messi and the national team"]
+  say: {lang: es-AR, name: Spanish, phrases: [["Hola, ¿qué tal?", "Hi, how are you?", "OH-la, keh TAL"], ["Gracias", "Thank you", "GRAH-syas"]]}
+
+BHS:
+  eat: ["Conch salad, raw conch with lime and peppers", "Peas 'n' rice with fried fish", "Johnny cake"]
+  listen: ["Junkanoo parades with goatskin drums and cowbells", "Rake and scrape, played with a saw", "Calypso and reggae"]
+  argue: ["The cost of living on imported food", "Hurricanes and rebuilding", "Haitian migrants"]
+  say: {lang: en-BS, name: English, phrases: [["Hey", "Hello", "HAY"], ["Tank ya", "Thank you", "TANK yah"]]}
+
+BRB:
+  eat: ["Cou-cou and flying fish, the national dish", "Fish cakes and bread", "Macaroni pie"]
+  listen: ["Rihanna, the island's global star", "Soca at Crop Over, the harvest festival", "Spouge, a 1960s local sound"]
+  argue: ["The new republic, without a king since 2021", "Climate finance and Mia Mottley's global push", "Crime"]
+  say: {lang: en-BB, name: English (Bajan), phrases: [["Wuh happenin?", "What's happening?", "wuh HAP-nin"], ["Thank you", "Thank you", "TANK yoo"]]}
+
+BLZ:
+  eat: ["Rice and beans with stewed chicken", "Hudut, fish in coconut broth with mashed plantain, from the Garifuna", "Fry jacks for breakfast"]
+  listen: ["Punta rock, Garifuna rhythm made electric", "Brukdown, Creole folk music", "Paranda, the Garifuna acoustic guitar style"]
+  argue: ["The border claim by Guatemala, now at the World Court", "Crime and gangs", "Tourism and the barrier reef"]
+  say: {lang: en-BZ, name: English (Kriol), phrases: [["Weh di go aan?", "What's going on?", "weh dee goh AHN"], ["Tanks", "Thanks", "TANKS"]]}
+
+BOL:
+  eat: ["Salteñas, juicy baked empanadas for mid-morning", "Silpancho, beef schnitzel on rice with a fried egg", "Api, a hot purple corn drink"]
+  listen: ["Andean panpipes and charango", "Morenada and caporales at the Oruro carnival", "Cumbia"]
+  argue: ["Fuel and dollar shortages", "The end of 20 years of the MAS party", "Lithium and who will mine it"]
+  say: {lang: es-BO, name: Spanish (Quechua and Aymara are also official), phrases: [["Hola", "Hello", "OH-la"], ["Gracias", "Thank you", "GRAH-syas"]]}
+
+BRA:
+  eat: ["Feijoada, black bean stew with pork, on Saturdays", "Rice and beans every day", "Pão de queijo, cheese bread, and açaí"]
+  listen: ["Samba and bossa nova, from Jobim to Gilberto Gil", "Sertanejo, the country music that tops the charts", "Funk carioca and Anitta"]
+  argue: ["Lula's fourth term and the Bolsonaro camp's refusal to accept it", "Crime and police violence", "Amazon deforestation"]
+  say: {lang: pt-BR, name: Portuguese, phrases: [["Oi, tudo bem?", "Hi, all good?", "oy, TOO-doo bayn"], ["Obrigado", "Thank you", "oh-bree-GAH-doo"]]}
+
+CAN:
+  eat: ["Poutine, chips with cheese curds and gravy", "Maple syrup on pancakes", "Butter tarts and Nanaimo bars"]
+  listen: ["Drake and The Weeknd", "Joni Mitchell, Leonard Cohen and Neil Young", "Québécois chanson"]
+  argue: ["Trump's tariffs and talk of annexation", "Housing costs", "Immigration levels"]
+  say: {lang: en-CA, name: English and French, phrases: [["Hello / Bonjour", "Hello", "heh-LOH / bon-ZHOOR"], ["Thank you / Merci", "Thank you", "THANK yoo / mair-SEE"]]}
+
+CHL:
+  eat: ["Empanadas de pino, beef and onion, for Independence Day", "Pastel de choclo, corn and meat pie", "Completo, a hot dog loaded with avocado"]
+  listen: ["Nueva canción, Víctor Jara and Violeta Parra", "Cueca, the national dance", "Reggaetón and Chilean urbano"]
+  argue: ["Crime and migration, which drove the 2025 election", "A new constitution that voters rejected twice", "Pensions"]
+  say: {lang: es-CL, name: Spanish, phrases: [["Hola, ¿cómo estái?", "Hi, how are you?", "OH-la, KOH-moh es-TIE"], ["Gracias", "Thank you", "GRAH-syas"]]}
+
+COL:
+  eat: ["Bandeja paisa, beans, rice, pork, egg and plantain on one plate", "Arepas", "Ajiaco, chicken and potato soup from Bogotá"]
+  listen: ["Vallenato, accordion ballads from the Caribbean coast", "Cumbia and salsa from Cali", "Shakira, Karol G and J Balvin"]
+  argue: ["How hard to crack down on armed groups that kept growing under 'total peace'", "Inequality and land", "Coca crops and US pressure"]
+  say: {lang: es-CO, name: Spanish, phrases: [["Hola, ¿qué más?", "Hi, what's up?", "OH-la, keh MAHS"], ["Gracias", "Thank you", "GRAH-syas"]]}
+
+CRI:
+  eat: ["Gallo pinto, rice and beans, for breakfast", "Casado, rice, beans, meat and salad at lunch", "Coffee, grown on volcano slopes"]
+  listen: ["Calypso limonense from the Caribbean coast", "Marimba and the punto guanacasteco dance", "Latin pop"]
+  argue: ["Drug gangs driving up murders", "Whether a tough-on-crime government can cut murders", "Protecting forests while tourism grows"]
+  say: {lang: es-CR, name: Spanish, phrases: [["¡Pura vida!", "Hello, goodbye, all good", "POO-ra VEE-da"], ["Gracias", "Thank you", "GRAH-syas"]]}
+
+CUB:
+  eat: ["Ropa vieja, shredded beef stew", "Moros y cristianos, black beans and rice", "Cuban sandwich and strong café cubano"]
+  listen: ["Son and salsa, from Buena Vista Social Club", "Rumba and Afro-Cuban drumming", "Reggaetón and repartos from Havana"]
+  argue: ["Blackouts that last most of the day", "Shortages of food and medicine", "Emigration: more than a tenth of people have left since 2021"]
+  say: {lang: es-CU, name: Spanish, phrases: [["¿Qué bolá?", "What's up?", "keh boh-LAH"], ["Gracias", "Thank you", "GRAH-syas"]]}
+
+DMA:
+  eat: ["Callaloo soup", "Saltfish and bakes", "Mountain chicken, a giant frog, now protected"]
+  listen: ["Bouyon, Dominica's fast electronic carnival music", "Jing ping, accordion folk", "Cadence-lypso"]
+  argue: ["Selling citizenship", "Rebuilding after Hurricane Maria", "Geothermal power"]
+  say: {lang: en-DM, name: English (Kwéyòl is widely spoken), phrases: [["Bonjou", "Hello (Kwéyòl)", "bon-ZHOO"], ["Mèsi", "Thank you (Kwéyòl)", "meh-SEE"]]}
+
+DOM:
+  eat: ["La bandera, rice, beans and stewed meat", "Mangú, mashed plantain, for breakfast", "Sancocho, a seven-meat stew"]
+  listen: ["Merengue", "Bachata, once scorned, now global through Romeo Santos", "Dembow, the Dominican reggaetón cousin"]
+  argue: ["Haitian migrants and deportations", "Electricity bills and blackouts", "Corruption"]
+  say: {lang: es-DO, name: Spanish, phrases: [["¿Qué lo que?", "What's up?", "keh loh KEH"], ["Gracias", "Thank you", "GRAH-syas"]]}
+
+ECU:
+  eat: ["Ceviche with popcorn and plantain chips", "Encebollado, fish soup, the cure for a hangover", "Llapingachos, potato cakes"]
+  listen: ["Pasillo, melancholy waltzes", "Andean folk", "Cumbia and reggaetón"]
+  argue: ["Gang violence and Noboa's war on cartels", "Power cuts after droughts", "Foreign military bases, rejected in a 2025 vote"]
+  say: {lang: es-EC, name: Spanish, phrases: [["Hola", "Hello", "OH-la"], ["Gracias", "Thank you", "GRAH-syas"]]}
+
+SLV:
+  eat: ["Pupusas, stuffed corn tortillas, with curtido slaw", "Yuca frita with chicharrón", "Sopa de pata"]
+  listen: ["Cumbia", "Xuc, the national dance", "Latin pop"]
+  argue: ["Bukele's gang crackdown and the mass prisons", "Indefinite re-election", "Bitcoin as legal tender"]
+  say: {lang: es-SV, name: Spanish, phrases: [["¿Qué onda?", "What's up?", "keh ON-da"], ["Gracias", "Thank you", "GRAH-syas"]]}
+
+GRD:
+  eat: ["Oil down, breadfruit and salted meat stewed in coconut milk", "Nutmeg in everything", "Callaloo soup"]
+  listen: ["Soca and calypso at Spicemas", "Jab jab, carnival devils covered in oil", "Big drum dance from Carriacou"]
+  argue: ["Rebuilding Carriacou after Hurricane Beryl", "Selling citizenship", "Cost of living"]
+  say: {lang: en-GD, name: English, phrases: [["Wha going on?", "What's going on?", "wah GOH-in on"], ["Thanks", "Thanks", "TANKS"]]}
+
+GTM:
+  eat: ["Pepián, a spiced meat stew", "Tortillas and black beans with every meal", "Tamales on Saturdays and at Christmas"]
+  listen: ["Marimba, the national instrument", "Ricardo Arjona", "Maya ceremonial music"]
+  argue: ["President Arévalo's fight with the prosecutors", "Migration to the US and deportations", "Malnutrition in Maya villages"]
+  say: {lang: es-GT, name: Spanish (over 20 Maya languages are spoken), phrases: [["Hola", "Hello", "OH-la"], ["Gracias", "Thank you", "GRAH-syas"]]}
+
+GUY:
+  eat: ["Pepperpot, meat stewed in cassareep, at Christmas", "Curry and roti", "Cook-up rice"]
+  listen: ["Chutney, Indo-Caribbean music", "Soca and calypso", "Dancehall"]
+  argue: ["Who gets the new oil money", "Venezuela's claim to two-thirds of the country", "Ethnic politics between Indo- and Afro-Guyanese"]
+  say: {lang: en-GY, name: English (Creolese), phrases: [["Wha happenin?", "What's happening?", "wah HAP-nin"], ["Tanks", "Thanks", "TANKS"]]}
+
+HTI:
+  eat: ["Diri ak pwa, rice and beans", "Griot, fried pork, with pikliz pickle", "Soup joumou, pumpkin soup, eaten on Independence Day"]
+  listen: ["Konpa, the national dance music", "Rara, street bands at Easter", "Rasin, roots music mixing vodou drums and rock"]
+  argue: ["Gangs that control most of the capital", "The foreign security mission", "When there will be elections"]
+  say: {lang: ht, name: Haitian Creole, phrases: [["Bonjou", "Hello", "bon-ZHOO"], ["Mèsi", "Thank you", "meh-SEE"]]}
+
+HND:
+  eat: ["Baleadas, flour tortillas with beans, cream and cheese", "Plato típico, beef, beans, plantain and rice", "Sopa de caracol, conch soup with coconut"]
+  listen: ["Punta from the Garifuna coast", "Banda and cumbia", "Reggaetón"]
+  argue: ["The disputed 2025 election", "Gangs and extortion", "Migration and deportations"]
+  say: {lang: es-HN, name: Spanish, phrases: [["¿Qué onda, maje?", "What's up, mate?", "keh ON-da MA-heh"], ["Gracias", "Thank you", "GRAH-syas"]]}
+
+JAM:
+  eat: ["Ackee and saltfish, the national breakfast", "Jerk chicken and pork from oil-drum grills", "Patties and coco bread"]
+  listen: ["Reggae, from Bob Marley to Chronixx", "Dancehall", "Ska and rocksteady"]
+  argue: ["Crime and states of emergency", "Rebuilding after Hurricane Melissa in 2025", "Replacing the king with a president"]
+  say: {lang: en-JM, name: Jamaican Patois, phrases: [["Wah gwaan?", "What's going on?", "wah GWAAN"], ["Respect / Tanks", "Thanks", "ree-SPEK / TANKS"]]}
+
+MEX:
+  eat: ["Tacos al pastor, spit-roasted pork with pineapple", "Mole, sauce of chillies and chocolate", "Tamales and pozole at celebrations"]
+  listen: ["Mariachi and ranchera", "Corridos tumbados, the trap-flavoured ballads of Peso Pluma", "Cumbia sonidera"]
+  argue: ["Cartel violence and the disappeared", "Trump's tariffs and threats of US strikes", "The judicial overhaul"]
+  say: {lang: es-MX, name: Spanish, phrases: [["¿Qué onda?", "What's up?", "keh ON-da"], ["Gracias", "Thank you", "GRAH-syas"]]}
+
+NIC:
+  eat: ["Gallo pinto with fried cheese", "Nacatamal, a big tamal steamed in banana leaf", "Vigorón, yuca with pork crackling and slaw"]
+  listen: ["Palo de mayo on the Caribbean coast", "Marimba", "Carlos Mejía Godoy and revolution-era songs"]
+  argue: ["Ortega and Murillo's co-presidency", "Critics stripped of citizenship and exiled", "Emigration"]
+  say: {lang: es-NI, name: Spanish, phrases: [["¿Qué onda?", "What's up?", "keh ON-da"], ["Gracias", "Thank you", "GRAH-syas"]]}
+
+PAN:
+  eat: ["Sancocho, chicken soup with yam and culantro", "Arroz con pollo", "Patacones, fried green plantain"]
+  listen: ["Salsa, from Rubén Blades", "Típico, accordion music", "Reggae en español, a Panamanian invention"]
+  argue: ["Trump's claims on the canal", "The closed copper mine", "Pension reform protests"]
+  say: {lang: es-PA, name: Spanish, phrases: [["¿Qué xopá?", "What's up?", "keh SHOH-pah"], ["Gracias", "Thank you", "GRAH-syas"]]}
+
+PRY:
+  eat: ["Chipa, cheese bread", "Sopa paraguaya, a solid cornbread", "Tereré, cold mate, passed around"]
+  listen: ["Polka paraguaya and guarania", "The Paraguayan harp", "Cumbia"]
+  argue: ["Political crisis after President Peña's removal", "Corruption and the Colorado party's grip", "Itaipú dam money"]
+  say: {lang: gn, name: Guaraní (Spanish is also official), phrases: [["Mba'éichapa", "How are you?", "mbah-AY-ee-sha-pa"], ["Aguyje", "Thank you", "ah-goo-JEH"]]}
+
+PER:
+  eat: ["Ceviche, raw fish cured in lime", "Lomo saltado, beef stir-fried with chips", "Ají de gallina, creamy chilli chicken"]
+  listen: ["Andean huayno", "Música criolla, Chabuca Granda's waltzes", "Chicha, Andean cumbia"]
+  argue: ["Revolving presidents and a discredited Congress", "Extortion by gangs", "Illegal gold mining"]
+  say: {lang: es-PE, name: Spanish (Quechua is spoken by millions), phrases: [["Hola", "Hello", "OH-la"], ["Gracias", "Thank you", "GRAH-syas"]]}
+
+KNA:
+  eat: ["Stewed saltfish with spicy plantain and coconut dumplings", "Goat water stew", "Sugar cake"]
+  listen: ["Soca and calypso at Sugar Mas", "String bands", "Big drum and fife bands"]
+  argue: ["Selling citizenship", "Crime", "Cost of living"]
+  say: {lang: en-KN, name: English, phrases: [["Hello", "Hello", "heh-LOH"], ["Thanks", "Thanks", "TANKS"]]}
+
+LCA:
+  eat: ["Green fig and saltfish", "Bouyon, a hearty soup", "Accra, fried fish fritters"]
+  listen: ["Kwéyòl music and jwé", "Soca and dennery segment", "Jazz at the St Lucia Jazz Festival"]
+  argue: ["Crime", "Citizenship sales", "Cost of living"]
+  say: {lang: en-LC, name: English (Kwéyòl is widely spoken), phrases: [["Bonjou", "Hello (Kwéyòl)", "bon-ZHOO"], ["Mèsi", "Thank you (Kwéyòl)", "meh-SEE"]]}
+
+VCT:
+  eat: ["Roasted breadfruit and fried jackfish", "Callaloo soup", "Buljol, saltfish salad"]
+  listen: ["Soca at Vincy Mas", "String band music", "Calypso"]
+  argue: ["Rebuilding after Hurricane Beryl", "The volcano and resettlement", "The long rule of Ralph Gonsalves and his 2025 defeat"]
+  say: {lang: en-VC, name: English, phrases: [["Wha happenin?", "What's happening?", "wah HAP-nin"], ["Thanks", "Thanks", "TANKS"]]}
+
+SUR:
+  eat: ["Roti with curried chicken", "Pom, a baked casserole of chicken and root vegetable", "Moksi alesi, mixed rice"]
+  listen: ["Kaseko, Creole dance music", "Baithak gana, Indo-Surinamese song", "Kawina drums"]
+  argue: ["Offshore oil and who benefits", "Debt and inflation", "Relations with the Netherlands"]
+  say: {lang: nl-SR, name: Dutch (Sranan Tongo is the street language), phrases: [["Fa waka?", "How are things? (Sranan)", "fah WAH-ka"], ["Grantangi", "Thank you (Sranan)", "gran-TAN-gee"]]}
+
+TTO:
+  eat: ["Doubles, chickpea curry in fried bread", "Bake and shark at Maracas Bay", "Pelau and callaloo"]
+  listen: ["Calypso and soca, born here", "Steelpan, invented here", "Chutney soca"]
+  argue: ["Crime and a state of emergency", "Venezuelan migrants", "Gas running down"]
+  say: {lang: en-TT, name: English, phrases: [["Wha going on?", "What's going on?", "wah GOH-in on"], ["Thanks", "Thanks", "TANKS"]]}
+
+USA:
+  eat: ["Burgers, hot dogs and pizza", "Barbecue: Texas brisket, Carolina pork, Kansas City ribs", "Thanksgiving turkey with stuffing and pie"]
+  listen: ["Hip-hop, the most-streamed genre", "Country, from Nashville to Morgan Wallen", "Taylor Swift and Beyoncé"]
+  argue: ["Trump: tariffs, deportations and the power of the presidency", "Prices and housing", "Guns, abortion and the Supreme Court"]
+  say: {lang: en-US, name: English, phrases: [["Hey, how's it going?", "Hello", "hay, howz it GO-in"], ["Thanks", "Thank you", "THANKS"]]}
+
+URY:
+  eat: ["Chivito, a steak sandwich piled with ham, egg and cheese", "Asado on the parrilla", "Mate, carried everywhere in a thermos"]
+  listen: ["Candombe, Afro-Uruguayan drums in the streets of Montevideo", "Murga, carnival choirs", "Tango"]
+  argue: ["Crime and drug gangs", "Pensions", "Legal cannabis, a world first"]
+  say: {lang: es-UY, name: Spanish, phrases: [["Hola, ¿todo bien?", "Hi, all good?", "OH-la, TOH-doh byen"], ["Gracias", "Thank you", "GRAH-syas"]]}
+
+VEN:
+  eat: ["Arepas stuffed with everything", "Pabellón criollo, shredded beef, black beans, rice and plantain", "Hallacas at Christmas"]
+  listen: ["Joropo, harp and cuatro music of the plains", "Salsa and gaita zuliana", "Reggaetón and the diaspora pop of Danny Ocean"]
+  argue: ["Life after Maduro's capture, with his deputy still in charge", "The US role", "Families split by the exodus of 8 million"]
+  say: {lang: es-VE, name: Spanish, phrases: [["¿Qué más, chamo?", "What's up, mate?", "keh MAHS, CHAH-mo"], ["Gracias", "Thank you", "GRAH-syas"]]}

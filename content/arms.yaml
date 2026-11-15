@@ -1,0 +1,82 @@
+# Arms transfers shown in each country's "Connections" section, transcribed from SIPRI's
+# annual fact sheet (tables 1 and 2). SIPRI measures the volume of major weapons delivered
+# (aircraft, ships, tanks, missiles, air defence) over five years, not money paid.
+# Update each March when SIPRI publishes the new fact sheet. See UPDATING.md ("Connections").
+#
+# importers: {ISO3: {rank, share, change, from: [[ISO3 or "Name", percent], ...]}}
+# exporters: {ISO3: {rank, share, change, to: [[ISO3 or "Name", percent], ...]}}
+# share = percent of world imports or exports; change = percent change from the previous five years.
+
+period: "2021-25"
+previous: "2016-20"
+source: {label: "SIPRI: Trends in international arms transfers, 2025 (March 2026)", url: "https://www.sipri.org/sites/default/files/2026-03/fs_2603_at_2025.pdf"}
+note: "SIPRI covers deliveries of major conventional weapons. Small arms, ammunition and most aid packages' smaller items are not counted."
+
+exporters:
+  USA: {rank: 1, share: 42, change: 27, to: [[SAU, 12], [UKR, 9.4], [JPN, 8.9]]}
+  FRA: {rank: 2, share: 9.8, change: 21, to: [[IND, 24], [EGY, 11], [GRC, 10]]}
+  RUS: {rank: 3, share: 6.8, change: -64, to: [[IND, 48], [CHN, 13], [BLR, 13]]}
+  DEU: {rank: 4, share: 5.7, change: 15, to: [[UKR, 24], [EGY, 14], [ISR, 10]]}
+  CHN: {rank: 5, share: 5.6, change: 11, to: [[PAK, 61], [SRB, 6.8], [THA, 4.7]]}
+  ITA: {rank: 6, share: 5.1, change: 157, to: [[QAT, 26], [KWT, 17], [IDN, 12]]}
+  ISR: {rank: 7, share: 4.4, change: 56, to: [[IND, 29], [DEU, 21], [USA, 7.8]]}
+  GBR: {rank: 8, share: 3.4, change: 13, to: [[QAT, 31], [USA, 14], [UKR, 13]]}
+  KOR: {rank: 9, share: 3.0, change: 24, to: [[POL, 58], [PHL, 18], [ARE, 9.5]]}
+  ESP: {rank: 10, share: 2.3, change: 6.7, to: [[SAU, 28], [TUR, 16], [BEL, 12]]}
+  TUR: {rank: 11, share: 1.8, change: 122, to: [[PAK, 16], [ARE, 12], [UKR, 8.4]]}
+  NLD: {rank: 12, share: 1.2, change: -34, to: [[UKR, 23], [USA, 20], [PAK, 16]]}
+  NOR: {rank: 13, share: 1.0, change: 349, to: [[USA, 33], [UKR, 22], [ROU, 16]]}
+  POL: {rank: 14, share: 1.0, change: 4387, to: [[UKR, 94], [EST, 1.6], [SWE, 1.4]]}
+  SWE: {rank: 15, share: 0.9, change: 58, to: [[BRA, 24], [UKR, 14], [PAK, 12]]}
+  CAN: {rank: 16, share: 0.7, change: 82, to: [[UKR, 34], [SAU, 27], [USA, 17]]}
+  CZE: {rank: 17, share: 0.4, change: 62, to: [[UKR, 69], [VNM, 14], [HUN, 9.0]]}
+  ZAF: {rank: 18, share: 0.4, change: -7.2, to: [[ARE, 39], [SGP, 19], [COD, 9.1]]}
+  DNK: {rank: 19, share: 0.3, change: 739, to: [[UKR, 50], [ARG, 19], [NOR, 7.7]]}
+  CHE: {rank: 20, share: 0.3, change: -51, to: [[ESP, 46], [DNK, 14], [ROU, 12]]}
+  UKR: {rank: 21, share: 0.3, change: -66, to: [[CHN, 64], [IND, 23], [QAT, 5.8]]}
+  AUS: {rank: 22, share: 0.3, change: -44, to: [[UKR, 24], [CAN, 23], [USA, 21]]}
+  BEL: {rank: 23, share: 0.3, change: 270, to: [[SAU, 30], [UKR, 23], [CAN, 21]]}
+  BRA: {rank: 24, share: 0.3, change: -9.3, to: [[PRT, 45], [HUN, 26], [NGA, 13]]}
+  IRN: {rank: 25, share: 0.3, change: 395, to: [[RUS, 73], [VEN, 17], ["Houthi rebels (Yemen)", 9.1]]}
+
+importers:
+  UKR: {rank: 1, share: 9.7, change: 11896, from: [[USA, 41], [DEU, 14], [POL, 9.4]]}
+  IND: {rank: 2, share: 8.2, change: -4.0, from: [[RUS, 40], [FRA, 29], [ISR, 15]]}
+  SAU: {rank: 3, share: 6.8, change: -31, from: [[USA, 77], [ESP, 9.5], [FRA, 4.6]]}
+  QAT: {rank: 4, share: 6.4, change: 106, from: [[USA, 48], [ITA, 21], [GBR, 17]]}
+  PAK: {rank: 5, share: 4.2, change: 66, from: [[CHN, 80], [TUR, 7.0], [NLD, 4.6]]}
+  JPN: {rank: 6, share: 3.9, change: 76, from: [[USA, 95], [GBR, 3.4], [NOR, 0.9]]}
+  POL: {rank: 7, share: 3.6, change: 852, from: [[KOR, 47], [USA, 44], [ITA, 2.2]]}
+  USA: {rank: 8, share: 2.9, change: 48, from: [[GBR, 17], [FRA, 14], [ITA, 13]]}
+  KWT: {rank: 9, share: 2.8, change: 805, from: [[USA, 62], [ITA, 31], [FRA, 5.7]]}
+  AUS: {rank: 10, share: 2.8, change: -39, from: [[USA, 85], [ESP, 6.5], [DEU, 4.0]]}
+  ARE: {rank: 11, share: 2.7, change: -15, from: [[USA, 42], [FRA, 18], [KOR, 10]]}
+  EGY: {rank: 12, share: 2.6, change: -51, from: [[FRA, 39], [DEU, 30], [ITA, 18]]}
+  GBR: {rank: 13, share: 2.1, change: 19, from: [[USA, 85], [ISR, 8.2], [DEU, 2.7]]}
+  ISR: {rank: 14, share: 1.9, change: 12, from: [[USA, 68], [DEU, 31], [ITA, 1.3]]}
+  NLD: {rank: 15, share: 1.8, change: 111, from: [[USA, 89], [ROU, 4.8], [SWE, 2.1]]}
+  KOR: {rank: 16, share: 1.8, change: -54, from: [[USA, 93], [GBR, 3.5], [ISR, 1.8]]}
+  DEU: {rank: 17, share: 1.7, change: 914, from: [[ISR, 55], [USA, 37], [SWE, 2.8]]}
+  IDN: {rank: 18, share: 1.5, change: -4.1, from: [[ITA, 40], [USA, 16], [FRA, 14]]}
+  GRC: {rank: 19, share: 1.5, change: 295, from: [[FRA, 68], [USA, 17], [ITA, 4.4]]}
+  NOR: {rank: 20, share: 1.4, change: 17, from: [[USA, 93], [DNK, 1.8], [ITA, 1.7]]}
+  CHN: {rank: 21, share: 1.3, change: -72, from: [[RUS, 66], [UKR, 15], [FRA, 13]]}
+  ITA: {rank: 22, share: 1.3, change: -7.8, from: [[USA, 93], [FRA, 2.6], [DEU, 1.7]]}
+  PHL: {rank: 23, share: 1.2, change: 73, from: [[KOR, 42], [ISR, 20], [USA, 15]]}
+  TUR: {rank: 24, share: 1.2, change: -9.7, from: [[DEU, 31], [ESP, 29], [ITA, 19]]}
+  BRA: {rank: 25, share: 1.2, change: 150, from: [[FRA, 62], [SWE, 18], [ITA, 8.6]]}
+  SGP: {rank: 26, share: 1.1, change: -27, from: [[DEU, 40], [USA, 33], [ISR, 12]]}
+  BHR: {rank: 27, share: 1.0, change: 818, from: [[USA, 99], [TUR, 0.6], [ITA, 0.6]]}
+  MAR: {rank: 28, share: 1.0, change: 12, from: [[USA, 60], [ISR, 24], [FRA, 10]]}
+  DNK: {rank: 29, share: 1.0, change: 348, from: [[USA, 82], [ISR, 6.4], [CHE, 4.7]]}
+  ROU: {rank: 30, share: 0.9, change: 190, from: [[USA, 48], [NOR, 17], [NLD, 15]]}
+  BEL: {rank: 31, share: 0.9, change: 1141, from: [[USA, 54], [ESP, 32], [FRA, 7.9]]}
+  BLR: {rank: 32, share: 0.9, change: 73, from: [[RUS, 100], [IRN, 0.1]]}
+  DZA: {rank: 33, share: 0.9, change: -78, from: [[RUS, 39], [CHN, 27], [DEU, 18]]}
+  TWN: {rank: 34, share: 0.8, change: 54, from: [[USA, 96], [ITA, 1.5], [DEU, 1.4]]}
+  HUN: {rank: 35, share: 0.8, change: 998, from: [[DEU, 43], [USA, 16], [FRA, 9.9]]}
+  KAZ: {rank: 36, share: 0.7, change: -14, from: [[RUS, 83], [ESP, 7.9], [FRA, 3.6]]}
+  SRB: {rank: 37, share: 0.6, change: 195, from: [[CHN, 61], [FRA, 12], [RUS, 7.0]]}
+  CAN: {rank: 38, share: 0.6, change: -24, from: [[USA, 32], [ESP, 26], [AUS, 11]]}
+  ESP: {rank: 39, share: 0.6, change: 101, from: [[USA, 49], [CHE, 25], [FRA, 9.1]]}
+  THA: {rank: 40, share: 0.5, change: -53, from: [[CHN, 49], [USA, 15], [ISR, 9.2]]}

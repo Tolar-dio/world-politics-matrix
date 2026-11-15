@@ -1,0 +1,314 @@
+{
+"fetched":"2026-11-15",
+"source":"EU Sanctions Map",
+"countries":{
+"AFG":[
+{
+"by":"UN and EU",
+"what":"Restrictive measures imposed with respect to the Taliban",
+"url":"https://www.sanctionsmap.eu/#/main/details/1/"
+}
+],
+"BLR":[
+{
+"by":"EU",
+"what":"Restrictive measures in view of the situation in Belarus and the involvement of Belarus in the Russian aggression against Ukraine",
+"url":"https://www.sanctionsmap.eu/#/main/details/2/"
+}
+],
+"BIH":[
+{
+"by":"EU",
+"what":"Restrictive measures in view of the situation in Bosnia and Herzegovina",
+"url":"https://www.sanctionsmap.eu/#/main/details/4/"
+}
+],
+"BDI":[
+{
+"by":"EU",
+"what":"Restrictive measures in view of the situation in Burundi",
+"url":"https://www.sanctionsmap.eu/#/main/details/7/"
+}
+],
+"CAF":[
+{
+"by":"UN and EU",
+"what":"Restrictive measures in view of the situation in the Central African Republic",
+"url":"https://www.sanctionsmap.eu/#/main/details/9/"
+}
+],
+"CHN":[
+{
+"by":"EU",
+"what":"Specific restrictive measures in relation to the events at the Tiananmen Square protests of 1989",
+"url":"https://www.sanctionsmap.eu/#/main/details/10/"
+}
+],
+"PRK":[
+{
+"by":"EU",
+"what":"Restrictive measures in relation to the non-proliferation of the weapons of mass destruction",
+"url":"https://www.sanctionsmap.eu/#/main/details/20/"
+}
+],
+"COD":[
+{
+"by":"EU",
+"what":"Restrictive measures in view of the situation in the Democratic Republic of the Congo",
+"url":"https://www.sanctionsmap.eu/#/main/details/11/"
+}
+],
+"GTM":[
+{
+"by":"EU",
+"what":"Restrictive measures in view of the situation in Guatemala",
+"url":"https://www.sanctionsmap.eu/#/main/details/59/"
+}
+],
+"GIN":[
+{
+"by":"EU",
+"what":"Restrictive measures in view of the situation in Guinea",
+"url":"https://www.sanctionsmap.eu/#/main/details/14/"
+}
+],
+"GNB":[
+{
+"by":"EU",
+"what":"Restrictive measures in view of the situation in Guinea-Bissau",
+"url":"https://www.sanctionsmap.eu/#/main/details/15/"
+}
+],
+"HTI":[
+{
+"by":"EU",
+"what":"Restrictive measures in view of the situation in Haiti",
+"url":"https://www.sanctionsmap.eu/#/main/details/54/"
+},
+{
+"by":"EU",
+"what":"Prohibiting the satisfying of certain claims by the Haitian authorities",
+"url":"https://www.sanctionsmap.eu/#/main/details/16/"
+}
+],
+"IRN":[
+{
+"by":"EU",
+"what":"Restrictive measures in relation to serious human rights violations in Iran",
+"url":"https://www.sanctionsmap.eu/#/main/details/17/"
+},
+{
+"by":"EU",
+"what":"Restrictive measures in relation to the non-proliferation of weapons of mass destruction",
+"url":"https://www.sanctionsmap.eu/#/main/details/18/"
+},
+{
+"by":"EU",
+"what":"Restrictive measures in view of Iran’s military support to Russia’s war of aggression against Ukraine and to armed groups and entities in the Middle East and the Red Sea region",
+"url":"https://www.sanctionsmap.eu/#/main/details/56/"
+}
+],
+"IRQ":[
+{
+"by":"UN and EU",
+"what":"Restrictive measures on Iraq",
+"url":"https://www.sanctionsmap.eu/#/main/details/19/"
+}
+],
+"LBN":[
+{
+"by":"UN and EU",
+"what":"Restrictive measures in relation to the UN Security Council Resolution 1701 (2006) on Lebanon",
+"url":"https://www.sanctionsmap.eu/#/main/details/21/"
+},
+{
+"by":"UN and EU",
+"what":"Restrictive measures in relation to the 14 February 2005 terrorist bombing in Beirut, Lebanon",
+"url":"https://www.sanctionsmap.eu/#/main/details/22/"
+},
+{
+"by":"EU",
+"what":"Restrictive measures in view of the situation in Lebanon",
+"url":"https://www.sanctionsmap.eu/#/main/details/51/"
+}
+],
+"LBY":[
+{
+"by":"EU",
+"what":"Prohibiting the satisfying of certain claims in relation to transactions that have been prohibited by the UN Security Council Resolution 883 (1993) and related resolutions",
+"url":"https://www.sanctionsmap.eu/#/main/details/43/"
+},
+{
+"by":"EU",
+"what":"Restrictive measures in view of the situation in Libya",
+"url":"https://www.sanctionsmap.eu/#/main/details/23/"
+}
+],
+"MLI":[
+{
+"by":"EU",
+"what":"Restrictive measures in view of the situation in Mali",
+"url":"https://www.sanctionsmap.eu/#/main/details/42/"
+}
+],
+"MDA":[
+{
+"by":"EU",
+"what":"Restrictive measures in view of actions destabilising the Republic of Moldova",
+"url":"https://www.sanctionsmap.eu/#/main/details/55/"
+},
+{
+"by":"EU",
+"what":"Restrictive measures in relation to the campaign against Latinscript schools in the Transnistrian region",
+"url":"https://www.sanctionsmap.eu/#/main/details/25/"
+}
+],
+"MNE":[
+{
+"by":"EU",
+"what":"Prohibiting the satisfying of certain claims in relation to transactions that have been prohibited by the UN Security Council Resolution  757(1992) and related resolutions",
+"url":"https://www.sanctionsmap.eu/#/main/details/28/"
+}
+],
+"MMR":[
+{
+"by":"EU",
+"what":"Restrictive measures in view of the situation in Myanmar/Burma",
+"url":"https://www.sanctionsmap.eu/#/main/details/8/"
+}
+],
+"NIC":[
+{
+"by":"EU",
+"what":"Restrictive measures in view of the situation in Nicaragua",
+"url":"https://www.sanctionsmap.eu/#/main/details/48/"
+}
+],
+"NER":[
+{
+"by":"EU",
+"what":"Restrictive measures in view of the situation in Niger",
+"url":"https://www.sanctionsmap.eu/#/main/details/58/"
+}
+],
+"RUS":[
+{
+"by":"EU",
+"what":"Restrictive measures in view of the situation in Russia",
+"url":"https://www.sanctionsmap.eu/#/main/details/61/"
+},
+{
+"by":"EU",
+"what":"Restrictive measures in view of Russia's destabilising activities",
+"url":"https://www.sanctionsmap.eu/#/main/details/63/"
+},
+{
+"by":"EU",
+"what":"Restrictive measures in view of Russia's actions destabilising the situation in Ukraine (sectoral restrictive measures)",
+"url":"https://www.sanctionsmap.eu/#/main/details/26/"
+}
+],
+"SRB":[
+{
+"by":"EU",
+"what":"Prohibiting the satisfying of certain claims in relation to transactions that have been prohibited by the UN Security Council Resolution 757(1992) and related resolutions",
+"url":"https://www.sanctionsmap.eu/#/main/details/27/"
+}
+],
+"SOM":[
+{
+"by":"UN and EU",
+"what":"Restrictive measures in view of the situation in Somalia",
+"url":"https://www.sanctionsmap.eu/#/main/details/29/"
+}
+],
+"SSD":[
+{
+"by":"EU",
+"what":"Restrictive measures in view of the situation in South Sudan",
+"url":"https://www.sanctionsmap.eu/#/main/details/30/"
+}
+],
+"SDN":[
+{
+"by":"EU",
+"what":"Restrictive measures in view of the situation in Sudan",
+"url":"https://www.sanctionsmap.eu/#/main/details/31/"
+},
+{
+"by":"EU",
+"what":"Restrictive measures in view of activities undermining the stability and the political transition of Sudan",
+"url":"https://www.sanctionsmap.eu/#/main/details/57/"
+}
+],
+"SYR":[
+{
+"by":"EU",
+"what":"Restrictive measures against Syria",
+"url":"https://www.sanctionsmap.eu/#/main/details/32/"
+},
+{
+"by":"UN and EU",
+"what":"Restrictive measures in relation to the 14 February 2005 terrorist bombing in Beirut, Lebanon",
+"url":"https://www.sanctionsmap.eu/#/main/details/34/"
+}
+],
+"TUN":[
+{
+"by":"EU",
+"what":"Misappropriation of state funds of Tunisia",
+"url":"https://www.sanctionsmap.eu/#/main/details/33/"
+}
+],
+"TUR":[
+{
+"by":"EU",
+"what":"Restrictive measures in view of Türkiye’s  unauthorised drilling activities in the Eastern Mediterranean",
+"url":"https://www.sanctionsmap.eu/#/main/details/49/"
+}
+],
+"UKR":[
+{
+"by":"EU",
+"what":"Restrictive measures in response to the illegal recognition, occupation or annexation by the Russian Federation of certain non-government controlled areas of Ukraine",
+"url":"https://www.sanctionsmap.eu/#/main/details/52/"
+},
+{
+"by":"EU",
+"what":"Misappropriation of state funds of Ukraine",
+"url":"https://www.sanctionsmap.eu/#/main/details/35/"
+},
+{
+"by":"EU",
+"what":"Restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
+"url":"https://www.sanctionsmap.eu/#/main/details/36/"
+},
+{
+"by":"EU",
+"what":"Restrictive measures in response to the illegal annexation of Crimea and Sevastopol",
+"url":"https://www.sanctionsmap.eu/#/main/details/37/"
+}
+],
+"VEN":[
+{
+"by":"EU",
+"what":"Restrictive measures in view of the situation in Venezuela",
+"url":"https://www.sanctionsmap.eu/#/main/details/44/"
+}
+],
+"YEM":[
+{
+"by":"UN and EU",
+"what":"Restrictive measures in view of the situation in Yemen",
+"url":"https://www.sanctionsmap.eu/#/main/details/39/"
+}
+],
+"ZWE":[
+{
+"by":"EU",
+"what":"Restrictive measures concerning an arms embargo in view of the situation in Zimbabwe",
+"url":"https://www.sanctionsmap.eu/#/main/details/40/"
+}
+]
+}
+}

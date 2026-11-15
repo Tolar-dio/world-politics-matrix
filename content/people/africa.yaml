@@ -1,0 +1,327 @@
+# Everyday life: what people eat, listen to and argue about, and how to say hello.
+# Background, not news: keep it to things that stay true for years. See UPDATING.md ("People").
+# say.phrases: [phrase as written, meaning, rough English pronunciation]
+
+DZA:
+  eat: ["Couscous, steamed semolina with vegetables and lamb, the Friday family meal", "Chorba frik, a spiced soup of cracked green wheat, at Ramadan", "Mhadjeb, folded semolina flatbreads stuffed with tomato and onion, sold on street corners"]
+  listen: ["Raï, the bluesy pop born in Oran, from Cheb Khaled to today's auto-tuned stars", "Chaabi, the mandolin-led music of Algiers' old Casbah", "Kabyle song, from Idir to Matoub Lounès"]
+  argue: ["Whether the 2019 Hirak protests changed anything", "Jobs and visas for young people who dream of leaving", "French: language of business or of the old coloniser"]
+  say: {lang: ar-DZ, name: Algerian Arabic, phrases: [["Salam alikoum", "Hello", "sa-LAAM a-LEE-koom"], ["Saha", "Thanks (also cheers)", "SAH-ha"]]}
+
+AGO:
+  eat: ["Funge, a stiff cassava or maize porridge, with fish or chicken muamba stew", "Calulu, dried fish cooked with okra, sweet potato leaves and palm oil", "Grilled fish and cold Cuca beer on Luanda's Ilha"]
+  listen: ["Semba, the dance music that fathered Brazilian samba", "Kizomba, the slow, close couples' dance now danced worldwide", "Kuduro, the frantic electronic street music of Luanda's musseques"]
+  argue: ["Where the oil money went", "Prices and fuel subsidy cuts", "Whether the MPLA, in power since 1975, will ever lose"]
+  say: {lang: pt-AO, name: Portuguese, phrases: [["Olá, tudo bem?", "Hi, how are you?", "oh-LAH, TOO-doo bayn"], ["Obrigado", "Thank you", "oh-bree-GAH-doo"]]}
+
+BEN:
+  eat: ["Pâte, a maize dough eaten with sauce of greens, tomato or peanut", "Akassa, fermented maize porridge wrapped in leaves", "Grilled fish with piment sauce in Cotonou's maquis"]
+  listen: ["Angélique Kidjo, the country's global star", "Orchestre Poly-Rythmo, the 1970s Afro-funk band rediscovered abroad", "Vodun drumming at ceremonies and the January voodoo festival"]
+  argue: ["Whether President Talon's reforms came at the cost of democracy", "Jihadist attacks spreading into the north", "Getting back royal treasures looted by France"]
+  say: {lang: fr-BJ, name: French, phrases: [["Bonjour", "Hello", "bon-ZHOOR"], ["Merci", "Thank you", "mair-SEE"]]}
+
+BWA:
+  eat: ["Seswaa, beef or goat pounded after slow boiling, the national dish", "Pap, maize porridge, with morogo wild spinach", "Mopane worms, fried or dried, a seasonal snack"]
+  listen: ["Gospel choirs, everywhere on Sundays", "Kwaito and amapiano carried over from South Africa", "Traditional Setswana folk with the segaba fiddle"]
+  argue: ["What comes after diamonds", "Youth unemployment despite a stable, middle-income economy", "Living with elephants that trample crops"]
+  say: {lang: tn, name: Setswana, phrases: [["Dumela", "Hello", "doo-MEH-la"], ["Ke a leboga", "Thank you", "keh ah leh-BOH-ha"]]}
+
+BFA:
+  eat: ["Tô, a stiff millet or maize porridge, with okra or baobab-leaf sauce", "Riz gras, rice cooked in a rich tomato and meat sauce, for celebrations", "Grilled chicken bicyclette, the scrawny free-range kind"]
+  listen: ["Balafon xylophones and djembe drums", "Coupé-décalé and rap from Ouagadougou's maquis", "Smockey and Sams'K Le Jah, rappers who backed the 2014 uprising"]
+  argue: ["Whether the junta can beat the jihadists", "Russia replacing France as the main partner", "Ordinary people drafted into civilian defence militias"]
+  say: {lang: fr-BF, name: French (Mooré is the most spoken local language), phrases: [["Bonjour", "Hello", "bon-ZHOOR"], ["Merci", "Thank you", "mair-SEE"]]}
+
+BDI:
+  eat: ["Beans and plantains, the daily staple", "Ugali or cassava bread with sambaza, tiny lake fish from Tanganyika", "Brochettes of goat meat with banana beer"]
+  listen: ["The royal drummers of Gishora, on UNESCO's heritage list", "Khadja Nin, the Burundian singer who made it in Europe", "Bongo flava from Tanzania"]
+  argue: ["Fuel and sugar shortages", "Ethnic quotas from the peace deal that ended the civil war", "Hunger in one of the world's poorest countries"]
+  say: {lang: rn, name: Kirundi, phrases: [["Amahoro", "Peace (hello)", "ah-mah-HO-ro"], ["Murakoze", "Thank you", "moo-rah-KO-zeh"]]}
+
+CPV:
+  eat: ["Cachupa, a slow-cooked stew of maize, beans and fish or pork, the national dish", "Grilled tuna and wahoo", "Grogue, a fierce sugar-cane rum from Santo Antão"]
+  listen: ["Morna, the melancholy song made famous by Cesária Évora, the barefoot diva", "Funaná, the accordion-driven dance music once banned by the Portuguese", "Coladeira and the Lisbon-based diaspora pop"]
+  argue: ["Water and electricity on dry islands", "Emigration: more Cape Verdeans live abroad than at home", "How much to rely on tourism"]
+  say: {lang: pt-CV, name: Portuguese (Kriolu is spoken at home), phrases: [["Olá", "Hello", "oh-LAH"], ["Obrigado", "Thank you", "oh-bree-GAH-doo"]]}
+
+CMR:
+  eat: ["Ndolé, bitter-leaf stew with peanuts and shrimp or beef", "Poulet DG, chicken fried with plantains, the 'managing director's' dish", "Grilled fish with miondo cassava sticks"]
+  listen: ["Makossa, the Douala dance music of Manu Dibango's 'Soul Makossa'", "Bikutsi, the fast rhythm of the Beti people", "Afro-pop stars like Charlotte Dipanda and Locko"]
+  argue: ["What happens after President Biya, in power since 1982", "The war in the English-speaking regions", "Boko Haram attacks in the Far North"]
+  say: {lang: fr-CM, name: French (English and Pidgin are also widely spoken), phrases: [["Bonjour", "Hello", "bon-ZHOOR"], ["Merci", "Thank you", "mair-SEE"]]}
+
+CAF:
+  eat: ["Gozo, cassava paste, with greens or meat sauce", "Ngunza, cassava-leaf stew", "Bush meat and river fish"]
+  listen: ["Aka Pygmy polyphonic singing, on UNESCO's heritage list", "Congolese rumba from across the river", "Local rap in Sango"]
+  argue: ["Russia's Wagner fighters and what they get in return", "Whether peace deals with armed groups will hold", "Gold and diamonds that leave the country"]
+  say: {lang: sg, name: Sango, phrases: [["Balaô", "Hello", "bah-lah-OH"], ["Singila", "Thank you", "sin-GEE-la"]]}
+
+TCD:
+  eat: ["Boule, a millet porridge eaten with okra or meat sauce", "Grilled fish from Lake Chad", "Karkanji, a hibiscus drink"]
+  listen: ["Sahelian guitar music and griot singers", "Tibesti and desert blues", "Chadian rap in French and Chadian Arabic"]
+  argue: ["The Déby family's hold on power", "Sudanese refugees pouring over the eastern border", "Breaking with French troops"]
+  say: {lang: fr-TD, name: French (Chadian Arabic is the street language), phrases: [["Bonjour", "Hello", "bon-ZHOOR"], ["Merci", "Thank you", "mair-SEE"]]}
+
+COM:
+  eat: ["Langouste à la vanille, lobster in vanilla sauce", "Mataba, cassava leaves cooked in coconut milk", "Pilau rice spiced with cloves, a big export"]
+  listen: ["Twarab, an Arab-influenced orchestral music from Zanzibar", "Mgodro, a local dance rhythm", "Rap and reggae in Shikomori"]
+  argue: ["Mayotte, the island France kept", "Young people leaving on boats for Mayotte", "President Azali's long rule"]
+  say: {lang: fr-KM, name: French (Comorian is spoken at home), phrases: [["Bonjour", "Hello", "bon-ZHOOR"], ["Merci", "Thank you", "mair-SEE"]]}
+
+COD:
+  eat: ["Fufu, cassava dough, with pondu, stewed cassava leaves", "Moambe chicken in palm-nut sauce", "Liboke, fish steamed in banana leaves"]
+  listen: ["Congolese rumba, from Franco and Papa Wemba to Fally Ipupa", "Ndombolo, the hip-shaking dance music", "Koffi Olomide and the sapeurs, Kinshasa's dandies"]
+  argue: ["The M23 war in the east and Rwanda's role", "Who profits from cobalt and coltan", "President Tshisekedi's term limits"]
+  say: {lang: ln, name: Lingala, phrases: [["Mbote", "Hello", "m-BO-teh"], ["Matondo", "Thank you", "ma-TON-do"]]}
+
+COG:
+  eat: ["Saka-saka, pounded cassava leaves with palm oil and fish", "Poulet moambé", "Grilled fish and plantains by the river in Brazzaville"]
+  listen: ["Congolese rumba shared with Kinshasa, across the river", "Extra Musica and the ndombolo bands", "Roga-Roga and modern Brazzaville pop"]
+  argue: ["President Sassou Nguesso's four decades in power", "Debt and oil money", "Pensions and salaries paid late"]
+  say: {lang: fr-CG, name: French (Lingala and Kituba are widely spoken), phrases: [["Bonjour", "Hello", "bon-ZHOOR"], ["Merci", "Thank you", "mair-SEE"]]}
+
+CIV:
+  eat: ["Attiéké, fermented grated cassava, with grilled fish", "Alloco, fried plantain with chilli", "Garba, attiéké with fried tuna, the student staple"]
+  listen: ["Coupé-décalé, the flashy Abidjan dance music", "Zouglou, the student protest pop of Magic System", "Alpha Blondy and Ivorian reggae"]
+  argue: ["President Ouattara's fourth term", "The price farmers get for cocoa", "Jihadist threats from the Sahel"]
+  say: {lang: fr-CI, name: French (Nouchi is Abidjan's slang), phrases: [["Bonjour", "Hello", "bon-ZHOOR"], ["Merci", "Thank you", "mair-SEE"]]}
+
+DJI:
+  eat: ["Skoudehkaris, spiced rice with lamb", "Lahoh, a spongy pancake for breakfast", "Fah-fah, a spicy goat soup"]
+  listen: ["Somali and Afar songs on the oud", "Groupe RTD, the national band", "Ethiopian pop from next door"]
+  argue: ["Foreign military bases: US, French, Chinese, Japanese", "Chewing khat, imported daily from Ethiopia", "President Guelleh's long rule"]
+  say: {lang: fr-DJ, name: French (Somali and Afar are spoken at home), phrases: [["Bonjour", "Hello", "bon-ZHOOR"], ["Mahadsanid", "Thank you (Somali)", "ma-HAD-sa-nid"]]}
+
+EGY:
+  eat: ["Koshari, rice, lentils and pasta with spicy tomato sauce and fried onions", "Ful medames, slow-cooked fava beans, for breakfast", "Ta'ameya, falafel made with fava beans"]
+  listen: ["Umm Kulthum, still the voice of the Arab world decades after her death", "Mahraganat, the raucous electronic 'festival' music of Cairo's poor districts", "Amr Diab, the evergreen pop star"]
+  argue: ["Prices and the falling pound", "Whether megaprojects like the new capital are worth it", "Gaza and the border at Rafah"]
+  say: {lang: ar-EG, name: Egyptian Arabic, phrases: [["Ahlan", "Hello", "AH-lan"], ["Shukran", "Thank you", "SHOOK-ran"]]}
+
+GNQ:
+  eat: ["Succotash of fish and cassava", "Pepesup, a peppery fish soup", "Grilled meat with plantains"]
+  listen: ["Balélé dance and drums of the Bubi", "Spanish-language pop", "Afro-pop from Cameroon and Gabon"]
+  argue: ["The Obiang family's 45 years in power", "Oil wealth next to poverty", "The president's son, Teodorín, and his luxury spending"]
+  say: {lang: es-GQ, name: Spanish, phrases: [["Hola", "Hello", "OH-la"], ["Gracias", "Thank you", "GRAH-syas"]]}
+
+ERI:
+  eat: ["Injera, spongy sourdough flatbread, with zigni, spicy meat stew", "Italian-style pasta and espresso in Asmara's cafés", "Ful for breakfast"]
+  listen: ["Tigrinya songs with the krar lyre", "Helen Meles and the revolutionary songs of the independence war", "Diaspora pop"]
+  argue: ["Indefinite national service that drives young people to flee", "President Isaias, in power since 1993 without an election", "Relations with Ethiopia"]
+  say: {lang: ti, name: Tigrinya, phrases: [["Selam", "Hello", "seh-LAHM"], ["Yekenyeley", "Thank you", "yeh-ken-yeh-LAY"]]}
+
+SWZ:
+  eat: ["Sishwala, thick maize porridge, with stew", "Emasi, soured milk", "Sidvudvu, pumpkin porridge"]
+  listen: ["The Umhlanga reed dance songs", "Gospel choirs", "South African house and amapiano"]
+  argue: ["The king's absolute power and banned political parties", "One of the world's highest HIV rates", "Jobs that depend on South Africa"]
+  say: {lang: ss, name: siSwati, phrases: [["Sawubona", "Hello", "sah-woo-BOH-na"], ["Ngiyabonga", "Thank you", "ngee-yah-BONG-ga"]]}
+
+ETH:
+  eat: ["Injera with doro wat, a spicy chicken stew for holidays", "Shiro, a chickpea stew, on fasting days", "Kitfo, raw minced beef with spiced butter"]
+  listen: ["Ethio-jazz, Mulatu Astatke's 1970s fusion", "Teddy Afro, the most popular singer of his generation", "Azmari singers who improvise verses in bars"]
+  argue: ["Fighting in Amhara and Oromia", "Prime Minister Abiy and his megaprojects", "Prices after the birr was floated"]
+  say: {lang: am, name: Amharic, phrases: [["Selam", "Hello", "seh-LAHM"], ["Ameseginalehu", "Thank you", "ah-meh-seg-ee-NAH-leh-hoo"]]}
+
+GAB:
+  eat: ["Nyembwe chicken in palm-nut sauce", "Atanga, a purple fruit eaten with cassava", "Smoked fish and bush meat"]
+  listen: ["Pierre Akendengué, the poet-singer", "Bwiti ceremonial music with the ngombi harp", "Gabonese rap"]
+  argue: ["The 2023 coup and General Oligui's election", "Life after the Bongo family", "Oil running down"]
+  say: {lang: fr-GA, name: French, phrases: [["Bonjour", "Hello", "bon-ZHOOR"], ["Merci", "Thank you", "mair-SEE"]]}
+
+GMB:
+  eat: ["Domoda, groundnut stew with rice", "Benachin, one-pot rice with fish or meat", "Grilled fish at Tanji market"]
+  listen: ["Kora music of the griots, from Foday Musa Suso to Sona Jobarteh", "Mbalax from Senegal", "Gambian reggae"]
+  argue: ["The young men who take the 'back way' to Europe", "A new constitution that never passed", "Justice for crimes under Yahya Jammeh"]
+  say: {lang: wo, name: Wolof (English is official), phrases: [["Salaam aleekum", "Hello", "sa-LAAM a-LAY-koom"], ["Jërëjëf", "Thank you", "JEH-reh-jef"]]}
+
+GHA:
+  eat: ["Jollof rice, which Ghanaians insist beats Nigeria's", "Fufu, pounded cassava and plantain, with light soup", "Kelewele, spicy fried plantain"]
+  listen: ["Highlife, the guitar-band music of the 1950s", "Hiplife and Afrobeats from Sarkodie and Black Sherif", "Gospel, everywhere"]
+  argue: ["Illegal gold mining, galamsey, poisoning rivers", "Debt and the IMF bailout", "Cost of living"]
+  say: {lang: ak, name: Twi, phrases: [["Ete sen?", "How are you?", "eh-teh SEN"], ["Medaase", "Thank you", "meh-DAH-seh"]]}
+
+GIN:
+  eat: ["Rice with peanut or cassava-leaf sauce", "Fouti, Fula sauce of okra", "Grilled fish in Conakry"]
+  listen: ["Bembeya Jazz, the 1960s state orchestra", "Mory Kanté's electric kora", "Afro-manding pop and rap"]
+  argue: ["General Doumbouya's path from coup leader to president", "Bauxite mining and who benefits", "Simandou, the giant iron ore mine"]
+  say: {lang: fr-GN, name: French, phrases: [["Bonjour", "Hello", "bon-ZHOOR"], ["Merci", "Thank you", "mair-SEE"]]}
+
+GNB:
+  eat: ["Rice with fish and palm oil", "Caldo de mancarra, peanut stew", "Cashews, the main crop"]
+  listen: ["Gumbe, the national dance rhythm", "Super Mama Djombo, the liberation-era band", "Kriol rap"]
+  argue: ["Coups and attempted coups, most recently in 2025", "Cocaine trafficking through the islands", "The cashew price"]
+  say: {lang: pt-GW, name: Portuguese (Kriol is the common language), phrases: [["Olá", "Hello", "oh-LAH"], ["Obrigado", "Thank you", "oh-bree-GAH-doo"]]}
+
+KEN:
+  eat: ["Ugali, a stiff maize porridge, with sukuma wiki, braised collard greens", "Nyama choma, grilled goat or beef, at weekends", "Chapati and pilau, from the coast's Swahili and Indian heritage"]
+  listen: ["Benga, the guitar pop of the 1970s", "Gengetone, Nairobi's rowdy Sheng-language rap", "Sauti Sol, the best-known band of the 2010s"]
+  argue: ["Taxes and the cost of living", "Police killings and abductions of protesters", "Who will win in 2027"]
+  say: {lang: sw-KE, name: Swahili, phrases: [["Habari", "Hello (literally 'news?')", "ha-BAH-ree"], ["Asante", "Thank you", "ah-SAHN-teh"]]}
+
+LSO:
+  eat: ["Papa, stiff maize porridge, with moroho greens", "Sheep and goat stews in the highlands", "Motoho, fermented sorghum porridge"]
+  listen: ["Famo, accordion-driven music of migrant miners", "Lesiba, a mouth-blown string instrument", "South African house"]
+  argue: ["Selling water to South Africa", "Textile jobs hit by US tariffs", "Famo gang violence"]
+  say: {lang: st, name: Sesotho, phrases: [["Lumela", "Hello", "loo-MEH-la"], ["Kea leboha", "Thank you", "keh-ah leh-BO-ha"]]}
+
+LBR:
+  eat: ["Palm butter soup with rice", "Potato greens, cooked with meat and chilli", "Fufu and pepper soup"]
+  listen: ["Hipco, rap in Liberian English", "Gospel", "Afrobeats from Nigeria and Ghana"]
+  argue: ["A war crimes court for the civil wars", "Corruption", "Kush, a cheap synthetic drug hooking young people"]
+  say: {lang: en-LR, name: Liberian English, phrases: [["How da body?", "How are you?", "how dah BAH-dee"], ["Tank you plenty", "Thank you very much", "tank yah PLEN-tee"]]}
+
+LBY:
+  eat: ["Bazeen, barley dough with lamb and tomato sauce", "Couscous and shorba soup", "Italian-influenced pasta, a legacy of colonial rule"]
+  listen: ["Malouf, Andalusian-rooted classical music", "Mrskawi, folk music of the east", "Libyan rap that grew after 2011"]
+  argue: ["Two rival governments, east and west", "Militias and who controls the oil", "Migrants crossing to Europe"]
+  say: {lang: ar-LY, name: Libyan Arabic, phrases: [["Salam alaykum", "Hello", "sa-LAAM a-LAY-kum"], ["Shukran", "Thank you", "SHOOK-ran"]]}
+
+MDG:
+  eat: ["Rice, eaten at every meal", "Romazava, a beef and greens broth", "Zebu meat skewers"]
+  listen: ["Salegy, the fast dance music of the north", "Hira gasy, travelling troupes of singers and orators", "Valiha, a bamboo tube zither"]
+  argue: ["Power and water cuts that sparked the 2025 Gen Z protests", "The military takeover that followed", "Vanilla prices"]
+  say: {lang: mg, name: Malagasy, phrases: [["Manao ahoana", "Hello", "ma-NOW a-HOON"], ["Misaotra", "Thank you", "mee-SOH-tra"]]}
+
+MWI:
+  eat: ["Nsima, maize porridge, with relish of greens or fish", "Chambo, tilapia from Lake Malawi", "Mandasi, sweet fried dough"]
+  listen: ["Malawian reggae and gospel", "Lucius Banda, the 'soldier' of protest songs", "Gule Wamkulu masked dances"]
+  argue: ["Fuel and forex shortages", "Peter Mutharika's return to power in 2025", "Hunger after droughts"]
+  say: {lang: ny, name: Chichewa, phrases: [["Moni", "Hello", "MOH-nee"], ["Zikomo", "Thank you", "zee-KOH-mo"]]}
+
+MLI:
+  eat: ["Tô, millet porridge, with baobab-leaf sauce", "Tiguadégué na, peanut stew", "Grilled capitaine fish from the Niger"]
+  listen: ["Desert blues, from Ali Farka Touré to Tinariwen", "Salif Keita, Oumou Sangaré and Amadou & Mariam", "Kora and griot praise singers"]
+  argue: ["The jihadist fuel blockade on Bamako", "Russia's Africa Corps and abuses against civilians", "When, if ever, there will be elections"]
+  say: {lang: bm, name: Bambara, phrases: [["I ni ce", "Hello", "ee nee CHEH"], ["I ni ce", "Thank you (same phrase)", "ee nee CHEH"]]}
+
+MRT:
+  eat: ["Thieboudienne, fish and rice", "Méchoui, whole roasted lamb", "Camel milk and strong green tea, three glasses"]
+  listen: ["Moorish griot music with the tidinit lute", "Noura Mint Seymali, the desert rock singer", "Hassaniya poetry"]
+  argue: ["Slavery's legacy and discrimination against Haratines", "Gas fields off the coast", "Migrants heading to the Canaries"]
+  say: {lang: ar-MR, name: Hassaniya Arabic, phrases: [["Salam alaykum", "Hello", "sa-LAAM a-LAY-kum"], ["Shukran", "Thank you", "SHOOK-ran"]]}
+
+MUS:
+  eat: ["Dholl puri, flatbread stuffed with split peas, with curry", "Rougaille, a tomato stew of fish or sausage", "Mine frire, fried noodles from the Chinese community"]
+  listen: ["Sega, the rhythm of slave descendants, played on the ravanne drum", "Seggae, sega mixed with reggae, from Kaya", "Bollywood music"]
+  argue: ["The Chagos Islands handover from Britain", "Cost of living", "Corruption scandals"]
+  say: {lang: fr-MU, name: Mauritian Creole, phrases: [["Bonzour", "Hello", "bon-ZOOR"], ["Mersi", "Thank you", "mair-SEE"]]}
+
+MAR:
+  eat: ["Tagine, slow-cooked stew in a clay pot", "Couscous on Fridays", "Harira soup to break the Ramadan fast, and mint tea all day"]
+  listen: ["Gnawa, trance music of West African descendants", "Chaabi and Amazigh folk", "Moroccan rap and pop stars like Saad Lamjarred"]
+  argue: ["Stadiums for the 2030 World Cup versus hospitals and schools, the trigger for Gen Z protests in 2025", "Western Sahara", "The cost of living"]
+  say: {lang: ar-MA, name: Moroccan Arabic (Darija), phrases: [["Salam", "Hello", "sa-LAAM"], ["Shukran", "Thank you", "SHOOK-ran"]]}
+
+MOZ:
+  eat: ["Matapa, cassava leaves with peanuts and coconut", "Peri-peri prawns", "Xima, maize porridge"]
+  listen: ["Marrabenta, Maputo's guitar dance music", "Timbila xylophone orchestras of the Chopi", "Pandza, the electronic street dance"]
+  argue: ["The disputed 2024 election and the killings that followed", "The insurgency in Cabo Delgado and the gas project", "Who gets the gas money"]
+  say: {lang: pt-MZ, name: Portuguese, phrases: [["Olá", "Hello", "oh-LAH"], ["Obrigado", "Thank you", "oh-bree-GAH-doo"]]}
+
+NAM:
+  eat: ["Kapana, street-grilled beef with chilli salt", "Oshifima, millet porridge, in the north", "German-style bread and beer, a colonial legacy"]
+  listen: ["Kwaito, borrowed and remade from South Africa", "Shambo, music of the Oshiwambo", "The Windhoek jazz scene"]
+  argue: ["Land owned by a white minority", "Green hydrogen and new oil finds", "Germany's apology for the Herero and Nama genocide"]
+  say: {lang: en-NA, name: English (Oshiwambo is most widely spoken), phrases: [["Hello", "Hello", "heh-LOH"], ["Thank you", "Thank you", "THANK yoo"]]}
+
+NER:
+  eat: ["Fura, millet balls in soured milk", "Kilishi, spiced dried meat", "Djerma rice and sauce"]
+  listen: ["Mdou Moctar and Tuareg desert guitar", "Hausa praise singers", "Rap from Niamey"]
+  argue: ["The 2023 coup and expelling French and US troops", "Uranium and the row with France's Orano", "Jihadist attacks in Tillabéri"]
+  say: {lang: ha, name: Hausa, phrases: [["Sannu", "Hello", "SAN-noo"], ["Na gode", "Thank you", "nah GOH-deh"]]}
+
+NGA:
+  eat: ["Jollof rice at every party", "Pounded yam with egusi, melon-seed soup", "Suya, spicy grilled beef sold at night"]
+  listen: ["Afrobeats, from Burna Boy, Wizkid and Davido to Tems and Rema", "Fela Kuti's Afrobeat", "Fuji and juju, the Yoruba party music"]
+  argue: ["Prices after the end of fuel subsidies", "Insecurity, kidnappings and banditry", "Japa, the brain drain of young professionals"]
+  say: {lang: en-NG, name: Nigerian Pidgin, phrases: [["How far?", "How are you?", "how FAH"], ["I thank you well well", "Thank you very much", "ai tank yoo wel wel"]]}
+
+RWA:
+  eat: ["Isombe, cassava leaves with peanuts", "Brochettes of goat with fried plantain", "Ugali and beans"]
+  listen: ["Intore dancers and drums", "Rwandan pop by The Ben and Bruce Melodie", "Gospel"]
+  argue: ["Support for the M23 in Congo", "Kagame's grip on politics", "Remembering the 1994 genocide"]
+  say: {lang: rw, name: Kinyarwanda, phrases: [["Muraho", "Hello", "moo-RAH-ho"], ["Murakoze", "Thank you", "moo-rah-KO-zeh"]]}
+
+STP:
+  eat: ["Calulu, smoked fish stewed with greens and palm oil", "Breadfruit and plantains", "Cocoa and coffee from the old plantations"]
+  listen: ["Ússua and socopé, colonial-era dances", "Tchiloli, a street theatre of a medieval French tale", "Kizomba and zouk"]
+  argue: ["Coup attempts", "Power cuts", "Jobs beyond cocoa"]
+  say: {lang: pt-ST, name: Portuguese, phrases: [["Olá", "Hello", "oh-LAH"], ["Obrigado", "Thank you", "oh-bree-GAH-doo"]]}
+
+SEN:
+  eat: ["Thieboudienne, fish and rice, the national dish", "Yassa, chicken or fish in lemon and onion", "Café Touba, coffee spiced with grains of selim"]
+  listen: ["Mbalax, Youssou N'Dour's sabar-drum pop", "Baaba Maal and the Fula songs of the north", "Senegalese rap, which helped topple Wade"]
+  argue: ["Hidden debt uncovered in 2024", "What President Faye and Prime Minister Sonko owe their young voters", "Boats to the Canaries"]
+  say: {lang: wo, name: Wolof, phrases: [["Nanga def?", "How are you?", "NAN-ga def"], ["Jërëjëf", "Thank you", "JEH-reh-jef"]]}
+
+SYC:
+  eat: ["Fish curry with coconut", "Grilled red snapper", "Breadfruit chips"]
+  listen: ["Moutya, drum and song from slavery days", "Sega and kanmtole dance", "Creole pop"]
+  argue: ["Heroin addiction, among the highest rates in the world", "Tourism and the environment", "Rising seas"]
+  say: {lang: fr-SC, name: Seychellois Creole, phrases: [["Bonzour", "Hello", "bon-ZOOR"], ["Mersi", "Thank you", "mair-SEE"]]}
+
+SLE:
+  eat: ["Cassava leaf stew with rice", "Groundnut soup", "Fry fry, street sandwiches for breakfast"]
+  listen: ["Afropop and Krio rap", "Palm wine music", "Bubu, carnival music"]
+  argue: ["The 2023 election dispute", "Kush, a synthetic drug declared a national emergency", "Diamonds and who benefits"]
+  say: {lang: kri, name: Krio, phrases: [["Kushe", "Hello", "KOO-sheh"], ["Tenki", "Thank you", "TEN-kee"]]}
+
+SOM:
+  eat: ["Bariis iskukaris, spiced rice with goat or camel", "Canjeero, spongy pancake for breakfast", "Pasta with suugo sauce, a legacy of Italian rule"]
+  listen: ["Somali oral poetry, still a national art", "Waaberi-era golden age songs", "K'naan and diaspora artists"]
+  argue: ["Al-Shabaab and whether the government can beat it", "One-person-one-vote elections versus clan selection", "Somaliland and Ethiopia's port deal"]
+  say: {lang: so, name: Somali, phrases: [["Iska warran", "Hello, what's new?", "IS-ka WAR-ran"], ["Mahadsanid", "Thank you", "ma-HAD-sa-nid"]]}
+
+ZAF:
+  eat: ["Braai, the weekend barbecue, with boerewors sausage", "Bunny chow, curry in a hollowed loaf, from Durban", "Pap and chakalaka, maize porridge with spicy relish"]
+  listen: ["Amapiano, the log-drum house that took over the world", "Mbaqanga and the choirs of Ladysmith Black Mambazo", "Kwaito, the sound of the 1990s townships"]
+  argue: ["Power cuts and failing state companies", "Crime", "Whether the coalition government will last"]
+  say: {lang: zu, name: isiZulu, phrases: [["Sawubona", "Hello", "sah-woo-BOH-na"], ["Ngiyabonga", "Thank you", "ngee-yah-BONG-ga"]]}
+
+SSD:
+  eat: ["Kisra, sorghum pancakes", "Asida, porridge, with okra stew", "Fish from the Nile"]
+  listen: ["Emmanuel Kembe and Dinka songs", "Juba Arabic pop", "Gospel"]
+  argue: ["The peace deal unravelling between Kiir and Machar", "Elections postponed again and again", "Salaries unpaid for months"]
+  say: {lang: en-SS, name: English (Juba Arabic is the street language), phrases: [["Salam", "Hello", "sa-LAAM"], ["Shukran", "Thank you", "SHOOK-ran"]]}
+
+SDN:
+  eat: ["Ful medames, stewed fava beans", "Kisra, sorghum flatbread", "Gurasa, a thick pancake"]
+  listen: ["Mohammed Wardi, the voice of Sudanese song", "Haqiba, early 20th-century vocal music", "Protest songs from the 2019 revolution"]
+  argue: ["The war between the army and the RSF", "Famine and the siege of El Fasher", "Who will rebuild Khartoum"]
+  say: {lang: ar-SD, name: Sudanese Arabic, phrases: [["Salam alaykum", "Hello", "sa-LAAM a-LAY-kum"], ["Shukran", "Thank you", "SHOOK-ran"]]}
+
+TZA:
+  eat: ["Ugali with grilled fish or meat", "Pilau rice spiced with cloves from Zanzibar", "Chipsi mayai, a chips omelette"]
+  listen: ["Bongo flava, from Diamond Platnumz", "Taarab orchestras in Zanzibar", "Singeli, the frantic electronic dance music of Dar es Salaam"]
+  argue: ["The 2025 election, the opposition ban and the killings", "Maasai evicted from game areas", "Freedom of speech"]
+  say: {lang: sw-TZ, name: Swahili, phrases: [["Mambo", "Hi", "MAHM-bo"], ["Asante", "Thank you", "ah-SAHN-teh"]]}
+
+TGO:
+  eat: ["Fufu with peanut or palm-nut soup", "Akoumé, maize dough with sauce", "Grilled fish in Lomé"]
+  listen: ["King Mensah, the 'king' of Togolese music", "Agbadja drumming of the Ewe", "Afro-pop and rap"]
+  argue: ["The Gnassingbé family's six decades in power", "The 2024 constitution that keeps Faure Gnassingbé in charge", "Jihadist attacks in the north"]
+  say: {lang: fr-TG, name: French (Ewe is widely spoken), phrases: [["Bonjour", "Hello", "bon-ZHOOR"], ["Merci", "Thank you", "mair-SEE"]]}
+
+TUN:
+  eat: ["Couscous with fish or lamb", "Brik, crisp pastry with egg and tuna", "Lablabi, chickpea soup with harissa, for breakfast"]
+  listen: ["Malouf, Andalusian classical music", "Mezoued, bagpipe-led popular music", "Tunisian rap, loud since 2011"]
+  argue: ["President Saied's power grab and jailed critics", "Migrants from sub-Saharan Africa", "Shortages and the cost of living"]
+  say: {lang: ar-TN, name: Tunisian Arabic, phrases: [["Aslema", "Hello", "AS-leh-ma"], ["Yaishek", "Thank you", "YA-ee-shek"]]}
+
+UGA:
+  eat: ["Matoke, steamed green bananas, with groundnut sauce", "Rolex, an omelette rolled in a chapati", "Luwombo, stew steamed in banana leaves"]
+  listen: ["Kadongo kamu, storytelling guitar music", "Afrobeat and dancehall from Eddy Kenzo", "Nyege Nyege, the electronic music festival"]
+  argue: ["Museveni, in power since 1986, and his son's ambitions", "The jailing of opposition leaders", "Oil pipeline and the environment"]
+  say: {lang: lg, name: Luganda, phrases: [["Oli otya?", "How are you?", "OH-lee OH-tya"], ["Webale", "Thank you", "weh-BAH-leh"]]}
+
+ZMB:
+  eat: ["Nshima, maize porridge, with relish", "Kapenta, tiny dried fish", "Ifinkubala, fried caterpillars"]
+  listen: ["Zamrock, the psychedelic rock of the 1970s", "Kalindula, bass-driven folk", "Zambian hip-hop"]
+  argue: ["Load-shedding after drought dried the Kariba dam", "Debt restructuring", "Copper mining and who gets the money"]
+  say: {lang: bem, name: Bemba, phrases: [["Mulishani", "How are you?", "moo-lee-SHAH-nee"], ["Natotela", "Thank you", "na-toh-TEH-la"]]}
+
+ZWE:
+  eat: ["Sadza, maize porridge, with stewed greens or beef", "Mopane worms", "Maputi, popped maize"]
+  listen: ["Chimurenga, Thomas Mapfumo's liberation music", "Mbira, the thumb piano of Shona ceremonies", "Zimdancehall"]
+  argue: ["The currency, which keeps collapsing", "President Mnangagwa's term extension", "Emigration to South Africa and Britain"]
+  say: {lang: sn, name: Shona, phrases: [["Mhoro", "Hello", "m-HO-ro"], ["Ndatenda", "Thank you", "n-da-TEN-da"]]}

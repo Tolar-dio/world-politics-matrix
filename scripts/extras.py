@@ -119,7 +119,105 @@ def build(content: Path, data: Path, ids: set[str], md, paras, pretty_date) -> d
         for cid in f["countries"]:
             per_country[cid].setdefault("forecasts", []).append(f["id"])
 
+    # Connections: alliances, trade, arms, sanctions.
+    build_connections(content, data, ids, per_country, pretty_date)
+
+    # People: food, music, arguments, phrases. Background, so no citations.
+    for cid, p in _load_dir(content / "people").items():
+        where = f"people/{cid}"
+        if cid not in ids:
+            raise BuildError(f"{where}: unknown country code")
+        say = p.get("say") or {}
+        phrases = say.get("phrases") or []
+        if phrases and (not say.get("lang") or any(not isinstance(x, list) or len(x) != 3 for x in phrases)):
+            raise BuildError(f"{where}: say needs lang, name and phrases as [phrase, meaning, how to say it]")
+        per_country[cid]["people"] = {
+            "eat": [md(str(x))[0] for x in p.get("eat") or []],
+            "listen": [md(str(x))[0] for x in p.get("listen") or []],
+            "argue": [md(str(x))[0] for x in p.get("argue") or []],
+            "say": {"lang": str(say.get("lang") or ""), "name": str(say.get("name") or ""), "phrases": [[str(a), str(b), str(c)] for a, b, c in phrases]} if phrases else None,
+        }
+
+    # How we got here: a short history and a timeline.
+    for cid, h in _load_dir(content / "past").items():
+        where = f"past/{cid}"
+        if cid not in ids:
+            raise BuildError(f"{where}: unknown country code")
+        tl = h.get("timeline") or []
+        if not h.get("story") or any(not isinstance(x, list) or len(x) != 2 for x in tl):
+            raise BuildError(f"{where}: needs story and timeline as [year, event]")
+        per_country[cid]["past"] = {"story": paras(str(h["story"])), "timeline": [[str(y), md(str(e))[0]] for y, e in tl]}
+
+    # In its own voice: what the country says about itself, what its press says, how others see it. Sourced.
+    for cid, v in _load_dir(content / "voices").items():
+        where = f"voices/{cid}"
+        if cid not in ids:
+            raise BuildError(f"{where}: unknown country code")
+        out = {}
+        for key in ("leader", "press", "abroad"):
+            items = []
+            for it in v.get(key) or []:
+                if not ISO_DATE.match(str(it.get("date") or "")) or not it.get("text") or not str(it.get("url") or "").startswith("http"):
+                    raise BuildError(f"{where}.{key}: each item needs date (YYYY-MM-DD), who, text and url")
+                items.append({"date": str(it["date"]), "pretty": pretty_date(str(it["date"])), "who": str(it.get("who") or ""),
+                              "text": md(str(it["text"]))[0], "url": it["url"], "src": str(it.get("source") or "")})
+            out[key] = sorted(items, key=lambda x: x["date"], reverse=True)
+        per_country[cid]["voices"] = out
+
     return {"per_country": per_country}
+
+
+BLOC_KINDS = {"military", "union", "economic", "political"}
+
+
+def build_connections(content: Path, data: Path, ids: set[str], per_country: dict, pretty_date) -> None:
+    conn: dict[str, dict] = {}
+    get = lambda cid: conn.setdefault(cid, {})
+
+    doc = _load_yaml(content / "blocs.yaml") or {}
+    blocs = []
+    for b in doc.get("blocs") or []:
+        where = f"blocs.yaml: {b.get('id')}"
+        if not b.get("id") or not b.get("name") or b.get("kind") not in BLOC_KINDS:
+            raise BuildError(f"{where}: needs id, name and kind ({', '.join(sorted(BLOC_KINDS))})")
+        bad = [m for m in b.get("members") or [] if m not in ids]
+        if bad:
+            raise BuildError(f"{where}: unknown country codes {bad}")
+        status = b.get("status") or {}
+        blocs.append({"id": b["id"], "name": b["name"], "short": b.get("short") or b["name"], "kind": b["kind"],
+                      "what": str(b.get("what") or ""), "note": str(b.get("note") or ""), "members": b["members"],
+                      "status": status, "sources": _sources(b.get("sources"), where)})
+        for m in b["members"]:
+            get(m).setdefault("blocs", []).append([b["id"], status.get(m, "")])
+    as_of = str(doc.get("as_of") or "")
+
+    trade = json.loads((content / "trade.json").read_text()) if (content / "trade.json").exists() else {}
+    for cid, t in (trade.get("countries") or {}).items():
+        if cid in ids:
+            get(cid)["trade"] = t
+
+    arms = _load_yaml(content / "arms.yaml") or {}
+    for key, out in (("importers", "arms_in"), ("exporters", "arms_out")):
+        for cid, a in (arms.get(key) or {}).items():
+            if cid not in ids:
+                raise BuildError(f"arms.yaml: unknown country {cid}")
+            get(cid)[out] = a
+
+    sanc = json.loads((content / "sanctions.json").read_text()) if (content / "sanctions.json").exists() else {}
+    for cid, lst in (sanc.get("countries") or {}).items():
+        if cid in ids:
+            get(cid)["sanctions"] = lst
+
+    meta = {
+        "blocs_as_of": pretty_date(as_of) if as_of else "",
+        "trade": {"source": "UN Comtrade", "url": "https://comtradeplus.un.org/", "fetched": trade.get("fetched", "")},
+        "arms": {"period": arms.get("period", ""), "previous": arms.get("previous", ""), "source": arms.get("source"), "note": arms.get("note", "")},
+        "sanctions": {"source": "EU Sanctions Map", "url": "https://www.sanctionsmap.eu/", "fetched": sanc.get("fetched", "")},
+    }
+    (data / "connections.json").write_text(json.dumps({"meta": meta, "blocs": blocs}, ensure_ascii=False, separators=(",", ":")))
+    for cid, c in conn.items():
+        if cid in per_country:
+            per_country[cid]["connections"] = c
 
 
 THREAD_STATUS = {"escalating", "grinding", "talks", "shifting", "cooling"}
