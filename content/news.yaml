@@ -1,5 +1,78 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-16'
+  countries: [KHM, RWA, COD, ROU, MRT, FRA]
+  category: diplomatic
+  headline: "Francophonie leaders give Rwanda's Mushikiwabo one more year and postpone the vote on her successor"
+  summary: "After talks through the weekend at the summit in Phnom Penh, member states agreed on 16 November that Secretary-General Louise Mushikiwabo will stay on for one more year before a new leader takes over, instead of choosing between her, Romania's Dacian Ciolos and Mauritania's Coumba Ba. Congo, which had threatened to leave the organisation if she won a third term, called it a 'wise compromise', and Emmanuel Macron's office said it would help 'overcome divisions'. It matters because it keeps Congo, the largest French-speaking country, inside the organisation for now, a country of more than 110 million people, but only postpones the fight that Rwanda's backing for the M23 rebels has turned it into."
+  sources:
+  - {label: "KSAT (AP): Macron leaves Francophonie summit in Cambodia with leadership dispute on hold", url: "https://www.ksat.com/news/2026/11/16/macron-leaves-francophonie-summit-in-cambodia-with-leadership-dispute-on-hold/"}
+  - {label: "Cambodianess: Francophonie summit extends Mushikiwabo's mandate amid Rwanda-DR Congo tensions", url: "https://cambodianess.com/article/francophonie-summit-extends-mushikiwabos-mandate-amid-rwanda-dr-congo-tensions"}
+  good: true
+- date: '2026-11-15'
+  countries: [YEM, SAU]
+  category: military
+  conflict: yemen-civil-war
+  headline: "Yemen's southern government forces pull back from Dhubab and the Bab al-Mandeb area, leaving the Houthis closer to the strait"
+  summary: "The Southern Armed Forces, which fight on the side of the internationally recognised government, said on 15 November they were withdrawing from Dhubab airport and the Bab al-Mandeb area west of Taiz to give priority to defending Aden and nearby provinces and to support efforts to break the Houthi siege of Taiz, with Saudi-led coalition backing. Government forces had retaken Dhubab in an offensive launched in early October. It matters because the pullback could leave the Houthis in control of ground overlooking Bab al-Mandeb, the sea lane Gulf oil exporters have used as an alternative while Hormuz is blocked, and comes days after the Houthis opened an offensive in western Lahj aimed at the Mokha-Aden road."
+  sources:
+  - {label: "The National: Yemen government forces' pullback hands Houthis greater leverage over Bab Al Mandeb", url: "https://www.thenationalnews.com/news/mena/2026/11/15/southern-yemeni-forces-withdraw-from-area-near-bab-al-mandab/"}
+  - {label: "US News (Reuters): Yemeni government force retreats from strait in major setback in war against Houthis", url: "https://www.usnews.com/news/world/articles/2026-11-15/yemen-government-forces-withdraw-from-area-near-bab-el-mandeb-strait-houthis-in-control"}
+  - {label: "Ynet: Yemen forces retreat from Bab al-Mandeb, giving Houthis control of strategic Red Sea positions", url: "https://www.ynetnews.com/article/ryqhhdvrme"}
+- date: '2026-11-15'
+  countries: [IRN, USA, BHR, QAT, ARE]
+  category: military
+  conflict: iran-war-2026
+  headline: "A third US carrier group reaches the Middle East as Gulf states condemn Iran's attacks on Bahrain"
+  summary: "US media reported that the USS Theodore Roosevelt carrier strike group arrived in the region on 15 November, joining two other carriers, after weeks of planning to send it and about 10,000 more sailors and Marines. The Gulf Cooperation Council's secretary-general called Iran's drone attacks on Bahrain a 'blatant challenge' to peace efforts, the UAE called them a 'flagrant violation' of Bahrain's sovereignty, and mediator Qatar called them a 'dangerous escalation'. Iran's speaker Mohammad Bagher Ghalibaf said the way to end the war is open if the US accepts Iran's 'logical conditions', while the IRGC claimed more tankers hit mines on routes it calls unauthorised, which has not been verified. It matters because the build-up gives Trump the option of new strikes just as both sides say diplomacy is still possible."
+  sources:
+  - {label: "Rigzone (Bloomberg): Iran says door to peace still open after strikes on Bahrain", url: "https://www.rigzone.com/news/wire/iran_says_door_to_peace_still_open_after_strikes_on_bahrain-16-nov-2026-185086-article/"}
+  - {label: "The National: Iran attacks Bahrain in 'blatant challenge' to peace push", url: "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-attacks-bahrain-in-blatant-challenge-to-peace-push/"}
+  - {label: "Times of Israel: Liveblog, 16 November 2026", url: "https://www.timesofisrael.com/liveblog-november-16-2026/"}
+- date: '2026-11-16'
+  countries: [RUS, UKR]
+  category: economic
+  conflict: russia-ukraine-war
+  headline: "EU foreign ministers add about 145 people and companies to the Russia sanctions list"
+  summary: "French Foreign Minister Jean-Noël Barrot told reporters in Brussels on 16 November that sanctions on 145 individuals and organisations 'have just been approved', aimed at Russia's financial system, the 'shadow fleet' of tankers that carries its oil, and people linked to disinformation; TASS put the number at about 140. The listings include Tatyana Kim, head of the online retailer Wildberries, and a St Petersburg oil terminal. It matters because the EU is tightening pressure on Russian oil revenue while ministers also discuss air defence for Ukraine and how to close its funding gap for next year."
+  sources:
+  - {label: "APA: EU adds another 145 individuals and entities to sanctions list against Russia", url: "https://en.apa.az/europe/eu-adds-another-145-individuals-and-entities-to-sanctions-list-against-russia-536418"}
+  - {label: "TASS: EU approves new Russia sanctions targeting 140 people, entities", url: "https://tass.com/world/2218675"}
+  - {label: "RTE: EU foreign ministers meet on Ukraine's needs before winter", url: "https://www.rte.ie/news/europe/2026/1116/1599321-eu-ukraine-politics/"}
+- date: '2026-11-15'
+  countries: [CZE]
+  category: political
+  headline: "Organisers say up to 450,000 rally in Prague against the Babis government's plan to change public media funding"
+  summary: "Mikulas Minar of Million Moments for Democracy, which called the rally on Letna Plain, estimated the crowd on 15 November at between 350,000 and 450,000; there was no independent count. Protesters want the government to withdraw a bill that would replace licence fees for Czech Television and Czech Radio with money from the state budget and cut their budgets by about 15 percent, and they also called for the dismissal of parliament speaker Tomio Okamura. Prime Minister Andrej Babis says nobody wants to control public media. It matters because it is the largest protest against his coalition with the far-right SPD and the Motorists, and press freedom groups compare the plan with moves against public broadcasters in Slovakia and Hungary."
+  sources:
+  - {label: "TheJournal.ie (AFP): Hundreds of thousands protest in Czechia over public-media funding overhaul", url: "https://www.thejournal.ie/czechia-public-media-funding-protests-7227143-Nov2026/"}
+  - {label: "Reflex: Milion chvilek calls for Okamura's dismissal; up to 400,000 at Letna by estimates", url: "https://www.reflex.cz/clanek/online-prenos/139368/zaplni-milion-chvilek-letnou-demonstraci-na-podporu-verejnopravnich-medii-glosujeme-zive.html"}
+  confidence: reported
+- date: '2026-11-14'
+  countries: [FRA]
+  category: political
+  headline: "France's Saturday protests over living costs and a police weapons bill enter a fifth weekend"
+  summary: "The Interior Ministry counted about 106,000 marchers across France on 14 November, 24,000 of them in Paris, the lowest in recent weeks, while student unions put the figure at 200,000. Protesters object to rising living costs, inequality and a bill giving extra legal protection to police who use their weapons, which Marine Le Pen's party supports and critics call a 'licence to kill'; police used tear gas in Paris, Bordeaux and Nantes. Unions rejected the government's offer of a 0.6 percent minimum wage rise as 'crumbs'. It matters because the unrest, with a national strike called for 17 November, weighs on a government with little money to spare and on Macron, whose popularity is at its lowest since 2017."
+  sources:
+  - {label: "Malay Mail (AFP): More than 100,000 march across France as protests enter fifth weekend", url: "https://www.malaymail.com/news/world/2026/11/15/more-than-100000-march-across-france-as-protests-enter-fifth-weekend/243325"}
+- date: '2026-11-15'
+  countries: [SDN]
+  category: humanitarian
+  conflict: sudan-saf-rsf
+  headline: "Rights monitors say an army air strike killed at least 13 civilians in West Kordofan as the army pushes toward En Nahud"
+  summary: "The Emergency Lawyers group said an army air strike on 15 November on the Abu Qalb area of Abu Zabad locality killed 13 civilians, including women and children, and destroyed homes, while the Kordofan Observatory monitor put the toll at 15, including four children, after what it said were two drone strikes on the village. It matters because civilian deaths in army strikes are rising as its offensive moves west after retaking Al-Khuwei, and both monitors' figures could not be independently confirmed."
+  sources:
+  - {label: "Darfur24: 13 killed in West Kordofan airstrike, rights group says", url: "https://darfur24.com/en/2026/11/16/13-killed-in-west-kordofan-airstrike-rights-group-says/"}
+  - {label: "Ratopati: Sudan army drone strike kills 15, including 4 children", url: "https://english.ratopati.com/story/86854/drone-attack-in-sudan-kills-15-people-including-four-children"}
+  confidence: reported
+- date: '2026-11-16'
+  countries: [BGD, IND]
+  category: political
+  headline: "Sheikh Hasina says she is preparing to return to Bangladesh from India in December despite her death sentence"
+  summary: "Former prime minister Sheikh Hasina, sentenced to death in absentia for crimes against humanity over the 2024 crackdown on protesters, told AFP on 16 November that she is 'already making preparations to return to Bangladesh in December'. The government says she would face execution and has no legal recourse left after missing the deadline to appeal, and authorities blame her banned Awami League for a recent wave of petrol bomb attacks, which she denies. It matters because her return, or the threat of it, could set off new unrest under Tarique Rahman's government, which has asked India to extradite her."
+  sources:
+  - {label: "Gulf News (AFP): Ex-Bangladesh PM Hasina to return home despite threat of death", url: "https://gulfnews.com/world/asia/ex-bangladesh-pm-hasina-to-return-home-despite-threat-of-death-2-1.500748778"}
+  - {label: "Khaleej Times (AFP, July 2026): Bangladesh ex-prime minister Hasina vows to return despite fearing for life", url: "https://www.khaleejtimes.com/world/asia/bangladesh-ex-prime-minister-hasina-vows-to-return-despite-fearing-for-life"}
 - date: '2026-11-14'
   countries: [SOM]
   category: political
@@ -482,8 +555,8 @@ news:
   countries: [ARE, IRN, OMN]
   category: military
   conflict: iran-war-2026
-  headline: "An ADNOC vessel is damaged in an attack in UAE waters as Iran says three tankers are burning in Hormuz"
-  summary: "ADNOC Logistics and Services said one of its vessels was damaged in an attack in UAE territorial waters in the Gulf on the afternoon of 10 November, without naming the ship or an attacker. The same day UKMTO reported a tanker struck by an unidentified projectile 19 nautical miles northeast of Limah, Oman, with the crew safe, and Iran's Revolutionary Guards said three tankers were on fire in the Strait of Hormuz after using unauthorised routes. It is unclear whether the incidents overlap. It matters because attacks on Gulf shipping are continuing even as Trump calls new strikes on Iran unlikely and Qatar presses mediation."
+  headline: "An Emirati ship is damaged in an attack in UAE waters as Iran says three tankers are burning in Hormuz"
+  summary: "An Emirati ship was attacked and damaged in UAE territorial waters in the Gulf on the afternoon of 10 November, and ADNOC Logistics and Services said response efforts were under way, without confirming the ship was its own or naming an attacker. The same day UKMTO reported a tanker struck by an unidentified projectile 19 nautical miles northeast of Limah, Oman, with the crew safe, and Iran's Revolutionary Guards said three tankers were on fire in the Strait of Hormuz after using unauthorised routes. It is unclear whether the incidents overlap. It matters because attacks on Gulf shipping are continuing even as Trump calls new strikes on Iran unlikely and Qatar presses mediation."
   sources:
   - label: "ADNOC Logistics & Services: Statement, 10 November 2026"
     url: https://adnocls.ae/en/news-and-media/press-releases/2026/november-10-statement
@@ -3217,6 +3290,18 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2026-11-17'
+  countries: [IRN, OMN]
+  event: "Iranian Foreign Minister Abbas Araghchi holds talks in Muscat with Oman's foreign minister"
+- date: '2026-11-18'
+  countries: [UKR]
+  event: "European Commission proposes how to close Ukraine's 70 billion euro funding gap for 2027"
+- date: '2026-11-19'
+  countries: [UKR, GBR, FRA, DEU, ITA, POL]
+  event: "Coalition of the Willing, about 36 countries ready to back a post-ceasefire force for Ukraine, meets in Berlin"
+- date: '2027-01-04'
+  countries: [TUR]
+  event: "Next hearing in the corruption trial of jailed Istanbul mayor Ekrem Imamoglu and 435 co-defendants"
 - date: '2026-11-16'
   countries: [KHM, RWA, COD, ROU, MRT]
   event: "Francophonie leaders choose a secretary-general: Louise Mushikiwabo (Rwanda), Dacian Ciolos (Romania, backed by Congo) and Coumba Ba (Mauritania)"

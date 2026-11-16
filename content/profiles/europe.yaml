@@ -68,6 +68,16 @@ ARM:
     Armenia was the first country to adopt Christianity as a state religion, in 301, and its monasteries and unique alphabet, created in 405, are pillars of identity. Mount Ararat, now in Turkey, dominates the view from Yerevan and the national imagination. Duduk music, lavash bread and a huge global diaspora connect Armenians everywhere. The 1915 genocide is commemorated every 24 April.
   society: >-
     Armenia lost Nagorno-Karabakh to Azerbaijan in 2023, and more than 100,000 Armenians fled. Pashinyan has moved away from Russia, freezing membership of its military alliance. Remittances, IT and re-exports to Russia have powered growth. His feud with the Church's leadership led to arrests of senior clergy.
+  update: >-
+    On 11 November the Russian-led CSTO alliance stripped Armenia of its voting rights over years of unpaid dues. Parliament ratified the framework
+    agreement with the US on the TRIPP transit route in late October, and Pashinyan met Azerbaijan's Ilham
+    Aliyev at the European Political Community summit in Dublin on 12 November.
+  update_date: 2026-11-12
+  sources_extra:
+    - {label: "Moscow Times: CSTO strips Armenia of voting rights", url: "https://www.themoscowtimes.com/2026/11/11/csto-strips-armenia-of-voting-rights-a94231"}
+    - {label: "Meduza: Russia-led military alliance strips Armenia of voting rights", url: "https://meduza.io/en/news/2026/11/11/russia-led-military-alliance-strips-armenia-of-voting-rights"}
+    - {label: "JAM News: Armenian parliament ratifies TRIPP framework agreement", url: "https://jam-news.net/?p=237592"}
+    - {label: "OC Media: Pashinyan and Aliyev meet in Dublin", url: "https://oc-media.org/pashinyan-and-aliyev-meet-in-dublin-to-discuss-trump-route-trade-and-water-cooperation/"}
 
 AUT:
   pop: 9.1
@@ -81,6 +91,16 @@ AUT:
     Vienna was the capital of the Habsburg empire and of classical music: Mozart, Haydn, Beethoven, Schubert and Strauss all worked there, and the New Year's Concert is watched worldwide. Coffee house culture is UNESCO-listed. Alpine skiing is a national passion. Austria remains militarily neutral, a status it adopted in 1955.
   society: >-
     Austria is wealthy with a strong welfare state and social partnership between unions and employers. Its economy is closely tied to Germany's and has suffered from the industrial slump. Migration and asylum are central political issues. Vienna is consistently rated one of the world's most liveable cities, partly thanks to its huge social housing stock.
+  update: >-
+    Under pressure in the polls, Social Democrat leader Andreas Babler announced in early October that
+    he will give up the party leadership and the vice-chancellorship, with Finance Minister Markus
+    Marterbauer due to take over as vice-chancellor in early 2027. Chancellor Stocker ruled out early
+    elections and said the three-party coalition would carry on.
+  update_date: 2026-10-05
+  sources_extra:
+    - {label: "Internazionale (Reuters): Austrian government's No. 2 figure says he will step down", url: "https://www.internazionale.it/ultime-notizie-reuters/2026/10/04/austrian-government-s-no-2-figure-says-he-will-step-down"}
+    - {label: "ORF: Babler to step back as SPÖ chair and vice-chancellor", url: "https://orf.at/stories/3444111/"}
+    - {label: "Salzburg24: Stocker rules out new elections after Babler exit", url: "https://www.salzburg24.at/news/oesterreich/bundeskanzler-christian-stocker-erteilt-neuwahlen-absage-koalition-will-nach-babler-aus-weiterarbeiten-art-340283"}
 
 AZE:
   pop: 10.4
@@ -242,15 +262,17 @@ CZE:
   society: >-
     The Czech Republic has one of the EU's lowest unemployment rates and a strong car industry led by Škoda. The 1989 Velvet Revolution and the 1993 peaceful split from Slovakia are points of pride. Babiš, whose companies have faced EU conflict of interest rulings, leads a populist coalition with the SPD and the Motorists.
   update: >-
-    In the Senate elections that ended with runoffs on 16 and 17 October, Babiš's ANO won none of
-    the 27 seats contested, while STAN, ODS, KDU-ČSL and TOP 09 took most of them, so the opposition
-    keeps its Senate majority. It was the first time the main governing party failed to win a single
-    seat in a Czech Senate election. (Corrected 3 November: an earlier version said opposition
-    parties won 22 of the 27 seats; 22 was the number of seats decided in the runoff.)
-  update_date: 2026-10-17
+    On 15 November organisers estimated that 350,000 to 450,000 people rallied on Prague's Letna Plain
+    against the government's bill to fund Czech Television and Czech Radio from the state budget instead
+    of licence fees, which would cut their budgets by about 15 percent; protesters also demanded the
+    dismissal of speaker Tomio Okamura. Babis says nobody wants to control public media. The bill has
+    passed its first reading, and the opposition keeps its Senate majority after ANO won none of the 27
+    seats contested in October.
+  update_date: 2026-11-15
   sources_extra:
     - {label: "AP: Czech Senate election", url: "https://apnews.com/article/czech-republic-senate-election-babis-d206f3edbc7ea0f73b0dbd07b339820b"}
     - {label: "Qatar Tribune (dpa): Czech PM Andrej Babis' party suffers defeat in upper house elections", url: "https://www.qatar-tribune.com/article/259605/world/czech-pm-andrej-babis-party-suffers-defeat-in-upper-house-elections/amp"}
+    - {label: "TheJournal.ie (AFP): Hundreds of thousands protest in Czechia over public-media funding overhaul", url: "https://www.thejournal.ie/czechia-public-media-funding-protests-7227143-Nov2026/"}
 
 DNK:
   pop: 6.0

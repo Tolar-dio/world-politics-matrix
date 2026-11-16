@@ -37,6 +37,13 @@ ARG:
     Argentina is football: Maradona is close to a saint, and Messi's 2022 World Cup brought millions onto the streets. Tango was born in Buenos Aires' port neighbourhoods in the late 1800s. Sunday asado, mate passed around a circle, and Italian and Spanish immigrant roots shape daily life. Borges and Cortázar gave Argentina a towering literary tradition.
   society: >-
     A century ago one of the world's richest countries, Argentina has since defaulted nine times. Poverty rose above 50 percent in early 2024 before falling as inflation eased. Peronism, the movement founded by Juan Perón, still shapes unions and politics. The pampas make it a farm superpower in beef, soy and wheat, and Vaca Muerta shale is a new oil frontier.
+  update: >-
+    Pope Leo XIV's visit in November drew huge crowds, but he used it to challenge Milei's austerity,
+    telling labour and business leaders that unions are indispensable and visiting a disability home hit
+    by funding cuts. Milei praised the visit but did not engage with the criticism.
+  update_date: 2026-11-09
+  sources_extra:
+    - {label: "Boston Globe: Pope Leo urges Argentina to protect the vulnerable from Milei's austerity", url: "https://www.bostonglobe.com/2026/11/09/world/pope-leo-urges-argentina-protect-vulnerable-mileis-austerity-measures/"}
 
 BHS:
   pop: 0.40
@@ -530,13 +537,13 @@ PRY:
   society: >-
     Paraguay is a top exporter of soy and beef, and the Itaipú and Yacyretá dams produce more electricity than it uses. Land is very unequally distributed. It is one of the few countries still recognising Taiwan instead of China. Smuggling and money laundering in the tri-border area with Brazil and Argentina are a concern.
   baseline: >-
-    Santiago Peña was elected in 2023 with the backing of former president Horacio Cartes and aligned
-    closely with Washington, Israel and Javier Milei. On 3 November 2026 the central bank seized Ueno
-    Bank, a digital lender with about three million customers, owned by Peña's former business
-    partners. After Cartes and the Colorado Party turned on him, Peña announced his resignation on 5
-    November and deputies impeached him 78 to 0; on 6 November the Senate refused him more time and
-    removed him 44 to 1. Vice President Pedro Alliana, also a Colorado and himself under investigation,
-    was sworn in to serve until August 2028. Prosecutors were reported to have ordered Peña's detention.
+    Santiago Peña, elected in 2023 with the backing of former president Horacio Cartes, fell over the
+    collapse of Ueno Bank, a digital lender with about three million customers owned by his former
+    business partners, which the central bank seized on 3 November 2026. After Cartes and the Colorado
+    Party turned on him, deputies impeached him 78 to 0 and on 6 November the Senate removed him 44 to
+    1. Vice President Pedro Alliana, also a Colorado and himself under investigation, was sworn in to
+    serve until August 2028, with Senator Antonio Barrios as vice president. On 7 November a judge
+    ordered Peña held in pretrial detention on charges of aggravated breach of trust.
   leaders: {state: "President Pedro Alliana, since 6 November 2026", gov: "The president heads the government"}
   power: >-
     A presidential republic. The president is directly elected for a single five-year term; Congress
@@ -544,6 +551,7 @@ PRY:
   story: shock
   sources:
     - {label: "Reuters: Paraguay's Alliana sworn in as president after Peña impeachment", url: "https://www.reuters.com/world/americas/paraguays-alliana-sworn-president-after-pea-impeachment-2026-11-06/"}
+    - {label: "Infobae (EFE): Peña remains in pretrial detention as Paraguay moves to a new government", url: "https://www.infobae.com/america/agencias/2026/11/08/pena-permanece-en-prision-preventiva-mientras-paraguay-da-paso-a-un-nuevo-gobierno/"}
     - {label: "The Tribune (ANI): Paraguay Senate votes to impeach Santiago Peña over bank collapse; VP sworn in", url: "https://www.tribuneindia.com/news/world/paraguay-senate-votes-to-impeach-prez-santiago-pena-over-bank-collapse-vp-sworn-in"}
     - {label: "NPR (AP): Paraguay president impeached minutes after resigning following bank collapse", url: "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse"}
     - {label: "Al Jazeera (Reuters): Paraguay Congress rejects President Pena's resignation after bank collapse", url: "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse"}

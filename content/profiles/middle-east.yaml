@@ -13,6 +13,13 @@ BHR:
     Bahrain was the ancient Dilmun civilisation, a trading hub between Mesopotamia and the Indus, and its pearling heritage is UNESCO-listed. The Formula One Grand Prix has run in Sakhir since 2004. Ashura processions are central to Shia life, and the island's mix of Arab, Persian and South Asian communities shows in its food and markets.
   society: >-
     Bahrain diversified early into banking and aluminium as its oil ran low, and it depends on Saudi Arabia, linked by a causeway, for support. Foreign workers make up about half the population. The 2011 uprising was crushed with Saudi help, and opposition societies have been dissolved. Bahrain normalised relations with Israel in 2020.
+  update: >-
+    After two months of relative quiet, Iran launched drones at Bahrain on 13 and 15 November. The Revolutionary Guards said they targeted US radars, including at Riffa air base; Bahrain said its air defences stopped the attacks, and US Central Command said it intercepted the two drones fired on 13 November. Bahrain issued its first nationwide emergency alert in
+    months, and the GCC called the attacks a 'blatant challenge' to peace efforts.
+  update_date: 2026-11-15
+  sources_extra:
+    - {label: "The National: Iran attacks Bahrain in 'blatant challenge' to peace push", url: "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-attacks-bahrain-in-blatant-challenge-to-peace-push/"}
+    - {label: "Rigzone (Bloomberg): Iran says door to peace still open after strikes on Bahrain", url: "https://www.rigzone.com/news/wire/iran_says_door_to_peace_still_open_after_strikes_on_bahrain-16-nov-2026-185086-article/"}
 
 IRN:
   pop: 92.4
@@ -309,6 +316,15 @@ TUR:
     Turkey bridges Europe and Asia, and Istanbul, once Constantinople, holds Byzantine and Ottoman wonders like the Hagia Sophia. Turkish TV dramas are the world's second most exported after America's. Tea, coffee, kebabs and baklava, the hamam and football rivalries between Galatasaray, Fenerbahçe and Beşiktaş are part of daily life. Kurds make up about a fifth of the population.
   society: >-
     Turkey is a major manufacturing and tourism economy and hosts the world's largest refugee population, mostly Syrians. High inflation since 2021 hit living standards. The PKK announced its dissolution in 2025 after a 40-year insurgency. Erdoğan's power has grown since a 2016 coup attempt, after which tens of thousands were purged.
+  update: >-
+    Jailed Istanbul mayor Ekrem İmamoğlu was sentenced in September to two years in prison in a separate
+    insult case that carries a political ban. On 12 November the court in his main corruption trial,
+    which now has 436 defendants, freed eight of them, including his lawyer Mehmet Pehlivan, but kept
+    İmamoğlu and 37 others in custody; the next hearing is on 4 January 2027.
+  update_date: 2026-11-13
+  sources_extra:
+    - {label: "Turkish Minute: Turkish court frees Istanbul mayor's lawyer, 7 others in corruption trial", url: "https://turkishminute.com/2026/11/13/turkish-court-frees-istanbul-mayors-lawyer-7-others-in-corruption-trial/"}
+    - {label: "Turkish Minute: Jailed Istanbul mayor İmamoğlu sentenced to 2 years in insult case", url: "https://www.turkishminute.com/2026/09/11/jailed-istanbul-mayor-imamoglu-sentenced-to-2-years-in-insult-case/"}
 
 ARE:
   pop: 11.3
@@ -325,13 +341,17 @@ ARE:
   society: >-
     Oil wealth, concentrated in Abu Dhabi, funds the federation, while Dubai lives from trade, aviation, property and tourism. The UAE has invested heavily in AI, space and renewable energy. Political parties are banned and critics jailed. It normalised ties with Israel in 2020 and has backed forces in Sudan, Libya and Yemen.
   update: >-
-    On 9 October a laden supertanker anchored about 13 nautical miles off the UAE coast was hit by an
-    unidentified projectile amid a wave of attacks on Gulf shipping. Oil from the tanker reached the shore, and
-    on 23 October the environment ministry closed all beaches in Umm Al Quwain.
-  update_date: 2026-10-23
+    Attacks on shipping reached UAE waters again in November. On 10 November an Emirati ship was attacked and damaged in UAE territorial waters, and ADNOC Logistics and Services said response efforts were under way; and on 11 November a ship leaving the
+    Strait of Hormuz caught fire after being hit by a projectile off Ras al-Khaimah; its crew were
+    evacuated. On 15 November the UAE condemned Iran's drone attacks on Bahrain as a 'flagrant
+    violation' of its sovereignty.
+  update_date: 2026-11-15
   sources_extra:
     - {label: "Arab News (Reuters): Oil tanker struck by projectile off UAE coast", url: "https://www.arabnews.com/middle-east/oil-tanker-struck-by-projectile-off-uae-coast-amid-surge-in-attacks-3005496"}
     - {label: "Baird Maritime (Reuters): Tanker oil spill off UAE forces full shutdown of local beaches", url: "https://www.bairdmaritime.com/security/emergency-services/pollution-control/tanker-oil-spill-off-uae-forces-full-shutdown-of-local-beaches"}
+    - {label: "The National: UAE ship attacked and damaged in Arabian Gulf", url: "https://www.thenationalnews.com/business/energy/2026/11/10/uae-ship-attacked-and-damaged-in-arabian-gulf/"}
+    - {label: "Insurance Journal (Reuters): Vessel on fire after being struck off UAE's Ras Al-Khaimah", url: "https://www.insurancejournal.com/news/international/2026/11/12/892460.htm"}
+    - {label: "The National: Iran attacks Bahrain in 'blatant challenge' to peace push", url: "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-attacks-bahrain-in-blatant-challenge-to-peace-push/"}
 
 YEM:
   pop: 41.8

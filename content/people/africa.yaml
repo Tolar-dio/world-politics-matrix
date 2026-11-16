@@ -17,7 +17,7 @@ AGO:
 BEN:
   eat: ["Pâte, a maize dough eaten with sauce of greens, tomato or peanut", "Akassa, fermented maize porridge wrapped in leaves", "Grilled fish with piment sauce in Cotonou's maquis"]
   listen: ["Angélique Kidjo, the country's global star", "Orchestre Poly-Rythmo, the 1970s Afro-funk band rediscovered abroad", "Vodun drumming at ceremonies and the January voodoo festival"]
-  argue: ["Whether President Talon's reforms came at the cost of democracy", "Jihadist attacks spreading into the north", "Getting back royal treasures looted by France"]
+  argue: ["Whether Talon-era limits on the opposition will outlast him under Wadagni", "Jihadist attacks spreading into the north", "Getting back royal treasures looted by France"]
   say: {lang: fr-BJ, name: French, phrases: [["Bonjour", "Hello", "bon-ZHOOR"], ["Merci", "Thank you", "mair-SEE"]]}
 
 BWA:

@@ -189,7 +189,7 @@ SUR:
 TTO:
   eat: ["Doubles, chickpea curry in fried bread", "Bake and shark at Maracas Bay", "Pelau and callaloo"]
   listen: ["Calypso and soca, born here", "Steelpan, invented here", "Chutney soca"]
-  argue: ["Crime and a state of emergency", "Venezuelan migrants", "Gas running down"]
+  argue: ["Gang violence after the state of emergency", "Venezuelan migrants", "Gas running down"]
   say: {lang: en-TT, name: English, phrases: [["Wha going on?", "What's going on?", "wah GOH-in on"], ["Thanks", "Thanks", "TANKS"]]}
 
 USA:

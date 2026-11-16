@@ -11,6 +11,25 @@
 #     - {label: "Outlet: headline", url: "https://..."}
 
 corrections:
+  - date: "2026-11-16"
+    where: {type: news, id: ""}
+    what: "The 10 November item on a ship attacked in UAE waters, and the Iran war and Hormuz conflict texts, said ADNOC confirmed the damaged vessel was its own"
+    was: "ADNOC Logistics and Services said one of its vessels was damaged in an attack in UAE territorial waters."
+    now: "An Emirati ship was attacked and damaged in UAE territorial waters, and ADNOC Logistics and Services said response efforts were under way, without confirming the ship was its own."
+    why: "The source's wording was overstated when summarised; found in today's verification pass."
+    sources:
+      - {label: "The National: UAE ship attacked and damaged in Arabian Gulf", url: "https://www.thenationalnews.com/business/energy/2026/11/10/uae-ship-attacked-and-damaged-in-arabian-gulf/"}
+
+  - date: "2026-11-16"
+    where: {type: conflict, id: yemen-civil-war}
+    what: "Yemen conflict said the Houthis held the whole Red Sea coast to Bab al-Mandeb, missing the government's October recapture of Dhubab"
+    was: "The Houthis hold the whole Red Sea coast to Bab al-Mandeb and Perim Island."
+    now: "The Houthis took the coast in September; government forces retook Dhubab and nearby areas north of the strait in early October, then announced a withdrawal from Dhubab and the Bab al-Mandeb area on 15 November."
+    why: "The October counter-offensive on the coast was not reflected when the situation text was rewritten."
+    sources:
+      - {label: "Times of Israel (AP): Saudi-backed Yemeni forces expel Houthis from areas around key strait", url: "https://www.timesofisrael.com/saudi-backed-yemeni-forces-expel-houthis-from-areas-around-key-strait-officials/amp/"}
+      - {label: "The National: Yemen government forces' pullback hands Houthis greater leverage over Bab Al Mandeb", url: "https://www.thenationalnews.com/news/mena/2026/11/15/southern-yemeni-forces-withdraw-from-area-near-bab-al-mandab/"}
+
   - date: "2026-11-13"
     where: {type: country, id: LAO}
     what: "Laos profile named the wrong prime minister"
