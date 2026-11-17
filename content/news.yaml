@@ -1,5 +1,68 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-17'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Ukraine strikes the Crimean Bridge two nights running as Russia reports more than 1,400 drones a night"
+  summary: "Drones hit the road and rail bridge linking Russia to occupied Crimea early on 16 November and road traffic was stopped for at least 12 hours, with about 2,000 cars backed up according to the channel Mash; Kremlin spokesman Dmitry Peskov said 'minor damage is being assessed', and Russia's Defence Ministry said it shot down 2,049 Ukrainian drones and four Flamingo missiles in 24 hours. Ukraine hit the bridge again overnight into 17 November, when Russia said it downed more than 1,400 drones over 23 regions. Zelensky called the attack 'unprecedented' and posted footage he said showed part of the main road arch collapsed, while AP said it could not verify reports of a collapse, and Crimea's Russian-installed head Sergei Aksyonov said traffic was halted and a drone attack killed at least two people on the peninsula. It matters because the bridge is Russia's main land supply route to Crimea, and the strikes come days before Trump, Xi and Putin are due to meet in Shenzhen, according to Al Jazeera."
+  sources:
+  - {label: "Meduza: Ukrainian drone attack damages Crimea Bridge, shutting down road traffic for hours. Kremlin says damage is 'minor'", url: "https://meduza.io/en/feature/2026/11/16/ukrainian-drone-attack-damages-crimea-bridge-shutting-down-road-traffic-for-hours-kremlin-says-damage-is-minor"}
+  - {label: "KSAT (AP): Russian air defenses down more than 1,400 Ukrainian drones as Kyiv hits a key Crimean bridge", url: "https://www.ksat.com/business/2026/11/17/russian-air-defenses-down-more-than-1400-ukrainian-drones-as-kyiv-hits-a-key-crimean-bridge/"}
+  - {label: "Al Jazeera: Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia", url: "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge"}
+- date: '2026-11-17'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russian missiles and drones hit two of Kyiv's main bridges over the Dnipro, killing at least two"
+  summary: "Russia fired ballistic missiles and drones at Kyiv overnight into 17 November, and its Defence Ministry said it attacked two bridges in the capital. Mayor Vitali Klitschko said the Northern and Southern bridges were hit, the metro was damaged and water and power supplies were partly cut and AP reported at least two people killed. It matters because the strikes on the crossings that join Kyiv's two banks came the same night as Ukraine's second attack on the Crimean Bridge, as winter sets in."
+  sources:
+  - {label: "KSAT (AP): Russian air defenses down more than 1,400 Ukrainian drones as Kyiv hits a key Crimean bridge", url: "https://www.ksat.com/business/2026/11/17/russian-air-defenses-down-more-than-1400-ukrainian-drones-as-kyiv-hits-a-key-crimean-bridge/"}
+  - {label: "Al Jazeera: Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia", url: "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge"}
+- date: '2026-11-17'
+  countries: [JPN, RUS, KOR]
+  category: military
+  headline: "Japan protests after two suspected Russian aircraft enter its airspace off Fukuoka"
+  summary: "Japan's Air Self-Defense Force scrambled fighters after two aircraft believed to be Russian entered Japanese airspace northwest of Okinoshima island, off Fukuoka, at about 4:07 a.m. on 17 November and stayed about three minutes, then flew through the Tsushima Strait and between Taiwan and Yonaguni into the Pacific. Chief Cabinet Secretary Minoru Kihara called it 'a grave infringement of our country's sovereignty' and 'completely unacceptable', and Tokyo protested to Moscow. South Korea scrambled jets as several Russian military aircraft entered its air defence identification zone, though not its airspace. It matters because it follows a Russian violation over the disputed islands northeast of Hokkaido in July and adds to military pressure on Japan during the ASEAN summit week in Manila."
+  sources:
+  - {label: "Kyiv Post: Japan scrambles fighter jets after Russian aircraft violate its airspace", url: "https://www.kyivpost.com/post/90302"}
+  - {label: "The Copenhagen Post (Ritzau): Japan scrambles fighter jets after suspected Russian aircraft enter its airspace", url: "https://cphpost.dk/2026-11-17/global/japan-scrambles-fighter-jets-after-suspected-russian-aircraft-enter-its-airspace/"}
+  - {label: "Nippon.com (Jiji, July 2026): Russian warplane violates Japanese airspace over Japan-claimed isles", url: "https://www.nippon.com/en/news/yjj2026072401250/"}
+- date: '2026-11-16'
+  countries: [GBR]
+  category: diplomatic
+  headline: "Burnham says Britain has lost more than it gained from Brexit, days before a UK-EU summit"
+  summary: "In a speech at the Lord Mayor's Banquet in London on 16 November, Prime Minister Andy Burnham said 'we have lost more than we have gained in the last 10 years' and 'the hard Brexit we were given is not good enough for Britain', citing estimates that leaving the EU has cost 4 to 8 percent of GDP. He goes to a UK-EU summit in Brussels on 20 November, where deals on food and drink trade, energy and emissions and a youth mobility scheme are expected, but he remains bound by Labour's pledge not to rejoin the single market or customs union. It matters because it is the clearest sign yet that his government will seek much closer ties with the EU short of rejoining, a decade after the referendum."
+  sources:
+  - {label: "Al Jazeera: UK seeks closer ties with EU after Brexit fail", url: "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail"}
+  - {label: "US News (Reuters): UK PM Burnham ready to confront 'obvious truth' of Brexit's costs", url: "https://www.usnews.com/news/world/articles/2026-11-15/uk-pm-burnham-ready-to-confront-obvious-truth-of-brexits-costs"}
+- date: '2026-11-15'
+  countries: [ISR]
+  category: political
+  headline: "Israel's attorney general examines a report that Netanyahu's office set police on Arab party activists on election eve"
+  summary: "Channel 12's investigative programme Uvda reported on 15 November that a complaint by Netanyahu's chief of staff Ido Norden about activists of the Arab party Ra'am, backed by information from a former employee close to the office's ex-director Yossi Shelly, led police to raid homes and arrest activists in Rahat without warrants on 26 October, the eve of the vote; the arrests led nowhere. It also reported that Shin Bet chief David Zini sought to arrest Arab lawmakers and to wiretap five of them over suspected foreign interference, which the attorney general refused. Attorney General Gali Baharav-Miara's office is examining the claims with police investigators, and Netanyahu's office called the report a 'grave attempt to silence the scandal regarding the subversion of the election process'. It matters because Netanyahu, now caretaker prime minister, and his allies have challenged the election result while his rival Gadi Eisenkot tries to form a government."
+  sources:
+  - {label: "i24NEWS: Netanyahu staff allegedly colluded with police, Shin Bet to undermine Israeli election - report", url: "https://www.i24news.tv/en/news/israel-election-s-2026/artc-netanyahu-staff-allegedly-colluded-with-police-shin-bet-to-undermine-israeli-election-report"}
+  - {label: "Ynet: Report: Netanyahu aides suspected of fueling election fraud claims with planted intelligence", url: "https://www.ynetnews.com/article/h1vb2uvrmg"}
+  confidence: reported
+- date: '2026-11-16'
+  countries: [YEM, SAU]
+  category: military
+  conflict: yemen-civil-war
+  headline: "The Houthis say they now control the Bab al-Mandeb strait after government-aligned forces pull back"
+  summary: "A day after the Southern Armed Forces said they were withdrawing from Dhubab airport and the area around the strait to defend Aden, the Houthis claimed control of Bab al-Mandeb and of strategic districts on the western coast in Taiz and Hodeidah provinces, according to Al Mayadeen as cited by Republika, and reportedly said they had extended their control by about 3,000 square kilometres. The claim has not been independently verified. It matters because the strait carries traffic between the Red Sea and the Gulf of Aden, and Gulf oil exporters have used the Red Sea route as an alternative while Hormuz is blocked."
+  sources:
+  - {label: "Republika: Houthi klaim berhasil kuasai Selat Bab al-Mandeb", url: "https://news.republika.co.id/berita/tokcsx393/houthi-klaim-berhasil-kuasai-selat-bab-almandeb"}
+  - {label: "US News (Reuters): Yemeni government force retreats from strait in major setback in war against Houthis", url: "https://www.usnews.com/news/world/articles/2026-11-15/yemen-government-forces-withdraw-from-area-near-bab-el-mandeb-strait-houthis-in-control"}
+  confidence: reported
+- date: '2026-11-12'
+  countries: [ECU]
+  category: political
+  headline: "Ecuador's Noboa takes leave to campaign for local elections, leaving his vice president in charge"
+  summary: "On 10 November the National Assembly granted President Daniel Noboa 14 days' leave to campaign for his movement before the 29 November local elections, in two blocks from 12 to 18 and 20 to 26 November, and Vice President María José Pinto took over as acting president on 12 November. It matters because the campaign is unfolding while Noboa's main rival, Luisa González, is held in pre-trial detention and barred from the race, which her party calls political persecution."
+  sources:
+  - {label: "Vistazo: María José Pinto asume temporalmente la Presidencia de Ecuador durante la licencia de Daniel Noboa", url: "https://www.vistazo.com/politica/2026-11-12-maria-jose-pinto-asume-temporalmente-presidencia-ecuador-licencia-daniel-noboa-CC11317137"}
+  - {label: "Primicias: Daniel Noboa estará ausente de la Presidencia por 14 días", url: "https://www.primicias.ec/politica/asamblea-licencia-daniel-noboa-campana-politica-elecciones-seccionales-136810/"}
 - date: '2026-11-16'
   countries: [KHM, RWA, COD, ROU, MRT, FRA]
   category: diplomatic
@@ -3290,6 +3353,18 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2026-11-19'
+  countries: [DNK, USA]
+  event: "Danish parliament's final vote on the Greenland security agreement with the US"
+- date: '2026-11-20'
+  countries: [GBR]
+  event: "UK-EU summit in Brussels, with deals on food and drink trade, energy and emissions and youth mobility expected"
+- date: '2026-11-29'
+  countries: [ECU]
+  event: "Ecuador local elections for mayors, prefects and councillors"
+- date: '2026-11-30'
+  countries: [FJI]
+  event: "Fiji's parliament takes up the third reading of the Constitution (Amendment) Bill (30 November to 4 December), which needs a two-thirds majority"
 - date: '2026-11-17'
   countries: [IRN, OMN]
   event: "Iranian Foreign Minister Abbas Araghchi holds talks in Muscat with Oman's foreign minister"

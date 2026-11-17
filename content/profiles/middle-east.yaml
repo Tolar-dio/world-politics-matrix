@@ -106,14 +106,18 @@ ISR:
     won 53 of 120 seats, the opposition led by Gadi Eisenkot 48 and Arab-led parties a record 19, so no
     bloc has the 61 needed. Parties with 67 seats recommended Eisenkot and parties with 46 recommended
     Netanyahu, and on 8 November President Herzog gave Eisenkot the mandate, starting 28 days, to about
-    6 December, with a possible 14-day extension. The 26th Knesset is sworn in on 10 November.
+    6 December, with a possible 14-day extension. The 26th Knesset was sworn in on 10 November.
     Eisenkot's bloc has nominated Matan Kahana of Yashar! to replace Likud's Amir Ohana as speaker, with
-    the Joint List's backing, and Avigdor Liberman to chair the Foreign Affairs and Defence Committee;
-    Ohana says he will hold a vote only if 61 MKs ask. Eisenkot wants a broad 'national emergency
-    government', but Yisrael Beytenu and the ultra-Orthodox parties oppose relying on Arab parties, and
-    United Torah Judaism demands a solution for yeshiva students. Netanyahu remains caretaker prime
-    minister until a new government is sworn in.
-  update_date: 2026-11-10
+    the Joint List's backing, and Avigdor Liberman to chair the Foreign Affairs and Defence Committee.
+    Eisenkot wants a broad 'national emergency government', but Yisrael Beytenu and the ultra-Orthodox
+    parties oppose relying on Arab parties, and United Torah Judaism demands a solution for yeshiva
+    students. Netanyahu remains caretaker prime minister until a new government is sworn in. On 15
+    November Channel 12's Uvda reported that a complaint by Netanyahu's chief of staff Ido Norden led
+    police to raid and arrest Ra'am activists in Rahat without warrants on the eve of the vote, and that
+    Shin Bet chief David Zini had sought to wiretap five Arab lawmakers, which the attorney general
+    refused. Attorney General Gali Baharav-Miara's office is examining the claims; Netanyahu's office
+    calls the report an attempt to silence what it says was subversion of the election.
+  update_date: "2026-11-17"
   sources_extra:
     - {label: "ABC News: Netanyahu challenger Eisenkot tasked with forming new Israeli government", url: "https://abcnews.com/International/netanyahu-challenger-eisenkot-tasked-forming-new-government/story?id=137945429"}
     - {label: "Al Jazeera: Eisenkot open to Netanyahu joining Israel's next government", url: "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government"}
@@ -133,6 +137,8 @@ ISR:
     - {label: "Middle East Monitor: Israeli opposition leaders recommend Eisenkot for prime minister", url: "https://www.middleeastmonitor.com/20261103-israeli-opposition-leaders-recommend-eisenkot-for-prime-minister-vow-to-form-national-emergency-government/"}
     - {label: "Times of Israel: Eisenkot-led bloc agrees on Matan Kahana as next Knesset speaker", url: "https://www.timesofisrael.com/liveblog_entry/eisenkot-led-bloc-agrees-on-matan-kahana-as-next-knesset-speaker-liberman-to-head-powerful-defense-committee/"}
     - {label: "Ynet: Israel's 26th Knesset set to be sworn in as coalition talks intensify", url: "https://www.ynetnews.com/article/hjwy1tk0mg"}
+    - {label: "i24NEWS: Netanyahu staff allegedly colluded with police, Shin Bet to undermine Israeli election - report", url: "https://www.i24news.tv/en/news/israel-election-s-2026/artc-netanyahu-staff-allegedly-colluded-with-police-shin-bet-to-undermine-israeli-election-report"}
+    - {label: "Ynet: Report: Netanyahu aides suspected of fueling election fraud claims with planted intelligence", url: "https://www.ynetnews.com/article/h1vb2uvrmg"}
 
 JOR:
   pop: 11.5

@@ -78,6 +78,7 @@ threads:
       - {date: "2026-11-10", text: "The first three-way round since February opens in Abu Dhabi.", news: "2026-11-10 US-mediated Russia-Ukraine talks open"}
       - {date: "2026-11-11", text: "The talks end with a prisoner exchange deal but no ceasefire.", news: "2026-11-11 Abu Dhabi talks end"}
       - {date: "2026-11-13", text: "Zelensky says US negotiators floated NATO membership in exchange for leaving Donbas.", news: "2026-11-13 Zelensky says US negotiators"}
+      - {date: "2026-11-17", text: "Ukraine strikes the Crimean Bridge two nights running before the Shenzhen summit.", news: "2026-11-17 Ukraine strikes the Crimean Bridge"}
 
   - id: gulf-realignment
     title: "The Gulf rearms and realigns"

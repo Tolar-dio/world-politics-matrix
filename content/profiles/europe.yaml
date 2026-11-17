@@ -291,12 +291,13 @@ DNK:
     security agreement signed in September by Trump, Prime Minister Mette Frederiksen and Greenland's
     premier Jens-Frederik Nielsen. It opens the way to more US bases on Greenland while keeping the
     island under Danish control, and would still apply if Greenland became independent. The deal aims to
-    end a year of tension over Trump's push to take the island. The Folketing is due to debate it later
-    in November.
-  update_date: 2026-11-03
+    end a year of tension over Trump's push to take the island. The Folketing held its first reading on
+    11 November and is due to hold the final vote on 19 November.
+  update_date: "2026-11-17"
   sources_extra:
     - {label: "AP: Greenland approves security deal with Denmark and US following months of Trump's pressure", url: "https://apnews.com/article/greenland-trump-denmark-us-33824857ac4312c5ebd53821187ecc13"}
     - {label: "Reuters: Greenland parliament ratifies security deal reached with Trump", url: "https://www.reuters.com/world/europe/greenland-lawmakers-set-ratify-trump-security-deal-2026-11-03"}
+    - {label: "Latin Times: Denmark's Parliament Begins Final Vote Process on Historic Arctic Defense Deal With U.S.", url: "https://www.latintimes.com/denmark-ratification-arctic-defense-pact-greenland-601296"}
 
 EST:
   pop: 1.37
@@ -1078,3 +1079,15 @@ GBR:
     Britain's cultural reach is vast: Shakespeare, the Beatles, the BBC, the Premier League and Harry Potter. The monarchy, now led by Charles III, remains popular. England, Scotland, Wales and Northern Ireland each have distinct identities, languages and sports traditions, and London is one of the world's most diverse cities.
   society: >-
     Since leaving the EU in 2020, the UK has struggled with low growth, stagnant wages and strained public services, especially the NHS. Immigration and small boat crossings are central political issues and fuelled Reform UK's rise. Scotland and Wales have devolved governments, and Northern Ireland's power-sharing is fragile.
+  update: >-
+    Andy Burnham has been prime minister since 20 July 2026, after Keir Starmer resigned. In a speech at
+    the Lord Mayor's Banquet in London on 16 November he said Britain had 'lost more than we have
+    gained' from Brexit and that 'the hard Brexit we were given is not good enough for Britain', citing
+    estimates that it has cost 4 to 8 percent of GDP. He goes to a UK-EU summit in Brussels on 20
+    November, where deals on food and drink trade, energy and emissions and a youth mobility scheme are
+    expected, but he remains bound by Labour's pledge not to rejoin the EU single market or customs
+    union.
+  update_date: "2026-11-17"
+  sources_extra:
+    - {label: "Al Jazeera: UK seeks closer ties with EU after Brexit fail", url: "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail"}
+    - {label: "US News (Reuters): UK PM Burnham ready to confront 'obvious truth' of Brexit's costs", url: "https://www.usnews.com/news/world/articles/2026-11-15/uk-pm-burnham-ready-to-confront-obvious-truth-of-brexits-costs"}

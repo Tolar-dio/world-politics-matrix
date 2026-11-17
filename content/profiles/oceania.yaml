@@ -34,17 +34,21 @@ FJI:
     Tourism and sugar drive the economy. Tensions between iTaukei and Indo-Fijians led to four coups between 1987 and 2006, the first led by Rabuka himself. Climate change has forced several villages to relocate. Drug trafficking through the Pacific has fuelled a surge in methamphetamine use and HIV.
   update: >-
     In October parliament advanced the Constitution (Amendment) Bill 2026, which would replace most of
-    the 2013 constitution while keeping the immunity for past coup makers. Rabuka named 9 December for a
-    referendum, but coalition partner the National Federation Party said it would vote against and
-    SODELPA also objected, leaving him likely short of the 36 votes needed. On 2 November he pushed the
-    committee report back to 30 November, with a final vote expected in early December. Military
-    commander Jone Kalouniwai told parliament the armed forces do not want immunity, and Rabuka said the
-    clause could be dropped. The general election must be held by 6 February 2027.
-  update_date: 2026-11-04
+    the 2013 constitution while keeping the immunity for past coup makers. Coalition partner the
+    National Federation Party said it would vote against and SODELPA also objected, leaving Rabuka
+    likely short of the 36 votes needed. On 2 November he pushed the committee report back to 30
+    November, with the third reading set for 30 November to 4 December, and on 3 November he said a
+    referendum, first named for 9 December, would now be held together with the general election, which
+    must take place by 6 February 2027. On 14 November he said that if parliament rejects the bill it
+    will die with the current parliament. Military commander Jone Kalouniwai told parliament the armed
+    forces do not want immunity, and Rabuka said the clause could be dropped.
+  update_date: "2026-11-17"
   sources_extra:
     - {label: "RNZ (via Scoop): Fiji PM Rabuka delays vote on Constitution Bill after mounting pressure", url: "https://www.scoop.co.nz/stories/WO2611/S00009/fiji-pm-rabuka-delays-vote-on-constitution-bill-after-mounting-pressure.htm"}
     - {label: "Fiji Sun: Constitution Bill report delayed, vote set for December", url: "https://fijisun.com.fj/news/nation/constitution-bill-report-delayed-vote-set-for-december"}
     - {label: "RNZ (via Scoop): Fiji military chief urges accountability to the people amid coup immunity debate", url: "https://www.scoop.co.nz/stories/WO2611/S00015/fiji-military-chief-urges-accountability-to-the-people-amid-coup-immunity-debate.htm"}
+    - {label: "Fijivillage: National referendum and general elections expected together by Feb 6th 2027 - PM", url: "https://www.fijivillage.com/news/national-referendum-and-general-elections-expected-together-by-feb-6th-2027-pm-ab8cd9/"}
+    - {label: "Fijivillage: Bill will die with current Parliament if rejected - Rabuka", url: "https://www.fijivillage.com/news/bill-will-die-with-current-parliament-if-rejected-rabuka-10df1d/"}
 
 KIR:
   pop: 0.13

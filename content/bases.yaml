@@ -939,10 +939,11 @@ bases:
     tier: critical
     why: "The narrow strait linking the Black Sea to the Sea of Azov, spanned by the 19 km Crimean Bridge that is Russia's road and rail link to occupied Crimea. Ukraine has attacked the bridge repeatedly because cutting it starves Crimea's garrison. The east shore is Russia; the west shore is occupied Ukrainian Crimea."
     assets: "Crimean road and rail bridge; air defenses; ferry crossings."
-    year: ""
+    year: "Ukrainian drones struck the bridge on 16 and 17 November 2026, stopping road traffic for hours; Zelensky said part of the main road arch collapsed, which AP could not confirm."
     sources:
       - {label: "Wikipedia: Crimean Bridge", url: "https://en.wikipedia.org/wiki/Crimean_Bridge"}
       - {label: "Wikipedia: Kerch Strait", url: "https://en.wikipedia.org/wiki/Kerch_Strait"}
+      - {label: "Al Jazeera: Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia", url: "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge"}
 
   - id: bosporus
     name: "Bosporus (Turkish Straits)"
