@@ -297,6 +297,18 @@ MNG:
     Genghis Khan is the founding hero of the nation. Around a quarter of Mongolians still live as herders, moving with their gers, felt tents, across the steppe. Naadam, the summer festival of wrestling, horse racing and archery, is the highlight of the year. Throat singing and the horsehead fiddle are UNESCO-listed.
   society: >-
     Mongolia's economy depends on coal and copper exports to China, especially from the giant Oyu Tolgoi mine. Half the population lives in Ulaanbaatar, where winter air pollution is among the world's worst. Harsh winters called dzud kill millions of livestock. Corruption scandals regularly bring down governments.
+  update: >-
+    On 17 November President Ukhnaa Khurelsukh said he would resign so he could be investigated and
+    have his honour restored, after former Ulaanbaatar mayor Khishgeegiin Nyambaatar accused him of
+    receiving 25 million dollars linked to the Tavantolgoi-Gashuunsukhait railway project when he was
+    prime minister, which he denies. Parliament must accept the resignation, with a vote expected on
+    19 November; if it does, the speaker becomes acting president and a presidential election must be
+    held within four months. Prime Minister Uchral Nyam-Osor's government stays in office.
+  update_date: "2026-11-17"
+  sources_extra:
+    - {label: "Bernama: Mongolian President announces resignation", url: "https://www.bernama.com/en/world/news.php?id=2635605"}
+    - {label: "GMA News (AP): Mongolian president announces resignation over alleged corruption", url: "https://www.gmanetwork.com/news/topstories/world/1009811/mongolian-president-announces-resignation-over-alleged-corruption/story/"}
+    - {label: "1news.az: President of Mongolia resigns, speaker to serve as acting president", url: "https://1news.az/en/news/20261117083511159-President-of-Mongolia-Resigns-Speaker-of-Parliament-to-Serve-as-Acting-President-UPDATED"}
 
 MMR:
   pop: 54.9

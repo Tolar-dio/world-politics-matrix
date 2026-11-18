@@ -897,13 +897,17 @@ SRB:
     103 seats, and minority lists seven. Parliament must meet within 30 days of the final results, after
     which a government needs 126 votes within 90 days; the Student List has not named its candidate for
     prime minister, with former central bank governor Dejan Šoškić saying he would consider the job. Ana
-    Brnabić remains acting president, and a presidential election must be held by 27 December.
-  update_date: 2026-11-06
+    Brnabić remains acting president, and a presidential election must be held by 27 December. The new
+    parliament met for the first time on 17 November, with Vučić taking his seat as opposition leader;
+    the speaker it elects becomes acting president, and the 90-day clock to form a government has
+    started. The presidential election must be called by 27 November.
+  update_date: 2026-11-17
   holders: >-
     Acting President Ana Brnabić, speaker of the outgoing parliament; a caretaker government serves
     until the Student List, which won 140 of 250 seats, forms one. It has not yet named its candidate
     for prime minister.
   sources_extra:
+    - {label: "Al Jazeera: Election-winning student movement enters Serbia's new parliament", url: "https://www.aljazeera.com/news/2026/11/17/election-winning-student-movement-enters-serbias-new-parliament"}
     - {label: "Government of Serbia: RIK publishes results from all 8,392 polling stations", url: "https://www.srbija.gov.rs/vest/en/290805/rik-publishes-results-from-all-8392-polling-stations.php"}
     - {label: "Vreme: Šoškić would consider the post of prime minister", url: "https://vreme.com/en/vesti/dejan-soskic-premijer-studentska-lista-formiranje-vlade/"}
     - {label: "Al Jazeera: Serbia after Vučić", url: "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed"}

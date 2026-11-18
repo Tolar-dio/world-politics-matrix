@@ -1,6 +1,80 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
 - date: '2026-11-17'
+  countries: [IRN, USA, BHR, KWT]
+  category: military
+  conflict: iran-war-2026
+  headline: "US jets strike an IRGC missile launch site on Qeshm Island after Iran's third drone attack on Bahrain in five days"
+  summary: "The IRGC said it carried out a 'precision operation' on 17 November against a US-operated radar at Sheikh Isa Air Base in Bahrain; Central Command said the drones were 'intercepted without any damage to US equipment or personnel'. Hours later a US military official said fighter jets had hit an IRGC missile launch site on Qeshm Island in what it called a 'self-defence' strike, and Iran's Mehr news agency said there were no casualties and no damage to vital infrastructure. Kuwait's armed forces said air defences were responding to 'hostile drone attacks' without naming the source, and Iran's military said three more tankers hit mines in the Strait of Hormuz. It matters because it is the most direct US-Iran exchange in weeks, two days before Trump is due to raise the war with Xi Jinping and Vladimir Putin in Shenzhen."
+  sources:
+  - {label: "Al Jazeera: Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain", url: "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain"}
+  - {label: "The National: US jets strike IRGC missile launch site on Iran's Qeshm Island in 'self-defence'", url: "https://www.thenationalnews.com/news/us/2026/11/17/us-jets-strike-irgc-missile-launch-site-on-irans-qeshm-island-in-self-defence/"}
+  - {label: "Ynet: US fighter jets strike Iranian missile site on Qeshm Island after attack in Bahrain", url: "https://www.ynetnews.com/article/sji00aq5cmx"}
+- date: '2026-11-17'
+  countries: [MNG]
+  category: political
+  headline: "Mongolia's President Khurelsukh says he will resign over bribery accusations, pending a vote in parliament"
+  summary: "President Ukhnaa Khurelsukh told a press conference in Ulaanbaatar on 17 November that he would step down so he could be investigated and 'have my honour restored', calling the accusations an attempt to 'defame and insult' the presidency. Former Ulaanbaatar mayor Khishgeegiin Nyambaatar had accused him of receiving 25 million dollars linked to the Tavantolgoi-Gashuunsukhait railway project when he was prime minister, which he denies. Under Mongolian law the State Great Khural must accept the resignation, with a plenary vote expected on 19 November; if it does, the speaker of parliament becomes acting president and a presidential election must follow within four months. It matters because it would be the second change at the top of Mongolia's government this year, after Prime Minister Zandanshatar resigned in March."
+  sources:
+  - {label: "Bernama: Mongolian President announces resignation", url: "https://www.bernama.com/en/world/news.php?id=2635605"}
+  - {label: "GMA News (AP): Mongolian president announces resignation over alleged corruption", url: "https://www.gmanetwork.com/news/topstories/world/1009811/mongolian-president-announces-resignation-over-alleged-corruption/story/"}
+  - {label: "Morning Star: World in brief, 17 November 2026", url: "https://morningstaronline.co.uk/article/world-brief-60"}
+  - {label: "1news.az: President of Mongolia resigns, speaker of parliament to serve as acting president", url: "https://1news.az/en/news/20261117083511159-President-of-Mongolia-Resigns-Speaker-of-Parliament-to-Serve-as-Acting-President-UPDATED"}
+- date: '2026-11-17'
+  countries: [ISR]
+  category: political
+  headline: "The Knesset elects Yashar's Matan Kahana as speaker by 66 to 52, handing Eisenkot's bloc control of parliament"
+  summary: "After a six-hour filibuster by Netanyahu's bloc, the Knesset voted 66 to 52 on the night of 17 November to make Matan Kahana of Yashar speaker, defeating Likud's Ofir Katz and replacing Amir Ohana. Kahana was backed by Yashar, Yisrael Beytenu, B'Yachad and the Democrats and by the Arab parties Ra'am and the Joint List; Likud called the vote 'an eternal disgrace' and said he was chosen 'with the votes of terror supporters'. It matters because control of the Knesset agenda lets Gadi Eisenkot's bloc start moving bills, including repeal of parts of the judicial overhaul, while he tries to form a government and Netanyahu stays on as caretaker."
+  sources:
+  - {label: "Times of Israel: Knesset votes 66-52 to elect Yashar's Matan Kahana as speaker, in boost to Eisenkot bloc", url: "https://www.timesofisrael.com/knesset-votes-66-52-to-elect-yashars-matan-kahana-as-speaker-in-boost-to-eisenkot-bloc/"}
+  - {label: "CNN: Israel's parliament elects new Knesset speaker, weakening Netanyahu's grip on power", url: "https://www.cnn.com/2026/11/17/middleeast/israel-knesset-speaker-netanyahu-intl"}
+  - {label: "Ynet: Matan Kahana elected Knesset speaker with 66 votes as Eisenkot bloc takes control", url: "https://www.ynetnews.com/article/b1jkmr5cge"}
+- date: '2026-11-17'
+  countries: [SRB]
+  category: political
+  headline: "Serbia's new parliament meets for the first time with the student-led movement holding a majority"
+  summary: "The National Assembly elected on 25 October held its first sitting on 17 November, with the Student List holding 140 of 250 seats and Aleksandar Vučić taking his seat as leader of the opposition. The session verifies mandates and elects a speaker, who becomes acting president in place of Ana Brnabić, and the majority then has 90 days to form a government or face new elections; a presidential election must be called by 27 November and held by 27 December. It matters because it is the first time a movement born from street protests has taken control of Serbia's parliament, after 14 years of Progressive Party rule, and it came about through the ballot box."
+  sources:
+  - {label: "Al Jazeera: Election-winning student movement enters Serbia's new parliament", url: "https://www.aljazeera.com/news/2026/11/17/election-winning-student-movement-enters-serbias-new-parliament"}
+  - {label: "Yahoo News (Euronews): Serbia's new parliament meets for first time since student-led movement won election", url: "https://www.yahoo.com/news/politics/articles/serbias-parliament-meets-first-time-113136770.html"}
+  good: true
+- date: '2026-11-17'
+  countries: [GBR, ISR, PSE]
+  category: diplomatic
+  headline: "Britain sanctions eight Israeli settlement builders and the Gaza aid-blocking group Tzav 9"
+  summary: "Foreign Secretary Ed Miliband announced sanctions on 17 November on eight construction and property firms involved in settlement expansion in the occupied West Bank and on Tzav 9, which has blockaded aid convoys to Gaza. It is the first package since Britain widened its human rights sanctions regime in September, and it comes ahead of final tender deadlines for the E1 project, which would add 3,401 homes east of Jerusalem. Miliband said 'protecting the two-state solution is the North Star of this Government's approach'. It matters because it moves British pressure from settlers to the companies that build settlements, while London says it will work with Israel's next government."
+  sources:
+  - {label: "Anadolu: UK sanctions firms involved in illegal West Bank settlements, Gaza aid-blocking group", url: "https://www.aa.com.tr/en/world/uk-sanctions-firms-involved-in-illegal-west-bank-settlements-gaza-aid-blocking-group/4127667"}
+  - {label: "JTA: Britain sanctions Israeli aid-blocking group and settlement construction companies", url: "https://www.jta.org/2026/11/17/israel/britain-sanctions-israeli-aid-blocking-group-and-settlement-construction-companies"}
+- date: '2026-11-17'
+  countries: [MOZ]
+  category: political
+  headline: "Opposition leader Venâncio Mondlane goes on trial at Mozambique's Supreme Court"
+  summary: "Mondlane, runner-up in the disputed 2024 presidential election, arrived at the Supreme Court in Maputo on 17 November for the start of his trial on five charges, including instigation of and incitement to terrorism, over the protests he called after Daniel Chapo was declared the winner. The court is hearing the case because he sits on the Council of State, whose immunity was lifted, and it has refused live broadcast. It matters because hundreds of people were killed in the post-election unrest, and his supporters see the trial as an attempt to sideline Frelimo's strongest challenger."
+  sources:
+  - {label: "Rio Times: Mondlane trial starts Tuesday at Supreme Court in Maputo", url: "https://www.riotimesonline.com/mozambique-mondlane-trial-starts-tuesday-supreme-court-maputo/"}
+  - {label: "RTP: Tribunal moçambicano rejeita recurso de Venâncio Mondlane para transmissão de julgamento", url: "https://www.rtp.pt/noticias/mundo/tribunal-mocambicano-rejeita-recurso-de-venancio-mondlane-para-transmissao-de-julgamento_n1771613"}
+- date: '2026-11-16'
+  countries: [UKR, RUS, USA]
+  category: diplomatic
+  conflict: russia-ukraine-war
+  headline: "Kremlin says Europe has not been invited to the next round of Ukraine talks, as Zelensky holds online talks with US envoys and Europeans"
+  summary: "Zelensky held online talks on 16 November with US envoys Steve Witkoff and Jared Kushner and representatives of France, Germany, Britain, Italy and Poland, which he called 'not easy', and said the sides agreed to meet in Berlin with the Coalition of the Willing. Kushner said 'important challenges remain, and a final agreement will require difficult decisions'. Kremlin aide Yuri Ushakov said Russia had not agreed to widen the talks beyond the Russian, Ukrainian and US delegations, contradicting Kushner's claim last week that Putin had accepted a European role. It matters because who sits at the table shapes any deal, and Trump says he will raise the war with Putin and Xi in Shenzhen on 19 November."
+  sources:
+  - {label: "Al Jazeera: Ukraine holds peace talks with US, Europe as conflict escalates", url: "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates"}
+  - {label: "Meduza: Kremlin says the next US-Russia-Ukraine peace talks will be trilateral, without Europe", url: "https://meduza.io/en/news/2026/11/16/kremlin-says-the-next-u-s-russia-ukraine-peace-talks-will-be-trilateral-without-europe"}
+  - {label: "The Moscow Times (Reuters): Kremlin aide denies Russia agreed to include Europe in Ukraine peace talks", url: "https://www.themoscowtimes.com/2026/11/16/kremlin-aide-denies-russia-agreed-to-include-europe-in-ukraine-peace-talks-a94279"}
+- date: '2026-11-15'
+  countries: [SDN]
+  category: military
+  conflict: sudan-saf-rsf
+  headline: "An RSF commander in North Darfur defects to the army as it pushes on toward En Nahud"
+  summary: "Ahmed Hasab Al-Rasoul, who commanded the RSF's First Group in Saraf Omra, North Darfur, said in a video released on 15 November that he was 'officially' defecting, the latest of several RSF officers to switch sides this year. The army, which reopened the El Obeid to Omdurman road and retook Al-Khuwei on 13 November, is advancing on En Nahud, West Kordofan's second city and a gold-mining hub held by the RSF since May 2025. It matters because an ACLED analyst told The New Arab that losses and defections are weakening the RSF's structure, though the army's push has also brought deadly air strikes on villages."
+  sources:
+  - {label: "The New Arab: RSF commander defects as army makes ground in Kordofan", url: "https://newarab.com/news/rsf-commander-defects-army-makes-ground-kordofan"}
+  - {label: "Sudan Tribune: Sudanese army advances on Al Nahud amid airstrikes", url: "https://sudantribune.com/article/321257"}
+  confidence: reported
+- date: '2026-11-17'
   countries: [UKR, RUS]
   category: military
   conflict: russia-ukraine-strike-war
@@ -3353,6 +3427,15 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2026-11-28'
+  countries: [GEO]
+  event: "Georgian opposition mass rally as the Constitutional Court hears the ruling party's case to ban five opposition parties"
+- date: '2026-11-19'
+  countries: [MNG]
+  event: "Mongolia's parliament votes on whether to accept President Khurelsukh's resignation"
+- date: '2026-11-27'
+  countries: [SRB]
+  event: "Deadline to call Serbia's early presidential election, which must be held by 27 December"
 - date: '2026-11-19'
   countries: [DNK, USA]
   event: "Danish parliament's final vote on the Greenland security agreement with the US"

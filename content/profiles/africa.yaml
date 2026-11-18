@@ -845,8 +845,8 @@ MOZ:
     accord with opposition parties. In January 2026 TotalEnergies restarted its $20 billion LNG
     project in Cabo Delgado, frozen since insurgents overran the nearby town of Palma in 2021, a bet
     that Rwandan-backed security operations have contained the Islamic State-linked insurgency.
-    Mondlane goes on trial at the Supreme Court on 17 November 2026 on five charges, including
-    incitement to terrorism.
+    Mondlane went on trial at the Supreme Court on 17 November 2026 on five charges, including
+    incitement to terrorism, over the post-election protests; the court refused live broadcast.
   leaders: {state: "President Daniel Chapo, since January 2025", gov: "Prime Minister Maria Benvinda Levi"}
   power: >-
     A presidential republic. The president is directly elected for five years, at most two terms,
@@ -854,6 +854,7 @@ MOZ:
     independence.
   story: steady
   sources:
+    - {label: "RTP: Tribunal rejeita recurso de Mondlane para transmissão de julgamento", url: "https://www.rtp.pt/noticias/mundo/tribunal-mocambicano-rejeita-recurso-de-venancio-mondlane-para-transmissao-de-julgamento_n1771613"}
     - {label: "Rio Times: Mondlane trial starts Tuesday at Supreme Court in Maputo", url: "https://www.riotimesonline.com/mozambique-mondlane-trial-starts-tuesday-supreme-court-maputo/"}
     - {label: "Club of Mozambique: Mondlane trial in 45-seat courtroom", url: "https://clubofmozambique.com/news/mozambique-mondlane-trial-in-45-seat-courtroom-countrys-first-with-audio-and-video-recording-of-hearings/"}
     - {label: "Business Wire: Mozambique LNG restart", url: "https://www.businesswire.com/news/home/20260129408643/en/TotalEnergies-SE-UK-Regulatory-Announcement-Mozambique-LNG-Announces-the-Full-Restart-of-All-Its-Activities-Onshore-and-Offshore-in-Mozambique"}

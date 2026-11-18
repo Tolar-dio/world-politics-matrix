@@ -44,8 +44,10 @@ ISR:
   leader:
     - {date: "2026-11-11", who: "Gadi Eisenkot, prime minister-designate", text: "On whether to return to war with Iran: “I will not allow even a millimetre's deviation from security considerations.”", source: "The National", url: "https://www.thenationalnews.com/news/mena/2026/11/11/eisenkot-says-israel-should-not-return-to-war-for-now/"}
   press:
+    - {date: "2026-11-17", who: "Times of Israel", text: "Led with the Knesset electing Yashar's Matan Kahana as speaker by 66 votes to 52 after a six-hour filibuster, a boost to Eisenkot's bloc.", source: "Times of Israel", url: "https://www.timesofisrael.com/knesset-votes-66-52-to-elect-yashars-matan-kahana-as-speaker-in-boost-to-eisenkot-bloc/"}
     - {date: "2026-11-10", who: "Israel Hayom", text: "Reported Eisenkot breaking off coalition talks with Likud after Netanyahu's speech in the Knesset.", source: "Israel Hayom", url: "https://www.israelhayom.com/2026/11/10/eisenkot-cancels-likud-coalition-talks-over-netanyahus-knesset-speech"}
   abroad:
+    - {date: "2026-11-17", who: "CNN", text: "Framed the speaker vote as a blow that weakens Netanyahu's grip on power.", source: "CNN", url: "https://www.cnn.com/2026/11/17/middleeast/israel-knesset-speaker-netanyahu-intl"}
     - {date: "2026-11-11", who: "Türkiye Today", text: "Led on reports that the caretaker cabinet ordered the army to prepare for a new attack on Iran, as Eisenkot warned Netanyahu off.", source: "Türkiye Today", url: "https://www.turkiyetoday.com/region/israel-orders-military-to-prepare-for-iran-attack-as-eisenkot-warns-netanyahu-3232218"}
 
 HUN:
@@ -77,3 +79,19 @@ CHN:
     - {date: "2026-11-09", who: "Global Times, a party-run paper", text: "Reported China extending its pause on extra tariffs and ‘unreliable entity’ measures against certain US firms.", source: "Global Times", url: "https://www.globaltimes.cn/page/202611/1373982.shtml"}
   abroad:
     - {date: "2026-10-29", who: "Christian Science Monitor", text: "Reported the plenum praising the party's ‘rigorous self-governance’ after sweeping purges of generals and officials.", source: "Christian Science Monitor", url: "https://www.csmonitor.com/World/Asia-Pacific/2026/1029/china-communist-party-purges-plenum"}
+
+JPN:
+  leader:
+    - {date: "2026-11-17", who: "Minoru Kihara, chief cabinet secretary", text: "On two suspected Russian aircraft entering Japanese airspace off Fukuoka: “a grave infringement of our country's sovereignty” and “completely unacceptable”.", source: "Kyiv Post", url: "https://www.kyivpost.com/post/90302"}
+  abroad:
+    - {date: "2026-11-17", who: "The Copenhagen Post (Ritzau)", text: "Reported Japan scrambling fighter jets after suspected Russian aircraft entered its airspace.", source: "The Copenhagen Post", url: "https://cphpost.dk/2026-11-17/global/japan-scrambles-fighter-jets-after-suspected-russian-aircraft-enter-its-airspace/"}
+
+MNG:
+  leader:
+    - {date: "2026-11-17", who: "Ukhnaa Khurelsukh, president", text: "Announcing that he would step down while bribery accusations are investigated: “I will be investigated and will have my honour restored.”", source: "GMA News (AP)", url: "https://www.gmanetwork.com/news/topstories/world/1009811/mongolian-president-announces-resignation-over-alleged-corruption/story/"}
+  abroad:
+    - {date: "2026-11-17", who: "Bernama (Malaysia)", text: "Reported the resignation announcement and noted that parliament has the final say on whether to accept it.", source: "Bernama", url: "https://www.bernama.com/en/world/news.php?id=2635605"}
+
+SRB:
+  abroad:
+    - {date: "2026-11-17", who: "Al Jazeera", text: "Covered the student-led movement entering parliament, quoting Student List representative Aleksandar Baucal: “Changing power through non-violent and democratic means is only the first step.”", source: "Al Jazeera", url: "https://www.aljazeera.com/news/2026/11/17/election-winning-student-movement-enters-serbias-new-parliament"}
