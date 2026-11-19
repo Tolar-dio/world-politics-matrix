@@ -1,5 +1,84 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-19'
+  countries: [MNG]
+  category: political
+  headline: "Mongolia's parliament accepts President Khurelsukh's resignation, making speaker Byambatsogt Sandag acting president"
+  summary: "The State Great Khural voted on 19 November, with 96 of the 104 members present in favour, to accept the resignation President Ukhnaa Khurelsukh announced two days earlier over accusations that he profited from a railway project when he was prime minister, which he denies. 'I have never stolen from my people or my state,' he said. Parliament chairman Byambatsogt Sandag now exercises the president's powers, and a presidential election must be called within four months, the first early presidential election in Mongolia's history. It matters because analysts quoted by AP see the move as a power play amid infighting in the ruling Mongolian People's Party, and some note that Khurelsukh resigned as prime minister in 2021 before winning the presidency months later."
+  sources:
+  - {label: "ABC News (AP): Mongolia's lawmakers accept president's resignation following corruption accusations", url: "https://abcnews.com/International/wireStory/mongolias-lawmakers-accept-presidents-resignation-corruption-accusations-138282020"}
+  - {label: "AKIpress: Mongolian Parliament approves President Khurelsukh Ukhnaa's resignation", url: "https://akipress.com/news:932260:Mongolian_Parliament_approves_President_Khurelsukh_Ukhnaa_s_resignation/"}
+- date: '2026-11-19'
+  countries: [USA, CHN, RUS]
+  category: diplomatic
+  headline: "Trump, Xi and Putin hold their first three-way meeting in Shenzhen but announce no deal on nuclear arms"
+  summary: "The three leaders met for about 80 minutes at the Kylin Villa in Shenzhen on 19 November, on the sidelines of the APEC summit, after Trump held separate meetings with Xi and Putin. Trump said the three were 'uniquely positioned to discuss how to reduce the number of nuclear weapons on earth', Chinese state media said Xi backed the eventual elimination of nuclear weapons, and Putin spoke of the three powers' shared responsibility for global stability. No joint statement, arms-cut targets or negotiating timetable was released, and Ukrainian and European leaders were not present. It matters because New START expired in February, leaving no binding limits on the US and Russian arsenals, and China has so far refused to join reduction talks."
+  sources:
+  - {label: "IBTimes: Trump, Xi and Putin hold 11,082 nuclear warheads. Can they agree to cut them?", url: "https://www.ibtimes.com/trump-putin-xi-nuclear-talks-no-deal-3809945"}
+  - {label: "Aju Press: Trump, Xi, Putin make history, not deals", url: "https://www.ajupress.com/view/20261119195125521"}
+- date: '2026-11-19'
+  countries: [DNK, GRL, USA]
+  category: diplomatic
+  headline: "Denmark's parliament ratifies the Greenland security agreement with the US by 109 votes to none"
+  summary: "The Folketing approved the deal unanimously on 19 November, after Greenland's parliament backed it earlier in the month. It updates the 1951 defence agreement, lets the US expand Pituffik Space Base and set up defence areas at Narsarsuaq in the south and Mestersvig in the east, and allows the Golden Dome missile defence system in Greenland, while reaffirming Danish sovereignty and Greenlanders' right to self-determination. It is not a treaty, so it needs no US Senate vote, and it takes effect once Denmark and Greenland notify Washington. It matters because it gives Washington the wider military access in Greenland it has pressed for, without any change of sovereignty."
+  sources:
+  - {label: "CBS News: Greenland security deal with U.S. and Denmark OK'd by Danish lawmakers", url: "https://www.cbsnews.com/news/greenland-security-deal-us-denmark-danish-lawmakers/"}
+  - {label: "ArcticToday: Danish parliament ratifies expanded US military access to Greenland", url: "https://arctictoday.com/danish-parliament-ratifies-expanded-us-military-access-to-greenland"}
+- date: '2026-11-18'
+  countries: [IRN, KWT, BHR, USA, ARE]
+  category: military
+  conflict: iran-war-2026
+  headline: "Iran fires at a US air base in Kuwait and again at Bahrain after the US strike on Qeshm Island"
+  summary: "Iran's army said it targeted US drone and missile installations at Ali Al Salem Air Base in Kuwait overnight into 18 November, and Bahrain said it intercepted Iranian attacks for the third time in a week; Kuwait's military said its air defences stopped the drones with no immediate damage, and its Foreign Ministry called the attacks 'criminal'. Iran said it was answering US drone surveillance and an attack on its communications towers, after US jets hit an IRGC missile launch site on Qeshm on 17 November, and the US military said no US personnel had been hurt. On 17 November a UAE-owned ADNOC tanker was attacked in the Strait of Hormuz, leaving one crew member missing and 11 injured. It matters because Iran is widening its retaliation across the Gulf as a third US carrier arrives and Qatar warns that escalation is making a negotiated solution harder."
+  sources:
+  - {label: "PBS NewsHour (AP): Iran widens Gulf attacks by targeting U.S. air base in Kuwait and sites in Bahrain", url: "https://www.pbs.org/newshour/world/iran-widens-gulf-attacks-by-targeting-u-s-air-base-in-kuwait-and-sites-in-bahrain"}
+  - {label: "Al-Monitor (Reuters): Iran fires at Kuwait after US strike on Iranian island", url: "https://www.al-monitor.com/originals/2026/11/iran-fires-kuwait-after-us-strike-iranian-island"}
+  - {label: "Al Jazeera: Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island", url: "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island"}
+- date: '2026-11-18'
+  countries: [ETH, ERI]
+  category: military
+  conflict: ethiopia-eritrea-standoff
+  headline: "Ethiopia and Eritrea mass forces along their border after reported clashes near Badme"
+  summary: "Conflict monitors and people linked to Tigray's armed groups told Reuters on 18 November that both armies have built up forces along the border and are now within striking distance of each other, according to ACLED and the International Crisis Group. Ethiopian drones reportedly hit likely Eritrean positions around Badme on 12 November and the two armies reportedly clashed the next day, which Reuters could not confirm and a pro-government Tigrayan force denied. Eritrea's information minister Yemane Gebremeskel accused Ethiopia's ruling party of spreading 'propaganda' without directly addressing the reports, and Ethiopia did not comment. It matters because Ethiopia's war with Tigrayan rebels on the border could turn into a direct war between the two states, which fought in 1998 to 2000 at a cost of tens of thousands of lives."
+  sources:
+  - {label: "TimesLIVE (Reuters): Ethiopia and Eritrea amass forces along border, heightening war fears, sources say", url: "https://www.timeslive.co.za/news/africa/2026-11-18-ethiopia-and-eritrea-amass-forces-along-border-heightening-war-fears-sources-say/"}
+  - {label: "Al-Monitor (Reuters): Ethiopia and Eritrea amass forces along border, heightening war fears", url: "https://www.al-monitor.com/originals/2026/11/ethiopia-and-eritrea-amass-forces-along-border-heightening-war-fears-sources-say"}
+  confidence: reported
+- date: '2026-11-18'
+  countries: [MMR]
+  category: diplomatic
+  headline: "Myanmar's President Min Aung Hlaing says his government will review its relations with ASEAN"
+  summary: "In a speech to parliament in Naypyitaw on 18 November, Min Aung Hlaing said 'our government has decided to review our future relations with Asean', accusing the bloc of subjecting Myanmar to pressure and indignity it has never imposed on another member. ASEAN leaders said at their summit in the Philippines that Myanmar had made insufficient progress on the 2021 five-point peace plan, and the bloc still keeps Myanmar's top leaders out of its main summits. He said Myanmar would keep talking to individual members and hold a peace conference in February. It matters because it is the strongest hint yet that the military-backed government could step back from the bloc rather than meet its terms."
+  sources:
+  - {label: "The Manila Times (AP): Myanmar's leader accuses Asean of unfair treatment", url: "https://www.manilatimes.net/2026/11/18/news/myanmars-leader-accuses-asean-of-unfair-treatment/2472928"}
+  - {label: "New Straits Times: Myanmar's army-backed leader says he is reconsidering Asean ties", url: "https://www.nst.com.my/world/region/2026/11/1581036/myanmars-army-backed-leader-says-he-reconsidering-asean-ties"}
+- date: '2026-11-17'
+  countries: [ISR, PSE, USA]
+  category: diplomatic
+  conflict: israel-hamas-gaza
+  headline: "Trump's Board of Peace tells the UN Security Council the Gaza ceasefire could collapse without urgent action"
+  summary: "In its second report to the Security Council since the US-brokered ceasefire took effect 13 months ago, the Board of Peace said on 17 November that Israel and Hamas had failed to meet their commitments, according to Reuters. AP reported that the board blamed continued Israeli strikes, said restrictions on supplies were impeding relief, and said Israel had not let the technocratic administration start work or decided on training and deploying civilian police, and that this was holding up the international stabilisation force; 'a ceasefire that delivers nothing visible cannot be sustained indefinitely', it warned. It matters because the stabilisation force is the key to Israeli withdrawal, Hamas disarmament and reconstruction, and Gaza faces another winter in shelters and rubble."
+  sources:
+  - {label: "WSB-TV (AP): Board of Peace delivers bleak report on Gaza, warning of ceasefire collapse without immediate action", url: "https://www.wsbtv.com/news/world/board-peace-delivers/B3JWRJK74QZGLLMCH5CUGFDRVY/"}
+  - {label: "Reuters: Trump's Board of Peace faults Israel, Hamas for failure to end Gaza war", url: "https://www.reuters.com/world/middle-east/trumps-board-peace-faults-israel-hamas-failure-end-gaza-war-2026-11-18/"}
+- date: '2026-11-17'
+  countries: [YEM, SAU]
+  category: military
+  conflict: yemen-civil-war
+  headline: "The Houthis say they sent five drones at two pumping stations on Saudi Arabia's East-West pipeline"
+  summary: "The Houthis said on 17 November that they had launched five drones towards two pumping stations on the Saudi East-West pipeline in the Riyadh area, and there was no immediate Saudi confirmation, Reuters reported. It is the latest of several Houthi claims of attacks on the pipeline this month. It matters because the pipeline carries Saudi crude to the Red Sea port of Yanbu, the kingdom's main way around the closed Strait of Hormuz."
+  sources:
+  - {label: "The Star (Reuters): Yemen's Houthis say they launched drones towards Saudi East-West pipeline", url: "https://www.thestar.com.my/news/world/2026/11/18/yemen039s-houthis-say-they-launched-drones-towards-saudi-east-west-pipeline"}
+  confidence: reported
+- date: '2026-11-17'
+  countries: [USA]
+  category: political
+  headline: "Mary Peltola unseats Senator Dan Sullivan in Alaska, giving Democrats 56 Senate seats"
+  summary: "Former congresswoman Mary Peltola defeated the Republican incumbent with 50.1 percent to 45.8 percent in the last Senate race of the 3 November midterms to be called, becoming the first Indigenous woman from Alaska elected to the Senate. Democrats will hold a 56 to 44 majority in the new Senate, the biggest seat flip since 1958, according to AP as summarised by Just Security. It matters because a large Democratic majority in both houses gives Congress more power to check Trump's war with Iran and his appointments."
+  sources:
+  - {label: "AP: Peltola defeats Sullivan in Alaska Senate race", url: "https://apnews.com/article/alaska-senate-peltola-sullivan-congress-f1fd4d243bf764ec46ff94db4c792953"}
+  - {label: "Democracy Now!: Headlines for November 18, 2026", url: "https://www.democracynow.org/2026/11/18/headlines"}
+  - {label: "Just Security: Early Edition, November 18, 2026", url: "https://www.justsecurity.org/165038/early-edition-november-18-2026/"}
 - date: '2026-11-17'
   countries: [IRN, USA, BHR, KWT]
   category: military
@@ -64,6 +143,14 @@ news:
   - {label: "Al Jazeera: Ukraine holds peace talks with US, Europe as conflict escalates", url: "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates"}
   - {label: "Meduza: Kremlin says the next US-Russia-Ukraine peace talks will be trilateral, without Europe", url: "https://meduza.io/en/news/2026/11/16/kremlin-says-the-next-u-s-russia-ukraine-peace-talks-will-be-trilateral-without-europe"}
   - {label: "The Moscow Times (Reuters): Kremlin aide denies Russia agreed to include Europe in Ukraine peace talks", url: "https://www.themoscowtimes.com/2026/11/16/kremlin-aide-denies-russia-agreed-to-include-europe-in-ukraine-peace-talks-a94279"}
+- date: '2026-11-16'
+  countries: [NLD]
+  category: political
+  headline: "Dutch coalition agrees to carry on under Rob Jetten after a week-long row over taxes"
+  summary: "After more than nine hours of talks at the Catshuis on 16 November, D66, the VVD and the CDA said 'intensive talks' had led to a 'restoration of trust' and that Jetten's minority cabinet would continue. The crisis began when D66 and the CDA made a deal with the left-wing PRO and Volt to raise about 1 billion euros a year in wealth taxes to cut income tax, and VVD MPs voted against the tax plan on 12 November, which passed with 76 of 150 seats; the VVD's Dilan Yesilgöz, a deputy prime minister, called the minority cabinet a 'failed experiment'. Council of State vice-president Sybrand Buma will advise the coalition on working agreements with opposition parties on the budget. It matters because Jetten's cabinet has no majority and now depends on deals across the opposition to pass its budget."
+  sources:
+  - {label: "DutchNews: Jetten cabinet survives crisis as coalition agrees to carry on", url: "https://www.dutchnews.nl/2026/11/jetten-cabinet-survives-crisis-as-coalition-agrees-to-carry-on/"}
+  - {label: "NL Times: PM Rob Jetten's cabinet survives for now, VVD defecting over left-center tax deal", url: "https://nltimes.nl/2026/11/13/pm-rob-jettens-cabinet-survives-now-vvd-defecting-left-center-tax-deal"}
 - date: '2026-11-15'
   countries: [SDN]
   category: military

@@ -287,14 +287,17 @@ DNK:
   society: >-
     Danes pay high taxes for a generous welfare state and are often ranked among the world's happiest people. Novo Nordisk, maker of Ozempic, became Europe's most valuable company. The Social Democrats adopted one of Europe's strictest immigration policies. Trump's demands to take over Greenland, part of the Danish realm, have dominated foreign policy.
   update: >-
-    On 3 November Greenland's parliament approved, by 16 votes to none with seven abstentions, the
-    security agreement signed in September by Trump, Prime Minister Mette Frederiksen and Greenland's
-    premier Jens-Frederik Nielsen. It opens the way to more US bases on Greenland while keeping the
-    island under Danish control, and would still apply if Greenland became independent. The deal aims to
-    end a year of tension over Trump's push to take the island. The Folketing held its first reading on
-    11 November and is due to hold the final vote on 19 November.
-  update_date: "2026-11-17"
+    On 19 November the Folketing ratified the security agreement with the US and Greenland by 109 votes
+    to none, after Greenland's parliament approved it on 3 November. The deal updates the 1951 defence
+    agreement, lets the US expand Pituffik Space Base and set up defence areas at Narsarsuaq and
+    Mestersvig, and allows the Golden Dome missile defence system in Greenland, while reaffirming Danish
+    sovereignty and Greenlanders' right to self-determination. It takes effect once Denmark and
+    Greenland notify Washington, and would still apply if Greenland became independent, provided it
+    joined NATO.
+  update_date: "2026-11-19"
   sources_extra:
+    - {label: "CBS News: Greenland security deal with U.S. and Denmark OK'd by Danish lawmakers", url: "https://www.cbsnews.com/news/greenland-security-deal-us-denmark-danish-lawmakers/"}
+    - {label: "ArcticToday: Danish parliament ratifies expanded US military access to Greenland", url: "https://arctictoday.com/danish-parliament-ratifies-expanded-us-military-access-to-greenland"}
     - {label: "AP: Greenland approves security deal with Denmark and US following months of Trump's pressure", url: "https://apnews.com/article/greenland-trump-denmark-us-33824857ac4312c5ebd53821187ecc13"}
     - {label: "Reuters: Greenland parliament ratifies security deal reached with Trump", url: "https://www.reuters.com/world/europe/greenland-lawmakers-set-ratify-trump-security-deal-2026-11-03"}
     - {label: "Latin Times: Denmark's Parliament Begins Final Vote Process on Historic Arctic Defense Deal With U.S.", url: "https://www.latintimes.com/denmark-ratification-arctic-defense-pact-greenland-601296"}
@@ -738,6 +741,16 @@ NLD:
     The Dutch Golden Age gave the world Rembrandt and Vermeer, and Van Gogh followed. Cycling is the main way to get around, and King's Day turns the country orange. The Dutch are known for directness, pragmatism and early liberal laws on drugs, euthanasia and same-sex marriage, which it was first to legalise, in 2001.
   society: >-
     Rotterdam is Europe's largest port, and ASML, maker of the machines that print advanced chips, is one of Europe's most valuable companies. A severe housing shortage, nitrogen pollution limits on farming and migration fuelled the rise of Wilders and the farmers' party. A quarter of the country lies below sea level.
+  update: >-
+    Jetten's minority cabinet of D66, the VVD and the CDA survived a crisis in mid-November. D66 and
+    the CDA agreed with PRO and Volt to raise about 1 billion euros a year in wealth taxes to cut income
+    tax, VVD MPs voted against the tax plan on 12 November, and the VVD's Dilan Yesilgöz, a deputy prime minister, called the
+    minority cabinet a 'failed experiment'. On 16 November the three parties agreed to carry on, with
+    Council of State vice-president Sybrand Buma advising on budget deals with the opposition.
+  update_date: "2026-11-16"
+  sources_extra:
+    - {label: "DutchNews: Jetten cabinet survives crisis as coalition agrees to carry on", url: "https://www.dutchnews.nl/2026/11/jetten-cabinet-survives-crisis-as-coalition-agrees-to-carry-on/"}
+    - {label: "NL Times: PM Rob Jetten's cabinet survives for now", url: "https://nltimes.nl/2026/11/13/pm-rob-jettens-cabinet-survives-now-vvd-defecting-left-center-tax-deal"}
 
 MKD:
   pop: 1.8
