@@ -11,6 +11,16 @@
 #     - {label: "Outlet: headline", url: "https://..."}
 
 corrections:
+  - date: "2026-11-20"
+    where: {type: news, id: ""}
+    what: "The 19 November item on the Trump-Xi-Putin meeting in Shenzhen said no joint statement was released"
+    was: "No joint statement, arms-cut targets or negotiating timetable was released."
+    now: "The three leaders issued a four-point 'Declaration toward Peace' on UN reform, oil supply, the International Criminal Court and a dialogue on nuclear risks, with no arms-cut targets or timetable and no mention of Ukraine or Iran."
+    why: "The item was written from early reports before the declaration was published by the White House, the Kremlin and Xinhua."
+    sources:
+      - {label: "The White House: U.S.-Russia-China Heads of State Declaration toward Peace", url: "https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/"}
+      - {label: "Xinhua: Full text: China-Russia-U.S. Heads of State Declaration toward Peace", url: "https://english.news.cn/20261119/c15631ea3f054a278e3a3f592021f0da/c.html"}
+
   - date: "2026-11-16"
     where: {type: news, id: ""}
     what: "The 10 November item on a ship attacked in UAE waters, and the Iran war and Hormuz conflict texts, said ADNOC confirmed the damaged vessel was its own"

@@ -59,8 +59,9 @@ threads:
       refineries and Baltic ports. Every strike is also a message to the negotiators, and the talks now reach into
       US-China-Russia summitry.
     watch: >-
-      The prisoner exchange agreed in Abu Dhabi, whether Europe gets a seat at the next round, and what comes out of
-      the Trump, Xi and Putin meeting in Shenzhen.
+      The prisoner exchange agreed in Abu Dhabi, whether Russia accepts Europe at the next round outside Moscow,
+      whether Kushner's claim that Moscow accepts Article 5-style guarantees holds, and how far Russia's
+      retaliation for the Crimean Bridge strikes goes, including into Poland.
     links:
       - {from: USA, to: RUS, label: "Witkoff and Kushner carry US proposals to Putin"}
       - {from: USA, to: UKR, label: "US mediates and sells Patriot missiles to Kyiv"}
@@ -79,6 +80,8 @@ threads:
       - {date: "2026-11-11", text: "The talks end with a prisoner exchange deal but no ceasefire.", news: "2026-11-11 Abu Dhabi talks end"}
       - {date: "2026-11-13", text: "Zelensky says US negotiators floated NATO membership in exchange for leaving Donbas.", news: "2026-11-13 Zelensky says US negotiators"}
       - {date: "2026-11-17", text: "Ukraine strikes the Crimean Bridge two nights running before the Shenzhen summit.", news: "2026-11-17 Ukraine strikes the Crimean Bridge"}
+      - {date: "2026-11-19", text: "Putin rules out an energy and sea truce after a third bridge strike, as Europe's allies meet US envoys in Berlin.", news: "2026-11-19 Ukraine hits the Crimean Bridge"}
+      - {date: "2026-11-20", text: "Russia's retaliatory barrage hits three Kyiv bridges and sends a missile into Poland.", news: "2026-11-20 Russia answers the Crimean Bridge"}
 
   - id: gulf-realignment
     title: "The Gulf rearms and realigns"

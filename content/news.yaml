@@ -1,5 +1,114 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-20'
+  countries: [UKR, RUS, POL]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russia answers the Crimean Bridge strikes with one of its largest barrages of the war, hitting three Kyiv bridges as a missile lands in Poland"
+  summary: "Overnight into 20 November Russia fired 84 cruise missiles, ballistic and Zircon missiles and 404 drones at Kyiv and nine regions, Ukraine's air force said; Prime Minister Serhii Koretskyi said 8 people were killed and 28 injured, six of the dead in Kyiv, where ballistic missiles damaged the Podilsko-Voskresenskyi, Darnytskyi and Southern bridges over the Dnipro. A strike also hit the Sknyliv railway station in Lviv and energy sites across the country. Poland's defence minister said a Kh-101 cruise missile came down near Nowy Lipowiec in Lublin province and another missile and a drone fell elsewhere, with no injuries, and called it 'yet another provocation by Russia'. It matters because it is the 'far more painful' response Putin promised hours earlier, and it is pushing the war's spillover onto NATO territory."
+  sources:
+  - {label: "Al Jazeera (Reuters): Russia unleashes retaliatory barrage on Kyiv bridges", url: "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges"}
+  - {label: "Kyiv Post: Russia fires 84 cruise missiles, 404 drones at Ukraine after Putin's retaliation vow", url: "https://www.kyivpost.com/post/90693"}
+  - {label: "Euronews: Two missiles crash in Poland amid major Russian attack on Ukraine", url: "https://www.euronews.com/2026/11/20/unidentified-object-falls-in-eastern-poland-amid-major-russian-attack-on-ukraine"}
+  - {label: "Politico Europe: Russia hits 3 Kyiv bridges in major attack, while Poland reports airspace violation", url: "https://www.politico.eu/article/russia-hits-3-kyiv-bridges-in-major-attack-while-poland-reports-airspace-violation"}
+- date: '2026-11-20'
+  countries: [GBR]
+  category: diplomatic
+  headline: "Britain and the EU conclude deals on food trade, carbon markets and a youth mobility scheme at their Brussels summit"
+  summary: "The UK government said on 20 November that 'the deal is done' as Prime Minister Andy Burnham arrived in Brussels to sign agreements aligning food and farm standards, linking the two emissions trading systems and creating a youth experience scheme, which the BBC reports will let up to 100,000 young people a year move each way to live, work and study. Britain will follow EU food rules in the areas covered, and the Guardian reports the food deal is expected to take effect on 1 March 2028. Politico reports a draft EU Council statement that ties final adoption to a separate deal on tuition fees for EU students. It matters because it is the biggest step since Brexit toward cutting the cost of leaving, though talks on electricity trading and an EU budget contribution continue."
+  sources:
+  - {label: "The Independent: EU-UK summit live: Burnham's EU deal 'is done'", url: "https://www.the-independent.com/news/uk/politics/eu-uk-deal-summit-burnham-budget-negotiations-brexit-youth-mobiiity-europe-b3088544.html"}
+  - {label: "BBC: UK and EU to agree youth mobility scheme, BBC understands", url: "https://www.bbc.com/news/articles/c623j4kpg94go"}
+  - {label: "The Guardian: UK-EU reset talks will go 'down to the wire' as crunch summit approaches", url: "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees"}
+  good: true
+- date: '2026-11-19'
+  countries: [MMR, GMB, BGD, GBR]
+  category: political
+  headline: "The International Court of Justice rules that Myanmar committed genocide against the Rohingya, the first such ruling against a state"
+  summary: "By nine votes to six, the court found in The Gambia's case that Myanmar's security forces committed genocide in northern Rakhine in 2017 and failed to prevent and punish it, the first time it has held a state responsible for genocide. It ordered Myanmar to investigate and prosecute those responsible, allow the safe and voluntary return of displaced Rohingya, restore their property and pay compensation, and to report back within two years. Britain expelled Myanmar's defence attaché and called for an urgent Security Council meeting, and Myanmar's military-backed government had not responded by late on 19 November. It matters because more than 1.3 million Rohingya remain displaced, most in Bangladesh, and the binding ruling gives them a legal basis for return and redress."
+  sources:
+  - {label: "UN News: World's top court finds Myanmar guilty of genocide against Rohingya", url: "https://news.un.org/en/story/2026/11/1168836"}
+  - {label: "BBC: Myanmar committed genocide against Rohingya minority, top UN court rules", url: "https://www.bbc.com/news/articles/c804wzp20ddvo"}
+  - {label: "Al Jazeera (Reuters): World reacts to ICJ finding Myanmar guilty of genocide against Rohingya", url: "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya"}
+  good: true
+- date: '2026-11-19'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Ukraine hits the Crimean Bridge for a third time in a week, and Putin drops talk of an energy and sea truce"
+  summary: "Ukraine's General Staff said Neptune missiles damaged the rail tracks of the Crimean Bridge overnight into 19 November, and Russia's transport ministry halted trains and said no one was hurt; road traffic has been impossible since a 17 November strike destroyed the central road span, according to images verified by Reuters. Speaking in Shenzhen, Putin said he had asked his Security Council to consider a halt to attacks on energy and shipping, 'but after the strikes on the Crimean Bridge, there will be no agreements', and promised a response 'far more painful' than the damage to the bridge, which he called purely civilian. Russian drones struck Kyiv through the day, killing one person and damaging St Volodymyr's Cathedral and the Dutch and Austrian embassies. It matters because the bridge is Russia's main land link to Crimea, and Putin's threat came as Europe pressed for a winter energy truce."
+  sources:
+  - {label: "Yahoo News (Reuters): Putin says he will hit back hard after Ukraine strikes Crimea Bridge again", url: "https://www.yahoo.com/news/articles/third-attack-week-suspends-traffic-233640993.html"}
+  - {label: "Euronews: Ukraine strikes key bridge linking Russia and Crimea for third time this week, halting rail traffic", url: "https://www.euronews.com/2026/11/19/ukraine-strikes-key-bridge-linking-russia-and-crimea-for-third-time-this-week-halting-rail"}
+  - {label: "CNA (AFP): Russian strikes on Kyiv kill one, damage Dutch and Austrian embassies", url: "https://www.channelnewsasia.com/world/russia-ukraine-drone-strikes-kyiv-putin-6566896"}
+- date: '2026-11-19'
+  countries: [UKR, DEU, FRA, GBR, USA, RUS]
+  category: diplomatic
+  conflict: russia-ukraine-war
+  headline: "Ukraine's allies meet US envoys in Berlin and call on Russia to accept a winter energy ceasefire"
+  summary: "After a Coalition of the Willing summit in Berlin attended by leaders and officials from about 40 countries and by US envoys Steve Witkoff and Jared Kushner, the leaders of Germany, France, Britain and Ukraine called on Russia to agree an energy ceasefire for the winter 'as a first step towards a cessation of hostilities', plus a Black Sea ceasefire for food exports, and restated that Ukraine needs legally binding security guarantees once a ceasefire starts. Kushner said 'we've gotten the Russians comfortable' with guarantees modelled on NATO's Article 5, which Moscow has not confirmed, and Merz said Europe would take part in the next round of talks. Britain pledged 1,000 British-built long-range drones. It matters because Europe now has a seat in the US-led process, but Putin invited the Europeans to Moscow the same day and refused any partial truce."
+  sources:
+  - {label: "Kyiv Independent: Coalition of the Willing calls on Russia to accept winter energy truce", url: "https://kyivindependent.com/coalition-of-the-willing-calls-on-russia-to-accept-winter-energy-truce"}
+  - {label: "Al Jazeera: Kushner says Russia 'comfortable' with NATO-like guarantees for Ukraine", url: "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine"}
+  - {label: "GOV.UK: PM speech at Coalition of the Willing in Berlin, 19 November 2026", url: "https://www.gov.uk/government/speeches/pm-speech-at-coalition-of-the-willing-in-berlin-19-november-2026"}
+  - {label: "Meduza: Putin's remarks on the war after meeting Trump and Xi", url: "https://meduza.io/en/feature/2026/11/19/no-territorial-concessions-retaliation-for-crimean-bridge-strikes-and-europeans-are-invited-to-moscow-putin-s-remarks-on-the-war-after-meeting-trump-and-xi"}
+- date: '2026-11-19'
+  countries: [SAU, YEM]
+  category: military
+  conflict: yemen-civil-war
+  headline: "A Houthi missile hits Riyadh's tallest skyscraper, the headquarters of Saudi Arabia's sovereign wealth fund"
+  summary: "The strike early on 19 November blew out windows across seven or eight floors of the PIF Tower in the King Abdullah Financial District, with no injuries reported, the second time in under two weeks that a Houthi attack has damaged a landmark in the district after the Aramco tower on 8 November. The Saudi-led coalition said it 'dealt with a missile threat' over Riyadh, intercepted five ballistic missiles and a cruise missile aimed at the south, and destroyed launchers in Dhamar and Saada, and the Saudi Foreign Ministry said it reserved the right to take 'all necessary measures'. Reuters reports that Saudi officials now expect the campaign to last up to six months and have replaced their coalition commander, while the Houthis hold Yemen's whole Red Sea coast and press toward Aden. It matters because the war is reaching the heart of the Saudi economy as Riyadh's allies retreat on the ground."
+  sources:
+  - {label: "Al-Monitor (Reuters): Riyadh's tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ", url: "https://www.al-monitor.com/originals/2026/11/riyadhs-tallest-skyscraper-hit-houthi-strike-saudi-wealth-fund-hq"}
+  - {label: "Al Jazeera: Saudi Arabia says Houthi attack damaged Riyadh tower", url: "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south"}
+  - {label: "Al Arabiya: Saudi-led coalition intercepts Houthi missiles, destroys launchers in Yemen", url: "https://english.alarabiya.net/News/middle-east/2026/11/19/saudiled-coalition-intercepts-houthi-missiles-destroys-launchers-in-yemen"}
+- date: '2026-11-19'
+  countries: [USA, IRN]
+  category: political
+  conflict: iran-war-2026
+  headline: "The US Senate rejects an Iran war powers resolution 51 to 48, and Trump puts off any decision on new strikes until 2027"
+  summary: "In the first vote on the war since the midterms, Republican senators blocked the House-passed resolution directing Trump to withdraw US forces from hostilities with Iran; Republicans Susan Collins, Lisa Murkowski and Rand Paul voted for it and Democrat John Fetterman against. Returning from China, Trump told Reuters 'I'll talk to you about it after the beginning of the year' when asked about renewed strikes, and a Navy nominee told senators the war had cost at least 48.3 billion dollars by 13 November. It matters because Democrats take control of both houses on 3 January and are weighing cutting off funding, setting up a showdown just as Trump says he will decide on escalation."
+  sources:
+  - {label: "Yahoo News (Reuters): Backing Trump, US Senate Republicans block Iran war resolution", url: "https://sg.news.yahoo.com/us-senate-rejects-resolution-curbing-195349892.html"}
+  - {label: "RTE (Reuters): Trump to decide on renewed strikes on Iran in early 2027", url: "https://www.rte.ie/news/middle-east/2026/1119/1599925-us-iran"}
+  - {label: "Roll Call: Iran resolution blocked in first war powers vote since midterms", url: "https://www.rollcall.com/2026/11/19/iran-resolution-blocked-in-first-war-powers-vote-since-midterms"}
+- date: '2026-11-19'
+  countries: [SOM, ARE]
+  category: diplomatic
+  headline: "Somalia orders the UAE ambassador to leave within 72 hours, accusing Abu Dhabi of an 'open invasion'"
+  summary: "Somalia's cabinet ordered the Emirati ambassador out on 19 November and recalled its own envoy from Abu Dhabi, two days after President Hassan Sheikh Mohamud accused the UAE of setting up military bases without federal approval and backing regional administrations and armed groups against Mogadishu. The UAE Foreign Ministry called the move 'escalatory and hostile', accused the government of dragging it into Somalia's internal power struggles, and said it had already closed its embassy in Mogadishu and withdrawn its diplomats in January. It matters because the UAE still funds about 3,400 Somali troops and has port and military deals with Somaliland, Puntland and Jubaland, so the rift deepens Somalia's divisions in a Horn of Africa already close to wider war."
+  sources:
+  - {label: "The Straits Times (Reuters): Somalia orders UAE ambassador to leave, citing 'invasion'", url: "http://www.straitstimes.com/world/middle-east/somalia-orders-uae-ambassador-to-leave-citing-invasion"}
+  - {label: "Anadolu: Somalia orders UAE ambassador to leave within 72 hours", url: "https://www.aa.com.tr/en/africa/somalia-orders-uae-ambassador-to-leave-within-72-hours/4131043"}
+  - {label: "Middle East Eye: Somalia expels Emirati envoy, recalls own ambassador over 'open invasion'", url: "https://www.middleeasteye.net/news/somalia-expels-emirati-envoy-recalls-somali-counterpart-envoy-over-open-invasion"}
+- date: '2026-11-19'
+  countries: [ETH, ERI]
+  category: military
+  conflict: ethiopia-eritrea-standoff
+  headline: "Ethiopian drones strike Badme, which conflict monitors say Eritrean forces retook last weekend"
+  summary: "ACLED reported an Ethiopian drone strike on the border town of Badme early on 19 November that forced residents to flee, and Addis Standard reported intense overnight drone strikes and artillery fire around the town that it could not verify. ACLED says Eritrean forces retook Badme around 15 November and are moving reinforcements and heavy equipment toward Gual Gemhalo and Sembel, where it reports Tigrayan units joining them, while Ethiopian troops concentrate around Gemhalo about 32 km to the south. Neither government has commented, and Eritrea denies having troops in Ethiopia. It matters because Badme was the spark of the 1998 to 2000 war, and fighting there would mean the two armies are in direct combat."
+  sources:
+  - {label: "ACLED: Ethiopia alerts archive (19 November 2026)", url: "https://acleddata.com/ethiopia-alerts-archive"}
+  - {label: "Addis Standard: Overnight drone, artillery strikes reported around Badme amid Ethiopian, Eritrean military buildup", url: "https://addisstandard.com/overnight-drone-artillery-strikes-reported-around-badme-amid-ethiopian-eritrean-military-buildup/"}
+  - {label: "bne IntelliNews: Ethiopia and Eritrea mass troops on border as Badme clashes stoke Horn of Africa war fears", url: "https://www.intellinews.com/ethiopia-and-eritrea-mass-troops-on-border-as-badme-clashes-stoke-horn-of-africa-war-fears-486576/"}
+  confidence: reported
+- date: '2026-11-19'
+  countries: [KOR]
+  category: political
+  headline: "South Korea's Supreme Court overturns former prime minister Han Duck-soo's 15-year sentence and orders a retrial"
+  summary: "Sitting en banc on 19 November, the court sent Han's insurrection case back to the Seoul High Court, finding no proof that he meant to subvert the constitution when he proposed a cabinet meeting before Yoon Suk Yeol declared martial law on 3 December 2024, while upholding the findings against him for his conduct after the declaration and for falsifying an official document and perjury. It extended his detention by two months, and the same day upheld former first lady Kim Keon Hee's four-year sentence. It matters because the top court confirmed for the first time that the martial law decree was unconstitutional and an insurrection, which shapes the cases against Yoon and his aides, even as it narrowed Han's guilt."
+  sources:
+  - {label: "The Korea Herald: Han Duck-soo case on insurrection sent back to appeals court", url: "https://www.koreaherald.com/article/10943172"}
+  - {label: "Al Jazeera: South Korean court orders retrial for ex-PM Han over martial law attempt", url: "https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt"}
+  - {label: "SBS News: Supreme Court reverses conviction in part, remands case of former Prime Minister Han Duck-soo", url: "https://news.sbs.co.kr/english/article.do?news_id=N1008854768"}
+- date: '2026-11-19'
+  countries: [SLV]
+  category: political
+  headline: "Nayib Bukele registers to run for an unprecedented third straight term in El Salvador's February election"
+  summary: "Bukele and Vice President Félix Ulloa filed their candidacy at the Supreme Electoral Tribunal on the evening of 19 November, the deadline, for the general election on 28 February 2027, after his Nuevas Ideas party amended the constitution in 2025 to allow indefinite re-election, lengthen terms to six years and scrap runoffs. Polls give him 55 to 70 percent against four opposition candidates, including Maytee Iraheta of ARENA and Rafael Aguirre of the FMLN, and his party holds 54 of the 60 seats in congress. It matters because critics say it entrenches one-man rule under a state of emergency in place since 2022, while his crackdown on gangs keeps him popular at home and in the region."
+  sources:
+  - {label: "The Straits Times (Reuters): El Salvador's Bukele seeks unprecedented third term as leader", url: "http://www.straitstimes.com/world/el-salvadors-bukele-expected-to-seek-unprecedented-third-term-as-leader"}
+  - {label: "Diario El Mundo: El presidente Bukele inscribe su candidatura para las elecciones 2027 en El Salvador", url: "https://diario.elmundo.sv/politica/el-presidente-bukele-inscribe-su-candidatura-para-las-elecciones-2027-en-el-salvador"}
 - date: '2026-11-19'
   countries: [MNG]
   category: political
@@ -12,10 +121,12 @@ news:
   countries: [USA, CHN, RUS]
   category: diplomatic
   headline: "Trump, Xi and Putin hold their first three-way meeting in Shenzhen but announce no deal on nuclear arms"
-  summary: "The three leaders met for about 80 minutes at the Kylin Villa in Shenzhen on 19 November, on the sidelines of the APEC summit, after Trump held separate meetings with Xi and Putin. Trump said the three were 'uniquely positioned to discuss how to reduce the number of nuclear weapons on earth', Chinese state media said Xi backed the eventual elimination of nuclear weapons, and Putin spoke of the three powers' shared responsibility for global stability. No joint statement, arms-cut targets or negotiating timetable was released, and Ukrainian and European leaders were not present. It matters because New START expired in February, leaving no binding limits on the US and Russian arsenals, and China has so far refused to join reduction talks."
+  summary: "The three leaders met for about 80 minutes at the Kylin Villa in Shenzhen on 19 November, on the sidelines of the APEC summit, after Trump held separate meetings with Xi and Putin. Trump said the three were 'uniquely positioned to discuss how to reduce the number of nuclear weapons on earth', Chinese state media said Xi backed the eventual elimination of nuclear weapons, and Putin spoke of the three powers' shared responsibility for global stability. Afterwards they issued a four-point 'Declaration toward Peace' committing to reform the UN, raise refined oil supplies, stop the International Criminal Court and similar bodies from 'abusing' their jurisdiction, and hold a dialogue on reducing nuclear risks, but it set no arms-cut targets or negotiating timetable and did not mention Ukraine or Iran, and Ukrainian and European leaders were not present. It matters because New START expired in February, leaving no binding limits on the US and Russian arsenals, and China has so far refused to join reduction talks."
   sources:
   - {label: "IBTimes: Trump, Xi and Putin hold 11,082 nuclear warheads. Can they agree to cut them?", url: "https://www.ibtimes.com/trump-putin-xi-nuclear-talks-no-deal-3809945"}
   - {label: "Aju Press: Trump, Xi, Putin make history, not deals", url: "https://www.ajupress.com/view/20261119195125521"}
+  - {label: "The White House: U.S.-Russia-China Heads of State Declaration toward Peace", url: "https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/"}
+  - {label: "Axios: Trump, Putin and Xi end historic nuclear summit with no major deal", url: "https://www.axios.com/2026/11/19/trump-xi-putin-summit-no-major-deal"}
 - date: '2026-11-19'
   countries: [DNK, GRL, USA]
   category: diplomatic
@@ -3514,6 +3625,9 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2027-02-28'
+  countries: [SLV]
+  event: "El Salvador general election for president, the 60-seat Legislative Assembly and 44 municipal councils, with Nayib Bukele seeking a third straight term"
 - date: '2026-11-28'
   countries: [GEO]
   event: "Georgian opposition mass rally as the Constitutional Court hears the ruling party's case to ban five opposition parties"

@@ -1073,15 +1073,15 @@ SOM:
   society: >-
     The state collapsed in 1991, and the federal government still controls only parts of the south and centre, fighting al-Shabaab, which runs its own courts and taxes. Somaliland in the north has run itself since 1991 and seeks recognition. Remittances and mobile money keep the economy going, and droughts are frequent and deadly.
   update: >-
-    On 5 November the Supreme Court ruled that President Hassan Sheikh Mohamud's four-year term expired
-    in May 2026 and parliament's in April, rejecting his argument that the move to five-year terms let
-    him stay until 2027. It gave leaders 30 days to agree how to hold elections and 90 days to hold them,
-    limited the government to routine business, and rejected Mohamud's 4 November dismissal of Chief
-    Justice Baashe Yusuf Ahmed. The government disputes the ruling's force and keeps the electoral
-    commission's timetable of parliamentary elections on 15 April 2027 and a presidential vote on 15 May.
-    Talks Mohamud called for 14 November failed to open after the opposition Somali Future Council,
-    Puntland and Jubaland refused to attend on his terms and asked for international mediation.
-  update_date: 2026-11-15
+    On 19 November the cabinet ordered the UAE ambassador to leave within 72 hours and recalled
+    Somalia's envoy from Abu Dhabi, accusing the Emirates of an 'open invasion', two days after
+    President Hassan Sheikh Mohamud said the UAE had set up bases and backed regional rivals without
+    federal consent; the UAE said it had already closed its Mogadishu embassy in January. The row comes
+    on top of the 5 November Supreme Court ruling that Mohamud's term expired in May 2026 and its order
+    to hold elections within 90 days, which the government disputes, keeping its own timetable of
+    parliamentary elections on 15 April 2027 and a presidential vote on 15 May. Election talks Mohamud
+    called for 14 November failed after the opposition, Puntland and Jubaland refused to attend.
+  update_date: "2026-11-19"
   sources_extra:
     - {label: "Reuters: Tanzania opposition leader cleared of treason, sentenced for inciting unrest", url: "https://www.reuters.com/world/africa/tanzanian-court-clears-opposition-leader-lissu-treason-2026-11-06"}
     - {label: "BBC: Tundu Lissu found guilty of incitement but acquitted of treason", url: "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo"}
@@ -1090,6 +1090,8 @@ SOM:
     - {label: "AA: UN mission in Somalia to end operations on 31 October", url: "https://www.aa.com.tr/en/americas/un-mission-in-somalia-to-end-operations-on-oct-31-after-decades-of-support/4101656"}
     - {label: "AP via myMotherLode: Somalia's top court rules president's term extension is unlawful", url: "https://mymotherlode.com/news/africa/11286148/somalias-top-court-rules-presidents-term-extension-is-unlawful-deepening-power-struggle.html"}
     - {label: "Somali Guardian: Somalia election talks called by president fail to start as opposition boycotts", url: "https://www.somaliguardian.com/news/somalia-news/somalia-election-talks-president-hassan-sheikh-fail-start-opposition-boycott/"}
+    - {label: "The Straits Times (Reuters): Somalia orders UAE ambassador to leave, citing 'invasion'", url: "http://www.straitstimes.com/world/middle-east/somalia-orders-uae-ambassador-to-leave-citing-invasion"}
+    - {label: "Anadolu: Somalia orders UAE ambassador to leave within 72 hours", url: "https://www.aa.com.tr/en/africa/somalia-orders-uae-ambassador-to-leave-within-72-hours/4131043"}
 
 ZAF:
   pop: 64.7
