@@ -1,6 +1,133 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
 - date: '2026-11-20'
+  countries: [SAU, YEM]
+  category: military
+  conflict: yemen-civil-war
+  headline: "The Saudi-led coalition strikes Hodeidah port and Sanaa, and the Houthis answer with missiles at Jazan and Riyadh"
+  summary: "After telling civilians to leave Hodeidah port, the coalition said on 20 November it destroyed facilities there used to smuggle weapons and move ballistic missiles, plus missile and drone workshops and a supply depot in Sanaa, with operations continuing in Saada and Taiz; Yemen's information minister said the port, the main entry point for food into the Houthi north, stayed open. The Houthis declared Saudi airspace unsafe except over Mecca and Medina, told workers to leave Jeddah and other Red Sea ports, and said they hit the Al-Shuqaiq power station and Jazan port, while the coalition said it intercepted two missiles over Jazan and, early on 21 November, three more aimed at Riyadh. The Houthis said coalition strikes killed 41 people in 24 hours, a figure that could not be verified. It matters because both sides are now openly targeting each other's ports and power plants, the lifelines of Yemen's food supply and of Saudi Arabia's economy."
+  sources:
+  - {label: "France 24 (AFP): Yemen's Houthis launch strikes after Saudi coalition's 'special operation'", url: "https://www.france24.com/en/live-news/20261120-saudi-coalition-launches-special-operation-yemen-s-houthis-vow-reprisals"}
+  - {label: "Dawn (Reuters, AFP): Houthis claim more attacks on Saudi Arabia after Hodeidah hit", url: "https://www.dawn.com/news/2045987"}
+  - {label: "Al Jazeera: Saudi-led coalition intercepts three Houthi missiles headed for Riyadh", url: "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh"}
+- date: '2026-11-20'
+  countries: [EST, RUS]
+  category: diplomatic
+  headline: "Estonia will close all its road crossings into Russia from 1 December after a sabotage attempt it blames on Russian military intelligence"
+  summary: "The government approved shutting all five checkpoints, at Narva, Koidula, Luhamaa and Saatse, for at least six months, with rail traffic unaffected, calling it a response to Russia's continued aggression, sabotage and hybrid operations against Estonia and Europe. It follows an attempted arson attack on 14 November at the Threod Systems drone maker in Viimsi, near Tallinn, which Tallinn says Russia's GRU ordered and for which eight people from Latvia were detained; the Kremlin denies involvement. About 760,000 people have crossed the border this year, many of them families from the Russian-speaking city of Narva. It matters because Estonia joins Finland in sealing a land border with Russia, leaving Latvia and Lithuania as the EU's last open road crossings in the north."
+  sources:
+  - {label: "Reuters: Estonia to close border with Russia for at least six months", url: "https://www.reuters.com/world/estonia-close-border-with-russia-least-six-months-2026-11-20"}
+  - {label: "Euronews: Estonia to shut border with Russia over GRU-linked sabotage attack", url: "https://www.euronews.com/2026/11/20/estonia-to-shut-border-with-russia-over-gru-linked-sabotage-attack"}
+  - {label: "Kyiv Independent: Estonia to close road borders with Russia in response to 'sustained aggression' against Europe", url: "https://kyivindependent.com/estonia-to-close-road-borders-with-russia-in-response-to-sustained-aggression-against-europe/"}
+- date: '2026-11-20'
+  countries: [UKR, RUS, DEU, FRA, GBR, USA]
+  category: diplomatic
+  conflict: russia-ukraine-war
+  headline: "European security advisers weigh a trip to Moscow as the Kremlin revives its prewar demands on NATO"
+  summary: "After Putin invited Europeans to Moscow to set out their position before the next round of Ukraine talks, the Kyiv Post, citing RFE/RL, reported that the national security advisers of France, Germany and Britain could travel later in November, though no decision has been made. An adviser to Macron said Europe would go only if Moscow recognised its full role in the talks with the US and Ukraine, and Merz said four-way talks could be held soon, possibly in the United Arab Emirates. AP reports the Kremlin has seized on a US offer to discuss Europe's wider security to restate the demands Putin made before the 2022 invasion, including limits on NATO, which the alliance rejects. It matters because Europe has won a place in the process but risks a negotiation framed around Russia's terms."
+  sources:
+  - {label: "Kyiv Post: European security advisors weigh Moscow talks after Kremlin invitation", url: "https://www.kyivpost.com/post/90792"}
+  - {label: "ABC News (AP): Russia dusts off its prewar demands as the US raises discussing European security at Ukraine talks", url: "https://abcnews.com/International/wireStory/russia-dusts-off-prewar-demands-us-raises-discussing-138338870"}
+  - {label: "Meduza (Interfax): Russia invites European representatives to Moscow for talks", url: "https://meduza.io/en/news/2026/11/19/russia-invites-european-representatives-to-moscow-for-talks-putin-says"}
+- date: '2026-11-20'
+  countries: [SDN]
+  category: military
+  conflict: sudan-saf-rsf
+  headline: "The RSF and its SPLM-N allies take Bau and push to within about 40 km of Blue Nile's capital, Ed Damazin"
+  summary: "The RSF-led Tasis alliance said it captured the Bau locality headquarters on 19 November, about 70 km southwest of Ed Damazin, and five more areas in Geissan locality on 20 November; Sudan Tribune's military sources said army units made up of former fighters of Malik Agar's SPLM-N faction withdrew toward Ed Damazin without a fight. Bau is Agar's birthplace, and he is deputy head of the army-led Sovereignty Council. The local commissioner said the RSF entered the area but does not control the whole locality, the army has not commented, and the alliance's claims of hundreds of soldiers killed cannot be checked. It matters because three of Blue Nile's seven locality seats are now in rebel hands, and fresh waves of displaced people are heading for a state capital already crowded with camps."
+  sources:
+  - {label: "Sudan Tribune: Sudan's RSF says it seized Bau locality in Blue Nile", url: "https://sudantribune.com/article/321454"}
+  - {label: "Sudan Tribune: RSF and SPLM-N alliance claims capture of five new areas in Sudan's Blue Nile", url: "https://sudantribune.com/article/321467"}
+  - {label: "Asharq Al-Awsat: Sudan's Tasis alliance seizes Blue Nile's strategic Bau district", url: "https://english.aawsat.com/arab-world/5343858-sudans-tasis-alliance-seizes-blue-nile%E2%80%99s-strategic-bau-district"}
+  - {label: "Addis Standard: RSF-allied forces claim advances in Sudan's Blue Nile State", url: "https://addisstandard.com/brief/n-61424/"}
+  confidence: reported
+- date: '2026-11-20'
+  countries: [MYS, TUR, MMR]
+  category: humanitarian
+  headline: "Malaysia says Turkey will take 10,000 Rohingya refugees through a skills training scheme"
+  summary: "Deputy Prime Minister Ahmad Zahid Hamidi said the cabinet had approved the plan, under which refugees would take three to six months of vocational training for jobs in Turkey, with Malaysia, Turkish authorities and the UN refugee agency choosing participants with their consent. It would be one of the largest resettlement efforts for Rohingya since the 2017 crackdown in Rakhine, and came a day after the International Court of Justice ruled that crackdown was genocide; Turkey's foreign ministry had not commented. It matters because Malaysia hosts about 193,000 registered refugees from Myanmar, two-thirds of them Rohingya, and has been under local pressure to send them back."
+  sources:
+  - {label: "Al-Monitor (Reuters): Malaysia says it will resettle 10,000 Rohingya refugees in Turkey", url: "https://www.al-monitor.com/originals/2026/11/malaysia-says-it-will-resettle-10000-rohingya-refugees-turkey"}
+  - {label: "The Star: Malaysia to resettle 10,000 Rohingya refugees in Turkiye, says Ahmad Zahid", url: "https://www.thestar.com.my/news/nation/2026/11/20/malaysia-to-resettle-10000-rohingya-refugees-in-turkiye-says-ahmad-zahid"}
+  good: true
+- date: '2026-11-21'
+  countries: [CHE, USA, RUS]
+  category: diplomatic
+  headline: "Countries agree in Geneva to start work on an international instrument on 'killer robots'"
+  summary: "After five days of talks that ran past midnight, the 128 states party to the Convention on Certain Conventional Weapons agreed to develop an instrument on lethal autonomous weapons systems over the next two years, conference president Julien Thoni of Switzerland said, working out which weapons can be banned under humanitarian law and which regulated. More than 95 states had backed a binding treaty, but the United States and Russia resisted, and the Stop Killer Robots coalition said the 'watered-down mandate' fails to chart a clear path to legally binding rules. It matters because AI-guided weapons are already used in Ukraine and elsewhere, and this is the first agreed step toward common rules for them."
+  sources:
+  - {label: "Dawn (AFP): Countries open path towards 'killer robots' pact", url: "https://www.dawn.com/news/2046098/countries-open-path-towards-killer-robots-pact"}
+  - {label: "eNCA (AFP): Countries open path towards 'killer robots' pact", url: "https://www.enca.com/lifestyle/countries-open-path-towards-killer-robots-pact"}
+  good: true
+- date: '2026-11-19'
+  countries: [SEN]
+  category: political
+  headline: "Senegal's President Faye puts the revised 2026 budget into force by decree after parliament votes down his 2027 budget"
+  summary: "Faye signed the decree on 19 November, citing a constitutional article on the 60-day deadline for budget bills, after the National Assembly, where Ousmane Sonko's Pastef holds 130 of 165 seats, rejected the revised 2026 budget on 3 November and on 18 November voted down the first part of the 2027 budget by 126 to 18, according to RFI, which blocks the rest of the bill. EFE reports that Pastef expelled Faye and 31 other members on 17 November. Sonko, now the Assembly's speaker, has called on the government to stake its survival on the budget, which Pastef could defeat with a censure motion. It matters because a 2.2 billion dollar IMF programme, key to handling about 13 billion dollars of hidden debt, needs an adopted budget."
+  sources:
+  - {label: "CNBC Africa (Reuters): Senegal's president to push through 2026 budget changes as parliament impasse drags", url: "https://www.cnbcafrica.com/2026/senegal-president-implements-2026-budget-changes-by-decree-amid-impasse-with-parliament"}
+  - {label: "RFI: Sénégal, le projet de budget 2027 rejeté par les députés", url: "https://www.rfi.fr/fr/afrique/20261119-s%C3%A9n%C3%A9gal-le-projet-de-budget-2027-rejet%C3%A9-par-les-d%C3%A9put%C3%A9s"}
+  - {label: "Swissinfo (EFE): El presidente de Senegal aprueba por decreto presupuestos entre tensiones con su exaliados", url: "https://www.swissinfo.ch/spa/el-presidente-de-senegal-aprueba-por-decreto-presupuestos-entre-tensiones-con-su-exaliados/92411524"}
+- date: '2026-11-20'
+  countries: [BGD, IND]
+  category: political
+  headline: "Arson attacks spread in Bangladesh as Sheikh Hasina's supporters protest ahead of her planned return"
+  summary: "AFP reports at least three people have died in days of unrest after the banned Awami League called strikes for the anniversary of Hasina's death sentence, with protesters burning a police station in her hometown of Gopalganj on 19 November, a petrol bomb thrown at a junior foreign minister's home in Sylhet on 20 November, and arson at the Chittagong family home of former interim leader Muhammad Yunus. Police said they arrested 124 people linked to the Awami League in Dhaka in 24 hours, and paramilitary troops have been deployed. Hasina, sentenced to death in absentia over the 2024 crackdown, says she will return from India in December. It matters because her return could set off a direct clash between her supporters and the new elected government."
+  sources:
+  - {label: "The Hindu (AFP): Bangladesh hit by fresh arson attacks in political unrest", url: "https://www.thehindu.com/news/international/bangladesh-hit-by-fresh-arson-attacks-in-political-unrest/article71725621.ece"}
+  - {label: "Courthouse News (AFP): Bangladesh hit by fresh arson attacks in political unrest", url: "https://www.courthousenews.com/bangladesh-hit-by-fresh-arson-attacks-in-political-unrest"}
+- date: '2026-11-20'
+  countries: [TWN, CHN]
+  category: political
+  headline: "Taiwan's opposition-led legislature passes a 607.6 billion Taiwan dollar supplementary budget in full, including new defence money"
+  summary: "The budget, passed at third reading on 20 November without cuts, adds about 18.4 billion US dollars of spending, including 145.7 billion Taiwan dollars for weapons procurement and combat allowances and large subsidies for the state oil refiner CPC and power company Taipower; lawmakers also unanimously asked the government to freeze fuel and electricity prices until January 2028. The Taipei Times reports the defence money lets mass production of the Chiang Kung missile begin without waiting for next year's budget. It matters because the KMT-led legislature had stalled special defence spending, and the deal comes a week before local elections in which Taiwan says China-linked accounts are trying to sway voters."
+  sources:
+  - {label: "Focus Taiwan (CNA): Legislature passes US$18.41 billion supplementary budget for 2026", url: "https://focustaiwan.tw/politics/202611200016"}
+  - {label: "Taipei Times: Additional budget passes with no cuts", url: "https://www.taipeitimes.com/News/front/archives/2026/11/21/2003868118"}
+- date: '2026-11-18'
+  countries: [PSE, ISR]
+  category: military
+  conflict: israel-hamas-gaza
+  headline: "Israeli tanks cross Gaza's Yellow Line in the first announced ground operation beyond it since the ceasefire"
+  summary: "Israeli forces and the Shin Bet said they pushed into Hamas-held central Gaza near the Nuseirat and Bureij camps on 18 November to destroy a tunnel they said threatened Israeli troops, ordering families to leave and closing part of the Salah al-Din road, and COGAT said on 19 November the operation had ended and the road reopened. Hamas called it a flagrant violation of the truce, Gaza's government media office said about 6,000 people were displaced, and the EU urged Israel to fully implement the ceasefire. It matters because the incursion came two days after the Board of Peace warned the Security Council that the ceasefire could collapse."
+  sources:
+  - {label: "BBC: Israeli military launches rare ground operation in Gaza beyond Yellow Line", url: "https://www.bbc.com/news/articles/cw8r7510degno"}
+  - {label: "Xinhua: Israel ends military operation in central Gaza, leaving destruction, damage", url: "https://english.news.cn/20261120/e4f8c79f71954624b6aa04ef970d5555/c.html"}
+  - {label: "SANA (Anadolu): EU calls on Israel to uphold Gaza ceasefire amid renewed military operations", url: "https://sana.sy/en/international/2360210"}
+- date: '2026-11-20'
+  countries: [FRA]
+  category: political
+  headline: "Young people march in about 25 European countries against living costs, military spending and climate inaction"
+  summary: "Student-led 'fight for our future' protests, inspired by weeks of demonstrations in France, were held across Europe on 20 November, with demands ranging from more money for education and housing to climate action and an end to conscription, and more marches planned for the weekend. It matters because the protests show a generation turning against governments that are raising defence budgets while living costs bite."
+  sources:
+  - {label: "France 24: Young people across Europe stage mass 'fight for our future' protests", url: "https://www.france24.com/en/europe/20261120-europe-s-youth-set-to-join-mass-cost-of-living-protests-in-25-countries"}
+  - {label: "Al Jazeera (AP, Reuters): Protests held across Europe over wages, services, high living costs", url: "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs"}
+- date: '2026-11-19'
+  countries: [COL]
+  category: political
+  headline: "Colombia holds a second national strike against De la Espriella's tax bill, and Petro calls the government illegitimate"
+  summary: "Unions and opposition groups marched on 19 November against the government's fiscal rescue bill, which had already dropped a plan to put VAT on basic foods; the government counted 285 protest actions involving about 55,000 people and said almost all were peaceful. Speaking in Cali, former president Gustavo Petro called the government illegitimate and urged permanent mobilisation, and President Abelardo de la Espriella replied that his government did not take power by force, that he would not allow a coup, and asked US authorities to investigate Petro. It matters because the clash between the new right-wing president and his predecessor is moving from parliament to the street."
+  sources:
+  - {label: "Infobae: De la Espriella respondió a declaraciones de Petro", url: "https://www.infobae.com/colombia/2026/11/20/de-la-espriella-respondio-a-declaraciones-de-petro-catalogadas-como-posible-incitacion-a-un-golpe-de-estado-este-gobierno-no-llego-al-poder-por-las-armas"}
+  - {label: "Xinhua: Presidente colombiano afirma que respeta protesta pacífica, pero no permitirá golpe de Estado", url: "https://spanish.news.cn/20261120/df74231143a34652be6a9aae9c5fc9ca/c.html"}
+  - {label: "Colombia One: Colombia holds second strike against De la Espriella government in three months", url: "https://colombiaone.com/2026/11/19/colombia-second-strike-de-la-espriella-government"}
+- date: '2026-11-20'
+  countries: [FIN]
+  category: political
+  headline: "Finland's government survives a confidence vote over care for the elderly"
+  summary: "Parliament backed Prime Minister Petteri Orpo's four-party coalition by 95 votes to 78 in a confidence vote brought by the opposition Centre Party over health care and services for older people. It matters because care cuts have become a central argument ahead of Finland's April 2027 parliamentary election."
+  sources:
+  - {label: "Bloomberg: Finland's government survives confidence vote over elderly care", url: "https://www.bloomberg.com/news/articles/2026-11-20/finland-s-government-survives-confidence-vote-over-elderly-care"}
+- date: '2026-11-15'
+  countries: [CPV]
+  category: political
+  headline: "Cabo Verde re-elects President José Maria Neves in the first round, on a record low turnout"
+  summary: "Neves, a former prime minister from the PAICV, won a second five-year term with about 64 percent of the vote, according to the National Elections Commission's final results, against 31 percent for former justice minister Joana Rosa, backed by the MpD, who conceded. More than two-thirds of the 419,532 registered voters stayed home, and Neves called for a study of why and for electronic voting. It matters because one of Africa's most stable democracies now has the PAICV in both the presidency and the government for the first time since 2011, but voters are drifting away."
+  sources:
+  - {label: "AP: Cape Verde's president is re-elected for a second five-year term", url: "https://apnews.com/article/cape-verde-election-802ba8d137d2cb30f96eca659a4167f6"}
+  - {label: "France 24 (AFP): Cape Verde's President Jose Maria Neves re-elected, provisional results", url: "https://www.france24.com/en/live-news/20261115-cape-verde-s-president-jose-maria-neves-re-elected-provisional-election-results"}
+  - {label: "Cabo-Verde.cv: José Maria Neves re-elected President of Cape Verde", url: "https://cabo-verde.cv/jose-maria-neves-re-elected-president-of-cape-verde"}
+- date: '2026-11-20'
   countries: [UKR, RUS, POL]
   category: military
   conflict: russia-ukraine-strike-war
@@ -3625,6 +3752,15 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2026-12-01'
+  countries: [EST, RUS]
+  event: "Estonia closes all five road border crossings with Russia for at least six months"
+- date: '2026-12-09'
+  countries: [CHE]
+  event: "Swiss parliament elects a successor to Federal Councillor Guy Parmelin (SVP ticket: Thomas Aeschi and Michael Graber)"
+- date: '2026-11-29'
+  countries: [SVN]
+  event: "Ljubljana mayoral runoff between Zoran Janković and Luka Mesec"
 - date: '2027-02-28'
   countries: [SLV]
   event: "El Salvador general election for president, the 60-seat Legislative Assembly and 44 municipal councils, with Nayib Bukele seeking a third straight term"
@@ -3697,9 +3833,9 @@ upcoming:
 - date: '2026-11-28'
   countries: [TWN]
   event: "Taiwan local elections for mayors, county chiefs and borough chiefs"
-- date: '2026-12-06'
+- date: '2026-12-07'
   countries: [THA]
-  event: "Thai no-confidence debate against Prime Minister Anutin and 17 ministers expected (6-9 December, votes 10 December)"
+  event: "Thai censure debate against Prime Minister Anutin, his first, expected from 7 to 11 December with the confidence vote on 11 December"
 - date: '2026-11-15'
   countries: [PAK, IRN, TUR, AZE, KAZ, KGZ, TJK, TKM, UZB]
   event: "Economic Cooperation Organization foreign ministers meet in Islamabad (15-16 November) without Afghanistan"

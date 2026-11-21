@@ -314,13 +314,20 @@ EST:
   society: >-
     Estonia runs almost all public services online, including voting, and produced Skype and many startups. About a quarter of the population is ethnic Russian, concentrated in Narva and Tallinn. Defence spending is among NATO's highest, reflecting fear of Russia. Tax rises to fund defence have hurt the government's popularity.
   baseline: >-
-    Kristen Michal of the Reform Party became prime minister in 2024 after Kaja Kallas left to become the EU's foreign policy chief. In September 2026, parliament elected Ülle Madise, the chancellor of justice, as president, succeeding Alar Karis; she was sworn in on 12 October. Michal's Reform-Eesti 200 coalition lost its majority in August 2026 and now holds 50 of 101 seats. A parliamentary election is due in March 2027.
+    Kristen Michal of the Reform Party became prime minister in 2024 after Kaja Kallas left to become
+    the EU's foreign policy chief. In September 2026, parliament elected Ülle Madise, the chancellor of
+    justice, as president, succeeding Alar Karis; she was sworn in on 12 October. Michal's Reform-Eesti
+    200 coalition lost its majority in August 2026 and now holds 50 of 101 seats. On 20 November the
+    government decided to close all five road crossings with Russia from 1 December for at least six
+    months, after an arson attempt on a drone maker that it blames on Russian military intelligence. A
+    parliamentary election is due in March 2027.
   leaders: {state: "President Ülle Madise, since October 2026", gov: "Prime Minister Kristen Michal, since 2024"}
   power: >-
     A parliamentary republic. The prime minister leads the majority in the 101-seat Riigikogu; the
     president is elected by parliament or an electoral college and is largely ceremonial.
   story: election
   sources:
+    - {label: "Euronews: Estonia to shut border with Russia over GRU-linked sabotage attack", url: "https://www.euronews.com/2026/11/20/estonia-to-shut-border-with-russia-over-gru-linked-sabotage-attack"}
     - {label: "ERR: Estonia elects a new president", url: "https://news.err.ee/1610126071/estonia-elects-new-president"}
     - {label: "Qatar Tribune (dpa): Estonia's new president Ulle Madise sworn in", url: "https://www.qatar-tribune.com/article/258816/world/estonias-new-president-ulle-madise-sworn-in"}
     - {label: "Qatar Tribune (dpa): Estonian coalition loses majority", url: "https://www.qatar-tribune.com/article/248190/world/estonian-coalition-loses-majority"}
@@ -940,14 +947,16 @@ SVK:
   society: >-
     Slovakia makes more cars per head than any other country, with plants for Volkswagen, Kia, Stellantis and Jaguar Land Rover. Fico survived an assassination attempt in 2024. His government has cut military aid to Ukraine and moved closer to Moscow, while large protests in Bratislava have opposed his course.
   update: >-
-    Fico's Smer-Hlas-SNS coalition lost its majority on 3 November when MP Roman Malatinec joined
-    former environment minister Tomáš Taraba's new project, leaving it with 75 of 150 seats. On
-    11 November Taraba's three-member group voted with the opposition to sink a government amendment
-    on benefits for cooperating defendants, which Fico had called a priority, 75 votes to 74 with one
-    abstention. The opposition calls it a minority government and wants early elections, which Fico
-    rejects.
-  update_date: 2026-11-11
+    Fico's Smer-Hlas-SNS coalition has had secure support from only 75 of 150 MPs since 3 November, when
+    MP Roman Malatinec joined former minister Tomáš Taraba's new group, and on 11 November it lost a
+    vote on a criminal code amendment Fico called a priority. The opposition wants early elections,
+    which Fico rejects. On 17 November, the anniversary of the Velvet Revolution, thousands rallied
+    across Slovakia, about 25,000 in Bratislava by the organisers' count, against the government's ties
+    with Moscow as the cabinet discussed deeper cooperation with Russia.
+  update_date: 2026-11-21
   sources_extra:
+    - {label: "Euronews: Thousands rally in Slovakia against PM Robert Fico perceived as too pro-Russia", url: "https://www.euronews.com/2026/11/18/thousands-rally-in-slovakia-against-pm-robert-fico-perceived-as-too-pro-russia"}
+    - {label: "AP: Opposition parties in Slovakia rally against pro-Russian Prime Minister Robert Fico", url: "https://apnews.com/article/slovakia-fico-protests-velvet-revolution-russia-13da4dadf4057826343481e2e9c5c47c"}
     - {label: "Týždeň (TASR): Parliament rejects amendment on benefits for cooperating defendants", url: "https://www.tyzden.sk/politika/140918/udalost-dna-parlament-neschvalil-novelu-ktora-mala-menit-system-benefitov-pre-kajucnikov/"}
     - {label: "Novinky.cz (ČTK): Fico's coalition has lost its majority in parliament, vote confirms", url: "https://www.novinky.cz/clanek/zahranicni-evropa-ficova-koalice-ztratila-v-parlamentu-vetsinu-potvrdilo-hlasovani-40607812"}
     - {label: "Pravda.sk: Smer returns to disputed law on cooperating defendants", url: "https://www.pravda.sk/spravy/domace/clanok/2075665-smer-sa-vracia-k-spornemu-zakonu-o-kajucnikoch-tentoraz-moze-narazit-na-problem-vo-vlastnych-radoch"}
@@ -1033,14 +1042,13 @@ CHE:
   society: >-
     Switzerland is among the world's richest countries, with pharma giants like Roche and Novartis, banking and precision industry. It remains outside the EU but tied to it by bilateral treaties. Neutrality has been tested by sanctions on Russia. Glacier loss from climate change is visible across the Alps.
   baseline: >-
-    The seven-member Federal Council is shared among the four largest parties, and Guy Parmelin of
-    the Swiss People's Party holds the rotating presidency in 2026; in October he announced he
-    will leave the Federal Council at the end of the year, and parliament will elect a successor
-    in December. In 2025 the US imposed a 39
-    percent tariff on Swiss goods before a deal lowered it. On 14 June 2026 voters rejected, by
-    about 55 percent, the Swiss People's Party's initiative to cap the population at 10 million,
-    which would have endangered free movement with the EU as a new package of EU treaties heads
-    toward a national vote.
+    The seven-member Federal Council is shared among the four largest parties, and Guy Parmelin of the
+    Swiss People's Party (SVP) holds the rotating presidency in 2026. He leaves the Federal Council at
+    the end of the year, and on 20 November the SVP nominated two German-speaking national councillors,
+    Thomas Aeschi and Michael Graber, for parliament's vote on his successor on 9 December. In 2025 the
+    US imposed a 39 percent tariff on Swiss goods before a deal lowered it. On 14 June 2026 voters
+    rejected, by about 55 percent, the SVP's initiative to cap the population at 10 million, as a new
+    package of EU treaties heads toward a national vote.
   leaders: {state: "Federal Council, with Guy Parmelin as President of the Confederation for 2026", gov: "Federal Council of seven members"}
   power: >-
     A federal directorial republic. Parliament elects a seven-member Federal Council that governs
@@ -1048,6 +1056,7 @@ CHE:
     any law.
   story: election
   sources:
+    - {label: "SRF: SVP setzt Aeschi und Graber aufs Bundesratsticket", url: "https://www.srf.ch/news/schweiz/parmelin-nachfolge-svp-setzt-aeschi-und-graber-aufs-bundesratsticket"}
     - {label: "Anadolu: voters reject the population cap", url: "https://www.aa.com.tr/en/politics/nearly-55-swiss-voters-reject-10m-population-cap-initiative/3966646"}
     - {label: "Swissinfo: Switzerland's Parmelin will leave government at year-end", url: "https://www.swissinfo.ch/eng/switzerlands-parmelin-will-leave-government-at-year-end/92155648"}
     - {label: "The Peninsula: Swiss president to quit government", url: "https://www.thepeninsulaqatar.com/article/02/10/2026/swiss-president-to-quit-government"}

@@ -126,26 +126,28 @@ BRA:
   system: presidential
   story: election
   snapshot: >-
-    Lula came from behind to beat Flávio Bolsonaro in the 25 October 2026 runoff and win a record
-    fourth term, and Bolsonaro says he will not recognise the result.
+    Lula came from behind to beat Flávio Bolsonaro in the 25 October 2026 runoff and win a record fourth
+    term; Bolsonaro dropped his bid to annul the vote but left for the United States while under
+    investigation.
   tags: [Lula vs Bolsonaro, Amazon, Agribusiness giant, Football and carnival, Evangelical surge]
   culture: >-
     Brazil is the world's largest Portuguese-speaking country and its culture is a fusion of Indigenous, African and European roots, from samba and bossa nova to funk carioca and sertanejo. Carnival in Rio and Salvador is the world's biggest street party. Football, with five World Cup wins, is a national religion, and telenovelas shape national conversation.
   society: >-
     Brazil is a farm superpower in soy, beef, coffee and sugar, and home to most of the Amazon rainforest, whose deforestation has slowed and sped up with politics. Inequality is among the world's highest. Evangelical churches have grown fast and become a major political force on the right. Gangs like the PCC and Comando Vermelho control parts of major cities.
   update: >-
-    On 25 October Lula won the runoff with 51.8 percent to 48.2 percent for Flávio Bolsonaro, on
-    80.8 percent turnout, overturning his first-round deficit for a record fourth, non-consecutive
-    term that begins on 5 January 2027. Bolsonaro refused to concede, citing a last-minute extension
-    of voting hours. Despite a Supreme Court order to surrender his passports, he crossed into
-    Argentina by land on 27 October and flew to Miami on 28 October, after the US State Department
-    said it would issue visas to him and his family; he has petitioned to annul the result, while
-    his Liberal Party has accepted it.
-  update_date: 2026-10-28
+    Lula won the 25 October runoff with 51.8 percent to 48.2 percent for Flávio Bolsonaro, on 80.8
+    percent turnout, for a record fourth, non-consecutive term that begins on 5 January 2027. Bolsonaro
+    first refused to concede, then withdrew his request to annul the vote and said he would lead the
+    opposition; despite a Supreme Court order to surrender his passports, he left for the United States
+    in late October. On 18 November the Prosecutor General's office charged him before the Supreme Court
+    with criminal slander against Lula over a January post linking the president to drug trafficking.
+  update_date: 2026-11-21
   holders: >-
     President Luiz Inácio Lula da Silva (PT), re-elected on 25 October 2026 for a fourth term
     starting on 5 January 2027.
   sources_extra:
+    - {label: "El País: Bolsonaro backtracks and says he will serve as Lula's opposition", url: "https://english.elpais.com/international/2026-10-27/bolsonaro-backtracks-and-says-he-will-serve-as-lulas-opposition.html"}
+    - {label: "G1: PGR denuncia Flávio Bolsonaro por calúnia contra Lula", url: "https://g1.globo.com/politica/noticia/2026/11/18/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula.ghtml"}
     - {label: "Al Jazeera: takeaways from Lula's win", url: "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win"}
     - {label: "CNBC: Lula wins a fourth term", url: "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html"}
     - {label: "AP via PBS: Lula beats Bolsonaro in runoff", url: "https://www.pbs.org/newshour/world/brazil-votes-in-a-tense-lula-vs-bolsonaro-runoff-with-u-s-influence-over-latin-america-at-stake"}
@@ -201,13 +203,17 @@ COL:
   society: >-
     A 2016 peace deal disarmed the FARC guerrillas after 50 years of war, but dissident factions, the ELN and the Clan del Golfo cartel still fight over coca and mining areas. Colombia remains the world's largest cocaine producer. It has taken in nearly three million Venezuelans. Inequality and land ownership are long-running grievances.
   update: >-
-    After a former Cúcuta government secretary and would-be mayoral candidate was shot dead on 26
-    October and a bomb near the customs offices by the Venezuelan border crossing injured civilians and
-    police the next day, President De la Espriella on 29 October ordered a temporary military build-up
-    in Cúcuta, with reinforcements arriving from 3 November. On 14 October Colombia opened an embassy in
-    Jerusalem and restored its free trade agreement with Israel, reversing Petro's 2024 break.
-  update_date: 2026-11-03
+    On 19 November unions and opposition groups held a second national strike in three months against
+    the government's fiscal rescue bill, which had already dropped a plan to put VAT on basic foods; the
+    government counted 285 protest actions with about 55,000 people. In Cali, former president Gustavo
+    Petro called the government illegitimate and urged permanent mobilisation, and President De la
+    Espriella replied that he would not allow a coup and asked US authorities to investigate Petro.
+    Earlier, on 29 October, he ordered a military build-up in Cúcuta after a killing and a bombing near
+    the Venezuelan border.
+  update_date: 2026-11-21
   sources_extra:
+    - {label: "Infobae: De la Espriella respondió a declaraciones de Petro", url: "https://www.infobae.com/colombia/2026/11/20/de-la-espriella-respondio-a-declaraciones-de-petro-catalogadas-como-posible-incitacion-a-un-golpe-de-estado-este-gobierno-no-llego-al-poder-por-las-armas"}
+    - {label: "Colombia One: Colombia holds second strike against De la Espriella government in three months", url: "https://colombiaone.com/2026/11/19/colombia-second-strike-de-la-espriella-government"}
     - {label: "Al Arabiya: Colombia president orders military buildup in border city", url: "https://english.alarabiya.net/News/world/2026/10/30/colombia-president-orders-military-buildup-in-border-city"}
     - {label: "UPI: Colombia orders military intervention in Cucuta amid violence", url: "https://www.upi.com/Top_News/World-News/2026/10/30/latam-colombia-cucuta-military-intervention-violence/7391793377840"}
     - {label: "The City Paper Bogota: De la Espriella orders temporary militarization of Cucuta", url: "https://thecitypaperbogota.com/news/de-la-espriella-orders-temporary-militarization-of-cucuta/"}

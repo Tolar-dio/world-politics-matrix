@@ -82,6 +82,7 @@ threads:
       - {date: "2026-11-17", text: "Ukraine strikes the Crimean Bridge two nights running before the Shenzhen summit.", news: "2026-11-17 Ukraine strikes the Crimean Bridge"}
       - {date: "2026-11-19", text: "Putin rules out an energy and sea truce after a third bridge strike, as Europe's allies meet US envoys in Berlin.", news: "2026-11-19 Ukraine hits the Crimean Bridge"}
       - {date: "2026-11-20", text: "Russia's retaliatory barrage hits three Kyiv bridges and sends a missile into Poland.", news: "2026-11-20 Russia answers the Crimean Bridge"}
+      - {date: "2026-11-20", text: "European security advisers weigh Putin's invitation to Moscow as the Kremlin restates its prewar demands on NATO.", news: "2026-11-20 European security advisers weigh"}
 
   - id: gulf-realignment
     title: "The Gulf rearms and realigns"
@@ -93,8 +94,8 @@ threads:
       Pakistan and Turkey, Egyptian promises of support and British jets. These deals tie Pakistan's army and
       Turkey's arms industry to Gulf wars, and they could outlast this crisis.
     watch: >-
-      Whether the Houthis move into Dhubab and the ground over Bab al-Mandeb after the government pullback, whether
-      their offensive through Lahj reaches Aden, and whether Pakistan or Egypt send forces.
+      Whether the Houthis carry out their threat to hit Jeddah and other Saudi Red Sea ports after the coalition's
+      strike on Hodeidah, whether their offensive through Lahj reaches Aden, and whether Pakistan or Egypt send forces.
     links:
       - {from: YEM, to: SAU, label: "Houthi missiles and drones on Saudi cities; Saudi air strikes on Yemen"}
       - {from: SAU, to: PAK, label: "Mecca defence pact"}
@@ -113,6 +114,7 @@ threads:
       - {date: "2026-11-08", text: "Houthi missiles damage Aramco's tower in Riyadh.", news: "2026-11-08 Aramco's tower in Riyadh"}
       - {date: "2026-11-12", text: "Houthis open an offensive in Lahj aimed at the Mokha-Aden road.", news: "2026-11-12 Houthis open an offensive"}
       - {date: "2026-11-15", text: "Government forces pull back from Dhubab and the Bab al-Mandeb area to defend Aden.", news: "2026-11-15 Yemen's southern government forces pull back"}
+      - {date: "2026-11-20", text: "The coalition strikes Hodeidah port and the Houthis declare Saudi airspace unsafe and fire at Jazan and Riyadh.", news: "2026-11-20 The Saudi-led coalition strikes Hodeidah"}
 
   - id: horn-of-africa
     title: "The Horn of Africa's linked wars"

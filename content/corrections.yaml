@@ -11,6 +11,15 @@
 #     - {label: "Outlet: headline", url: "https://..."}
 
 corrections:
+  - date: "2026-11-21"
+    where: {type: country, id: BRA}
+    what: "Brazil's profile said Flávio Bolsonaro was still seeking to annul the 25 October runoff result"
+    was: "He has petitioned to annul the result, while his Liberal Party has accepted it."
+    now: "Bolsonaro first refused to concede, then withdrew his request to annul the vote and said he would lead the opposition."
+    why: "The 28 October update did not catch that he had dropped the annulment request on 26 October."
+    sources:
+      - {label: "El País: Bolsonaro backtracks and says he will serve as Lula's opposition", url: "https://english.elpais.com/international/2026-10-27/bolsonaro-backtracks-and-says-he-will-serve-as-lulas-opposition.html"}
+
   - date: "2026-11-20"
     where: {type: news, id: ""}
     what: "The 19 November item on the Trump-Xi-Putin meeting in Shenzhen said no joint statement was released"

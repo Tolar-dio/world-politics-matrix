@@ -305,12 +305,16 @@ SYR:
   system_note: A transitional system giving the interim president broad powers for five years.
   story: war
   snapshot: >-
-    Ahmed al-Sharaa's new government won sanctions relief from Washington but fought the Kurdish-led SDF in January before a deal on merging them into the state.
+    Ahmed al-Sharaa's new government won sanctions relief from Washington and fought the Kurdish-led SDF
+    in January; the SDF announced its dissolution in August and its units are due to be merged into the
+    state by the end of 2026.
   tags: [Post-Assad transition, Kurdish integration, Sanctions lifted, Sectarian violence]
   culture: >-
     Damascus and Aleppo are among the oldest continuously inhabited cities, and Syria's souks, mosques and Roman ruins at Palmyra testify to millennia of history. Syrian cuisine, from kibbeh to Aleppo pepper dishes, and its TV dramas were loved across the Arab world. Its mix of Sunni, Alawite, Christian, Druze and Kurdish communities makes sectarian relations central.
   society: >-
     The 2011 to 2024 civil war killed about half a million people and displaced half the population, and millions of refugees are weighing whether to return. Sanctions relief has opened the door to reconstruction. Massacres of Alawites on the coast in 2025 and fighting with Druze in Sweida exposed sectarian dangers in the new order.
+  sources_extra:
+    - {label: "Enab Baladi: Damascus-SDF integration due by year-end, what remains", url: "https://english.enabbaladi.net/archives/2026/11/damascus-sdf-integration-due-by-year-end-what-remains"}
 
 TUR:
   pop: 87.7

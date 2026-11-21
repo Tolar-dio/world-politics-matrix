@@ -167,14 +167,20 @@ CPV:
   religion: Catholic about 75%, Protestant minority
   system: semi-presidential
   snapshot: >-
-    An Atlantic island democracy with a long record of peaceful handovers; in May 2026 voters swapped governments again, bringing the PAICV back to power.
+    An Atlantic island democracy with a long record of peaceful handovers; in 2026 voters brought the
+    PAICV back to government and re-elected President Neves, though on a record low turnout.
   tags: [Island democracy, Morna music, Large diaspora, Tourism]
   culture: >-
     Cabo Verde's islands were uninhabited until the Portuguese settled them in the 15th century, and Kriolu, a Portuguese-based creole, grew out of the mix of settlers and enslaved West Africans. Morna, the melancholy song style made famous by Cesária Évora, the "barefoot diva", is on UNESCO's heritage list. Funaná and batuque are the faster, danced counterparts, once suppressed by the colonial authorities.
   society: >-
     More Cabo Verdeans live abroad, in the US, Portugal and elsewhere in Europe, than at home, and their remittances are vital. Tourism to Sal and Boa Vista beaches is the largest industry. Recurrent droughts and the lack of fresh water have shaped history, including deadly famines. The country scores well above the African average on press freedom and governance.
   baseline: >-
-    Cabo Verde has alternated power peacefully between its two main parties since 1991. Ulisses Correia e Silva of the centre-right MpD governed from 2016, while President José Maria Neves comes from the PAICV, the party of independence. In the 17 May 2026 legislative election the PAICV won 37 of 72 seats, and its leader, Francisco Carvalho, a former mayor of the capital, Praia, became prime minister.
+    Cabo Verde has alternated power peacefully between its two main parties since 1991. Ulisses Correia
+    e Silva of the centre-right MpD governed from 2016 until the 17 May 2026 legislative election, when
+    the PAICV won 37 of 72 seats and its leader, Francisco Carvalho, a former mayor of Praia, became
+    prime minister. On 15 November President José Maria Neves, from the PAICV, won a second five-year
+    term in the first round with 64 percent, against 31 percent for former justice minister Joana Rosa,
+    backed by the MpD, who conceded. More than two-thirds of registered voters stayed home, a record.
   leaders: {state: "President José Maria Neves, since 2021", gov: "Prime Minister Francisco Carvalho (PAICV), since 2026"}
   power: >-
     A semi-presidential republic. The prime minister, backed by a majority in the 72-seat National
@@ -182,6 +188,8 @@ CPV:
     veto. Power has alternated peacefully between the PAICV and MpD since 1991.
   story: election
   sources:
+    - {label: "AP: Cape Verde's president is re-elected for a second five-year term", url: "https://apnews.com/article/cape-verde-election-802ba8d137d2cb30f96eca659a4167f6"}
+    - {label: "France 24 (AFP): Cape Verde's President Jose Maria Neves re-elected", url: "https://www.france24.com/en/live-news/20261115-cape-verde-s-president-jose-maria-neves-re-elected-provisional-election-results"}
     - {label: "Wikipedia: 2026 parliamentary election", url: "https://en.wikipedia.org/wiki/2026_Cape_Verdean_parliamentary_election"}
 
 CMR:
@@ -198,8 +206,7 @@ CMR:
   baseline: >-
     Paul Biya, now 93, was sworn in for an eighth term after the October 2025 election, which
     officials said he won with about 54 percent; his former minister Issa Tchiroma Bakary claimed
-    victory, and protests were put down with deadly force. Tchiroma has since campaigned from
-    abroad, including a complaint against Biya under universal jurisdiction in Switzerland, where
+    victory, and protests were put down with deadly force. Tchiroma, in exile in The Gambia, has campaigned from abroad, including a complaint against Biya under universal jurisdiction in Switzerland, where
     the president spends long stays, and in October 2026 the authorities suspended his party. On 9
     November 2026 Biya called legislative and local elections for 7 February 2027 after two
     postponements; a vice president, a post restored in April, has yet to be named. The Anglophone
@@ -227,11 +234,13 @@ CAF:
   society: >-
     Despite diamonds, gold, timber and uranium, the Central African Republic ranks near the bottom of the UN's human development index. Armed groups have controlled large areas since the 2013 civil war, which pitted the mostly Muslim Séléka against Christian anti-balaka militias. Russian Wagner fighters, now under Moscow's Africa Corps, protect the government and have been accused of abuses.
   baseline: >-
-    Faustin-Archange Touadéra, president since 2016, pushed through a 2023 referendum that removed
-    term limits and won a third term in the December 2025 election, confirmed by the Constitutional
-    Court in January 2026, after leading opponents boycotted or were excluded. In March 2026 he went
-    to Moscow to finalise a security deal under which Russia's state-run Africa Corps replaces
-    Wagner, with Moscow reportedly wanting payment in cash. A UN peacekeeping mission remains.
+    Faustin-Archange Touadéra, president since 2016, pushed through a 2023 referendum that removed term
+    limits and won a third term in the December 2025 election, confirmed by the Constitutional Court in
+    January 2026, after leading opponents boycotted or were excluded. Russia's state-run Africa Corps
+    has replaced Wagner under a security deal finalised in Moscow in March 2026. On 12 November 2026 the
+    UN Security Council extended the MINUSCA peacekeeping mission for a year while cutting its troop
+    ceiling, and veteran opposition figure and former prime minister Nicolas Tiangaye died on 16
+    November.
   leaders: {state: "President Faustin-Archange Touadéra, since 2016", gov: "Prime Minister Félix Moloua"}
   power: >-
     A presidential republic. Since 2023 the president can serve unlimited seven-year terms and
@@ -239,6 +248,8 @@ CAF:
     peacekeepers.
   story: election
   sources:
+    - {label: "UN: Security Council extends mandate of stabilization mission in Central African Republic", url: "https://press.un.org/en/2026/sc16507.doc.htm"}
+    - {label: "HRW: Rights defender in Central African Republic dies", url: "https://www.hrw.org/news/2026/11/18/rights-defender-in-central-african-republic-dies"}
     - {label: "Al Jazeera: Touadéra wins third term", url: "https://www.aljazeera.com/news/2026/1/5/central-african-republics-touadera-wins-third-presidential-term"}
     - {label: "Connection Ivoirienne: Moscow security accord", url: "https://connectionivoirienne.net/2026/03/09/centrafrique-touadera-a-moscou-pour-finaliser-laccord-securitaire-avec-la-russie/"}
 
@@ -302,14 +313,17 @@ COD:
   society: >-
     Congo has vast reserves of cobalt, copper and coltan that power phones and electric cars, yet most people live on under $2 a day. Kinshasa has grown into a megacity of around 17 million. Fighting in the east has displaced several million people, and armed groups and soldiers alike have been accused of mass sexual violence. Artisanal miners, including children, dig much of the cobalt by hand.
   update: >-
-    The rebel front launched by former president Joseph Kabila on 12 October, the Front for the
-    Refoundation of the Nation (FRN), which grew out of the Rwanda-backed M23, opened an offensive
-    along National Road 3 on 7 November and took Bunyakiri, Bitale and Bulambika in South Kivu's
-    Kalehe territory, an army forward base on the supply route to Walikale; more than 160,000 people
-    fled, according to local civil society. A military court sentenced 66 soldiers to death on
-    6 November for abandoning positions. Doha talks with the rebels have stalled since FRN's creation.
-  update_date: 2026-11-11
+    The rebel front launched by former president Joseph Kabila in October, the Front for the
+    Refoundation of the Nation (FRN), took Bunyakiri, Bitale and Bulambika on National Road 3 in South
+    Kivu's Kalehe territory in early November, and on 11 November the UN sanctions committee added FRN
+    as another name for the AFC rebel alliance. Since 16 November the army and allied Wazalendo militias
+    have counter-attacked in Kalehe, with air strikes backed by Burundian troops near Minembwe, while
+    fighting has spread to Masisi and Walikale in North Kivu and RFI reports new displacement in Kalehe,
+    Kabare, Uvira and Fizi. The Doha talks remain stalled.
+  update_date: 2026-11-21
   sources_extra:
+    - {label: "RFI: En RDC, les combats entre l'armée et le FRN provoquent de nouveaux déplacements dans le Sud-Kivu", url: "https://www.rfi.fr/fr/afrique/20261121-en-rdc-les-combats-entre-l-arm%C3%A9e-et-le-frn-provoquent-de-nouveaux-d%C3%A9placements-de-population-dans-le-sud-kivu"}
+    - {label: "Al Jazeera: DR Congo's rival peace efforts fail to halt violence in the east", url: "https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east"}
     - {label: "RFI via AllAfrica: FRN offensive in South Kivu, several localities fall", url: "https://fr.allafrica.com/stories/202611100235.html"}
     - {label: "BBC: DR Congo sentences 66 soldiers to death", url: "https://www.bbc.com/news/articles/cmreye1q3dnjo"}
     - {label: "EWN (AFP): Kabila forms new force with M23", url: "https://www.ewn.co.za/2026/10/13/former-dr-congo-president-kabila-forms-new-force-with-m23-armed-group"}
@@ -998,7 +1012,8 @@ SEN:
   story: shock
   snapshot: >-
     Hidden debt of about $13 billion froze an IMF programme and split President Faye from his mentor
-    Ousmane Sonko, whom he fired as prime minister in May 2026 and who now runs parliament.
+    Ousmane Sonko, whom he fired as prime minister in May 2026 and whose party now blocks his budgets in
+    parliament.
   tags: [Sufi brotherhoods, Hidden debt crisis, New oil and gas, Teranga, Peaceful handovers]
   culture: >-
     Senegal's Sufi brotherhoods, especially the Mourides, shape daily life, and the annual Grand Magal pilgrimage to Touba draws millions. Teranga, a Wolof word for hospitality, is a national value. Mbalax music, made famous by Youssou N'Dour, and laamb wrestling, with stars as famous as footballers, are national passions. Dakar hosts the Biennale of contemporary African art.
@@ -1006,14 +1021,19 @@ SEN:
     Senegal has never had a coup and has seen three peaceful transfers of power. Oil and gas production began in 2024. Fishing communities have been hit by foreign trawlers, and many young people attempt the dangerous Atlantic crossing to the Canary Islands. Wolof is the everyday language, French the official one.
 
   update: >-
-    Since President Faye fired Ousmane Sonko as prime minister in May, Senegal has had a split
-    government: economist Ahmadou Al Aminou Lo is prime minister, while Sonko leads the ruling Pastef
-    and was elected speaker of the National Assembly on 26 May. In October the Pastef majority rejected
-    a revised budget that is key to a 2.2 billion dollar, 36-month IMF programme; on 27 October Finance
-    Minister Cheikh Diba asked lawmakers to reconsider, and Sonko agreed to send it back to committee.
-    Public debt stood at 132 percent of GDP at the end of 2024, according to the IMF.
-  update_date: 2026-11-01
+    The standoff between President Faye and Ousmane Sonko, the former prime minister who now leads
+    Pastef and chairs the National Assembly, has become a budget crisis. The Assembly, where Pastef
+    holds 130 of 165 seats, rejected the revised 2026 budget on 3 November and on 18 November voted down
+    the first part of the 2027 budget by 126 to 18, according to RFI, which blocks the rest of the bill.
+    EFE reports that Pastef expelled Faye and 31 other members on 17 November. On 19 November Faye put
+    the revised 2026 budget into force by decree under a constitutional deadline clause. Without an
+    adopted budget, a 2.2 billion dollar IMF programme agreed in September cannot go to the Fund's
+    board.
+  update_date: 2026-11-21
   sources_extra:
+    - {label: "CNBC Africa (Reuters): Senegal's president to push through 2026 budget changes as parliament impasse drags", url: "https://www.cnbcafrica.com/2026/senegal-president-implements-2026-budget-changes-by-decree-amid-impasse-with-parliament"}
+    - {label: "RFI: Sénégal, le projet de budget 2027 rejeté par les députés", url: "https://www.rfi.fr/fr/afrique/20261119-s%C3%A9n%C3%A9gal-le-projet-de-budget-2027-rejet%C3%A9-par-les-d%C3%A9put%C3%A9s"}
+    - {label: "Swissinfo (EFE): El presidente de Senegal aprueba por decreto presupuestos", url: "https://www.swissinfo.ch/spa/el-presidente-de-senegal-aprueba-por-decreto-presupuestos-entre-tensiones-con-su-exaliados/92411524"}
     - {label: "Africanews: Senegal's finance committee to review revised budget key to IMF deal", url: "https://www.africanews.com/amp/2026/10/28/senegals-finance-committee-to-review-revised-budget-key-to-imf-deal"}
     - {label: "Al Jazeera: Senegal's President Faye sacks PM Sonko and dissolves government", url: "https://www.aljazeera.com/news/2026/5/23/senegals-president-faye-sacks-pm-sonko-and-dissolves-government"}
 SYC:
@@ -1188,15 +1208,17 @@ TZA:
     Tanzania has long been among Africa's most peaceful countries. Tourism to Kilimanjaro, the Serengeti and Zanzibar, plus gold and farming, drive growth. Maasai communities have been evicted from Ngorongoro to make way for conservation and hunting, drawing international criticism.
 
   update: >-
-    On 6 November the High Court in Dar es Salaam cleared opposition leader Tundu Lissu of treason,
-    which can carry the death penalty, but convicted him of incitement over calls for electoral reform
-    and sentenced him to four years in jail; his Chadema party says he will appeal. A year after the
-    October 2025 election killings no one has been held to account, and Commonwealth deadlines for
-    Lissu's release and reforms passed without sanctions. Vice President Emmanuel Nchimbi resigned in
-    August after reportedly disagreeing with President Samia over the crackdown and was replaced by
+    On 6 November the High Court cleared opposition leader Tundu Lissu of treason but jailed him for
+    four years for incitement; his request for bail was not granted and he has filed notice of appeal.
+    On 16 November President Samia met party leaders to propose a reconciliation and mediation
+    commission to prepare constitutional changes, but Lissu's Chadema stayed away. A year after the
+    October 2025 election killings no one has been held to account. Vice President Emmanuel Nchimbi
+    resigned in August after reportedly disagreeing with Samia over the crackdown and was replaced by
     Deogratius Ndejembi.
-  update_date: 2026-11-06
+  update_date: 2026-11-21
   sources_extra:
+    - {label: "The Citizen: Samia proposes reconciliation commission to steer constitutional reform talks", url: "https://www.thecitizen.co.tz/tanzania/news/national/samia-proposes-reconciliation-commission-to-steer-constitutional-reform-talks-5672984"}
+    - {label: "The Chanzo: Samia opens reconciliation talks, but CHADEMA stays away", url: "https://thechanzo.com/2026/11/17/samia-opens-reconciliation-talks-but-chadema-stays-away"}
     - {label: "The Chanzo: Ndejembi sworn in as Tanzania's new vice president", url: "https://thechanzo.com/2026/08/29/ndejembi-sworn-in-as-tanzanias-new-vice-president/"}
     - {label: "Africanews: Tanzania's political crisis deepens after VP resignation", url: "https://www.africanews.com/amp/2026/08/27/tanzanias-political-crisis-deepens-after-vp-resignation/"}
     - {label: "Courthouse News (AFP): A year on, Tanzanians mourn election massacres", url: "https://www.courthousenews.com/a-year-on-tanzanians-mourn-election-massacres-in-state-of-terror/"}
