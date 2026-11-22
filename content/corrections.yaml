@@ -11,6 +11,16 @@
 #     - {label: "Outlet: headline", url: "https://..."}
 
 corrections:
+  - date: "2026-11-22"
+    where: {type: country, id: GNB}
+    what: "Guinea-Bissau's profile and the upcoming-events list still showed elections on 6 December 2026 after they were postponed"
+    was: "The junta has scheduled new elections for 6 December 2026."
+    now: "On 8 October the electoral commission said conditions were not met for the 6 December elections and the prime minister was reported to announce a postponement; no new date has been set, and the upcoming entry has been removed."
+    why: "The 8 October postponement was missed by the daily runs and only caught in the rotation check."
+    sources:
+      - {label: "eNCA (AFP): G.Bissau moves towards postponement of December general election", url: "https://www.enca.com/news/gbissau-moves-towards-postponement-december-general-election"}
+      - {label: "TheNEWS: Guinea-Bissau postpones December 2026 transition elections", url: "https://thenewsnigeria.com.ng/2026/10/08/guinea-bissau-postpones-december-2026-transition-elections/"}
+
   - date: "2026-11-21"
     where: {type: country, id: BRA}
     what: "Brazil's profile said Flávio Bolsonaro was still seeking to annul the 25 October runoff result"

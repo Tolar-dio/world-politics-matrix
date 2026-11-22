@@ -1,5 +1,126 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-21'
+  countries: [RUS, FIN, UKR, EST]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Drones set a Russian military cargo ship on fire in the Gulf of Finland, and Finland says Ukraine was probably behind it"
+  summary: "The Sparta II, a Russian-flagged cargo ship owned by the defence ministry's shipping arm Oboronlogistika and under US sanctions, was hit by two drones on the morning of 21 November west of Russia's Gogland island while sailing from St Petersburg to Kaliningrad, Russian and Finnish officials said. It caught fire, drifted into Finnish waters south of Loviisa and anchored, and its 16 crew were taken off to another Russian ship. A Finnish military spokesman said Ukraine was likely behind the attack, Prime Minister Petteri Orpo said 'Ukraine has the right to fight against the aggressor', and Finland informed NATO, restricted air and sea traffic in the eastern gulf and said a Russian helicopter may have entered its airspace during the rescue; Kyiv has not commented. It matters because the long-range strike war has now reached the Baltic sea lane that supplies Kaliningrad, a few miles from NATO waters."
+  sources:
+  - {label: "France 24 (AFP, Reuters): Drone attack sets Russian cargo ship ablaze in Gulf of Finland", url: "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland"}
+  - {label: "CNA (Reuters): Russian cargo ship hit by drones in Baltic, Finland tightens security", url: "https://www.channelnewsasia.com/world/russian-cargo-ship-hit-drones-in-baltic-finland-tightens-security-6571981"}
+  - {label: "ABC News Australia: Russian cargo ship burns in Baltic Sea after drone strike, crew evacuates", url: "https://www.abc.net.au/news/2026-11-22/russian-cargo-ship-burns-in-baltic-sea-after-drone-strike/107413782"}
+  - {label: "ERR News: Russian cargo ship on fire in Gulf of Finland after reported drone strike", url: "https://news.err.ee/1610202715/russian-cargo-ship-on-fire-in-gulf-of-finland-after-reported-drone-strike"}
+  - {label: "Euronews: Russian cargo ship struck by drones in Gulf of Finland", url: "http://www.euronews.com/2026/11/21/russian-cargo-ship-struck-by-drone-in-gulf-of-finland-finnish-authorities-say"}
+- date: '2026-11-21'
+  countries: [IRN, BHR, USA]
+  category: military
+  conflict: iran-war-2026
+  headline: "Iran fires missiles and drones at US bases in Bahrain, and Bahrain says a civilian industrial site was set on fire"
+  summary: "Iran's Revolutionary Guards said on 21 November they launched a combined missile and drone attack on US positions at the Riffa and Awali bases in Bahrain, home of the US Fifth Fleet, in retaliation for what they called violations of Iranian airspace by US drones, and claimed to have hit two Patriot radars. Bahrain said its air defences intercepted several attacks but that one hit a civilian industrial facility, causing a fire with no injuries initially reported, and on 22 November it asked the UN Security Council to act, rejecting the Guards' claim that the site was military. Central Command did not comment on the Guards' account, and earlier denied an Iranian claim to have damaged a US F-16. It matters because this is at least Iran's fifth attack on Bahrain this month, with Trump saying he will not decide on new strikes until January."
+  sources:
+  - {label: "Reuters: Bahrain says Iranian attack hits industrial facility as air defences intercept attacks", url: "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp?oc=5"}
+  - {label: "Euronews: Iran attacks US bases in Bahrain as its tankers get ready to break the US blockade", url: "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade"}
+  - {label: "Indian Express: US-Iran war live updates, 22 November", url: "https://indianexpress.com/article/world/us-iran-war-live-updates-tehran-fresh-strike-us-radars-trump-israel-attack-india-oil-prices-shipping-strait-of-hormuz-latest-10973180/"}
+- date: '2026-11-21'
+  countries: [IRN, OMN]
+  category: military
+  conflict: strait-of-hormuz-shipping-war
+  headline: "Tankers are hit by projectiles in three incidents off Oman's Khasab in under a day as attacks in the Strait of Hormuz intensify"
+  summary: "UKMTO reported a tanker struck on the port bow and set on fire 8 nautical miles north of Khasab on 20 November, then two more incidents on the morning of 21 November: a tanker hit on the stern 11 nautical miles north of Khasab and another hit in the engine room 17 nautical miles east, though it was not clear whether those two were the same ship. No casualties were reported. Iran's navy said a tanker caught fire after hitting a mine in a restricted area east of the strait, which Reuters could not verify, and Iranian state media said the military carried out its most intense operations yet to stop vessels. It matters because Iran is enforcing its closure of the strait ship by ship, a week after three other tankers were reported burning."
+  sources:
+  - {label: "US News (Reuters): UK maritime agency reports two tanker incidents near Oman; Iran says vessel hit mine east of Hormuz", url: "https://www.usnews.com/news/world/articles/2026-11-21/tanker-hit-by-unknown-projectile-near-omans-khasab-ukmto-says"}
+  - {label: "UKMTO: Warning 214-26", url: "https://www.ukmto.org/-/media/ukmto/products/20261120-ukmto_warning_214-26.pdf"}
+  - {label: "UKMTO: Warning 216-26", url: "https://www.ukmto.org/-/media/ukmto/products/20261121-ukmto_warning_216-26.pdf?rev=98c26e7c459246539923ed000abcdf27"}
+  - {label: "Jerusalem Post (Reuters): Two tankers hit by unidentified projectiles in Strait of Hormuz off Oman's Khasab", url: "http://www.jpost.com/middle-east/article-915628"}
+- date: '2026-11-20'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "A Russian ballistic missile strike on Kryvyi Rih kills a 7-year-old boy and a paramedic and wounds about 60"
+  summary: "Missiles hit the centre of Zelensky's home city on the night of 20 November, killing a 7-year-old boy and a 20-year-old paramedic, city chief Oleksandr Vilkul said, in what local officials called a repeat strike on rescuers. Regional governor Oleksandr Hanzha put the wounded at 60, including six children, and said about 25 apartment buildings, a hospital and schools were damaged. Overnight Russia launched three ballistic missiles and 148 drones at Ukraine, the air force said. It matters because it came hours after Russia's huge barrage on Kyiv's bridges, as Moscow keeps up its promised retaliation for the Crimean Bridge strikes."
+  sources:
+  - {label: "ABC News (AP): Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores", url: "https://abcnews.com/International/wireStory/ballistic-missile-attack-zelenskyys-hometown-central-ukraine-kills-138340723"}
+  - {label: "Kyiv Independent: Russian attacks kill at least 2, injure 83 across Ukraine, as strikes devastate Kryvyi Rih", url: "https://kyivindependent.com/russian-attacks-kill-at-least-2-injure-83-across-ukraine-as-strikes-devastate-kryvyi-rih/"}
+  - {label: "CNN: Russian 'triple-tap' attack in Ukraine kills emergency worker and 7-year-old", url: "https://www.cnn.com/2026/11/21/europe/kryvyi-rih-ukraine-russia-attack-intl"}
+- date: '2026-11-20'
+  countries: [DNK, RUS, UKR, USA]
+  category: diplomatic
+  headline: "Denmark expels Russia's defence attache, saying Russian intelligence plotted to kill a Ukrainian-American rapper near Copenhagen"
+  summary: "Denmark's intelligence service PET said on 20 November that Russian intelligence planned and initiated a plot to kill a Ukrainian-American, named by Danish media as the rapper Kyivstoner, at a concert north of Copenhagen on 25 September, using members of a banned Danish gang; police stopped three men in a car near the venue minutes before the show, and two of them deny charges of attempted murder and helping a foreign intelligence service. Foreign Minister Lars Lokke Rasmussen gave the defence attache seven days to leave, saying 'we have exposed you', and Anadolu reports Denmark will stop issuing non-essential visas to Russians and press Schengen partners to follow, while keeping diplomatic ties. It matters because it adds a planned killing to the sabotage, arson and drone incidents Europe blames on Moscow, a day after Estonia said it would close its road border."
+  sources:
+  - {label: "The Guardian: Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper", url: "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing"}
+  - {label: "BBC: Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper", url: "https://www.bbc.com/news/articles/cmde1lj4yjxno"}
+  - {label: "Kyiv Post: Denmark expels Russian defense attache over foiled plot to assassinate Ukrainian rapper", url: "https://www.kyivpost.com/post/90775"}
+  - {label: "Anadolu: Morning Briefing, 21 November 2026", url: "https://aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676"}
+- date: '2026-11-20'
+  countries: [IRQ, IRN, USA]
+  category: political
+  conflict: iraq-militias-us-isis
+  headline: "Iraqi forces enter Kataib Hezbollah's stronghold of Jurf al-Sakhar for the first time in more than a decade, under a deal to avoid a fight"
+  summary: "Army, federal police and energy police units, with two Popular Mobilisation Forces units, deployed in the town southwest of Baghdad on 20 November after Prime Minister Ali al-Zaidi accused the Iran-aligned militia of smuggling state oil worth hundreds of millions of dollars, which it denies. Under the compromise, reportedly helped by a visit from Iran's Quds Force chief Esmail Qaani, Kataib Hezbollah's three brigades are to leave within a month; on 21 November the government said the first battalion had begun withdrawing, referred the smuggling case to the courts, and reopened the al-Fadhiliya overpass to civilians after almost 12 years, though armed members were still seen in parts of the area. It matters because it is the first real test of Zaidi's pledge to bring militia weapons under state control, a core US demand."
+  sources:
+  - {label: "Al Arabiya (AFP): Iraqi forces enter Iran-backed group stronghold", url: "http://english.alarabiya.net/News/middle-east/2026/11/20/iraqi-security-forces-to-deploy-in-iranbacked-militia-stronghold-security-officials-say"}
+  - {label: "France 24 (Reuters): Iraqi security forces deploy in Hezbollah stronghold under compromise deal", url: "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal"}
+  - {label: "Asharq Al-Awsat: Iraq refers oil smuggling case to judiciary as security forces deploy in Jurf al-Sakhar", url: "https://english.aawsat.com/arab-world/5344017-iraq-refers-oil-smuggling-case-judiciary-security-forces-deploy-jurf-al-sakhar"}
+  good: true
+- date: '2026-11-20'
+  countries: [MEX, USA]
+  category: military
+  conflict: mexico-cartel-war
+  headline: "Mexican special forces capture 'Chapo Isidro', one of the FBI's ten most wanted, in a raid that leaves 11 dead in Sinaloa"
+  summary: "Army and National Guard special forces seized Fausto Isidro Meza Flores, the 44-year-old leader of the Beltran Leyva organisation, in Guasave on the night of 20 November, along with his cousin and second-in-command and his brother-in-law and financial operator, Mexico's defence ministry said, crediting intelligence cooperation with the United States. Seven suspected gunmen and four soldiers were killed as his men resisted, eight people were arrested, gunfire halted a baseball game, and burning roadblocks went up across northern Sinaloa. The US Justice Department, which has charged him with narcoterrorism and drug trafficking, said a US task force supported the operation. It matters because it removes an ally of the Mayos faction in Sinaloa's two-year cartel war, days after Sheinbaum met Trump."
+  sources:
+  - {label: "France 24 (AFP): Mexico captures drug cartel boss 'El Chapo Isidro' after deadly firefight", url: "https://www.france24.com/en/americas/20261121-mexico-captures-drug-cartel-boss-el-chapo-isidro-after-deadly-firefight"}
+  - {label: "AOL (Reuters): Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests", url: "https://www.aol.com/articles/mexico-captures-top-drug-lord-144952000.html"}
+  - {label: "US Justice Department: Senior leader of the Sinaloa Cartel and one of FBI's Ten Most Wanted fugitives arrested in Mexico", url: "https://www.justice.gov/opa/pr/senior-leader-sinaloa-cartel-and-one-fbis-ten-most-wanted-fugitives-arrested-mexico"}
+- date: '2026-11-21'
+  countries: [ISR]
+  category: political
+  headline: "Eisenkot invites Netanyahu's Likud to 'marathon' coalition talks, while threatening a minority government if they fail"
+  summary: "Gadi Eisenkot's Yashar party said on 21 November it had asked Likud's negotiators to a series of talks starting on 22 November, to form 'the broadest possible government', after Eisenkot said the day before he would put a minority national emergency government to a Knesset vote if talks with Likud and the ultra-Orthodox parties failed. Likud set conditions for a unity government, including an end to 'boycotts' of Netanyahu and no Arab parties, while Naftali Bennett called for a 'Zionist unity government headed by Eisenkot' without Netanyahu. Eisenkot's mandate runs to 6 December and can be extended by up to 14 days. It matters because the October election left Netanyahu's bloc on 53 seats and Eisenkot's on 48, so whoever brings in the swing parties decides who governs."
+  sources:
+  - {label: "Euronews (AFP): Gadi Eisenkot invites Netanyahu's Likud party for 'marathon' coalition talks", url: "http://www.euronews.com/2026/11/22/gadi-eisenkot-invites-netanyahus-likud-party-for-marathon-coalition-talks"}
+  - {label: "Arab News (AFP): Eisenkot invites Netanyahu's party for Israeli coalition talks", url: "http://www.arabnews.com/middle-east/eisenkot-invites-netanyahus-party-for-israeli-coalition-talks-3013421"}
+  - {label: "Jerusalem Post: Eisenkot's Yashar party plans minority government vote before December 6", url: "http://www.jpost.com/israel-news/politics-and-diplomacy/article-915581"}
+- date: '2026-11-21'
+  countries: [UKR, USA, RUS]
+  category: diplomatic
+  conflict: russia-ukraine-war
+  headline: "Zelensky says the US wants a new round of three-way talks with Russia before Christmas, possibly at the Miami G20"
+  summary: "Zelensky told reporters on 21 November that Washington wants the next Ukraine-US-Russia round held before Christmas and that he agreed, with security advisers first meeting to settle an agenda and expected outcome. He said a leaders' meeting could take place at the G20 summit in Miami on 14 and 15 December, but that Ukraine had not yet been invited, and that Europe, represented by Britain, France, Germany, Italy, Poland, the EU and NATO, must take part. It matters because Washington is pushing for a deal at the G20 while Russia is still answering Ukraine's Crimean Bridge strikes with record barrages."
+  sources:
+  - {label: "Washington Post: Zelensky suggests new round of peace talks could happen during G-20 summit", url: "https://www.washingtonpost.com/world/2026/11/21/zelensky-suggests-new-round-peace-talks-could-happen-during-g-20-summit"}
+  - {label: "UNITED24 Media: Zelenskyy says Trump-Putin-Ukraine talks possible at G20, but Kyiv still awaits invite", url: "https://united24media.com/war-in-ukraine/zelenskyy-says-trump-putin-ukraine-talks-possible-at-g20-but-kyiv-still-awaits-invite-24593"}
+  - {label: "Ukrinform: Next round of peace talks depends on US, Zelensky says", url: "https://www.ukrinform.net/rubric-polytics/4187172-next-round-of-peace-talks-depends-on-us-zelensky-says.html"}
+- date: '2026-11-21'
+  countries: [MLI, RUS]
+  category: military
+  conflict: sahel-jihadist-insurgency
+  headline: "JNIM attacks army positions in Niono and a Russian Africa Corps post in central Mali"
+  summary: "Al-Qaeda-linked JNIM fighters on motorbikes, on foot and in vehicles attacked the main army positions in Niono, an important town in the Segou region, on 21 November, RFI reports citing witnesses, leaving burned-out vehicles in a military camp; JNIM claimed the attacks and a heavy toll, which the army disputes. In the same region a roadside bomb destroyed an armoured vehicle at an Africa Corps position. The army said air strikes northeast of Niono that day killed four fighters on motorbikes and destroyed a pickup. It matters because the dry-season fighting is now reaching towns on the irrigated farmland that feeds much of Mali."
+  sources:
+  - {label: "RFI: Mali, des jihadistes du JNIM attaquent l'armee et ses suppletifs dans la region de Segou", url: "https://www.rfi.fr/fr/afrique/20261122-mali-des-jihadistes-du-jnim-attaquent-l-arm%C3%A9e-et-ses-suppl%C3%A9tifs-dans-la-r%C3%A9gion-de-s%C3%A9gou"}
+  - {label: "Benin Web TV: Mali army announces new strikes near Kidal and Niono", url: "https://beninwebtv.bj/en/mali-army-announces-new-strikes-near-kidal-and-niono/"}
+  confidence: reported
+- date: '2026-11-20'
+  countries: [ZAF]
+  category: political
+  headline: "Phumzile Mlambo-Ngcuka, South Africa's first woman deputy president and former head of UN Women, dies at 71"
+  summary: "Mlambo-Ngcuka died on the evening of 20 November after complications from a medical procedure about two weeks earlier, her family said. She was deputy president under Thabo Mbeki from 2005 to 2008, after serving as minerals and energy minister, and led UN Women from 2013 to 2021. President Ramaphosa called her a patriot who 'flew the flag of women' around the world, UN Secretary-General Guterres paid tribute, and the government announced a state funeral on 28 November in Middledrift, Eastern Cape. It matters because she was one of the ANC's most prominent women and a leading global voice for gender equality, who had been pressing for a woman to succeed Guterres."
+  sources:
+  - {label: "SAnews: South Africa mourns former Deputy President Phumzile Mlambo-Ngcuka", url: "https://www.sanews.gov.za/south-africa/south-africa-mourns-former-deputy-president-phumzile-mlambo-ngcuka"}
+  - {label: "The Presidency: President Ramaphosa confirms State Funeral Category 2 for former Deputy President Phumzile Mlambo-Ngcuka", url: "https://www.presidency.gov.za/president-ramaphosa-confirms-state-funeral-category-2-former-deputy-president-phumzile-mlambo"}
+  - {label: "Mail & Guardian: Global and local tributes pour in for Mlambo-Ngcuka", url: "https://mg.co.za/news/south-africa/2026-11-21-tributes-pour-in-for-mlambo-ngcuka/"}
+- date: '2026-11-18'
+  countries: [VEN, USA]
+  category: diplomatic
+  headline: "Hegseth visits Caracas and signs a deal with acting president Delcy Rodriguez to restore US-Venezuelan military ties"
+  summary: "On an unannounced visit on 18 November, US Defense Secretary Pete Hegseth met Rodriguez at the Miraflores palace and signed an agreement on joint training and exercises, intelligence sharing and defence cooperation, aimed especially at drug trafficking, according to AP and DW. Hegseth praised her 'close cooperation' and boasted of the January raid that seized Nicolas Maduro, calling Venezuela's turn from threat to security partner a transformation; few details of the deal were released. It matters because Washington is binding itself to Maduro's former deputy, who has set no date for elections, after decades of hostility."
+  sources:
+  - {label: "OC Register (AP): US and Venezuela sign a deal to reestablish military ties, Hegseth says in visit to Caracas", url: "https://www.ocregister.com/2026/11/18/hegseth-venezuela-visit/"}
+  - {label: "DW: US Pentagon chief Hegseth signs military deal in Venezuela, meets Delcy Rodriguez after Maduro's ouster", url: "https://www.dw.com/en/us-pentagon-chief-hegseth-signs-military-deal-in-venezuela/a-79985607"}
+  - {label: "The Guardian: Hegseth uses Venezuela visit to boast of Maduro's capture by US military", url: "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military"}
 - date: '2026-11-20'
   countries: [SAU, YEM]
   category: military
@@ -3752,6 +3873,15 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2026-11-28'
+  countries: [ZAF]
+  event: "State funeral for former deputy president Phumzile Mlambo-Ngcuka in Middledrift, Eastern Cape"
+- date: '2026-12-06'
+  countries: [ISR]
+  event: "Gadi Eisenkot's mandate to form a government expires, unless President Herzog extends it by up to 14 days"
+- date: '2026-12-14'
+  countries: [USA, UKR, RUS]
+  event: "G20 leaders' summit in Miami (14 to 15 December), where Zelensky says a three-way meeting with Trump and Putin could be held"
 - date: '2026-12-01'
   countries: [EST, RUS]
   event: "Estonia closes all five road border crossings with Russia for at least six months"
@@ -3949,9 +4079,6 @@ upcoming:
 - date: '2026-12-05'
   countries: [GMB]
   event: "Gambian presidential election; Adama Barrow seeks a third term"
-- date: '2026-12-06'
-  countries: [GNB]
-  event: "Guinea-Bissau presidential and legislative elections set by the military junta after the November 2025 coup"
 - date: '2026-12-27'
   countries: [SRB]
   event: Deadline for Serbia's early presidential election triggered by Vucic's resignation
