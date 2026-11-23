@@ -11,6 +11,16 @@
 #     - {label: "Outlet: headline", url: "https://..."}
 
 corrections:
+  - date: "2026-11-23"
+    where: {type: country, id: LVA}
+    what: "Latvia's profile gave the United List 42 seats in the October 2026 election; the certified result is 41"
+    was: "Prime Minister Andris Kulbergs's United List won a record 42 of 100 seats in the October 2026 election"
+    now: "Prime Minister Andris Kulbergs's United List won a record 41 of 100 seats in the October 2026 election and now governs with the nationalist National Alliance"
+    why: "The figure was probably taken from an election-night projection and not checked against the Central Election Commission's final result of 16 October."
+    sources:
+      - {label: "CVK: 15th Saeima election results", url: "https://dati.cvk.lv/SV2026/en/velesanu-rezultati"}
+      - {label: "LSM: Election results confirmed in Latvia", url: "https://eng.lsm.lv/article/politics/election/16.10.2026-election-results-confirmed-in-latvia.a667913"}
+
   - date: "2026-11-22"
     where: {type: country, id: GNB}
     what: "Guinea-Bissau's profile and the upcoming-events list still showed elections on 6 December 2026 after they were postponed"

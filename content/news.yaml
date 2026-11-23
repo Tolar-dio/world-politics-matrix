@@ -1,5 +1,114 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-22'
+  countries: [UKR, RUS, LBY]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Ukrainian sea drones sink the Russian corvette Merkury in Libya's Benghazi naval base and hit a second ship offshore"
+  summary: "Suspected Ukrainian sea drones struck the Merkury, a Russian navy corvette that had stopped at Benghazi to refuel on its way back to Russia, on 22 November, Libyan officials told AP; satellite images analysed by Vantor showed it largely sunk beside a burned pier, and 10 people, Russian and Libyan, suffered minor injuries. A drone boat later hit a commercial ship off Benghazi, whose crew was rescued, and Libyan forces said they destroyed many more drone boats. On 23 November Zelensky and Ukraine's SBU said Ukrainian naval drones sank the Merkury, and the SBU said seven drones were used and also hit the Russian support ship Angara, while eastern Libya's government of Osama Hammad filed a complaint at the UN and called for an investigation into suspicions that the drone boats were launched from western Libya. It matters because Ukraine's naval war has now reached Russia's Mediterranean foothold, a day after drones hit a Russian cargo ship in the Gulf of Finland."
+  sources:
+  - {label: "AP: A suspected drone strike hits a Russian ship in Libya", url: "https://apnews.com/article/libya-russia-vessel-drone-benghazi-59f6f304f3053c69c8cc890138a94d1b"}
+  - {label: "AnewZ (Reuters): Russian warship sinks after suspected drone attack in Libya", url: "https://anewz.tv/world/world-news/27094/russian-warship-sinks-in-suspected-libya-drone-attack/news"}
+  - {label: "Kyiv Post: Ukraine sinks Russian corvette, hits cargo ship off Libya, SBU says", url: "https://www.kyivpost.com/post/90913"}
+  - {label: "CBS News: Zelenskyy says Ukraine hit 2 Russian ships off Libya, and 1 sank", url: "https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya"}
+  - {label: "Anadolu: Libyan eastern-based naval forces say situation under control after Benghazi port attacks", url: "http://www.aa.com.tr/en/middle-east/libyan-eastern-based-naval-forces-say-situation-under-control-after-benghazi-port-attacks/4133874"}
+- date: '2026-11-22'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "A Russian drone brings down part of an apartment block in Dymer near Kyiv, killing at least 11, as strikes on the Kyiv region kill 15"
+  summary: "A drone hit a five-storey building in Dymer, about 45 km north of Kyiv, early on 22 November, destroying a section from the ground to the top floor; by the morning of 23 November regional chief Tymur Tkachenko put the death toll at 11, including a teenager; rescuers pulled out a 79-year-old woman alive, and a seven-year-old boy who had spent 14 hours under the rubble. A strike on a supermarket in Vyshneve killed three and one person died in Bila Tserkva, and the Kyiv region declared 23 November a day of mourning. Zelensky said Russia had fired about 2,700 drones, 1,460 glide bombs and 165 missiles at Ukraine that week, many of them North Korean ballistic missiles, and called US delays in authorising Patriot interceptors already paid for by allies 'difficult to understand'. It matters because air defence shortages are turning Russia's retaliation for the Crimean Bridge strikes into mass-casualty attacks on homes."
+  sources:
+  - {label: "Euronews: Russian air strikes kill at least 15 people across Kyiv region, Ukraine says", url: "https://www.euronews.com/2026/11/23/russian-air-strikes-kill-at-least-15-people-across-kyiv-region-ukraine-says"}
+  - {label: "Reuters: At least 4 killed in Russian drone attacks on Kyiv region", url: "https://www.reuters.com/world/least-14-people-missing-after-russian-drone-hit-building-kyiv-region-zelenskiy-2026-11-22"}
+  - {label: "Ukrinform: Death toll from Russian strike on apartment building in Kyiv region's Dymer rises to 11", url: "https://www.ukrinform.net/rubric-ato/4187563-death-toll-from-russian-strike-on-apartment-building-in-kyiv-regions-dymer-rises-to-11.html"}
+  - {label: "Kyiv Independent: Zelensky says US delays on Patriot missiles are 'difficult to understand'", url: "https://kyivindependent.com/zelensky-says-us-delays-on-patriot-missiles-are-difficult-to-understand-as-russia-fires-165-missiles-in-a-week"}
+  - {label: "NV: Russian drone destroys section of apartment building near Kyiv", url: "https://english.nv.ua/nation/russian-drone-destroys-section-of-dymer-apartment-building-killing-three-near-kyiv-50661487.html"}
+- date: '2026-11-22'
+  countries: [IRN, BHR, SAU, KWT, QAT, USA]
+  category: military
+  conflict: strait-of-hormuz-shipping-war
+  headline: "Iran says two supertankers hit its mines near Hormuz, as Gulf states condemn its attack on Bahrain"
+  summary: "The Revolutionary Guards navy said on 22 November that two supertankers 'exploded and stopped' after hitting mines north of Ghanem Island and east of the Strait of Hormuz because they used unauthorised routes, naming no ships, while UKMTO reported an incident 'involving a tanker and military forces' in the Gulf of Oman; it was not clear if these were the same events. The Guards also claimed to have shot down a US MQ-1 drone east of the strait, which Central Command did not comment on. Bahrain said two people were wounded in Iran's attack on an industrial site the day before, and Saudi Arabia, Kuwait and Qatar condemned it. It matters because November has already seen at least 22 attacks reported to UKMTO, the second-highest monthly figure of the war by CNN's count, while Iran says the US blockade of its ports must be broken."
+  sources:
+  - {label: "ABC News: Iran live updates, Tehran says Strait of Hormuz will be safe if its demands are met", url: "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands?id=138369648"}
+  - {label: "Anadolu: Iran says 2 supertankers struck naval mines near Strait of Hormuz", url: "https://aa.com.tr/en/middle-east/iran-says-2-supertankers-struck-naval-mines-near-strait-of-hormuz/4133736"}
+  - {label: "The Hindu (AFP): Iran strike wounds two in Bahrain, Riyadh denounces 'criminal' attacks", url: "https://www.thehindu.com/news/international/bahrain-says-iran-struck-industrial-site-as-tankers-hit-in-hormuz/article71730497.ece"}
+  - {label: "CNN: Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began", url: "https://www.cnn.com/2026/11/22/middleeast/hormuz-attacks-highest-levels-iran-war-intl"}
+  - {label: "Euronews: Tracking site says Iranian tanker reportedly sailing through Strait of Hormuz does not exist", url: "https://www.euronews.com/2026/11/22/tracking-site-says-iranian-tanker-reportedly-sailing-through-strait-of-hormuz-does-not-exi"}
+- date: '2026-11-22'
+  countries: [TUR, AUS, SAU, RUS]
+  category: diplomatic
+  headline: "The COP31 climate summit in Antalya ends without a final agreement after the EU rejects a text that leaves out fossil fuels"
+  summary: "After two days of overtime, making it the longest UN climate conference on record, COP31 president Murat Kurum said on 22 November there was 'no agreement' on the proposed Antalya Pact cover decision, so it was not adopted. The EU, Britain, Norway, Panama, the Marshall Islands, Vanuatu and Belize objected because the final draft named no fossil fuels and dropped a target of at least $120 billion a year in adaptation finance by 2035; the EU accused 'some oil states' of hijacking the talks, while Saudi Arabia and Russia defended their positions. Delegates did adopt some narrower technical decisions, including on the just transition, and UN Secretary-General Guterres called the result 'deeply disappointing'. It matters because it is the first time since Copenhagen in 2009 that a COP has ended without its main political deal, as the world heads past 1.5C of warming."
+  sources:
+  - {label: "UN News: COP31 ends without climate pact as UN chief warns there is 'no ambiguity in the science'", url: "https://news.un.org/en/story/2026/11/1168855"}
+  - {label: "ABC News: UN climate conference ends without its signature agreement as countries clash over fossil fuels and finance", url: "https://abcnews.com/Technology/climate-conference-ends-signature-agreement-countries-clash-fossil/story?id=138359179"}
+  - {label: "RFI: Cop31 climate talks collapse as EU rejects deal that omits fossil fuels", url: "https://www.rfi.fr/en/international/20261122-cop31-climate-talks-collapse-as-eu-rejects-deal-that-omits-fossil-fuels"}
+  - {label: "BBC: COP31 climate talks end with no deal after fossil fuels row", url: "https://www.bbc.com/news/live/crly5w901n20t"}
+  - {label: "BBC: COP31 ends without a deal", url: "https://www.bbc.com/news/articles/cqwy06zrd26lo"}
+- date: '2026-11-22'
+  countries: [SDN, ETH]
+  category: military
+  conflict: sudan-saf-rsf
+  headline: "Drone strikes on Khartoum kill four and damage a UN building, and the army says the drones came from Ethiopia"
+  summary: "A swarm of drones targeted Khartoum's airport and a military area in Omdurman between about 2am and 4:30am on 22 November; air defences shot several down, but strikes on homes killed a 10-year-old boy in Jebel Aulia and three members of one family in northern Omdurman, Sudan Tribune reported. UN humanitarian coordinator Denise Brown said a UN building was damaged while staff were inside, the first hit on a UN compound in the capital since the army retook it, and US envoy Massad Boulos said the drones were reportedly launched by the RSF. An army source told AFP they took off from Bahir Dar airport in Ethiopia, which Addis Ababa has denied in the past. It matters because it brings the drone war back to the capital where residents have been returning, and deepens the risk of open conflict between Sudan and Ethiopia."
+  sources:
+  - {label: "Al Jazeera: Drone attacks kill four near Sudan's capital, damage UN building", url: "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum"}
+  - {label: "ReliefWeb: Statement by the UN Resident and Humanitarian Coordinator in Sudan on drone strikes in Khartoum", url: "https://reliefweb.int/report/sudan/statement-united-nations-resident-and-humanitarian-coordinator-sudan-denise-brown-drone-strikes-khartoum"}
+  - {label: "France 24 (AFP): Soudan, frappes de drones sur des habitations et un batiment de l'ONU a Khartoum, l'Ethiopie mise en cause", url: "https://www.france24.com/fr/info-en-continu/20261122-soudan-frappes-de-drones-sur-des-habitations-et-un-b%C3%A2timent-de-l-onu-%C3%A0-khartoum-l-%C3%A9thiopie-mise-en-cause"}
+  - {label: "Sudan Tribune: Drone strikes kill four in Khartoum, damage U.N. compound", url: "https://sudantribune.com/article/321547"}
+  - {label: "Addis Standard: UN, US condemn Khartoum drone strikes; Sudan renews allegations of attacks launched from Ethiopia", url: "https://addisstandard.com/un-us-condemn-khartoum-drone-strikes-sudan-renews-allegations-of-attacks-launched-from-ethiopia"}
+- date: '2026-11-22'
+  countries: [KEN, COD, COG, TGO]
+  category: diplomatic
+  conflict: eastern-drc-m23-war
+  headline: "Kenya and Congo agree to work toward restoring ambassadors and ending a three-year rift over the M23 rebels"
+  summary: "Presidents William Ruto and Felix Tshisekedi agreed at a summit in Oyo, Republic of Congo, on 22 November to work toward fully restoring diplomatic relations, including returning ambassadors, reviving their Joint Grand Commission and cooperating on trade, security and Ebola, according to a joint communique and statements from both leaders. The talks were hosted by Denis Sassou Nguesso and mediated by Togo's Faure Gnassingbe, the African Union's mediator for eastern Congo. Kinshasa recalled its ambassador in December 2023 after the M23-linked Congo River Alliance was launched in Nairobi, and ties worsened when Kenya named a consul for rebel-held Goma in 2025. It matters because Mombasa is a main gateway for eastern Congo's trade, and it removes one source of regional friction as Kinshasa fights Kabila's new rebel front."
+  sources:
+  - {label: "Xinhua: Kenya, DR Congo agree to fully restore diplomatic ties", url: "https://english.news.cn/africa/20261123/395007b12bf34324bd7465e1d96ad176/c.html"}
+  - {label: "Anadolu: DR Congo, Kenya move to restore diplomatic ties after years of tensions", url: "https://aa.com.tr/en/africa/dr-congo-kenya-move-to-restore-diplomatic-ties-after-years-of-tensions/4133898"}
+  - {label: "The Star (Kenya): Ruto joins regional leaders at Quadripartite Summit in Congo", url: "https://the-star.co.ke/news/2026-11-22-ruto-joins-regional-leaders-at-quadripartite-summit-in-congo"}
+  good: true
+- date: '2026-11-22'
+  countries: [COD]
+  category: humanitarian
+  headline: "WHO says Ebola responders in Ituri have been trapped in a hospital maternity ward for more than a day by heavy fighting"
+  summary: "WHO chief Tedros Adhanom Ghebreyesus said on 22 November that heavy fighting since the day before near a hospital in Ituri, close to where the Ebola outbreak began, had forced health workers and response partners to shelter in its maternity ward for more than 24 hours, and that WHO was working through humanitarian contacts with the armed groups to get them out. He said attacks across eastern Congo had increased since late October and were seriously hurting the response; he did not say who was fighting. It matters because the Bundibugyo Ebola outbreak, with no approved vaccine, has now killed 5,678 people among 11,613 confirmed cases, the worst in Congo's history, and Ituri is one of its two centres."
+  sources:
+  - {label: "US News (Reuters): WHO chief says fighting near Congo Ebola outbreak area disrupts response efforts", url: "https://www.usnews.com/news/world/articles/2026-11-22/who-chief-says-fighting-near-congo-ebola-outbreak-area-disrupts-response-efforts"}
+  - {label: "RTHK (AFP): WHO chief pleads for peace in Ebola-hit DR Congo", url: "https://news.rthk.hk/rthk/en/component/k2/1878875-20261123.htm"}
+  - {label: "Tedros Adhanom Ghebreyesus on X", url: "https://x.com/DrTedros/status/2124555044557041855"}
+- date: '2026-11-22'
+  countries: [ISR, PSE]
+  category: political
+  conflict: west-bank-violence
+  headline: "Settlers torch cars in four West Bank villages, and Eisenkot calls it 'Jewish terrorism' as coalition talks with Likud end without a deal"
+  summary: "Suspected Jewish extremists set about a dozen vehicles on fire and sprayed 'revenge' graffiti overnight into 22 November in Kafr Malik, Deir Abu Mashal and Deir al-Sudan near Ramallah and in At-Tuwani in the South Hebron Hills, Wafa and the Jerusalem Post reported. Gadi Eisenkot, who holds the mandate to form a government, called it 'Jewish terrorism in every sense of the word' and blamed ministers Ben-Gvir and Smotrich; Ben-Gvir accused him of courting Arab parties. The same day Eisenkot's Yashar and Netanyahu's Likud held four hours of talks in Herzliya; they agreed to meet again but, Israel's Channel 12 reported, stayed split over who would lead and whether Ben-Gvir would sit in government, and a third round was set for 23 November. It matters because Eisenkot's 6 December deadline is approaching while settler violence becomes a dividing line in coalition building."
+  sources:
+  - {label: "Jerusalem Post: Vehicles set ablaze, revenge graffiti sprayed in four Jewish extremist attacks across West Bank", url: "https://www.jpost.com/middle-east/article-915667"}
+  - {label: "Al Jazeera: Israeli settlers attack several Palestinian villages in occupied West Bank", url: "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank"}
+  - {label: "Al Jazeera: Netanyahu's Likud, Eisenkot's Yashar end coalition talks without deal", url: "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal"}
+  - {label: "BGNES (AFP): Eisenkot and Netanyahu's parties to resume government talks", url: "http://www.bgnes.com/politics/eisenkot-and-netanyahu-s-parties-to-resume-government-talks"}
+- date: '2026-11-22'
+  countries: [COL]
+  category: political
+  headline: "Colombia's government asks X to suspend former president Petro's account after he urged people to force President De la Espriella out"
+  summary: "The information technology ministry wrote to X on 22 November asking it to suspend @petrogustavo for possible incitement to violence, citing a 21 November post in which Gustavo Petro wrote 'I ask the people of Colombia to demand Abelardo's resignation now' over a clip of his 19 November speech in Cali calling for action 'in the streets and immediately'. The ministry noted that Abelardo de la Espriella was elected on 21 June and that the Council of State had ordered Petro to remove posts alleging electoral fraud; X had not responded. It matters because Colombia's new right-wing government and its leftist predecessor are now openly contesting each other's legitimacy after a national strike, raising fears of unrest."
+  sources:
+  - {label: "MinTIC: MinTIC solicito a X suspender la cuenta @petrogustavo", url: "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/442584:MinTIC-solicito-a-X-suspender-la-cuenta-petrogustavo"}
+  - {label: "DW: Gobierno de Colombia pide a X suspender la cuenta de Petro", url: "https://www.dw.com/es/gobierno-de-colombia-pide-a-la-red-social-x-suspender-cuenta-del-expresidente-gustavo-petro/a-80015551"}
+  - {label: "Infobae: Gobierno De la Espriella pide cancelar en X la cuenta de Gustavo Petro", url: "https://www.infobae.com/colombia/2026/11/22/gobierno-de-la-espriella-pide-cancelar-en-x-la-cuenta-de-gustavo-petro-por-presunta-incitacion-a-la-violencia"}
+- date: '2026-11-17'
+  countries: [LVA]
+  category: political
+  headline: "Latvia's parliament approves Andris Kulbergs's second government, a two-party coalition with a one-seat majority"
+  summary: "The Saeima voted 57 to 34 late on 17 November to approve a cabinet of Kulbergs's United List and the nationalist National Alliance, which hold 51 of the 100 seats, with some members of the opposition Latvia First voting in favour. Four of the 13 ministries went to nonpartisan figures, including career diplomat Girts Jaunzems at the foreign ministry, and the coalition pledged 2.875 billion euros in savings by 2030, a zero-based 2027 budget, continued support for Ukraine and severing economic ties with Russia and Belarus. It matters because it gives Latvia a more cohesive government after years of coalition crises, though its narrow majority leaves it leaning on oligarch Ainars Slesers's party."
+  sources:
+  - {label: "LSM: New Latvian government finally approved by parliament", url: "https://eng.lsm.lv/article/politics/saeima/17.11.2026-new-latvian-government-finally-approved-by-parliament.a672391/"}
+  - {label: "Cabinet of Ministers: Andris Kulbergs' second government takes office", url: "https://www.mk.gov.lv/en/article/andris-kulbergs-second-government-takes-office"}
+  - {label: "OSW: Latvia, new government, same prime minister. Kulbergs's second cabinet", url: "https://www.osw.waw.pl/en/publikacje/analyses/2026-11-20/latvia-new-government-same-prime-minister-kulbergss-second-cabinet"}
+  - {label: "LSM: Kulbergs' government declaration promises three stages of reforms", url: "https://eng.lsm.lv/article/politics/politics/17.11.2026-kulbergs-government-declaration-promises-three-stages-of-reforms.a672354"}
 - date: '2026-11-21'
   countries: [RUS, FIN, UKR, EST]
   category: military
@@ -3873,6 +3982,15 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2026-12-09'
+  countries: [IDN]
+  event: "Indonesia's People's Consultative Assembly elects a new vice president from two candidates Prabowo is due to submit by 25 November"
+- date: '2026-11-23'
+  countries: [UKR, LVA]
+  event: "UN Security Council high-level briefing on Ukraine's energy infrastructure and Black Sea food routes, chaired by Latvian President Edgars Rinkevics"
+- date: '2027-11-08'
+  countries: [ETH]
+  event: "COP32 UN climate conference opens in Addis Ababa, Ethiopia (8 to 19 November)"
 - date: '2026-11-28'
   countries: [ZAF]
   event: "State funeral for former deputy president Phumzile Mlambo-Ngcuka in Middledrift, Eastern Cape"

@@ -78,6 +78,8 @@ IRQ:
     - {label: "CTP-ISW: Iran Update, 26 October 2026", url: "https://www.criticalthreats.org/analysis/iran-update-october-26-2026"}
     - {label: "Long War Journal: Militia disarmament dispute marks Iraq's post-US withdrawal era", url: "https://www.longwarjournal.org/archives/2026/10/us-flag-trampling-militia-disarmament-dispute-mark-iraqs-post-us-withdrawal-era.php"}
     - {label: "The National: Iraq's al-Zaidi dismisses intelligence chief in shake-up of team", url: "https://www.thenationalnews.com/news/mena/2026/10/27/iraqs-al-zaidi-dismisses-intelligence-chief-in-shake-up-of-team/"}
+    - {label: "France 24 (Reuters): Iraqi security forces deploy in Hezbollah stronghold under compromise deal", url: "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal"}
+    - {label: "Asharq Al-Awsat: Iraq refers oil smuggling case to judiciary as security forces deploy in Jurf al-Sakhar", url: "https://english.aawsat.com/arab-world/5344017-iraq-refers-oil-smuggling-case-judiciary-security-forces-deploy-jurf-al-sakhar"}
   update: >-
     US forces completed their withdrawal from Iraq on 30 September, and the government has given
     Iran-backed armed factions until mid-2027 to hand their weapons to the state. On 7 October the
@@ -86,7 +88,11 @@ IRQ:
     Israel, and Israeli media appeared to confirm a strike. On 26 October al-Zaidi dismissed
     intelligence chief Hamid al-Shatri, his chief of staff and 69 advisers in a shake-up of his
     team, as a dispute over the closure of the al-Sheeb crossing with Iran stirred protest in Maysan.
-  update_date: 2026-11-04
+    On 20 November army and police units entered Kataib Hezbollah's stronghold of Jurf al-Sakhar for
+    the first time in more than a decade, after al-Zaidi accused the militia of smuggling state oil;
+    under a deal its brigades are to leave within a month, and the first battalion began withdrawing
+    on 21 November.
+  update_date: 2026-11-23
 
 ISR:
   pop: 10.0

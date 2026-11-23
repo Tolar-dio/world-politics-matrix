@@ -191,6 +191,7 @@ threads:
       - {from: UGA, to: COD, label: "Ugandan troops fight the ADF in Ituri"}
       - {from: BDI, to: COD, label: "Burundian troops support Kinshasa"}
       - {from: USA, to: COD, label: "Washington brokered the Congo-Rwanda accords"}
+      - {from: KEN, to: COD, label: "Kenya and Congo agreed in November 2026 to restore ambassadors after a rift over the M23"}
     conflicts: [eastern-drc-m23-war, drc-adf-insurgency]
     match:
       countries: [COD, RWA]

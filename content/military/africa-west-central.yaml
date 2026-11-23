@@ -1037,7 +1037,7 @@ conflicts:
   type: civil-war
   intensity: high
   status: active
-  updated: '2026-11-11'
+  updated: '2026-11-23'
   started: 2025-01-27 (M23 capture of Goma; M23 resurgence began in late 2021)
   countries:
   - COD
@@ -1088,7 +1088,7 @@ conflicts:
 
 
     From mid-August a government offensive with contractors pushed on Minembwe; on 17 Sept FRN/Twirwaneho fighters ambushed Vectus Global contractors near Mulima, wounding ex-Green Beret Tim Kennedy and killing a New Zealander. In September FARDC and Wazalendo made notable gains in southern Masisi (Kazinga, a hill near Kibabi, the Ufamandu villages) while the RP529 and RP1030 axes changed hands repeatedly. Burundian and Rwandan troops exchanged fire across the Kagera River on 5 Sept. On 12 Oct Kabila launched the FRN in Goma; the same week FRN fought a ten-day battle in the Kaziba and Walungu highlands, displacing 12,000+ households, and announced plans to march on Uvira and Kalemie.'
-  situation: 'M23/FRN controls Goma, Bukavu, Rutshuru, most of Masisi and Kalehe, the Rubaya mines and the Walungu-Kamanyola area, while the government holds Uvira, the Ruzizi Plain, Walikale and the Beni-Butembo axis. On the night of 6 to 7 Nov 2026 FRN opened an offensive along National Road 3 (Bukavu-Walikale-Kisangani) and took the Bunyakiri area of Kalehe, where FARDC had a forward command post and supply point, along with Bitale and Bulambika; FARDC sources told RFI a counterattack is being prepared and the army says it still holds Mubugu and Hombo-Sud, while Kalehe civil society puts the advance at about 60 km and says more than 160,000 people have fled. Other active fronts: southern Masisi near Ngungu and Rubaya, the RP529 and RP1030 axes, the Kaziba-Walungu highlands toward Kamanyola, and the Minembwe highlands. A Goma military court sentenced 66 FARDC soldiers to death on 6 Nov for fleeing in Walikale. FRN''s creation has stalled the Doha talks.'
+  situation: 'M23/FRN controls Goma, Bukavu, Rutshuru, most of Masisi and Kalehe, the Rubaya mines and the Walungu-Kamanyola area, while the government holds Uvira, the Ruzizi Plain, Walikale and the Beni-Butembo axis. On the night of 6 to 7 Nov 2026 FRN opened an offensive along National Road 3 (Bukavu-Walikale-Kisangani) and took the Bunyakiri area of Kalehe, where FARDC had a forward command post and supply point, along with Bitale and Bulambika; FARDC sources told RFI a counterattack is being prepared and the army says it still holds Mubugu and Hombo-Sud, while Kalehe civil society puts the advance at about 60 km and says more than 160,000 people have fled. Other active fronts: southern Masisi near Ngungu and Rubaya, the RP529 and RP1030 axes, the Kaziba-Walungu highlands toward Kamanyola, and the Minembwe highlands. A Goma military court sentenced 66 FARDC soldiers to death on 6 Nov for fleeing in Walikale. FRN''s creation has stalled the Doha talks. On 22 November Kenya and Congo agreed at a summit in Oyo, mediated by the AU''s Faure Gnassingbe, to work toward restoring ambassadors, easing a rift that began when the M23-linked alliance was launched in Nairobi in 2023 (Xinhua, Anadolu).'
   technical:
   - 'M23/ARC force generation: Tchanzu graduations of 9,350 (Oct 2025), 7,532 (Feb 2026) and 9,318 (about 20 July 2026); Rumangabo graduations of 7,437 (Sept 2025) and 1,518 special forces (Mar 2026) (KT Press, citing ceremony figures).'
   - UN Group of Experts (June 2026) estimated about 30,000 M23 combatants, including former FARDC, police and militia members.
@@ -1195,6 +1195,8 @@ conflicts:
     event: Goma garrison military court, sitting in Walikale, sentences 66 FARDC soldiers to death for cowardice and mutiny.
   - date: '2026-11-08'
     event: FRN offensive on National Road 3 takes Bunyakiri, Bitale and Bulambika in Kalehe; more than 160,000 displaced (RFI).
+  - date: '2026-11-22'
+    event: Kenya and Congo agree at a summit in Oyo, Republic of Congo, to work toward restoring ambassadors, easing the rift that began when the M23-linked alliance was launched in Nairobi in December 2023 (Xinhua, Anadolu).
   outlook: Watch whether FRN attacks toward Uvira and the Ruzizi Plain, whether the late-October Doha meeting and a December round in Tanzania happen, whether Washington follows its sanctions with further pressure on Rwanda after the missed mid-July withdrawal expectation, the Burundi-Rwanda border, and the impact of the Ebola outbreak on operations in North Kivu.
   sources:
   - &id042
