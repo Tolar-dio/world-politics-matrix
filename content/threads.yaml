@@ -325,6 +325,7 @@ threads:
       - {from: PRK, to: KOR, label: "Missile tests at a record pace"}
       - {from: PRK, to: JPN, label: "Ballistic missiles toward the Sea of Japan"}
       - {from: USA, to: CHN, label: "Tariff truce and summitry"}
+      - {from: SLB, to: CHN, label: "Security pact to lapse in April 2027"}
     conflicts: [taiwan-strait, south-china-sea-philippines-china, korean-peninsula]
     match:
       countries: [CHN, TWN, PRK, PHL]
@@ -333,6 +334,7 @@ threads:
       - {date: "2026-10-18", text: "Taiwan drives away 16 Chinese vessels near Pratas.", news: "2026-10-18 Taiwan drives away"}
       - {date: "2026-10-29", text: "North Korea fires about ten ballistic missiles from near Wonsan.", news: "2026-10-29 North Korea fires about 10"}
       - {date: "2026-11-09", text: "China extends its pause on tariffs against US firms.", news: "2026-11-09 China extends its pause"}
+      - {date: "2026-11-24", text: "Solomon Islands tells China it will not renew their 2022 security pact.", news: "2026-11-24 Solomon Islands tells China"}
 
   - id: pakistan-two-fronts
     title: "Pakistan's war on two fronts"

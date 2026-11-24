@@ -137,8 +137,8 @@ BEL:
   system_note: A federal state divided between Dutch-speaking Flanders and French-speaking Wallonia.
   story: unrest
   snapshot: >-
-    After a year of general strikes against pension and indexation cuts, King Philippe refused Bart De
-    Wever's November 2026 resignation and sent his five-party coalition back to the budget talks.
+    After a year of general strikes against pension and indexation cuts, Bart De Wever's five-party
+    coalition faces a year-end deadline to agree a budget or fall.
   tags: [General strikes, Language divide, EU and NATO capital, Comics and chocolate]
   culture: >-
     Belgium is split between Dutch-speaking Flanders, French-speaking Wallonia and bilingual Brussels, with a small German-speaking community. It gave the world Tintin, the Smurfs, René Magritte, Art Nouveau architecture, and a beer culture that is UNESCO-listed. Cycling, especially the Tour of Flanders, is a religion in Flanders.
@@ -146,15 +146,19 @@ BEL:
     Brussels hosts the EU institutions and NATO. Politics is fragmented along language lines, and forming governments can take more than a year. The economy is rich but carries high public debt, which De Wever's coalition is trying to cut. Flemish nationalism has grown, and Wallonia has struggled since its heavy industry declined.
   update: >-
     Prime Minister Bart De Wever offered his resignation on 2 November after his five-party coalition
-    (N-VA, MR, Vooruit, CD&V, Les Engagés) failed to agree about 10 billion euros of savings for the
-    2027 budget: Vooruit, CD&V and Les Engagés wanted the wealthiest to pay more, while N-VA and MR
-    rejected new taxes. After consulting the five party leaders, King Philippe refused the resignation
-    on 6 November and asked De Wever to resume talks immediately; the palace said all five had committed
-    to compromise, and De Wever reports back on 16 November. Accepting it could have led to snap
-    elections. Belgium's debt is forecast at about 110 percent of GDP, and student protests and union
-    action days continue.
-  update_date: 2026-11-06
+    (N-VA, MR, Vooruit, CD&V, Les Engagés) failed to agree about 10 billion euros of savings by 2029;
+    King Philippe refused it on 6 November and sent him back to the talks, then gave him more time again
+    on 16 and 23 November. Four parties now back his budget plan, but the Flemish socialists of Vooruit
+    reject it, demanding more from the wealthiest and fewer cuts to pensions and healthcare. On 23
+    November, as unions held their 11th national strike against the government, De Wever said that
+    without a deal by the end of the year, when emergency monthly budgets begin, his government would
+    in effect fall, which could lead to snap elections. The European Commission forecasts the deficit
+    rising to 5.5 percent of GDP in 2027 and debt to 113 percent.
+  update_date: 2026-11-23
   sources_extra:
+    - {label: "Brussels Times: No budget deal, no government, De Wever issues year-end ultimatum", url: "https://www.brusselstimes.com/2419381/no-budget-deal-no-government-de-wever-issues-year-end-ultimatum"}
+    - {label: "Xinhua: Belgian king regrets lack of progress in budget talks, urges PM to press on", url: "https://english.news.cn/20261123/143ec8fd9ce942fb9283a1d40a0872f4/c.html"}
+    - {label: "Euronews: Belgian king grants PM De Wever more time to agree new budget", url: "https://www.euronews.com/2026/11/16/belgian-king-grants-pm-de-wever-more-time-to-agree-new-budget"}
     - {label: "AP via WTOP: Belgium's king rejects prime minister's resignation, tells coalition to resume budget talks", url: "https://wtop.com/world/2026/11/belgiums-king-rejects-prime-ministers-resignation-tells-coalition-to-resume-budget-talks"}
     - {label: "Politico Europe: Belgian king refuses Bart De Wever's resignation", url: "https://www.politico.eu/article/king-philippe-refuses-prime-minister-bart-de-wever-resignation/"}
     - label: "ABC News (AP): Belgian PM quits after budget talks fail as king mulls whether to accept resignation"

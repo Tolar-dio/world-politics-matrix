@@ -1,5 +1,130 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-24'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russian strikes on Zaporizhzhia kill two and injure at least 30, and the death toll from the Dymer drone strike rises to 12"
+  summary: "Russian strikes hit Zaporizhzhia overnight into 24 November, killing two people and injuring at least 30, including a baby, a six-year-old boy and a 16-year-old girl, regional officials said; a house was destroyed and a five-storey building partly destroyed, and UA.News reported guided bombs hit residential areas. Russia launched 96 drones overnight, 64 of them jet-powered, of which the air force said 73 were downed or jammed, with hits at 13 locations, including substations in Zhytomyr and Rivne regions, rail in Chernihiv region and gas infrastructure in Kirovohrad region. In Dymer, a 79-year-old woman pulled alive from the rubble on 23 November died in hospital, the twelfth death from the 22 November strike. It matters because Russia is keeping up its strikes on cities and the grid as winter sets in, while Ukraine waits on US approval for Patriot interceptors."
+  sources:
+  - {label: "Ukrainska Pravda: Russian forces attack Zaporizhzhia, killing two people and injuring 30", url: "https://www.pravda.com.ua/eng/news/2026/11/24/8064321/"}
+  - {label: "Ukrainska Pravda: Ukrainian air defences down 73 Russian drones overnight, strikes recorded at 13 locations", url: "https://www.pravda.com.ua/eng/news/2026/11/24/8064334/"}
+  - {label: "Ukrainska Pravda: Russian strike on Dymer claims 12 lives as woman rescued from under rubble dies in hospital", url: "https://www.pravda.com.ua/eng/news/2026/11/24/8064333/"}
+  - {label: "UA.News: Russia attacked 11 regions of Ukraine, two people were killed in Zaporizhzhia", url: "https://ua.news/en/war-vs-rf/foto-rosiia-atakuvala-11-oblastei-ukrayini-u-zaporizhzhi-zaginuli-dvoie-liudei"}
+- date: '2026-11-24'
+  countries: [POL, RUS, UKR]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "A Russian drone briefly enters Polish airspace during an attack on western Ukraine, and Warsaw says it was deliberate"
+  summary: "A Russian drone crossed into Poland near Dorohusk in Lublin province during the night of 23 to 24 November, Poland's Operational Command said; it was cleared to shoot it down, but held fire once the drone turned back east because of the risk to civilians. Deputy Defence Minister Pawel Zalewski told RMF24 the drone carried cameras and could strike, and that Poland assumed the incursion was deliberate. It came days after Russian missiles fell on Polish territory on 20 November, and NATO has said it will send an AWACS early-warning aircraft to Poland. It matters because repeated violations are testing how NATO's eastern members respond without escalating."
+  sources:
+  - {label: "US News (Reuters): Russian unmanned aerial vehicle briefly violated Polish airspace, Polish armed forces say", url: "https://www.usnews.com/news/world/articles/2026-11-23/russian-unmanned-aerial-vehicle-briefly-violated-polish-airspace-polish-armed-forces-say"}
+  - {label: "Ukrinform: Russian drone enters Polish airspace during attack on Ukraine", url: "https://www.ukrinform.net/rubric-ato/4187891-russian-drone-enters-polish-airspace-during-attack-on-ukraine.html"}
+  - {label: "Ukrainska Pravda: Polish Defence Ministry believes Russia deliberately sent drone into Polish airspace", url: "https://www.pravda.com.ua/eng/news/2026/11/24/8064344/"}
+- date: '2026-11-24'
+  countries: [UKR, USA]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Hegseth has not approved about 60 Patriot interceptors already allocated to Ukraine, the Financial Times reports"
+  summary: "US Defense Secretary Pete Hegseth has yet to sign off on the transfer of about 60 Patriot interceptors that Washington had already agreed to supply, including PAC-3 missiles due between September and December and about 20 older PAC-2s, some held in European arsenals and paid for by Kyiv's allies, the FT reported on 24 November, citing people familiar with the matter. It said a separate effort to let Ukraine produce its own Patriot interceptors had also stalled at the Pentagon, which told the paper there had been no change in policy. Reuters could not verify the report. It matters because Zelensky has called the delays 'difficult to understand' as Russia fires record numbers of missiles and jet drones at Ukrainian cities."
+  sources:
+  - {label: "US News (Reuters): US defense chief has yet to approve Patriot missiles already allocated to Ukraine, FT reports", url: "https://www.usnews.com/news/world/articles/2026-11-24/us-defense-chief-has-yet-to-approve-patriot-missiles-already-allocated-to-ukraine-ft-reports"}
+  - {label: "Asharq Al-Awsat: Report says US defense chief has yet to approve Patriot missiles already allocated to Ukraine", url: "https://english.aawsat.com/world/5345025-report-us-defense-chief-has-yet-approve-patriot-missiles-already-allocated-ukraine"}
+  confidence: reported
+- date: '2026-11-24'
+  countries: [SLB, CHN, AUS]
+  category: diplomatic
+  headline: "Solomon Islands tells China it will not renew their 2022 security pact, as it prepares to sign a treaty with Australia"
+  summary: "Prime Minister Matthew Wale's government has informed Beijing that the security agreement signed in 2022, which lets Solomon Islands call in Chinese police and troops and allows Chinese navy stopovers, will lapse when its five-year term ends in April, the Sydney Morning Herald reported and ABC News confirmed through sources on 24 November. Wale flew to Canberra the same day with 15 cabinet ministers to sign a wide-ranging treaty with Anthony Albanese on 25 November that would make Australia the country's main security partner. China's foreign ministry said its cooperation with Pacific islands targets no third party, while opposition leader Manasseh Sogavare, who signed the pact, warned against dropping it. It matters because the deal was Beijing's biggest security foothold in the South Pacific."
+  sources:
+  - {label: "Sydney Morning Herald: Solomon Islands to terminate 2022 security agreement with China", url: "https://www.smh.com.au/politics/federal/solomon-islands-scraps-security-agreement-with-china-in-triumph-for-australia-20261124-p61gp4.html"}
+  - {label: "ABC News: Solomon Islands scraps China security pact in 'massive win' for Australia", url: "https://www.abc.net.au/news/2026-11-24/china-solomon-islands-security-pact-australia/107421976"}
+  - {label: "Solomon Star: PM Wale Canberra-bound to sign Australia-Solomon Islands treaty", url: "https://www.solomonstarnews.com/pm-wale-canberra-bound-to-sign-aust-si-treaty/"}
+  - {label: "Lianhe Zaobao: Solomon Islands plans to end China pact; Beijing says cooperation should not target third parties", url: "https://www.zaobao.com.sg/en/news/china/solomon-islands-plans-end-china-pact-and-turn-australia-beijing-says-cooperation-should-not-target"}
+  confidence: reported
+- date: '2026-11-24'
+  countries: [PSE, ISR]
+  category: military
+  conflict: israel-hamas-gaza
+  headline: "Israeli strikes kill a UN worker and police officers in Gaza as attacks continue despite the ceasefire"
+  summary: "UNRWA said on 23 November that one of its staff, Adel al-Helo, was killed in an Israeli strike, one of at least three people killed in Gaza that day, Al Jazeera reported. On 24 November medics said an Israeli strike on a police post in Khan Younis killed three people, two of them police officers according to the Hamas-run interior ministry, and another strike near the Netzarim corridor killed three more; Israel's military told Reuters it struck fighters in both places. At least 1,600 Palestinians and five Israeli soldiers have been killed since the October 2025 ceasefire, by each side's count, and Israeli troops now hold about two-thirds of the strip. It matters because the truce is eroding while Hamas's disarmament remains unresolved."
+  sources:
+  - {label: "Al Jazeera: Israeli strikes kill at least three, including UNRWA worker, in Gaza", url: "https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza"}
+  - {label: "Asharq Al-Awsat (Reuters): Israeli airstrikes kill at least six Palestinians in Gaza, medics say", url: "https://english.aawsat.com/arab-world/5344967-israeli-airstrikes-kill-least-six-palestinians-gaza-medics-say"}
+- date: '2026-11-23'
+  countries: [IRN, USA, QAT, OMN]
+  category: military
+  conflict: strait-of-hormuz-shipping-war
+  headline: "Iran's army chief orders Hormuz closed 'further day by day', as the Guards claim three tankers under US escort hit mines"
+  summary: "Armed forces commander Maj. Gen. Amir Hatami told senior commanders on 23 November that until Iran's 'seven conditions' are met the strait must be 'closed further day by day', and warned that any new US attack would bring blows 'without geographical limitation'; foreign ministry spokesman Esmaeil Baghaei called the US blockade an 'act of crime' a day after Trump said Iranian tankers trying to break it would go 'to the bottom of the sea'. Late that day the Guards' navy said three tankers on unauthorised routes caught fire after hitting mines despite what it called extensive US air escort, naming no ships; the Joint Maritime Information Centre said such mine claims were unconfirmed and that it had logged 114 US-assisted transits from 19 to 21 November. The US Treasury sanctioned more than two dozen Iranian exchange houses and front companies, and Qatar's prime minister met Rubio and Vance to try to restart talks. It matters because both sides are hardening positions while Trump says strikes could resume after New Year."
+  sources:
+  - {label: "Euronews: Iran orders Hormuz closed 'further day by day' as Qatar seeks to revive peace talks", url: "http://www.euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks"}
+  - {label: "Euronews: Iran vows 'every means' to counter US blockade of Hormuz after Trump threat", url: "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat"}
+  - {label: "CNBC: Iran says three tankers hit mines in Hormuz despite US escort, as Treasury widens sanctions", url: "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html"}
+  - {label: "Iran International: IRGC Navy says three tankers hit mines, catch fire in Strait of Hormuz", url: "https://www.iranintl.com/en/202611232940"}
+  - {label: "IRNA: Three more offending tankers hit mines in Strait of Hormuz", url: "https://en.irna.ir/news/86330775/Three-more-offending-tankers-hit-mines-in-Strait-of-Hormuz"}
+- date: '2026-11-23'
+  countries: [BEL]
+  category: political
+  headline: "Belgium's De Wever warns his government will fall without a budget deal by the end of the year, as unions hold an 11th national strike"
+  summary: "Budget talks in Bart De Wever's five-party coalition broke down again on the morning of 23 November when the Flemish socialists of Vooruit rejected his latest proposal for about 10 billion euros of savings by 2029, which the other four parties back; Vooruit wants more from the wealthiest and fewer cuts to pensions and healthcare. After his fourth audience with King Philippe this month, who regretted the 'lack of meaningful progress' and asked him to keep going, De Wever said that if there is no agreement when provisional monthly budgets start at the turn of the year, his government 'will de facto no longer be able to govern'. The same day unions held their 11th national strike against the government's austerity, grounding flights. It matters because a collapse would push Belgium toward snap elections with a deficit forecast at 5.5% of GDP next year."
+  sources:
+  - {label: "Brussels Times: No budget deal, no government, De Wever issues year-end ultimatum", url: "https://www.brusselstimes.com/2419381/no-budget-deal-no-government-de-wever-issues-year-end-ultimatum"}
+  - {label: "Xinhua: Belgian king regrets lack of progress in budget talks, urges PM to press on", url: "https://english.news.cn/20261123/143ec8fd9ce942fb9283a1d40a0872f4/c.html"}
+  - {label: "Politico Europe: Belgium's De Wever visits the king (again) with no budget deal in sight", url: "https://www.politico.eu/article/belgium-bart-de-wever-heads-to-king-with-no-budget-deal-in-sight"}
+  - {label: "Brussels Times: Belgium in Brief, new year, new government?", url: "https://www.brusselstimes.com/2419447/belgium-in-brief-new-year-new-government-tbtb"}
+- date: '2026-11-23'
+  countries: [RUS, EST]
+  category: diplomatic
+  headline: "Russia tells Estonia its 'hostile actions' are close to triggering open war, a week before Tallinn shuts the border"
+  summary: "Russia's foreign ministry summoned Estonia's acting charge d'affaires Marek Juhtegi on 23 November to protest Tallinn's decision to close all land crossings with Russia from 1 December, which followed what Estonia says was a Russian intelligence plot to set fire to the Threod Systems defence plant. Moscow called the accusation unsupported, accused Estonia of letting Ukrainian drones fly through its airspace to attack Russia, and said such actions 'come close to triggering open war'; Estonia denies letting its territory be used. It matters because it is the sharpest Russian threat yet against a NATO member in a week of missile and drone incursions into Poland and drone strikes on Russian shipping in the Baltic."
+  sources:
+  - {label: "Al Jazeera: Russia threatens 'hostile' Estonia with 'open war'", url: "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war"}
+  - {label: "Meduza: Russia protests Estonia's planned land border closure and again accuses it of letting Ukrainian drones use its airspace", url: "https://meduza.io/en/news/2026/11/24/russia-protests-estonia-s-planned-land-border-closure-and-again-accuses-it-of-letting-ukrainian-drones-use-its-airspace"}
+  - {label: "TIME: Russia accuses Estonia of hostilities 'on the verge of triggering open war'", url: "https://time.com/article/2026/11/24/russia-estonia-conflict-open-war-border-nato-ukraine-eu"}
+- date: '2026-11-23'
+  countries: [RUS, DEU]
+  category: military
+  headline: "Western intelligence believes Russia could put a nuclear-armed satellite into orbit as soon as December, German media report"
+  summary: "Germany's BND and armed forces, along with other NATO intelligence services, believe Russia plans to launch a satellite carrying a nuclear explosive, called Sputnik-S, which has been built for several years and is stored near Moscow, broadcasters NDR and WDR and the Sueddeutsche Zeitung reported on 23 November; warnings shared in early November said it could reach orbit within 60 days. Kremlin spokesman Dmitry Peskov said the claims were 'hardly worth taking seriously' and Russia's Berlin embassy called them propaganda. NATO chief Mark Rutte said the alliance would defend itself in space too. It matters because a nuclear blast in orbit would breach the 1967 Outer Space Treaty and could knock out thousands of satellites used for navigation, communications and weather."
+  sources:
+  - {label: "Moscow Times: Kremlin dismisses reports about alleged nuclear-armed satellite launch", url: "https://www.themoscowtimes.com/2026/11/23/kremlin-dismisses-reports-about-alleged-nuclear-armed-satellite-launch-a94349"}
+  - {label: "Al Arabiya (Reuters): NATO warns of Russian nuclear-armed satellite, Kremlin dismisses reports", url: "https://english.alarabiya.net/News/world/2026/11/23/nato-warns-of-russian-nucleararmed-satellite-kremlin-dismisses-reports"}
+  - {label: "Anadolu: Russia may put nuclear weapon in orbit this year, German intelligence warns", url: "https://www.aa.com.tr/en/europe/russia-may-put-nuclear-weapon-in-orbit-this-year-german-intelligence-warns/4134351"}
+  - {label: "BBC: Nato chief vows defence against space threat after Russian nuclear satellite reports", url: "https://www.bbc.com/news/articles/c9x2er1ry2mzo"}
+  confidence: reported
+- date: '2026-11-23'
+  countries: [RUS, UKR]
+  category: military
+  conflict: russia-ukraine-war
+  headline: "Leaked Rosstat records point to more than 700,000 Russian soldiers killed in Ukraine, Meduza and Mediazona estimate"
+  summary: "Analysing death records that the Belarusian Cyber Partisans and Silent Crow hackers took from Russia's statistics agency, the exiled outlets Meduza and Mediazona found at least 490,000 registered military deaths in the war by 29 September 2026, and estimated that the true toll, counting soldiers missing in action whose deaths have not yet been registered, exceeds 700,000 and likely reaches about 720,000. They said they matched 95.1% of the soldiers on their named list in the leak and judged it very likely authentic; the higher figure is a statistical estimate with wide uncertainty for the past year. Russia stopped publishing detailed mortality data in mid-2025. It matters because it is the most thorough independent count yet and roughly doubles earlier named-casualty tallies."
+  sources:
+  - {label: "Meduza: More than 700,000 Russian troops died in the war in Ukraine by late September 2026, Meduza and Mediazona estimate", url: "https://meduza.io/en/feature/2026/11/23/more-than-700-000-russian-troops-died-in-the-war-in-ukraine-by-late-september-2026-meduza-and-mediazona-estimate"}
+  - {label: "Mediazona: How many Russian soldiers died in the war with Ukraine", url: "https://en.zona.media/article/2026/11/23/casualties_eng-trl"}
+  - {label: "New York Times: Over 700,000 Russian soldiers have died in Ukraine, analysis indicates", url: "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html"}
+  - {label: "Hromadske: Leaked Russian death records indicate around 700,000 troops killed in Ukraine", url: "https://hromadske.ua/en/war/274887-leaked-russian-death-records-indicate-around-700000-troops-killed-in-ukraine-investigation"}
+  confidence: reported
+- date: '2026-11-23'
+  countries: [ARM, AZE, USA, TUR, IRN]
+  category: economic
+  headline: "Armenia breaks ground on the US-backed Trump Route linking Azerbaijan to its Nakhchivan exclave"
+  summary: "Prime Minister Nikol Pashinyan launched preparatory construction in Meghri, Syunik province, on 23 November for the Trump Route for International Peace and Prosperity (TRIPP), a road, rail, pipeline, power and fibre corridor of about 43 km across southern Armenia that grew out of the August 2025 Washington peace declaration with Azerbaijan; he called it Armenia's largest economic project since independence. In a video message Trump announced a TRIPP Development Company, which under the framework deal is 74% US-owned with land rights for 49 years, while Armenia keeps sovereignty, customs and border control. Iran warned against routes that bypass it, with Supreme Leader adviser Mohammad Mokhber saying 'fake routes will never replace real corridors'. It matters because it turns the Armenia-Azerbaijan peace into infrastructure and opens a new Turkey-to-Caspian link."
+  sources:
+  - {label: "Embassy of Armenia to the US: Messages from Prime Minister Pashinyan and President Trump on the launch of the practical phase of TRIPP", url: "https://usa.mfa.am/en/news/2026/11/23/messages-from-the-prime-minister-of-the-republic-of-armenia-and-the-president-of-the-united-states-/16506"}
+  - {label: "Anadolu: Armenia launches work on Trump-backed transport route linking Azerbaijan to Nakhchivan", url: "https://aa.com.tr/en/eurasia/armenia-launches-work-on-trump-backed-transport-route-linking-azerbaijan-to-nakhchivan/4134591"}
+  - {label: "Turkish Minute: Armenia starts work on route linking Azerbaijan to Turkey", url: "https://turkishminute.com/2026/11/23/armenia-starts-work-on-route-linking-azerbaijan-to-turkey/"}
+  - {label: "Iran International: Trump corridor in Armenia draws Tehran warning", url: "https://www.iranintl.com/en/202611232940"}
+  good: true
+- date: '2026-11-23'
+  countries: [GBR, MMR]
+  category: diplomatic
+  headline: "Britain formally recognises the Rohingya genocide and sanctions five Myanmar generals after the World Court ruling"
+  summary: "Foreign Secretary Ed Miliband told parliament on 23 November that the UK formally recognises the genocide against the Rohingya, after the International Court of Justice found on 19 November that Myanmar committed it in 2017, the first time a state has been held responsible. Britain froze the assets of and banned travel by five senior officers, including Western Command chief Maj. Gen. Kyaw Soe, said it would legislate to stop aviation fuel reaching the military, and pledged up to 8 million pounds for Rohingya survivors and justice, alongside a joint statement with 12 other countries. It matters because it is the strongest response by any government to the ruling so far, and Britain is pushing for a UN Security Council meeting."
+  sources:
+  - {label: "GOV.UK: UK leads global action with major new measures against Myanmar military following landmark genocide judgment", url: "https://www.gov.uk/government/news/uk-leads-global-action-with-major-new-measures-against-myanmar-military-following-landmark-genocide-judgment"}
+  - {label: "BBC: UK sanctions top Myanmar military leaders after Rohingya genocide ruling", url: "https://www.bbc.com/news/articles/c6wy4ng1rznxo"}
+  - {label: "The Diplomat: UK announces fresh Myanmar sanctions following ICJ genocide ruling", url: "http://thediplomat.com/2026/11/uk-announces-fresh-myanmar-sanctions-following-icj-genocide-ruling"}
 - date: '2026-11-22'
   countries: [UKR, RUS, LBY]
   category: military
@@ -3982,6 +4107,9 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2026-11-25'
+  countries: [SLB, AUS]
+  event: "Solomon Islands Prime Minister Matthew Wale and Australia's Anthony Albanese sign the Australia-Solomon Islands Treaty in Canberra"
 - date: '2026-12-09'
   countries: [IDN]
   event: "Indonesia's People's Consultative Assembly elects a new vice president from two candidates Prabowo is due to submit by 25 November"
