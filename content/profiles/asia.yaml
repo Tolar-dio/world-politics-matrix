@@ -13,6 +13,17 @@ AFG:
     Afghanistan sits at the crossroads of Persian, Central Asian and South Asian civilisations. Dari and Pashto are the main languages, and poetry, from Rumi, who was born in Balkh, to the landays sung by Pashtun women, is deeply loved. The Taliban have banned most music, destroyed instruments and restricted cricket and other sports for women, though men's cricket remains a national passion.
   society: >-
     Since retaking power in 2021, the Taliban have barred girls from school beyond sixth grade and women from universities, most jobs, parks and gyms, a system the UN calls gender apartheid. Foreign aid cuts in 2025 closed clinics, and millions of Afghans have been forced back from Iran and Pakistan. Opium poppy cultivation fell sharply after a Taliban ban.
+  update: >-
+    Supreme leader Hibatullah Akhundzada made a rare visit to Kabul in mid-November, demanding
+    obedience after Interior Minister Sirajuddin Haqqani publicly warned against making the whole
+    system depend on one man, and for the first time offering government posts to opponents.
+    Pakistan is keeping up military and trade pressure, and the Taliban accuse it of backing armed
+    resistance groups.
+  update_date: 2026-11-19
+  sources_extra:
+    - {label: "Afghanistan International: Akhundzada visit to Kabul", url: "https://www.afintl.com/en/202611196351"}
+    - {label: "Express Tribune: Taliban feel weight of Pakistan's pressure", url: "https://tribune.com.pk/story/2641755/taliban-feel-weight-of-pakistans-pressure"}
+    - {label: "DW: Is Pakistan backing anti-Taliban groups in Afghanistan?", url: "https://www.dw.com/en/is-pakistan-backing-anti-taliban-groups-in-afghanistan/a-80004814"}
 
 BGD:
   pop: 175.7
@@ -27,11 +38,14 @@ BGD:
   society: >-
     Bangladesh is the world's second-largest garment exporter, and millions of women work in its factories. Microcredit and NGOs helped cut poverty sharply. It is one of the most densely populated countries on Earth and among the most exposed to floods, cyclones and sea-level rise. It hosts about a million Rohingya refugees from Myanmar.
   update: >-
-    Sheikh Hasina, sentenced to death in absentia, told AFP on 16 November that she is preparing to
-    return from India in December. The government says she would face execution, and authorities blame
-    her banned Awami League for a recent wave of petrol bomb attacks, which she denies.
-  update_date: 2026-11-16
+    Sheikh Hasina, sentenced to death in absentia, says she will return from India on 16 December,
+    Victory Day. The government says she will be arrested on arrival and has asked India to
+    extradite her. Bomb blasts and arson blamed on her banned Awami League have hit many districts,
+    and paramilitary troops were deployed nationwide on 18 November.
+  update_date: 2026-11-24
   sources_extra:
+    - {label: "AP: Bangladesh's ousted leader Sheikh Hasina plans to return from exile", url: "https://apnews.com/article/bangladesh-sheikh-hasina-exile-india-1c668d190907b8ff9c041427fd25c8cb"}
+    - {label: "Reuters: Bangladesh vows to arrest Hasina if she returns from India", url: "https://www.reuters.com/3fec1b0a85a0/world/asia-pacific/bangladesh-vows-arrest-hasina-if-she-returns-india-2026-11-23/"}
     - {label: "Gulf News (AFP): Ex-Bangladesh PM Hasina to return home despite threat of death", url: "https://gulfnews.com/world/asia/ex-bangladesh-pm-hasina-to-return-home-despite-threat-of-death-2-1.500748778"}
 
 BTN:
@@ -137,14 +151,17 @@ IDN:
     credentials did not meet the requirements to run, and hours before the House was to take up an
     impeachment petition signed by more than 120 lawmakers. Prabowo accepted the resignation; the
     post stays vacant until the People's Consultative Assembly picks a successor from two
-    presidential nominees: Prabowo is due to submit the two names by 25 November, and the assembly
-    has moved its vote to 9 December. Earlier, on 3 November, police arrested Prabowo's chief of
-    staff and former police chief Listyo Sigit Prabowo on suspicion of wiretapping the president.
-  update_date: 2026-11-23
+    presidential nominees: on 23 November Prabowo nominated cabinet ministers Andi Amran Sulaiman
+    and Sugiono, and the assembly will vote on 11 December. Earlier, on 3 November, police arrested
+    Prabowo's chief of staff and former police chief Listyo Sigit Prabowo on suspicion of
+    wiretapping the president.
+  update_date: 2026-11-25
   holders: >-
     President Prabowo Subianto, since October 2024; the vice presidency is vacant since Gibran
     Rakabuming Raka resigned on 12 November 2026.
   sources_extra:
+    - {label: "Cabinet Secretariat of Indonesia: President Prabowo Subianto submits two vice presidential nominees to MPR", url: "https://setkab.go.id/en/president-prabowo-subianto-submits-two-vice-presidential-nominees-to-mpr/"}
+    - {label: "Bloomberg: Prabowo names Amran Sulaiman, Sugiono nominees for Indonesia VP", url: "https://www.bloomberg.com/news/articles/2026-11-23/prabowo-names-amran-sulaiman-sugiono-nominees-for-indonesia-vp"}
     - {label: "Al Jazeera: Indonesian president's chief of staff dismissed over alleged wiretapping", url: "https://www.aljazeera.com/news/2026/11/4/indonesian-presidents-chief-of-staff-dismissed-over-alleged"}
     - {label: "Japan Times (Reuters): Indonesia arrests chief of staff and top policemen for alleged wiretapping of president", url: "https://www.japantimes.co.jp/news/2026/11/04/asia-pacific/politics/indonesia-wiretapping-president/"}
     - {label: "Al Jazeera: Indonesia vice president resigns amid dispute over eligibility", url: "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility"}
@@ -508,7 +525,7 @@ TJK:
     the minimum age for presidents, opening the way for his son Rustam Emomali, now speaker of the
     upper house. Opposition parties have been banned and critics jailed, even abroad. Since late
     2025, attacks from Afghan territory have killed several Chinese workers near the border, and
-    Beijing has demanded better protection.
+    Beijing has demanded better protection. On 20 November 2026, the day it hosted Vladimir Putin, whom the court wants arrested, Tajikistan notified the UN that it is leaving the International Criminal Court.
   leaders: {state: "President Emomali Rahmon, since 1992", gov: "Prime Minister Kokhir Rasulzoda"}
   power: >-
     A presidential republic in form and an autocracy in practice. Rahmon rules through the
@@ -516,6 +533,7 @@ TJK:
     limits.
   story: steady
   sources:
+    - {label: "Al Jazeera: Tajikistan moves to leave ICC amid US push against court", url: "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court"}
     - {label: "Dawn: Chinese nationals killed in cross-border attacks", url: "https://www.dawn.com/news/1958559/tajikistan-says-5-chinese-nationals-killed-in-cross-border-attacks-from-afghanistan-in-past-week"}
 
 THA:

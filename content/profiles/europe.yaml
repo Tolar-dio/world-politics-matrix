@@ -69,11 +69,14 @@ ARM:
   society: >-
     Armenia lost Nagorno-Karabakh to Azerbaijan in 2023, and more than 100,000 Armenians fled. Pashinyan has moved away from Russia, freezing membership of its military alliance. Remittances, IT and re-exports to Russia have powered growth. His feud with the Church's leadership led to arrests of senior clergy.
   update: >-
-    On 11 November the Russian-led CSTO alliance stripped Armenia of its voting rights over years of unpaid dues. Parliament ratified the framework
-    agreement with the US on the TRIPP transit route in late October, and Pashinyan met Azerbaijan's Ilham
-    Aliyev at the European Political Community summit in Dublin on 12 November.
-  update_date: 2026-11-12
+    On 23 November Pashinyan launched construction of the US-backed TRIPP corridor in Syunik and
+    unveiled a draft constitution that drops the reference to the 1990 independence declaration,
+    which Azerbaijan reads as a claim to Karabakh and wants removed before it signs the peace
+    treaty. He has promised to resign if voters reject it in a referendum.
+  update_date: 2026-11-23
   sources_extra:
+    - {label: "The New Arab (AFP): Armenia unveils draft constitution in push for peace with Azerbaijan", url: "https://www.newarab.com/news/armenia-unveils-draft-constitution-peace-azerbaijan"}
+    - {label: "Anadolu: Armenia launches work on Trump-backed transport route linking Azerbaijan to Nakhchivan", url: "https://www.aa.com.tr/en/eurasia/armenia-launches-work-on-trump-backed-transport-route-linking-azerbaijan-to-nakhchivan/4134591"}
     - {label: "Moscow Times: CSTO strips Armenia of voting rights", url: "https://www.themoscowtimes.com/2026/11/11/csto-strips-armenia-of-voting-rights-a94231"}
     - {label: "Meduza: Russia-led military alliance strips Armenia of voting rights", url: "https://meduza.io/en/news/2026/11/11/russia-led-military-alliance-strips-armenia-of-voting-rights"}
     - {label: "JAM News: Armenian parliament ratifies TRIPP framework agreement", url: "https://jam-news.net/?p=237592"}
@@ -115,6 +118,15 @@ AZE:
     Azerbaijan is a secular, majority Shia country with Turkic language and close ties to Turkey. Mugham, an improvised classical music, is UNESCO-listed. Baku mixes a medieval walled city with oil-boom architecture like the Flame Towers. Novruz, the spring new year, is the major holiday, with bonfires and sweet pastries.
   society: >-
     Oil and gas exports, including a pipeline to Europe, fund the state. Aliyev succeeded his father Heydar in 2003, and his wife is first vice-president. Independent journalists and activists are routinely jailed. The 2020 war and 2023 offensive returned Nagorno-Karabakh to Azerbaijan, and its ethnic Armenian population fled.
+  update: >-
+    Baku welcomed Armenia's launch of construction on the US-backed TRIPP corridor on 23 November.
+    It sits on a joint working group with Armenia and the United States and expects its own road and
+    rail links to the route to be ready by early 2027. Aliyev still will not sign the peace treaty
+    until Armenia adopts a new constitution.
+  update_date: 2026-11-24
+  sources_extra:
+    - {label: "Euronews: US and Armenia launch Trump-backed regional transit route as Baku welcomes move", url: "https://www.euronews.com/2026/11/24/us-and-armenia-launch-trump-backed-regional-transit-route-as-baku-welcomes-move"}
+    - {label: "bne IntelliNews: Armenia launches US-backed TRIPP corridor", url: "https://www.intellinews.com/armenia-launches-us-backed-tripp-corridor-487636?source=azerbaijan"}
 
 BLR:
   pop: 8.9
@@ -490,14 +502,18 @@ HUN:
   society: >-
     Under Orbán, Hungary became the EU's model of "illiberal democracy", with friendly oligarchs owning most media and billions in EU funds frozen over rule-of-law concerns. Magyar, a former Fidesz insider, has promised to unlock those funds and fight corruption. Hungary has an ageing population and low wages by EU standards.
   update: >-
-    Magyar's government is unwinding Orbán-era policy: in October parliament repealed most of the 2021
-    anti-LGBTQ 'child protection' law and Hungary dropped its objections to Ukraine's EU accession
-    talks. Its anti-graft drive, run partly through a new National Asset Protection and Recovery Office,
-    has put two former Orbán ministers and ex-central bank governor György Matolcsy under arrest, and on
-    9 November police detained Orbán's brother Áron in a people-smuggling case over visa fees at
-    Hungarian missions in Vietnam. Orbán, who still leads Fidesz, calls it political revenge.
-  update_date: 2026-11-10
+    Magyar's government is unwinding Orbán-era policy: in October parliament repealed most of the
+    2021 anti-LGBTQ 'child protection' law and Hungary dropped its objections to Ukraine's EU
+    accession talks. Its anti-graft drive, run partly through a new National Asset Protection and
+    Recovery Office, has put two former Orbán ministers and ex-central bank governor György Matolcsy
+    under arrest, and on 9 November police detained Orbán's brother Áron in a people-smuggling case
+    over visa fees at Hungarian missions in Vietnam. Orbán, who still leads Fidesz, calls it
+    political revenge. On 24 November Magyar visited Zelensky in Uzhhorod, his first trip to Ukraine as prime minister,
+    bringing 1 billion forints of medical and energy aid and agreeing cooperation on gas, border
+    crossings and demining.
+  update_date: 2026-11-24
   sources_extra:
+    - {label: "Euronews: Peter Magyar and Volodymyr Zelenskyy open new chapter in Ukraine-Hungary relations", url: "https://www.euronews.com/2026/11/25/peter-magyar-and-volodymyr-zelenskyy-open-new-chapter-in-ukraine-hungary-relations"}
     - {label: "DW: Hungary reverses anti-LGBTQ legislation", url: "https://www.dw.com/en/hungarys-parliament-votes-to-reverse-anti-lgbtq-legislation-from-orban-era/a-79647826"}
     - {label: "Reuters: Hungary and Ukraine agree to reset ties", url: "https://www.reuters.com/world/hungary-ukraine-agree-reset-ties-magyar-says-2026-10-16/"}
     - {label: "Internazionale (Reuters): Hungary detains Viktor Orban's brother in people-smuggling probe, PM says", url: "https://www.internazionale.it/ultime-notizie-reuters/2026/11/10/hungary-detains-viktor-orban-s-brother-in-people-smuggling-probe-pm-says"}
@@ -1026,15 +1042,15 @@ SWE:
   society: >-
     Sweden has a generous welfare state and high equality, but gang shootings and bombings have made it an outlier in Europe for gun violence. Immigration, which changed the country fast, is a central political debate. It joined NATO in 2024, ending two centuries of military non-alignment.
   update: >-
-    On 15 October the Riksdag voted down a Social Democratic minority government under Magdalena
-    Andersson after the Left and Centre parties refused to back it. Centre leader Elisabeth Thand
-    Ringqvist then explored a centrist option, found no majority, and was herself rejected by 324 votes
-    to 25 on 3 November. Speaker Andreas Norlén then asked caretaker prime minister Ulf Kristersson to
-    explore a centre-right government, and on 10 November gave him another week, to about 17 November,
-    after the Sweden Democrats dropped their demand for cabinet posts. Two of the four permitted votes
-    remain; if all fail, a snap election must be held within three months.
-  update_date: 2026-11-15
+    On 24 November Magdalena Andersson told the speaker she could not form a government after the Left Party rejected a package from the Social Democrats, Centre and Greens, and the Centre Party said it was willing to resume talks with the centre-right.
+    Speaker Andreas Norlén then nominated caretaker Prime Minister Ulf Kristersson for a four-party
+    centre-right government, with a vote set for 30 November. He is rejected only if 175 of the 349
+    members vote against. If this third vote and a fourth one fail, a snap election must be held
+    within three months.
+  update_date: 2026-11-25
   sources_extra:
+    - {label: "US News (Reuters): Swedish parliament to vote on Moderates leader Kristersson to remain prime minister", url: "https://www.usnews.com/news/world/articles/2026-11-24/swedish-parliament-to-vote-on-moderates-leader-kristersson-to-remain-prime-minister"}
+    - {label: "Xinhua: Sweden's parliament to vote on Kristersson as prime minister", url: "https://english.news.cn/europe/20261125/9a4cc93d4dda4bc696960f5cedaf5be7/c.html"}
     - {label: "Sveriges riksdag: No to Elisabeth Thand Ringqvist (Cen) as Prime Minister", url: "https://www.riksdagen.se/en/news/articles/2026/nov/3/no-to-elisabeth-thand-ringqvist-cen-as-prime_cms6afacb7c-be00-432a-b75e-37e169872323en/"}
     - {label: "Reuters via Yahoo News: Swedish PM tries to form a new government amid post-election gridlock", url: "https://malaysia.news.yahoo.com/sweden-parliament-rejects-centre-leader-124824112.html"}
     - {label: "AA: Swedish parliament votes against Andersson as prime minister", url: "https://www.aa.com.tr/en/europe/swedish-parliamet-votes-against-andersson-as-prime-minister-/4089695"}

@@ -987,20 +987,20 @@ STP:
     Cocoa remains the main export, and tourism is growing slowly. The state relies heavily on foreign aid. Hopes of offshore oil have repeatedly faded. Political rivalry is intense: President Carlos Vila Nova sacked Prime Minister Patrice Trovoada in January 2025.
   baseline: >-
     After President Carlos Vila Nova dismissed Prime Minister Patrice Trovoada in January 2025, he
-    appointed Américo Ramos. In July 2026 Vila Nova won re-election in a peaceful vote with historically
-    low turnout. In the 27 September parliamentary election the MLSTP came first with 24 of 55 seats,
-    short of a majority. On 7 October Ramos's ADI (23 seats) and the MCI-PS/PUN coalition (6) signed a
-    pact giving a 29-seat majority for a Ramos-led government, while MLSTP leader Américo Barros insists
-    the winner should govern. On 12 November Vila Nova reappointed Ramos as prime minister after the ADI
-    gave him a written guarantee of a majority, which the MLSTP could not; the MLSTP says the president
-    had called such a deal a red line and contests the appointment. A 2022 attack on the army
-    headquarters still shapes politics.
+    appointed Américo Ramos. Vila Nova won re-election in July 2026. In the 27 September
+    parliamentary election the MLSTP came first with 24 of 55 seats, short of a majority. Ramos's
+    ADI (23 seats) then signed a pact with the MCI-PS/PUN coalition (6) for a 29-seat majority, and
+    on 12 November Vila Nova reappointed Ramos as prime minister. A cabinet of 11 ministers was
+    sworn in on 19 November. The MLSTP has challenged the arrangement in the Constitutional Court, arguing that the party that won should govern. A 2022 attack on the
+    army headquarters still shapes politics.
   leaders: {state: "President Carlos Vila Nova, re-elected July 2026", gov: "Prime Minister Américo Ramos, reappointed 12 November 2026"}
   power: >-
     A semi-presidential republic. The president is directly elected for five years and appoints the
     prime minister, who must hold the confidence of the 55-seat National Assembly.
   story: election
   sources:
+    - {label: "STP-Press: Novo governo liderado por Américo Ramos empossado", url: "https://www.stp-press.st/2026/11/19/novo-governo-liderado-por-americo-ramos-empossado-diante-do-presidente-da-republica-2"}
+    - {label: "Téla Nón: MLSTP mantém batalha política e jurídica pela governação do país", url: "https://www.telanon.info/politica/2026/11/20/54959/mlstp-mantem-batalha-politica-e-juridica-pela-governacao-do-pais"}
     - {label: "RFI: ADI e MCI-PS/PUN assinam acordo parlamentar em São Tomé e Príncipe", url: "https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20261008-adi-e-mci-ps-pun-assinam-acordo-parlamentar-em-s%C3%A3o-tom%C3%A9"}
     - {label: "STP-Press: O próximo governo terá que ser liderado por MLSTP, Américo Barros", url: "https://www.stp-press.st/2026/10/13/o-proximo-governo-tera-que-ser-liderado-por-mlstp-americo-barros"}
     - {label: "The Star: Vila Nova wins second term", url: "https://www.thestar.com.my/news/world/2026/07/20/sao-tome-and-principe-president-vila-nova-wins-second-term-preliminary-results-show"}

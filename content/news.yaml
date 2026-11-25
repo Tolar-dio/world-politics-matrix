@@ -1,5 +1,142 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-25'
+  countries: [SLB, AUS, CHN]
+  category: diplomatic
+  headline: "Solomon Islands and Australia sign a treaty making Canberra the islands' main security partner"
+  summary: "Prime Ministers Matthew Wale and Anthony Albanese signed the Australia-Solomon Islands Treaty at Parliament House in Canberra on 25 November, a day after reports that Honiara will let its 2022 security pact with China lapse next year. AP reported that the treaty names Australia the islands' primary security partner in a deal that excludes China. It matters because it reverses the biggest Chinese security gain in the South Pacific and ties a Pacific state closer to a US ally."
+  sources:
+  - {label: "Prime Minister of Australia: Signing of the Australia-Solomon Islands Treaty", url: "https://www.pm.gov.au/media/signing-australia-solomon-islands-treaty"}
+  - {label: "AP via WRAL: Solomon Islands signs treaty with Australia that checks China's influence in the South Pacific", url: "https://www.wral.com/news/ap/6eaee-solomon-islands-names-australia-as-its-primary-security-partner-in-a-new-treaty-that-excludes-china/"}
+  - {label: "CNN: This nation had a security pact with China. It's just signed a deal with a US ally instead", url: "https://www.cnn.com/2026/11/24/australia/solomon-islands-australia-security-pact-intl-hnk"}
+- date: '2026-11-25'
+  countries: [IRN, USA, OMN]
+  category: military
+  conflict: strait-of-hormuz-shipping-war
+  headline: "Iran's Guards claim two more tankers hit mines in Hormuz, and Tehran adds tugboats to its blacklist of ships"
+  summary: "The IRGC navy said early on 25 November that two tankers caught fire in their engine rooms after hitting mines off the southern and eastern shores of the strait while trying to use what it called a false route; it named no ships and the claim has not been independently confirmed. Iran's Persian Gulf Strait Authority said it had added 26 vessels, including tugboats, to its list of ships that transit without Tehran's permission, bringing the total to 266, Bloomberg reported citing Tasnim. Tugs tow tankers damaged in Iranian attacks to safety. It matters because Iran is widening pressure from tankers to the services that keep traffic moving on the southern route along Oman's coast."
+  sources:
+  - {label: "Anadolu via A News: Iran says 2 'rogue' oil tankers hit naval mines, catch fire in Strait of Hormuz", url: "https://www.anews.com.tr/middle-east/2026/11/25/iran-says-2-rogue-oil-tankers-hit-naval-mines-catch-fire-in-strait-of-hormuz"}
+  - {label: "Hindustan Times (Bloomberg): Iran expands Strait of Hormuz blacklist to tugboats", url: "https://www.hindustantimes.com/world-news/iran-expands-strait-of-hormuz-blacklist-to-tugboats-raising-pressure-on-tanker-support-services-101795571639473.html"}
+  confidence: reported
+- date: '2026-11-24'
+  countries: [IRN, USA]
+  category: military
+  conflict: strait-of-hormuz-shipping-war
+  headline: "UKMTO says three ships were struck by projectiles in Hormuz, as the US investigates suspected Iranian cyberattacks on tankers"
+  summary: "The UK Maritime Trade Operations centre said on 24 November it had received a report of three vessels struck by projectiles in the Strait of Hormuz on the evening of 23 November; all continued their voyages with crews accounted for. It was the first independent report of hits after the IRGC claimed three tankers under US escort had hit mines. US officials told ABC News they were investigating whether Iran was behind cyberattacks on at least 50 energy tankers, some sent bomb threats, with Russia also under examination. Trump said the US was moving more oil through the strait than before the war. It matters because attacks are rising even as both sides talk up their control of the waterway."
+  sources:
+  - {label: "ABC News: Iran live updates, 3 tankers attacked in Strait of Hormuz, UKMTO says", url: "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands?id=138369648"}
+  - {label: "CBS News: U.S. taking more oil through Strait of Hormuz than before war with Iran, Trump says", url: "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"}
+  - {label: "Jerusalem Post: IRGC says three tankers hit mines while transiting Hormuz with US support", url: "https://www.jpost.com/middle-east/iran-news/article-915899"}
+- date: '2026-11-24'
+  countries: [RUS, UKR, USA, FIN]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Putin says retaliation for Ukraine's refinery strikes is 'inevitable', as Zelensky confirms Ukraine hit the Sparta II in the Gulf of Finland"
+  summary: "Putin told a Kremlin energy meeting on 24 November that Kyiv had kept attacking Russian refineries despite Trump's direct request to stop and that 'retaliatory measures on our part are inevitable'; Foreign Minister Andrii Sybiha replied that Putin could end the strikes by ending the war. Two industry sources told Reuters that Ukrainian drones have cut Russian refining volumes by 45% since late October. The same day Zelensky told Bloomberg that Ukraine struck the sanctioned Russian cargo ship Sparta II on 21 November because it was carrying weapons, and Finland's defence minister said Helsinki had warned Kyiv about risks in the narrow gulf. It matters because Moscow is signalling a new wave of strikes on Ukraine's grid in the coldest months."
+  sources:
+  - {label: "US News (Reuters): Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation", url: "https://www.usnews.com/news/world/articles/2026-11-24/putin-says-ukraine-hits-russian-oil-plants-despite-trumps-requests-promises-retaliation"}
+  - {label: "Al Jazeera: Putin says retaliation 'inevitable' after Ukraine hit Russian oil plants", url: "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation"}
+  - {label: "Kyiv Independent: Zelensky confirms Ukrainian attack on Russian ship in Gulf of Finland", url: "https://kyivindependent.com/zelensky-confirms-ukrainian-attack-on-russian-ship-in-gulf-of-finland/"}
+- date: '2026-11-24'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russian strikes kill two in Odesa region, including a teenager, and a man near Bila Tserkva"
+  summary: "A Russian strike on Odesa region late on 24 November killed two people and injured three, including a child, hitting cars and private and industrial buildings, Governor Oleh Kiper said; the Kyiv Independent reported that one of the dead was a teenager. Overnight into 25 November an attack on Bila Tserkva district in Kyiv region killed a man and set trucks and commercial buildings on fire, Governor Tymur Tkachenko said. Zelensky had warned on 23 November that Ukrainian intelligence saw Russia preparing new strikes. It matters because the attacks follow Putin's threat of retaliation and a week of mass-casualty strikes around Kyiv."
+  sources:
+  - {label: "The Independent (Reuters): Russian strike kills two people in Ukraine's Odesa", url: "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-oil-refineries-casualties-map-b3091150.html"}
+  - {label: "Kyiv Independent: Russian attack kills 1, damages commercial infrastructure in Kyiv Oblast", url: "https://kyivindependent.com/russian-attack-kills-1-damages-commercial-infrastructure-in-kyiv-oblast"}
+- date: '2026-11-24'
+  countries: [HUN, UKR]
+  category: diplomatic
+  headline: "Hungary's Magyar visits Zelensky in Transcarpathia, opening a new chapter after years of hostility"
+  summary: "Prime Minister Peter Magyar met Volodymyr Zelensky in Uzhhorod on 24 November, his first visit to Ukraine as prime minister and the first trip by a Hungarian prime minister to the region in over a decade; the two first met formally in Brussels on 16 October. Magyar brought medical and energy equipment, including generators, worth 1 billion forints, and the two agreed on cooperation in energy, border crossings, direct trains and demining. Hungary has also dropped its objections to the last two clusters of Ukraine's EU accession talks. It matters because Budapest under Viktor Orban was Ukraine's main obstacle inside the EU."
+  sources:
+  - {label: "Euronews: Peter Magyar and Volodymyr Zelenskyy open new chapter in Ukraine-Hungary relations", url: "https://www.euronews.com/2026/11/25/peter-magyar-and-volodymyr-zelenskyy-open-new-chapter-in-ukraine-hungary-relations"}
+  - {label: "Babel: Zelensky and Magyar met in Transcarpathia, what they agreed on", url: "https://babel.ua/en/news/132012-zelensky-and-magyar-met-in-transcarpathia-they-agreed-on-cooperation-in-energy-trade-and-demining"}
+  - {label: "Kyiv Independent: Zelensky, Hungary leader Magyar, to hold first formal meeting in Zakarpattia", url: "https://kyivindependent.com/zelensky-hungary-leader-magyar-to-hold-first-formal-meeting-in-zakarpattia"}
+  good: true
+- date: '2026-11-24'
+  countries: [UKR, USA, RUS]
+  category: diplomatic
+  conflict: russia-ukraine-war
+  headline: "Zelensky says US envoys want a peace deal by January, but Trump says he is 'not under a timeline'"
+  summary: "Zelensky told Bloomberg on 24 November that Trump's envoys Steve Witkoff and Jared Kushner are pushing for an agreement as soon as possible, ideally by January, and that he would ask the incoming Democratic-led Congress to raise pressure on Russia if Trump cannot get Putin to end the war on acceptable terms by the end of the year. Asked about a January target, Trump told the New York Post 'I'm not under a timeline' and that 'it takes two to tango'. Kremlin spokesman Dmitry Peskov said no date had been set for the next round of talks. It matters because the two sides of the US-Ukraine relationship are setting very different clocks for a deal."
+  sources:
+  - {label: "Meduza: Zelensky says U.S. wants peace deal by January. Trump says he's 'not under a timeline'", url: "https://meduza.io/en/news/2026/11/25/zelensky-says-u-s-wants-peace-deal-by-january-trump-says-he-has-no-timeline-for-ending-war"}
+  - {label: "Bastille Post: Russia reports downing over 1,000 Ukrainian drones; Peskov says next round not yet set", url: "https://www.bastillepost.com/global/article/6395701-russia-reports-downing-over-1000-ukrainian-drones-ukraine-claims-strikes-on-russian-cargo-ship"}
+- date: '2026-11-24'
+  countries: [SWE]
+  category: political
+  headline: "Sweden's speaker sets a 30 November vote on keeping Kristersson as prime minister after the left's bid collapses"
+  summary: "Social Democrat leader Magdalena Andersson told Speaker Andreas Norlen on 24 November that she could not form a government after the Left Party rejected a package from the Social Democrats, Centre and Greens, and the Centre Party said it was willing to resume talks with the Moderates, Christian Democrats and Liberals. Norlen then nominated caretaker Prime Minister Ulf Kristersson and set a vote for 30 November; he is rejected only if 175 of the 349 members vote against. It will be the third vote since the 13 September election, after Andersson and Centre leader Elisabeth Thand Ringqvist were voted down. It matters because if a fourth vote also fails, Sweden must hold a new election within three months."
+  sources:
+  - {label: "US News (Reuters): Swedish parliament to vote on Moderates leader Kristersson to remain prime minister", url: "https://www.usnews.com/news/world/articles/2026-11-24/swedish-parliament-to-vote-on-moderates-leader-kristersson-to-remain-prime-minister"}
+  - {label: "Xinhua: Sweden's parliament to vote on Kristersson as prime minister", url: "https://english.news.cn/europe/20261125/9a4cc93d4dda4bc696960f5cedaf5be7/c.html"}
+- date: '2026-11-24'
+  countries: [COD, UGA]
+  category: military
+  headline: "Thomas Lubanga's CRP rebels halt their advance on Bunia, capital of Congo's Ituri province, citing Ugandan mediation"
+  summary: "The Convention for the Popular Revolution, led by former militia chief Thomas Lubanga, said on 24 November that it had ordered a halt to its advance on Bunia and a withdrawal from recently captured areas, in line with talks with the government mediated by Uganda's President Yoweri Museveni. Congolese outlet MediaCongo reported that the group took Lopa and Lindji in Djugu territory on 22 November and reached Iga-Barriere, north of Bunia, the next day as the army pulled back, and Actualite.cd reported an influx of displaced people. Lubanga was the first person convicted by the International Criminal Court. It matters because Ituri is the centre of an Ebola outbreak, and a new front there would stretch an army already fighting the M23 and the ADF."
+  sources:
+  - {label: "Xinhua: DR Congo rebels announce pullback after heavy fighting near key eastern city", url: "https://english.news.cn/20261124/d53bb5595e514565b241dd0b978e7808/c.html"}
+  - {label: "Anadolu via A News: DR Congo rebel group announces pullback after heavy fighting near Bunia", url: "https://www.anews.com.tr/world/2026/11/24/dr-congo-rebel-group-announces-pullback-after-heavy-fighting-near-bunia"}
+  - {label: "MediaCongo: Ituri, la CRP annonce la suspension de sa marche sur Bunia", url: "https://www.mediacongo.net/article-actualite-169867_ituri_la_crp_annonce_la_suspension_de_sa_marche_sur_bunia.html"}
+  - {label: "Actualite.cd: Resurgence of fighting between the army and the CRP in Djugu brings influx of displaced", url: "https://actualite.cd/2026/11/24/rdc-la-resurgence-des-combats-entre-larmee-et-la-crp-djugu-provoque-un-afflux-de"}
+  thread: congo-war
+- date: '2026-11-24'
+  countries: [ETH, SDN]
+  category: diplomatic
+  conflict: sudan-saf-rsf
+  headline: "Ethiopia's Abiy offers to host an inclusive Sudanese dialogue, but Khartoum rejects it"
+  summary: "Prime Minister Abiy Ahmed announced on 24 November an initiative to host and sponsor in Addis Ababa a dialogue of all Sudanese military, political and civilian groups, aimed at a ceasefire, a national process and a broadly accepted unity government. The army-led government in Khartoum rejected the offer, saying Ethiopia is not neutral, while the RSF-led Tasis administration and Abdalla Hamdok's civilian Somoud coalition welcomed it, Radio Tamazuj reported. Khartoum has complained to the UN and the African Union that the RSF launches drones from Ethiopian territory. It matters because the government's refusal leaves the initiative stalled as the army gains ground in Kordofan."
+  sources:
+  - {label: "Anadolu: Ethiopia offers to host inclusive Sudan peace talks, proposes national unity government", url: "https://aa.com.tr/en/africa/ethiopia-offers-to-host-inclusive-sudan-peace-talks-proposes-national-unity-government/4136132"}
+  - {label: "Sudan Tribune: Ethiopia's Abiy launches initiative to host inclusive Sudanese dialogue", url: "https://sudantribune.com/article/321600"}
+  - {label: "Radio Tamazuj: Sudan divided over Ethiopia's offer to host peace talks", url: "https://www.radiotamazuj.org/en/news/article/sudan-divided-over-ethiopias-offer-to-host-peace-talks"}
+- date: '2026-11-24'
+  countries: [BGD, IND]
+  category: political
+  headline: "Sheikh Hasina says she will return to Bangladesh on 16 December, and the government vows to arrest her"
+  summary: "Former Prime Minister Sheikh Hasina, sentenced to death in absentia over the deadly 2024 crackdown, says she will fly home from exile in India on 16 December, Victory Day, AP reported on 24 November. Prime Minister Tarique Rahman's government says she will be arrested on arrival and has asked India to extradite her, Reuters reported. Bombings and arson blamed on her banned Awami League have hit many districts, and paramilitary troops were deployed nationwide on 18 November. It matters because her return could set off a confrontation between her supporters and the new government."
+  sources:
+  - {label: "AP: Bangladesh's ousted leader Sheikh Hasina plans to return from exile", url: "https://apnews.com/article/bangladesh-sheikh-hasina-exile-india-1c668d190907b8ff9c041427fd25c8cb"}
+  - {label: "Reuters: Bangladesh vows to arrest Hasina if she returns from India", url: "https://www.reuters.com/3fec1b0a85a0/world/asia-pacific/bangladesh-vows-arrest-hasina-if-she-returns-india-2026-11-23/"}
+  - {label: "Al Jazeera: Sheikh Hasina plans to return to Bangladesh from exile on December 16", url: "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16"}
+- date: '2026-11-24'
+  countries: [ARG]
+  category: economic
+  headline: "Economists say Argentina is in a technical recession after a second straight quarterly fall in activity"
+  summary: "Monthly activity data released by the statistics agency INDEC on 24 November imply that the economy shrank about 1.8% in the third quarter, its second consecutive fall, which economists call a technical recession, AFP reported. INDEC said it was not its role to declare a recession, and Economy Minister Luis Caputo pointed instead to a 1.1% rebound in September. Official third-quarter GDP figures are due on 16 December. It matters because President Javier Milei is pushing his 2027 budget through Congress while his austerity programme is losing the growth it was meant to deliver."
+  sources:
+  - {label: "DW (AFP): La economia de Argentina entra en recesion tecnica, segun estiman los economistas", url: "https://www.dw.com/es/la-econom%C3%ADa-de-argentina-entra-en-recesi%C3%B3n-t%C3%A9cnica-seg%C3%BAn-estiman-los-economistas/a-80042213"}
+  - {label: "Infobae: Recesion tecnica, que dijo el Gobierno tras el dato", url: "https://www.infobae.com/economia/2026/11/24/recesion-tecnica-que-dijo-el-gobierno-tras-el-dato-que-dejo-a-la-economia-con-dos-trimestres-consecutivos-de-caida"}
+- date: '2026-11-23'
+  countries: [IDN]
+  category: political
+  headline: "Prabowo nominates ministers Andi Amran Sulaiman and Sugiono for Indonesia's vacant vice presidency"
+  summary: "President Prabowo Subianto submitted two nominees to the People's Consultative Assembly (MPR) on 23 November to replace former Vice President Gibran Rakabuming Raka for the rest of the 2024 to 2029 term: cabinet ministers Andi Amran Sulaiman and Sugiono, Bloomberg reported. The cabinet secretariat said both will go through 14 working days of verification before the MPR elects one of them at a plenary session on 11 December. It matters because the choice will shape the balance of power around Prabowo for the rest of his term."
+  sources:
+  - {label: "Cabinet Secretariat of Indonesia: President Prabowo Subianto submits two vice presidential nominees to MPR", url: "https://setkab.go.id/en/president-prabowo-subianto-submits-two-vice-presidential-nominees-to-mpr/"}
+  - {label: "Bloomberg: Prabowo names Amran Sulaiman, Sugiono nominees for Indonesia VP", url: "https://www.bloomberg.com/news/articles/2026-11-23/prabowo-names-amran-sulaiman-sugiono-nominees-for-indonesia-vp"}
+- date: '2026-11-23'
+  countries: [ARM, AZE]
+  category: political
+  headline: "Armenia unveils a draft constitution without the independence declaration's claim to Karabakh, a step Azerbaijan demands for peace"
+  summary: "On the day he launched work on the TRIPP corridor, Prime Minister Nikol Pashinyan presented a draft constitution that drops the preamble reference to Armenia's 1990 declaration of independence, which Azerbaijan says implies a claim to Karabakh, AFP reported; Baku will not sign the initialled peace treaty until the change is made. Pashinyan said he would resign if voters reject it in a referendum. It matters because the referendum is now the last big hurdle to a signed Armenia-Azerbaijan peace."
+  sources:
+  - {label: "The New Arab (AFP): Armenia unveils draft constitution in push for peace with Azerbaijan", url: "https://www.newarab.com/news/armenia-unveils-draft-constitution-peace-azerbaijan"}
+  - {label: "bne IntelliNews: Armenia launches US-backed TRIPP corridor", url: "https://www.intellinews.com/armenia-launches-us-backed-tripp-corridor-487636?source=azerbaijan"}
+- date: '2026-11-23'
+  countries: [TJK, RUS]
+  category: diplomatic
+  headline: "Tajikistan moves to leave the International Criminal Court on the day it hosted Putin"
+  summary: "Tajikistan lodged notice with the United Nations on 20 November that it is withdrawing from the Rome Statute of the International Criminal Court, the same day Vladimir Putin, who is wanted by the court over the deportation of Ukrainian children, stopped in Dushanbe; the move became public on 23 November and takes effect on 20 November 2027. It matters because it is another blow to the court as it faces US sanctions, and a political gift to Moscow in Central Asia."
+  sources:
+  - {label: "Al Jazeera: Tajikistan moves to leave ICC amid US push against court", url: "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court"}
+  - {label: "bne IntelliNews: Tajikistan's ICC exit hands Putin a PR win as Rahmon firms up Moscow ties", url: "https://www.intellinews.com/tajikistan-s-icc-exit-hands-putin-a-pr-win-as-rahmon-firms-up-moscow-ties-487763?source=afghanistan"}
 - date: '2026-11-24'
   countries: [UKR, RUS]
   category: military
@@ -4107,12 +4244,18 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2026-11-30'
+  countries: [SWE]
+  event: "Riksdag votes on Ulf Kristersson as prime minister, the third vote since the September election"
+- date: '2026-12-16'
+  countries: [BGD, IND]
+  event: "Sheikh Hasina's announced date to return to Bangladesh from exile in India; the government says she will be arrested"
 - date: '2026-11-25'
   countries: [SLB, AUS]
   event: "Solomon Islands Prime Minister Matthew Wale and Australia's Anthony Albanese sign the Australia-Solomon Islands Treaty in Canberra"
-- date: '2026-12-09'
+- date: '2026-12-11'
   countries: [IDN]
-  event: "Indonesia's People's Consultative Assembly elects a new vice president from two candidates Prabowo is due to submit by 25 November"
+  event: "Indonesia's People's Consultative Assembly elects a new vice president from Prabowo's two nominees, Andi Amran Sulaiman and Sugiono"
 - date: '2026-11-23'
   countries: [UKR, LVA]
   event: "UN Security Council high-level briefing on Ukraine's energy infrastructure and Black Sea food routes, chaired by Latvian President Edgars Rinkevics"
