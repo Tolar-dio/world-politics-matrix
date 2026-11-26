@@ -1,5 +1,132 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-26'
+  countries: [ARE, JOR, IRN, OMN]
+  category: military
+  conflict: strait-of-hormuz-shipping-war
+  headline: "Body of a Jordanian sailor missing since an attack on an ADNOC tanker is found, as Iran's navy claims another mine strike"
+  summary: "Jordan's Foreign Ministry said on 26 November that the body of Mohammad Hussam Al Din Al Otaibi had been recovered after Emirati and Omani searches; he went missing when an ADNOC Logistics and Services tanker, identified by Vanguard Tech as the Navig8 Messi, was hit in the Strait of Hormuz on 17 November, an attack that injured 11 crew. On 25 November Iran's regular navy said a tanker that had switched off its navigation systems hit a mine east of the strait and caught fire, a claim not independently confirmed. It matters because seafarers from countries with no part in the war keep dying in Iran's campaign against shipping that ignores its permit system."
+  sources:
+  - {label: "Al Bawaba: Body of Jordanian sailor, lost in ADNOC oil tanker attack, was found", url: "https://www.albawaba.com/news/body-jordanian-sailor-lost-adnoc-oil-1642161"}
+  - {label: "ADNOC L&S: Statement on vessel attacked in the Strait of Hormuz", url: "https://adnocls.ae/en/news-and-media/press-releases/2026/november-17-statement"}
+  - {label: "Seatrade Maritime: One missing, 11 injured in attack on ADNOC tanker in Hormuz", url: "https://www.seatrade-maritime.com/security/one-missing-11-injured-in-attack-on-adnoc-tanker-in-hormuz"}
+  - {label: "Gulf News live: Violating oil tanker catches fire after hitting naval mines near Strait of Hormuz, Iran says", url: "https://gulfnews.com/world/mena/middle-east-conflict-trump-says-iran-war-funded-through-january-amid-saudi-yemen-escalation-1.500759977"}
+- date: '2026-11-26'
+  countries: [PSE, ISR]
+  category: military
+  conflict: israel-hamas-gaza
+  headline: "Israel kills Hamas's deputy education minister in Gaza on a third straight night of strikes"
+  summary: "An Israeli airstrike on an apartment in Deir al-Balah early on 26 November killed Khaled Abu Nada, deputy education minister in Gaza's Hamas-run government and, Hamas said, a member of its political bureau, along with his wife. Netanyahu and Defence Minister Israel Katz confirmed the strike and said he was responsible for Hamas's economy and education portfolios. Medics told Reuters at least nine Palestinians were killed overnight, and Netanyahu said Israel had killed about 80 Hamas militants in the past month; Abu Nada was the third senior Hamas official killed since 24 November. It matters because the October 2025 ceasefire keeps fraying: at least 1,600 Palestinians have been killed since it began, and Hamas blames Trump's Board of Peace for failing to stop the attacks."
+  sources:
+  - {label: "L'Orient Today (Reuters): Israel kills nine in Gaza, including deputy education minister", url: "https://today.lorientlejour.com/article/1555720/israel-kills-nine-in-gaza-including-deputy-education-minister.html"}
+  - {label: "Times of Israel: Netanyahu confirms killing senior Hamas education official", url: "https://www.timesofisrael.com/liveblog_entry/netanyahu-confirms-killing-senior-hamas-education-official-amid-wider-assassination-campaign"}
+  - {label: "Anadolu: Israeli strikes kill 5 Palestinians, including deputy education minister, in Gaza", url: "https://www.aa.com.tr/en/middle-east/israeli-strikes-kill-5-palestinians-including-deputy-education-minister-in-gaza/4138210"}
+- date: '2026-11-25'
+  countries: [YEM, SAU]
+  category: military
+  conflict: yemen-civil-war
+  headline: "The coalition bombs Hodeidah again, and the Houthis hit Jazan port, claim a strike on Ras Tanura and fire missiles at Riyadh"
+  summary: "A day after a Houthi drone hit a tower in Riyadh's King Abdullah Financial District on 24 November, wounding 11 people according to Saudi civil defence, the Saudi-led coalition said on 25 November it struck 'operational capabilities' at Hodeidah port and targets in Saada and Amran. The Houthis said they attacked the ports of Jeddah and Jazan in response; the coalition said a projectile caused minor damage at Jazan port, and it intercepted four drones over Ras Tanura, where the Houthis claimed they set Saudi Arabia's largest refinery on fire, which has not been confirmed. Around midnight the coalition said it destroyed two ballistic missiles fired at Riyadh. It matters because both sides are now hitting each other's ports and oil sites every day, while Houthi forces on the ground are reported about 60 km from Aden."
+  sources:
+  - {label: "Al Arabiya: Saudi air defenses intercept 7 drones as coalition strikes Houthi targets in Yemen", url: "https://english.alarabiya.net/News/middle-east/2026/11/25/saudi-air-defenses-intercept-7-drones-as-coalition-strikes-houthi-targets-in-yemen"}
+  - {label: "BSS (AFP): Saudis down missiles targeting capital after Yemen port strikes", url: "https://www.bssnews.net/international/450288"}
+  - {label: "The National: Saudi Arabia intercepts wave of retaliatory Houthi attacks", url: "https://www.thenationalnews.com/news/gulf/2026/11/26/saudi-arabia-intercepts-wave-of-retaliatory-houthi-attacks"}
+  - {label: "SPA: Coalition air defenses intercept two ballistic missiles launched toward Riyadh", url: "https://www.spa.gov.sa/en/N2736580"}
+- date: '2026-11-25'
+  countries: [IRQ]
+  category: political
+  headline: "Iraq's top court backs Zaidi's takeover of Kurdish-run border crossings, and leaders call a national dialogue for 1 December"
+  summary: "Prime Minister Ali al-Zaidi on 24 November ordered federal authorities to take over all border crossings in the Kurdistan Region, barred the Kurdistan Regional Government from approving oil exports without the federal Oil Ministry, told the ministry to run oil fields under Kurdish security control in Kirkuk, Nineveh, Salahuddin and Diyala, and removed Kirkuk's security commanders, after an inquiry into oil smuggling at the state North Oil Company. KRG Prime Minister Masrour Barzani called the orders unconstitutional, but on 25 November the Federal Supreme Court ruled that Baghdad may deploy forces along all of Iraq's borders, including in the Kurdish region, Reuters reported. The same day the president, prime minister, speaker and top judge backed a national dialogue on 1 December. It matters because it is the sharpest clash between Baghdad and Erbil in years, a week after Zaidi moved against Kataib Hezbollah at Jurf al-Sakhar."
+  sources:
+  - {label: "Al Arabiya (Reuters): Iraq's top court says Baghdad can deploy troops to secure borders in Kurdistan", url: "https://english.alarabiya.net/News/middle-east/2026/11/25/iraq-s-top-court-says-baghdad-can-deploy-troops-to-secure-borders-in-kurdistan-state-tv"}
+  - {label: "Anadolu: Iraq to hold national dialogue on constitutional dispute with Kurdish Regional Government", url: "https://www.aa.com.tr/en/politics/iraq-to-hold-national-dialogue-on-constitutional-dispute-with-kurdish-regional-government/4138066"}
+  - {label: "OCCRP: Oil smuggling crackdown sets up collision between Baghdad and Kurdistan Region", url: "https://www.occrp.org/en/news/oil-smuggling-crackdown-sets-up-collision-between-baghdad-and-kurdistan-region"}
+  - {label: "964media: Zaidi says no foreign power is behind his government's measures", url: "https://en.964media.com/56414"}
+- date: '2026-11-25'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russian ballistic missiles hit a Kyiv shopping centre, injuring seven, and a drone kills a couple in Kharkiv"
+  summary: "Ballistic missiles struck a shopping centre, an industrial building and another non-residential building in Kyiv's Desnianskyi district late on 25 November, injuring seven people, two of them seriously, Mayor Vitali Klitschko said. Russia's defence ministry said it hit a company making parts for drone warheads and a site where drones were assembled for the Ukrainian maker Fire Point. Overnight a Russian drone killed a married couple in a Kharkiv apartment, regional governor Oleh Syniehubov said. It matters because Zelensky says a deal for 48 allied-funded Patriot interceptors is still waiting for US Defence Secretary Pete Hegseth's signature as Russia steps up ballistic strikes."
+  sources:
+  - {label: "Kyiv Post: Russia hits Kyiv shopping mall with ballistic missiles, injures 7", url: "https://www.kyivpost.com/post/91219"}
+  - {label: "New York Post (Reuters): Russian forces hit Kyiv with ballistic missiles, 7 wounded, mayor says", url: "https://nypost.com/2026/11/26/world-news/russian-forces-hit-kyiv-with-ballistic-missiles-7-wounded-mayor-says"}
+  - {label: "Euromaidan Press: Russia hit a Kyiv shopping center with ballistic missiles, strikes also killed four in Kharkiv Oblast", url: "https://euromaidanpress.com/2026/11/26/russia-hit-a-kyiv-shopping-center-with-ballistic-missiles-and-kryvyi-rih-with-jet-drones-strikes-also-killed-four-in-kharkiv-oblast-and-two-in-sloviansk"}
+  - {label: "Kyiv Post: ISW Russian Offensive Campaign Assessment, November 25, 2026", url: "https://www.kyivpost.com/post/91230"}
+- date: '2026-11-25'
+  countries: [RUS]
+  category: political
+  headline: "Putin removes Murmansk governor Andrei Chibis after his arrest in a fraud case"
+  summary: "Putin signed a decree ending Murmansk region governor Andrei Chibis's term early, the Kremlin announced on 25 November, after police detained him on 23 November in a fraud investigation. TASS reported that the Interior Ministry case covers the theft of 39 million roubles, the embezzlement of more than 1 billion roubles during the rebuilding of the Apatity to Kirovsk road, and illegal currency deals. It matters because Murmansk is home to Russia's Northern Fleet and the gateway to its Arctic sea route, and the case adds to a string of prosecutions of senior officials during the war."
+  sources:
+  - {label: "Kremlin: Executive Order on early termination of powers of Murmansk Region Governor Andrei Chibis", url: "http://en.kremlin.ru/acts/news/81348"}
+  - {label: "TASS: Putin dismisses Murmansk Region Governor Andrey Chibis", url: "http://tass.com/politics/2224903"}
+- date: '2026-11-25'
+  countries: [EGY]
+  category: humanitarian
+  headline: "A fuel tanker fire on Cairo's Ring Road kills 31 people"
+  summary: "A privately operated tanker carrying petroleum products crossed the central reservation, overturned and exploded on the Ring Road above a tunnel in Giza's Warraq district on the evening of 25 November, setting fire to more than two dozen cars and motorcycles. The Health Ministry put the toll at 31 dead and 21 injured. Al-Ahram reported that a falling high-voltage cable made the driver lose control, and the regional public prosecutor opened an investigation and asked for DNA samples to identify the dead. It matters because road crashes killed 5,829 people in Egypt in 2025, up almost 11% on the year before, and the disaster renews pressure over road safety and the transport of fuel through crowded areas."
+  sources:
+  - {label: "BBC: Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway", url: "https://www.bbc.co.uk/news/articles/cqy7rn30v314o"}
+  - {label: "AP: Fire on a major highway surrounding Cairo kills at least 30", url: "https://apnews.com/article/cairo-highway-fire-ring-road-89e4cd3d3d53016c9c35440b57c5ea1e"}
+  - {label: "Al-Monitor: At least 30 killed in Egypt in fuel tanker accident", url: "https://www.al-monitor.com/originals/2026/11/least-30-killed-egypt-fuel-tanker-accident"}
+- date: '2026-11-25'
+  countries: [ISR]
+  category: political
+  headline: "Likud asks a court to annul election results at up to 120 polling stations, mostly in Arab towns"
+  summary: "Netanyahu's Likud asked the Jerusalem District Court on 25 November to cancel the 27 October election results at 120 polling stations, or at least 95, and order new voting there, alleging that party representatives passed information on who had voted from inside stations, against Supreme Court rulings, and that ballot secrecy was breached at 53 stations. Haaretz reported that the appeal contained no evidence of vote-buying or widespread fraud. Gadi Eisenkot's Yashar accused Likud of a campaign to delegitimise the result. It matters because the appeal itself argues that only one seat could move, from Ra'am to Shas, which would take Netanyahu's bloc from 53 to 54 seats, still short of a majority, while Eisenkot's mandate to form a government runs to 6 December."
+  sources:
+  - {label: "Jerusalem Post: Likud appeals election results, asks for results from 120 polling stations to be canceled", url: "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916141"}
+  - {label: "Times of Israel: Likud appeals election results from 120 ballot boxes, seeks revote at those locations", url: "https://www.timesofisrael.com/likud-appeals-election-results-from-120-ballot-boxes-seeks-revote-at-those-locations"}
+  - {label: "Middle East Monitor: Netanyahu's Likud formally challenges election results at 120 polling stations", url: "https://www.middleeastmonitor.com/20261125-netanyahus-likud-formally-challenges-election-results-at-120-polling-stations"}
+- date: '2026-11-25'
+  countries: [USA, CHN, JPN, KOR, IND, VNM]
+  category: economic
+  headline: "The US proposes new 'excess capacity' tariffs on 14 economies, including China, the EU, Japan and India"
+  summary: "The US Trade Representative proposed tariffs on 25 November on goods from China, the EU, Japan, South Korea, India, Vietnam, Taiwan, Switzerland and six other economies after an eight-month Section 301 investigation into excess industrial production; Mexico and Norway were spared for now. A senior official said China would face a 20% rate on top of the roughly 25% imposed in Trump's first term, and CNBC reported rates starting at 15% for the EU, South Korea, Switzerland and Taiwan. After public comment and a hearing they could take effect in January, and the EU's current 10% rate stays in place for now. It matters because the duties rebuild the global tariffs the Supreme Court struck down in February and are meant to push partners into deals before the G20 summit in Miami."
+  sources:
+  - {label: "RTE: US proposes new tariffs on trading partners, including EU", url: "https://www.rte.ie/news/us/2026/1125/1600630-us-tariffs/"}
+  - {label: "DW: Trump plans US tariffs on EU, China and 12 other economies", url: "https://www.dw.com/en/us-plans-new-tariffs-on-eu-china-and-12-others/a-80050872"}
+  - {label: "CNBC: U.S. tariff-hike threats pile pressure on partners to sign trade deals", url: "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html"}
+- date: '2026-11-25'
+  countries: [BGD]
+  category: economic
+  headline: "Bangladesh raises the garment minimum wage by 36%, but workers clash with police over the smallest rise in four decades"
+  summary: "Bangladesh's garment wage board voted 4 to 2 early on 25 November to raise the minimum monthly wage from 12,500 to 17,000 taka (about $137) from 1 December, after weeks of protests that shut factories around Dhaka; workers had first sought 32,000 taka and lowered their demand to 18,000. Reuters said it was the smallest percentage rise since the first minimum wage in 1986, and police fired tear gas at workers blocking a highway in Gazipur the same day. It matters because the industry earns more than 80% of Bangladesh's exports and employs over 4 million people, making the dispute a test for Prime Minister Tarique Rahman's government."
+  sources:
+  - {label: "Daily Sabah (Reuters): Bangladesh garment wage hike sparks fresh clashes near Dhaka", url: "https://www.dailysabah.com/world/asia-pacific/bangladesh-garment-wage-hike-sparks-fresh-clashes-near-dhaka"}
+  - {label: "Business Recorder (AFP): Bangladesh garment workers win wage rise after weeks of protests", url: "https://www.brecorder.com/news/40450697/bangladesh-garment-workers-win-wage-rise-after-weeks-of-protests"}
+  - {label: "The Financial Express: Garment workers' minimum wage finally set at Tk 17,000", url: "http://thefinancialexpress.com.bd/bangladesh/garment-workers-minimum-wage-finally-set-at-tk-17000"}
+- date: '2026-11-25'
+  countries: [COL]
+  category: humanitarian
+  headline: "Colombian forces free all the hostages held in a Cartagena supermarket after an 18-hour siege"
+  summary: "Police and soldiers stormed an Exito supermarket in Cartagena's La Castellana neighbourhood early on 25 November and freed all the remaining hostages, President Abelardo de la Espriella said. Gunmen had seized about 30 customers and staff on 24 November after a failed attempt to rob an armoured cash van, and released 10 during the day; one gunman was killed and others were detained. It matters because the rescue ended without hostage deaths at a time when, according to ACLED, violence involving armed groups has risen 11% since de la Espriella took office, and a car bomb hit Villavicencio the night before."
+  sources:
+  - {label: "ABC News: About 30 hostages rescued after standoff in Colombia, president and officials say", url: "https://abcnews.com/International/30-hostages-rescued-after-standoff-colombia-president-officials/story?id=138436242"}
+  - {label: "Jerusalem Post (Reuters): All hostages freed from supermarket in Cartagena, Colombian president confirms", url: "https://www.jpost.com/international/article-916025"}
+  - {label: "DW: Colombia, all hostages rescued from supermarket in Cartagena", url: "https://www.dw.com/en/colombian-security-forces-storm-supermarket-free-hostages/a-80043016"}
+  good: true
+- date: '2026-11-24'
+  countries: [SDN]
+  category: military
+  conflict: sudan-saf-rsf
+  headline: "Drone strikes on Ed Damazin and Roseires kill at least 14 to 19 civilians in Sudan's Blue Nile state"
+  summary: "Drones struck three residential neighbourhoods of Ed Damazin, the capital of Blue Nile state, on the night of 24 November, killing 19 civilians including six women, all from three families, the rights group Emergency Lawyers said; a hospital source told AFP that 14 died, and the UN cited 17. The group said drones also hit the Roseires dam and power facilities earlier that day, and residents confirmed the strikes to Reuters. Rights groups blamed the RSF, which did not comment, and the UN condemned the attack. It matters because the RSF and its allies have pushed to the edge of a city that has taken in more than 100,000 people fleeing nearby fighting."
+  sources:
+  - {label: "Asharq Al-Awsat (Reuters): Drone strikes kill 19 civilians in southeastern Sudan", url: "https://english.aawsat.com/arab-world/5345473-drone-strikes-kill-19-civilians-southeastern-sudan"}
+  - {label: "Arab News (AFP): Drone attack in southeast Sudan kills 14, medical source", url: "https://www.arabnews.com/middle-east/drone-attack-in-southeast-sudan-kills-14-medical-source-3014010"}
+  - {label: "A News (Anadolu): UN condemns deadly drone strikes in Sudan's Blue Nile state", url: "https://anews.com.tr/middle-east/2026/11/25/un-condemns-deadly-drone-strikes-in-sudans-blue-nile-state"}
+  - {label: "Al Jazeera: Overnight RSF drone attacks kill 19 in Sudan", url: "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan"}
+- date: '2026-11-24'
+  countries: [USA, CHN]
+  category: political
+  headline: "A US jury convicts Huawei of trade secret theft, bank fraud and breaking sanctions on Iran, but clears it of racketeering"
+  summary: "A federal jury in Brooklyn found Huawei and three subsidiaries guilty on 24 November after a three-month trial, on charges including conspiracy to steal trade secrets, bank and wire fraud, conspiracy to violate US sanctions on Iran and money laundering conspiracy, the Justice Department said. The jury acquitted Huawei of racketeering conspiracy, which the company welcomed while calling the other verdicts without merit; sentencing, which can bring fines and forfeiture, is set for 14 September 2027, and its lawyer expects an appeal. China accused the US of 'suppressing and containing' Chinese firms. It matters because the case began with the 2018 arrest of executive Meng Wanzhou in Canada and lands a week after the APEC summit in Shenzhen, testing the US-China trade truce."
+  sources:
+  - {label: "US Justice Department: Huawei and subsidiaries convicted of sanctions violations, fraud, conspiracy to steal trade secrets and money laundering", url: "https://www.justice.gov/opa/pr/chinese-tech-giant-huawei-and-subsidiaries-convicted-sanctions-violations-fraud-conspiracy"}
+  - {label: "BBC: Huawei found guilty of stealing trade secrets but acquitted of racketeering", url: "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo"}
+  - {label: "Anadolu: Morning Briefing, 26 November 2026", url: "https://aa.com.tr/en/world/morning-briefing-nov-26-2026/4138215"}
 - date: '2026-11-25'
   countries: [SLB, AUS, CHN]
   category: diplomatic
@@ -4244,6 +4371,9 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2026-12-01'
+  countries: [IRQ]
+  event: "National dialogue in Baghdad, hosted by top judge Faiq Zaidan, on the constitutional dispute between the federal government and the Kurdistan Regional Government"
 - date: '2026-11-30'
   countries: [SWE]
   event: "Riksdag votes on Ulf Kristersson as prime minister, the third vote since the September election"

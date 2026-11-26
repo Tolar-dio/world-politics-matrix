@@ -80,6 +80,8 @@ IRQ:
     - {label: "The National: Iraq's al-Zaidi dismisses intelligence chief in shake-up of team", url: "https://www.thenationalnews.com/news/mena/2026/10/27/iraqs-al-zaidi-dismisses-intelligence-chief-in-shake-up-of-team/"}
     - {label: "France 24 (Reuters): Iraqi security forces deploy in Hezbollah stronghold under compromise deal", url: "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal"}
     - {label: "Asharq Al-Awsat: Iraq refers oil smuggling case to judiciary as security forces deploy in Jurf al-Sakhar", url: "https://english.aawsat.com/arab-world/5344017-iraq-refers-oil-smuggling-case-judiciary-security-forces-deploy-jurf-al-sakhar"}
+    - {label: "Al Arabiya (Reuters): Iraq's top court says Baghdad can deploy troops to secure borders in Kurdistan", url: "https://english.alarabiya.net/News/middle-east/2026/11/25/iraq-s-top-court-says-baghdad-can-deploy-troops-to-secure-borders-in-kurdistan-state-tv"}
+    - {label: "Anadolu: Iraq to hold national dialogue on constitutional dispute with Kurdish Regional Government", url: "https://www.aa.com.tr/en/politics/iraq-to-hold-national-dialogue-on-constitutional-dispute-with-kurdish-regional-government/4138066"}
   update: >-
     US forces completed their withdrawal from Iraq on 30 September, and the government has given
     Iran-backed armed factions until mid-2027 to hand their weapons to the state. On 7 October the
@@ -91,8 +93,13 @@ IRQ:
     On 20 November army and police units entered Kataib Hezbollah's stronghold of Jurf al-Sakhar for
     the first time in more than a decade, after al-Zaidi accused the militia of smuggling state oil;
     under a deal its brigades are to leave within a month, and the first battalion began withdrawing
-    on 21 November.
-  update_date: 2026-11-23
+    on 21 November. On 24 November al-Zaidi ordered federal authorities to take over all border
+    crossings in the Kurdistan Region and the federal Oil Ministry to run oil fields under Kurdish
+    security control in Kirkuk, Nineveh, Salahuddin and Diyala, after an oil smuggling inquiry.
+    The Kurdistan Regional Government called the orders unconstitutional, but on 25 November the
+    Federal Supreme Court ruled that Baghdad may deploy forces on all borders, including in the
+    Kurdish region, and the country's top leaders called a national dialogue for 1 December.
+  update_date: 2026-11-26
 
 ISR:
   pop: 10.0
@@ -339,9 +346,16 @@ TUR:
     Jailed Istanbul mayor Ekrem İmamoğlu was sentenced in September to two years in prison in a separate
     insult case that carries a political ban. On 12 November the court in his main corruption trial,
     which now has 436 defendants, freed eight of them, including his lawyer Mehmet Pehlivan, but kept
-    İmamoğlu and 37 others in custody; the next hearing is on 4 January 2027.
-  update_date: 2026-11-13
+    İmamoğlu and 37 others in custody; the next hearing is on 4 January 2027. In mid-November police
+    raided Sözcü TV and the authorities put it under a government-appointed trustee, the third such
+    takeover of an opposition broadcaster in a year, and on 22 November thousands marched in Istanbul
+    against the crackdown at a rally called by the opposition Yeni Parti. On 25 November Erdoğan
+    received Khalifa Haftar, the eastern Libyan commander Turkey fought against in 2019 and 2020, on
+    his first official visit to Turkey.
+  update_date: 2026-11-26
   sources_extra:
+    - {label: "France 24 (AFP): Thousands rally in Istanbul against Turkey's crackdown on opposition and media", url: "https://www.france24.com/en/asia-pacific/20261123-istanbul-turkey-crackdown-opposition-media-turkey"}
+    - {label: "Arab News (AFP): Eastern Libya leader Haftar visits Erdogan in Turkiye as ties thaw", url: "https://www.arabnews.com/middle-east/eastern-libya-leader-haftar-visits-erdogan-in-turkiye-as-ties-thaw-3014006"}
     - {label: "Turkish Minute: Turkish court frees Istanbul mayor's lawyer, 7 others in corruption trial", url: "https://turkishminute.com/2026/11/13/turkish-court-frees-istanbul-mayors-lawyer-7-others-in-corruption-trial/"}
     - {label: "Turkish Minute: Jailed Istanbul mayor İmamoğlu sentenced to 2 years in insult case", url: "https://www.turkishminute.com/2026/09/11/jailed-istanbul-mayor-imamoglu-sentenced-to-2-years-in-insult-case/"}
 

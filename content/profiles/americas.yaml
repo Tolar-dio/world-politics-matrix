@@ -175,9 +175,17 @@ CAN:
     On 19 October Albertans voted by about three to one to stay in Canada in a provincial referendum, a result
     Prime Minister Mark Carney hailed as a choice for unity. On 23 October Trump said he would lift some of his
     50 percent tariffs on Canadian goods while adding new tariffs on dozens of other products, and on 26 October
-    Carney said trade talks had picked up because Washington was moving toward Canada's position.
-  update_date: 2026-10-26
+    Carney said trade talks had picked up because Washington was moving toward Canada's position. On 17
+    November Carney met Xi Jinping in Shenzhen and agreed further tariff relief for Canadian farm and
+    seafood exports. On 23 November a Pentagon fact sheet accused Canada of falling short as a partner in
+    defending North America; Carney replied that Trump had not raised the issue and that Canada is on
+    track for NATO's spending target. His bill to fast-track major projects, C-39, cleared committee
+    that week over protests from environmental, labour and Indigenous groups.
+  update_date: 2026-11-26
   sources_extra:
+    - {label: "US News (AP): Carney says Trump hasn't raised concerns about Canada's military in the wake of Pentagon rebuke", url: "https://www.usnews.com/news/us/articles/2026-11-25/carney-says-trump-hasnt-raised-concerns-about-canadas-military-in-the-wake-of-pentagon-rebuke"}
+    - {label: "Prime Minister of Canada: Carney advances Canada's strategic partnership with China", url: "https://www.pm.gc.ca/en/news/news-releases/2026/11/17/prime-minister-carney-advances-canadas-strategic-partnership-china"}
+    - {label: "Canada's National Observer: Carney's bill to fast-track industrial development leaps closer to law", url: "https://www.nationalobserver.com/2026/11/24/news/carney-fast-track-law-c-39-final-stages"}
     - {label: "PBS (AP): Alberta voters reject independence from Canada", url: "https://www.pbs.org/newshour/world/alberta-voters-reject-independence-from-canada-in-victory-for-carney"}
     - {label: "ABC News (AP): Carney says Trump moving closer to Canada's trade demands", url: "https://abcnews.com/Business/wireStory/carney-trump-moving-closer-canadas-trade-demands-midterms-137585685"}
 
