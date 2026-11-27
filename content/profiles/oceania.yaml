@@ -142,16 +142,20 @@ NZL:
   system: const-monarchy
   story: election
   snapshot: >-
-    The 7 November 2026 election was too close to call on the night: Christopher Luxon's National was narrowly the largest party and his coalition ahead on preliminary seats, with special votes due by 27 November.
-  tags: [Election too close to call, Māori politics, Farming exports, All Blacks]
+    The final count of the 7 November 2026 election left Christopher Luxon's coalition one seat short of a majority, making the new centrist Opportunity Party the key to whether he keeps power.
+  tags: [Hung parliament, Māori politics, Farming exports, All Blacks]
   culture: >-
     Māori culture is central to national identity: the haka, performed by the All Blacks before matches, te reo Māori, now widely used in public life, and marae, community meeting grounds. Rugby is a national passion. The landscapes that starred in "The Lord of the Rings" drive tourism.
   society: >-
     Dairy, meat and wine exports and tourism drive the economy. The Treaty of Waitangi, signed in 1840 between the Crown and Māori chiefs, shapes law and politics; a 2024 bill to redefine it sparked a huge hīkoi protest march. Housing is expensive, and many young people move to Australia.
   update: >-
-    Preliminary results from the 7 November election put Christopher Luxon's National, ACT and NZ First coalition on course to govern with a majority of about two seats, with National and Labour both below 30 percent for the first time. The Opportunity Party entered parliament for the first time. Special and overseas votes, about a seventh of the total and usually leaning left, are counted before the official result on 27 November and could erase the majority, which might force Luxon to seek Opportunity's support. ACT and NZ First are pressing for more ministries, with NZ First calling control of immigration 'imperative'.
-  update_date: 2026-11-09
+    Official results released on 27 November erased the coalition's majority: National won 40 seats (two fewer than on election night), ACT 13 and New Zealand First 12, a total of 65 in a 130-seat parliament, one short of the 66 needed. Labour has 36, the Greens 17, Te Pāti Māori 5 and the new centrist Opportunity Party, led by Qiulae Wong, 7, so a left-wing government is impossible even with Opportunity. Luxon, who ruled out Opportunity before the vote, now says he is confident of a deal and that talks could take time; Wong says she will talk to National first, has five policy bottom lines including tougher competition law, lobbying limits and an end to bottom trawling, and refuses to serve in a government with Winston Peters as foreign minister. If no agreement is reached, a fresh election is possible. Recount applications are due within three working days.
+  update_date: "2026-11-27"
   sources_extra:
+    - {label: "Electoral Commission: 2026 General Election official results", url: "https://elections.nz/media-and-news/2026/2026-general-election-official-results"}
+    - {label: "CNA (Reuters): New Zealand's ruling coalition falls just short of majority in final election count", url: "https://www.channelnewsasia.com/world/new-zealand-ruling-coalition-majority-elections-6586571"}
+    - {label: "RNZ: Election 2026 final results, coalition loses majority", url: "https://www.rnz.co.nz/news/politics_election-2026/2820329/election-2026-final-results-coalition-loses-majority-another-election-possible"}
+    - {label: "Euronews (AP): Newcomer centrist party holds the key as Luxon scrambles for a majority", url: "http://www.euronews.com/2026/11/27/new-zealand-election-newcomer-centrist-party-holds-the-key-as-luxon-scrambles-for-a-majori"}
     - {label: "Internazionale (Reuters): Analysis, New Zealand's Luxon on course for second term, but weaker hand in coalition", url: "https://www.internazionale.it/ultime-notizie-reuters/2026/11/09/analysis-new-zealand-s-luxon-on-course-for-second-term-but-weaker-hand-in-coalition"}
     - {label: "Yahoo News (dpa): New Zealand election too close to call as count continues", url: "https://www.yahoo.com/news/world/articles/zealand-election-too-close-call-111831623.html"}
     - {label: "Al Jazeera (Reuters): Governing party ahead in early results of New Zealand's knife-edge vote", url: "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results"}

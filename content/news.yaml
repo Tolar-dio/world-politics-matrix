@@ -1,5 +1,143 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-27'
+  countries: [NZL]
+  category: political
+  headline: "New Zealand's final count strips Luxon's coalition of its majority, leaving the Opportunity Party holding the balance"
+  summary: "Official results from the 7 November election, released by the Electoral Commission on 27 November after about 485,000 special votes were counted, gave National 40 seats (down two from election night), ACT 13 and New Zealand First 12, a total of 65 in a 130-seat parliament, one short of a majority. Labour has 36, the Greens 17 and Te Pāti Māori 5, and the new centrist Opportunity Party, led by Qiulae Wong, won 7. Luxon, who had ruled out working with Opportunity before the vote, said he was confident of forming a government but that talks 'could take some time', and Wong said she would negotiate first with National. It matters because a left-wing government is not possible even with Opportunity's support, so the choice is a deal with Wong or a fresh election; recount applications are due within three working days."
+  sources:
+  - {label: "Electoral Commission: 2026 General Election official results", url: "https://elections.nz/media-and-news/2026/2026-general-election-official-results"}
+  - {label: "CNA (Reuters): New Zealand's ruling coalition falls just short of majority in final election count", url: "https://www.channelnewsasia.com/world/new-zealand-ruling-coalition-majority-elections-6586571"}
+  - {label: "RNZ: Election 2026 final results, coalition loses majority, another election possible", url: "https://www.rnz.co.nz/news/politics_election-2026/2820329/election-2026-final-results-coalition-loses-majority-another-election-possible"}
+  - {label: "Euronews (AP): Newcomer centrist party to decide as Luxon scrambles for a majority", url: "http://www.euronews.com/2026/11/27/new-zealand-election-newcomer-centrist-party-holds-the-key-as-luxon-scrambles-for-a-majori"}
+- date: '2026-11-26'
+  countries: [KWT, ITA, IRN]
+  category: military
+  conflict: iran-war-2026
+  headline: "Drones strike an air defence site in Kuwait, killing two Italian technicians, and Iran denies it was behind the attack"
+  summary: "Kuwait's defence ministry said on 26 November that drones from Iran were detected and intercepted over a 'vital site' and that falling debris hurt four people; two Italians later died and a Kuwaiti and a Pakistani were wounded. Italy said the dead were Rheinmetall Italia technicians working at an air defence surveillance station. Iran's armed forces spokesman denied any Iranian operation and blamed a US and Israeli 'false flag', and Foreign Minister Abbas Araghchi offered Kuwait and Italy a joint investigation; Italy's Antonio Tajani said Kuwaiti checks showed the drone was made in Iran and may have been launched by a proxy group. It matters because Europeans are now being killed in the Gulf war, and EU Commission President Ursula von der Leyen called for more pressure on Tehran."
+  sources:
+  - {label: "BBC: Two Italians killed in strike in Kuwait, as Iran denies responsibility", url: "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o"}
+  - {label: "Al Jazeera: Two Italians killed by drone strike debris in Kuwait", url: "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait"}
+  - {label: "CBC News (Reuters): Iran denies involvement after 2 Italian technicians killed in attack on Kuwait site", url: "https://www.cbc.ca/news/world/italian-workers-killed-kuwait-iran-strike-9.7437089"}
+  - {label: "Iran Foreign Ministry: FM Araghchi rejects claims of Iranian role in Kuwait drone incident", url: "https://en.mfa.ir/portal/newsview/798399"}
+  - {label: "Il Sole 24 Ore: Tajani speaks to Araghchi", url: "https://en.ilsole24ore.com/art/israeli-air-strikes-kill-8-people-in-gaza-AJOwSBTC"}
+- date: '2026-11-26'
+  countries: [SAU, YEM, NPL]
+  category: military
+  conflict: yemen-civil-war
+  headline: "A Houthi strike on Saudi Aramco's Jazan refinery kills a Nepali worker, and the coalition says it hit 50 Houthi targets"
+  summary: "A 'hostile aerial projectile' hit the Jazan refinery on 26 November, killing a Nepali worker, injuring several others, starting a fire that was put out and halting some operations, Saudi Arabia's energy ministry said. The Saudi-led coalition blamed the Houthis, said it destroyed the ballistic missile launcher used in the attack at Hodeidah, and late that night said it had destroyed 50 'legitimate military targets' in Sanaa, Hodeidah and Saada governorates without giving details. It matters because the Jazan refinery is built to process up to 400,000 barrels a day, and the exchange of strikes on Saudi ports, refineries and cities and on Houthi-held Yemen is escalating day by day."
+  sources:
+  - {label: "SPA: Energy Ministry, worker killed, others injured in aerial projectile attack on Jazan refinery", url: "https://www.spa.gov.sa/en/N2737172"}
+  - {label: "Khaleej Times (Reuters): 1 killed, operations halted after attack on Saudi's Jazan Aramco refinery", url: "https://www.khaleejtimes.com/world/gulf/saudi-arabia-jazan-aramco-refinery-attack-death-operations-halt"}
+  - {label: "Al Arabiya: Jazan refinery attacked by Yemen's Houthi militia, Saudi-led coalition says", url: "https://english.alarabiya.net/News/saudi-arabia/2026/11/26/jazan-refinery-attacked-by-yemen-s-houthi-militia-saudiled-coalition-says"}
+  - {label: "A News (Anadolu): Saudi-led coalition says it destroyed 50 Houthi military targets across Yemen", url: "https://www.anews.com.tr/middle-east/2026/11/26/saudi-led-coalition-says-it-destroyed-50-houthi-military-targets-across-yemen"}
+- date: '2026-11-26'
+  countries: [NER]
+  category: military
+  conflict: sahel-jihadist-insurgency
+  headline: "Gunmen kill at least 13 National Guard members at Sanam in western Niger"
+  summary: "A large group of heavily armed assailants attacked a National Guard position at Sanam, in the Tillaberi region near the Mali border, on 26 November, killing at least 13 guards and wounding 20, some seriously, Niger's defence ministry said in a statement on state television, calling the toll provisional. The guards belonged to the anti-jihadist Operation Almahaou; the ministry said several attackers were killed and a search was under way. No group has claimed it. It matters because it came two days after 11 soldiers were killed near Baroua in the Lake Chad area, in an attack blamed on Boko Haram, and Tillaberi was the deadliest region of the central Sahel in 2025, according to ACLED."
+  sources:
+  - {label: "Al Jazeera: At least 13 Niger soldiers killed in Sanam armed attack", url: "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack"}
+  - {label: "TV5Monde (AFP): Niger, le ministère de la Défense annonce la mort de 13 gardes", url: "https://information.tv5monde.com/afrique/niger-le-ministere-de-la-defense-annonce-la-mort-de-13-gardes-nigeriens-dans-une-attaque-terroriste-2847211"}
+  - {label: "ABC News (AP): Armed group kills 13 soldiers in western Niger attack, defense ministry says", url: "https://abcnews.com/International/wireStory/armed-group-kills-13-soldiers-western-niger-attack-138477943"}
+- date: '2026-11-26'
+  countries: [GNB]
+  category: political
+  headline: "Guinea-Bissau's junta puts off elections until November 2028, on the first anniversary of its coup"
+  summary: "Transitional President General Horta Inta-A signed a decree on 26 November moving presidential and legislative elections from 6 December 2026 to 26 November 2028, saying the technical, material and financial conditions for a credible vote were not in place. The army seized power on 26 November 2025, three days after general elections and before results were announced, and had promised a one-year transition. It matters because it stretches military rule to three years in a country beset by coups and attempted coups since independence in 1974, and puts the junta at odds with the timetable West African leaders have pressed for."
+  sources:
+  - {label: "AP: Guinea-Bissau's military junta postpones elections until 2028", url: "https://apnews.com/article/bissau-elections-guineabissau-2d79de9288a79740c0bce093c004a14c"}
+  - {label: "Al Jazeera (AFP, Reuters): Guinea-Bissau presidential election delayed by two years", url: "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years"}
+  - {label: "DW: Guinea-Bissau junta puts off election for another 2 years", url: "https://www.dw.com/en/guinea-bissau-junta-delays-presidential-vote-for-2-years/a-80068910"}
+- date: '2026-11-26'
+  countries: [USA, RUS, UKR]
+  category: diplomatic
+  conflict: russia-ukraine-war
+  headline: "Trump says he urged Putin to pull back 'all military aggression' in Europe, but rewrites a joint NATO statement to warn Ukraine too"
+  summary: "After meeting NATO Secretary General Mark Rutte at Mar-a-Lago on 25 November, the White House and NATO issued an agreed statement on the importance of 'Russia avoiding any actions that intentionally, or unintentionally, expand the war'. Hours later Trump posted his own version on Truth Social saying 'Russia and Ukraine' must avoid such actions, and a NATO official told Politico the original text was the one both sides had agreed. In a second post Trump said he had told Putin in Shenzhen that he wanted him to 'pull back all Military aggression against territories throughout Europe' and that a deal was 'a strong possibility'. It matters because the change came days after Ukraine struck a Russian warship in a Libyan port, and Kremlin spokesman Dmitry Peskov said talk of escalation referred to Kyiv; NATO foreign ministers meet on 2 December."
+  sources:
+  - {label: "NATO: Joint statement by the President of the United States and the NATO Secretary General", url: "https://www.nato.int/en/news-and-events/articles/news/2026/11/26/joint-statement-by-the-president-of-the-united-states-of-america-and-the-nato-secretary-general"}
+  - {label: "Politico Europe: Trump diverges from NATO statement, emphasizing Ukraine mustn't expand war", url: "https://www.politico.eu/article/donald-trump-diverges-from-nato-statement-emphasizing-ukraine-mustnt-expand-war"}
+  - {label: "Kyiv Independent: Trump tells Putin to 'pull back all military aggression' across Europe", url: "https://kyivindependent.com/trump-tells-putin-to-pull-back-all-military-aggression-across-europe/"}
+  - {label: "Le Monde (AFP): Trump urges Putin to end 'military aggression' in Europe", url: "https://www.lemonde.fr/en/international/article/2026/11/27/trump-urges-putin-to-end-military-aggression-in-europe_6789697_4.html"}
+- date: '2026-11-26'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Russian attacks kill six and cut power in six Ukrainian regions, as Zelensky warns another mass strike is coming"
+  summary: "Russian attacks killed six people, including an 86-year-old woman in Kharkiv region, and injured 25 across Ukraine over the day to 27 November, regional officials said, and strikes on substations left consumers in six regions without power, worst of all in Dnipropetrovsk and Kherson, according to the energy ministry. The air force said Russia launched 155 drones overnight, 83 of them jet-powered. On 26 November Zelensky said intelligence showed Russia preparing another large strike on energy and logistics, and Ukraine's General Staff said it hit the Subkhankulovo oil pumping station in Bashkortostan and the Marinovka air base in Volgograd region. It matters because both sides are escalating attacks on energy systems as winter sets in."
+  sources:
+  - {label: "Kyiv Independent: Russian attacks kill 6, injure 25 across Ukraine over past day, power outages across 6 oblasts", url: "https://kyivindependent.com/russian-attacks-kill-6-injure-25-across-ukraine-over-past-day-power-outages-across-6-oblasts/"}
+  - {label: "Kyiv Independent: Ukraine strikes Russian oil station in Bashkortostan, air field in Volgograd Oblast, General Staff confirms", url: "https://kyivindependent.com/2-russian-oil-facilities-reportedly-on-fire-in-bashkortostan-and-samara-oblast/"}
+  - {label: "Kyiv Independent: Russia prepares new mass attack on Ukraine's energy infrastructure, Zelensky says", url: "https://kyivindependent.com/russia-prepares-new-mass-attack-on-ukraines-energy-infrastructure-zelensky-says/"}
+- date: '2026-11-26'
+  countries: [ARM, RUS]
+  category: diplomatic
+  headline: "Pashinyan says Russian border guards will leave Armenia 'in the coming years', ending a presence dating from 1992"
+  summary: "Prime Minister Nikol Pashinyan told a briefing on 26 November that Armenia should take full responsibility for guarding its borders in the coming years, thanking the Russian FSB border guards who have patrolled its frontiers with Turkey and Iran under a 1992 treaty; he gave no date. Russian officers already left Yerevan's airport in 2024 and the main crossings with Iran and Turkey in 2025, but still help guard the rest of those borders. Pashinyan also confirmed a visit to Moscow on 3 December. It matters because it would remove one of the most visible symbols of Russia's security role in Armenia, after Yerevan froze its part in the Russian-led CSTO."
+  sources:
+  - {label: "Kyiv Independent: Armenia plans full withdrawal of Russian border guards in coming years", url: "https://kyivindependent.com/armenia-plans-full-withdrawal-of-russian-border-guards-in-coming-years-prime-minister-says"}
+  - {label: "Meduza: Russian border guards will be completely withdrawn from Armenia in the coming years", url: "https://meduza.io/en/news/2026/11/26/russian-border-guards-will-be-completely-withdrawn-from-armenia-in-the-coming-years-says-armenian-prime-minister-they-have-been-stationed-there-since-1992"}
+  - {label: "Novaya Gazeta Europe: Armenian prime minister announces withdrawal of Russian border guards", url: "https://novayagazeta.eu/en/articles/2026/11/26/armenian-prime-minister-announces-withdrawal-of-russian-border-guards-from-the-country-en-news"}
+  - {label: "LIGA.net: Pashinyan announced the withdrawal of Russian border guards from Armenia", url: "https://news.liga.net/en/world/news/armenias-prime-minister-announced-the-complete-replacement-of-russian-border-guards-with-his-own"}
+- date: '2026-11-26'
+  countries: [ISR]
+  category: political
+  thread: israel-after-netanyahu
+  headline: "Eisenkot signs coalition deals with Liberman and the Democrats and reaches draft principles with United Torah Judaism"
+  summary: "Gadi Eisenkot's Yashar announced a coalition agreement with Yair Golan's Democrats on 26 November, after a preliminary deal with Avigdor Liberman's Yisrael Beytenu reported to give it the defence ministry. Kan reported that Yashar and United Torah Judaism agreed principles for a Haredi draft law that would scrap enlistment quotas, tighten checks that exempt yeshiva students are studying, add new service tracks and have rabbis call on those not studying to enlist, and Degel HaTorah's rabbis cleared formal talks, with lawyers due to meet on 29 November. Eisenkot aims for a Knesset vote next week, before his mandate runs out on 6 December; Naftali Bennett postponed his own talks with Eisenkot to Sunday. It matters because a deal with UTJ would give Eisenkot a path to replace Netanyahu without relying on Arab parties' votes."
+  sources:
+  - {label: "Times of Israel: Eisenkot edges closer to government as his party announces coalition deal with Democrats", url: "https://www.timesofisrael.com/eisenkot-edges-closer-to-government-as-his-party-announces-coalition-deal-with-democrats"}
+  - {label: "Jerusalem Post: Eisenkot's Yashar agrees to exempt haredi students from draft as prelude to negotiations, report", url: "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916291"}
+  - {label: "Times of Israel: Report, Yashar and UTJ reach agreement on key principles of Haredi draft law", url: "https://www.timesofisrael.com/liveblog_entry/report-yashar-utj-reach-agreement-on-key-principles-of-haredi-draft-law"}
+  - {label: "Jerusalem Post: Likud says Eisenkot likely to form government without Netanyahu's party", url: "http://www.jpost.com/israel-news/politics-and-diplomacy/article-916196"}
+  - {label: "Times of Israel: Bennett said to postpone coalition talks with Eisenkot over military service demands", url: "https://www.timesofisrael.com/liveblog_entry/bennett-said-to-postpone-coalition-talks-with-eisenkot-over-military-service-demands"}
+  - {label: "Jerusalem Post: Mansour Abbas says an Eisenkot-led government would include Ra'am and UTJ", url: "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916254"}
+- date: '2026-11-26'
+  countries: [ETH, ERI]
+  category: diplomatic
+  conflict: ethiopia-eritrea-standoff
+  thread: horn-of-africa
+  headline: "Abiy tells Eritrea to stop arming Ethiopia's enemies or face 'destruction', while ruling out an invasion for sea access"
+  summary: "Prime Minister Abiy Ahmed told Ethiopia's parliament on 26 November that he wanted two things from Eritrea: to stop arming and acting as a supply line for Ethiopia's enemies, and to work with Ethiopia on joint development, saying Asmara had rejected offers of cheap electricity and joint roads and ports. 'Destruction will fall upon Eritrea, if Shaebia remains a force mired in incorrigible mistakes,' the state news agency ENA quoted him as saying, using a common name for Eritrea's ruling party. He said Ethiopia would not invade for Red Sea access and wanted it through dialogue, but that it would win if war came. It matters because the two armies are massed within striking distance along the border, according to ACLED and Crisis Group, with reported drone strikes around Badme this month."
+  sources:
+  - {label: "Addis Standard: 'Stop arming Ethiopia's enemies', Abiy tells Eritrea", url: "https://addisstandard.com/stop-arming-ethiopias-enemies-abiy-tells-eritrea-says-addis-abeba-seeks-red-sea-access-through-dialogue/"}
+  - {label: "ENA: PM Abiy urges Eritrea to stop arming Ethiopia's adversaries, calls for joint development", url: "https://www.ena.et/web/eng/w/eng_9989081"}
+  - {label: "bne IntelliNews: Ethiopia's Abiy accuses Eritrea of arming rebels, warns of consequences as border troops mass", url: "https://www.intellinews.com/ethiopia-s-abiy-accuses-eritrea-of-arming-rebels-warns-of-consequences-as-border-troops-mass-488766"}
+- date: '2026-11-26'
+  countries: [ARG]
+  category: political
+  headline: "Argentina's Congress bans the central bank from printing money for the state, and the Senate votes to suspend the 2027 primaries"
+  summary: "The Chamber of Deputies voted 141 to 0, with 99 abstentions, on 26 November to accept the Senate's changes to the central bank's charter, making it law: the bank's main mission becomes preserving the value of the peso, and it may no longer lend to any level of government or finance the Treasury. The same day the Senate passed Javier Milei's electoral reform 43 to 29, suspending the open primaries (PASO) for next year's elections, adding 'Ficha Limpia' rules that bar candidates convicted of corruption by two courts, and scrapping the mandatory first-round presidential debate; it now goes to the lower house. It matters because Milei faces a reelection race in October 2027 with the economy in a technical recession, and the Peronist opposition, which relies on primaries to settle its divisions, accuses him of changing the rules to help himself."
+  sources:
+  - {label: "ABC News (AP): Argentina bans its central bank from printing money for the government", url: "https://abcnews.com/International/wireStory/argentina-bans-central-bank-printing-money-government-138472438"}
+  - {label: "Buenos Aires Times (Bloomberg): Senate approves bill to suspend primaries in boost for Milei", url: "https://www.batimes.com.ar/news/economy/senate-approves-bill-to-suspend-primaries-in-boost-for-milei.phtml"}
+  - {label: "Buenos Aires Herald: Senate approves Milei's political reform bill postponing primaries for 2027", url: "https://buenosairesherald.com/politics/senate-approves-mileis-political-reform-bill-postponing-primaries-for-2027"}
+  - {label: "Infobae: Diputados convirtió en ley la reforma de la Carta Orgánica del Banco Central", url: "https://www.infobae.com/politica/2026/11/26/diputados-convirtio-en-ley-la-reforma-de-la-carta-organica-del-banco-central"}
+- date: '2026-11-26'
+  countries: [COD]
+  category: humanitarian
+  thread: congo-war
+  headline: "Congo's Ebola outbreak passes 12,000 confirmed cases as fighting hampers the response"
+  summary: "Congo's health ministry reported 12,021 confirmed cases of Ebola caused by the Bundibugyo virus and 5,904 deaths as of 25 November, ECDC said, making it the fastest-growing Ebola outbreak on record, according to AP. Cases have been confirmed in eight provinces since May, and fighting between rebels and the army in Ituri and North Kivu has trapped health workers and forced some responders to leave. It matters because the outbreak has also spread to Uganda, Kenya and Nigeria, and insecurity is making it harder to trace contacts and treat patients early."
+  sources:
+  - {label: "AP: Ebola outbreak in Congo reaches 12,000 cases", url: "https://apnews.com/article/congo-ebola-outbreak-violence-0a0bc05d76d3278319472178a16be14b"}
+  - {label: "ECDC: Ebola disease, multi-country outbreak 2026", url: "https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026"}
+  - {label: "CDC: Ebola outbreak, current situation", url: "https://www.cdc.gov/ebola/situation-summary/index.html"}
+- date: '2026-11-25'
+  countries: [SYR]
+  category: military
+  conflict: syria-transition-conflict
+  headline: "An Islamic State suicide attack on a security post in Hasakah kills two Syrian police"
+  summary: "Four Islamic State militants on motorcycles attacked an Internal Security Forces headquarters in the Mushairfa neighbourhood of Hasakah on the evening of 25 November, killing two security personnel and wounding five, Syrian authorities said; one attacker set off explosives at the entrance, a second blew himself up and the other two were killed in clashes. Hasakah's internal security commander, Brigadier General Marwan al-Ali, said preliminary investigations pointed to an IS cell. It matters because IS declared a new campaign against President Ahmed al-Sharaa's government in February and has kept up attacks on security forces in the north and east, testing Damascus's hold on the northeast."
+  sources:
+  - {label: "US News (Reuters): Islamic State attack kills two Syrian security personnel in Hasaka", url: "https://www.usnews.com/news/world/articles/2026-11-25/islamic-state-attack-kills-two-syrian-security-personnel-in-hasaka-state-media-says"}
+  - {label: "Al Jazeera: Two Syrian security personnel killed in ISIL suicide attack", url: "https://www.aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack"}
+  - {label: "SANA: Hasakah governor condemns ISIS attack", url: "https://sana.sy/en/syria/2361940"}
+  - {label: "SANA: Egypt, UAE condemn terrorist attack on Interior Ministry headquarters in Hasakah", url: "https://sana.sy/en/politics/2362161/"}
 - date: '2026-11-26'
   countries: [ARE, JOR, IRN, OMN]
   category: military
@@ -4371,6 +4509,15 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2026-12-02'
+  countries: [USA]
+  event: "NATO foreign ministers meet in Brussels"
+- date: '2026-12-03'
+  countries: [ARM, RUS]
+  event: "Armenian Prime Minister Nikol Pashinyan visits Moscow"
+- date: '2026-11-30'
+  countries: [IND]
+  event: "Special sitting of India's parliament opens; the government is expected to revive a constitutional amendment on delimitation"
 - date: '2026-12-01'
   countries: [IRQ]
   event: "National dialogue in Baghdad, hosted by top judge Faiq Zaidan, on the constitutional dispute between the federal government and the Kurdistan Regional Government"

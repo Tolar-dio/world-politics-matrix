@@ -69,12 +69,11 @@ ARM:
   society: >-
     Armenia lost Nagorno-Karabakh to Azerbaijan in 2023, and more than 100,000 Armenians fled. Pashinyan has moved away from Russia, freezing membership of its military alliance. Remittances, IT and re-exports to Russia have powered growth. His feud with the Church's leadership led to arrests of senior clergy.
   update: >-
-    On 23 November Pashinyan launched construction of the US-backed TRIPP corridor in Syunik and
-    unveiled a draft constitution that drops the reference to the 1990 independence declaration,
-    which Azerbaijan reads as a claim to Karabakh and wants removed before it signs the peace
-    treaty. He has promised to resign if voters reject it in a referendum.
-  update_date: 2026-11-23
+    On 23 November Pashinyan launched construction of the US-backed TRIPP corridor in Syunik and unveiled a draft constitution that drops the reference to the 1990 independence declaration, which Azerbaijan reads as a claim to Karabakh and wants removed before it signs the peace treaty. He has promised to resign if voters reject it in a referendum. On 26 November he said Armenia would take over all border guarding from Russia's FSB border service in the coming years, ending a role that dates from 1992 and confirmed a visit to Moscow on 3 December.
+  update_date: "2026-11-26"
   sources_extra:
+    - {label: "Kyiv Independent: Armenia plans full withdrawal of Russian border guards in coming years", url: "https://kyivindependent.com/armenia-plans-full-withdrawal-of-russian-border-guards-in-coming-years-prime-minister-says"}
+    - {label: "LIGA.net: Pashinyan announced the withdrawal of Russian border guards from Armenia", url: "https://news.liga.net/en/world/news/armenias-prime-minister-announced-the-complete-replacement-of-russian-border-guards-with-his-own"}
     - {label: "The New Arab (AFP): Armenia unveils draft constitution in push for peace with Azerbaijan", url: "https://www.newarab.com/news/armenia-unveils-draft-constitution-peace-azerbaijan"}
     - {label: "Anadolu: Armenia launches work on Trump-backed transport route linking Azerbaijan to Nakhchivan", url: "https://www.aa.com.tr/en/eurasia/armenia-launches-work-on-trump-backed-transport-route-linking-azerbaijan-to-nakhchivan/4134591"}
     - {label: "Moscow Times: CSTO strips Armenia of voting rights", url: "https://www.themoscowtimes.com/2026/11/11/csto-strips-armenia-of-voting-rights-a94231"}

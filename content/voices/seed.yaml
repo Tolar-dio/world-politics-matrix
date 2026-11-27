@@ -44,6 +44,7 @@ ISR:
   leader:
     - {date: "2026-11-11", who: "Gadi Eisenkot, prime minister-designate", text: "On whether to return to war with Iran: “I will not allow even a millimetre's deviation from security considerations.”", source: "The National", url: "https://www.thenationalnews.com/news/mena/2026/11/11/eisenkot-says-israel-should-not-return-to-war-for-now/"}
   press:
+    - {date: "2026-11-26", who: "Jerusalem Post", text: "Reported that Yashar agreed to exempt yeshiva students from the draft, with more checks on those not studying, as a prelude to formal coalition talks with United Torah Judaism.", source: "Jerusalem Post", url: "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916291"}
     - {date: "2026-11-17", who: "Times of Israel", text: "Led with the Knesset electing Yashar's Matan Kahana as speaker by 66 votes to 52 after a six-hour filibuster, a boost to Eisenkot's bloc.", source: "Times of Israel", url: "https://www.timesofisrael.com/knesset-votes-66-52-to-elect-yashars-matan-kahana-as-speaker-in-boost-to-eisenkot-bloc/"}
     - {date: "2026-11-10", who: "Israel Hayom", text: "Reported Eisenkot breaking off coalition talks with Likud after Netanyahu's speech in the Knesset.", source: "Israel Hayom", url: "https://www.israelhayom.com/2026/11/10/eisenkot-cancels-likud-coalition-talks-over-netanyahus-knesset-speech"}
   abroad:
@@ -111,3 +112,11 @@ ESP:
     - {date: "2026-11-17", who: "El País", text: "Reported its 40dB poll showing Vox stalling and losing ground to the PP, with the Socialists a little over a point behind the PP.", source: "El País", url: "https://elpais.com/espana/elecciones-generales/2026-11-17/vox-se-frena-y-cede-terreno-al-pp.html"}
   abroad:
     - {date: "2026-11-22", who: "Euronews", text: "Reported that all four polls published a week before the vote put the PP first and a PP-Vox majority within reach.", source: "Euronews", url: "https://www.euronews.com/2026/11/22/polls-put-spains-pp-ahead-of-psoe-a-week-before-29-november-election"}
+
+NZL:
+  leader:
+    - {date: "2026-11-27", who: "Christopher Luxon, prime minister, after the final count", text: "“New Zealanders need a government that is stable, that works together and will last for the full term.”", source: "CNA (Reuters)", url: "https://www.channelnewsasia.com/world/new-zealand-ruling-coalition-majority-elections-6586571"}
+  press:
+    - {date: "2026-11-27", who: "RNZ", text: "Led with the final count erasing the coalition's majority, leaving Luxon reliant on the Opportunity Party to avoid a return to the polls, while Labour still has no path to power.", source: "RNZ", url: "https://www.rnz.co.nz/news/politics_election-2026/2820329/election-2026-final-results-coalition-loses-majority-another-election-possible"}
+  abroad:
+    - {date: "2026-11-27", who: "Al Jazeera", text: "Framed the result as setting up tricky talks for the conservative incumbent, with Opportunity's seven seats positioned as kingmaker.", source: "Al Jazeera", url: "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent"}

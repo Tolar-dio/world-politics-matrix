@@ -608,14 +608,14 @@ GNB:
   religion: Muslim about 46%, Christian about 22%, traditional faiths
   system: military
   snapshot: >-
-    The army seized power in November 2025 on the eve of election results, the latest of many coups in a country known as a cocaine transit hub.
+    The army seized power in November 2025 and has now put off elections until November 2028, in a country known for coups and as a cocaine transit hub.
   tags: [Coup-prone, Cashew exports, Drug transit, Lusophone]
   culture: >-
     Guinea-Bissau's Kriol, a Portuguese-based creole, unites some 20 ethnic groups. The Bijagós archipelago, a UNESCO biosphere reserve, preserves matrilineal traditions in which women traditionally choose their husbands. Gumbé music and the February carnival in Bissau mix Portuguese and African influences.
   society: >-
     Cashew nuts make up most exports and employ much of the rural population. The country has had more coups and attempts than almost any other since independence from Portugal in 1974. Weak institutions have made it a transit point for South American cocaine heading to Europe.
   baseline: >-
-    On 26 November 2025, the day before provisional results of presidential and legislative elections, officers seized power and named General Horta Inta-A, known as N'Tam, as transitional president for one year. President Umaro Sissoco Embaló left for Senegal and later Morocco. A junta-organised constitutional referendum, boycotted by the opposition, was held in late August 2026, but on 8 October the electoral commission said conditions were not met for the presidential and legislative elections set for 6 December, and Prime Minister Ilídio Vieira Té was reported to announce their postponement; no new date has been set, and the junta blocked Embaló's return and disarmed his loyalists.
+    On 26 November 2025, the day before provisional results of presidential and legislative elections, officers seized power and named General Horta Inta-A, known as N'Tam, as transitional president for what was meant to be one year. President Umaro Sissoco Embaló left for Senegal and later Morocco, and the junta has blocked his return. A constitutional referendum in late August 2026 moved the country to a stronger presidency. On 26 November 2026, the coup's first anniversary, Inta-A decreed that presidential and legislative elections due on 6 December 2026 will instead be held on 26 November 2028, saying the technical, material and financial conditions for credible elections were not in place.
   leaders: {state: "Transitional President General Horta Inta-A, since November 2025", gov: "Prime Minister Ilídio Vieira Té"}
   power: >-
     A military transition. The junta's transitional president governs by decree with an appointed
@@ -623,6 +623,8 @@ GNB:
     presidential, with a directly elected president and a prime minister answerable to parliament.
   story: unrest
   sources:
+    - {label: "AP: Guinea-Bissau's military junta postpones elections until 2028", url: "https://apnews.com/article/bissau-elections-guineabissau-2d79de9288a79740c0bce093c004a14c"}
+    - {label: "DW: Guinea-Bissau junta puts off election for another 2 years", url: "https://www.dw.com/en/guinea-bissau-junta-delays-presidential-vote-for-2-years/a-80068910"}
     - {label: "Wikipedia: Horta Inta-A", url: "https://en.wikipedia.org/wiki/Horta_Inta-A_Na_Man"}
     - {label: "eNCA (AFP): G.Bissau moves towards postponement of December general election", url: "https://www.enca.com/news/gbissau-moves-towards-postponement-december-general-election"}
     - {label: "TheNEWS: Guinea-Bissau postpones December 2026 transition elections", url: "https://thenewsnigeria.com.ng/2026/10/08/guinea-bissau-postpones-december-2026-transition-elections/"}

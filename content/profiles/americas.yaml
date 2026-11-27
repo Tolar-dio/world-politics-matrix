@@ -38,12 +38,11 @@ ARG:
   society: >-
     A century ago one of the world's richest countries, Argentina has since defaulted nine times. Poverty rose above 50 percent in early 2024 before falling as inflation eased. Peronism, the movement founded by Juan Perón, still shapes unions and politics. The pampas make it a farm superpower in beef, soy and wheat, and Vaca Muerta shale is a new oil frontier.
   update: >-
-    Monthly activity data released on 24 November imply the economy shrank about 1.8 percent in the third quarter, its second fall in a row, which economists call a technical recession (official GDP figures are due on 16 December); Economy Minister
-    Luis Caputo pointed to a 1.1 percent rebound in September. Milei is pushing the 2027 budget and
-    a bill to suspend primary elections through Congress, and was due to meet Paraguay's President
-    Pedro Alliana in Asunción on 26 November.
-  update_date: 2026-11-24
+    On 26 November Congress made law a new central bank charter that sets preserving the peso's value as the bank's main mission and bars it from financing the Treasury or lending to any level of government (Chamber of Deputies vote 141 to 0, with 99 abstentions). The same day the Senate passed Milei's electoral reform 43 to 29, suspending the PASO primaries for the 2027 elections and adding 'Ficha Limpia' rules against candidates with corruption convictions; it now needs the lower house, and Peronist governor Axel Kicillof accused Milei of changing the rules to help his reelection. Monthly data released on 24 November imply the economy shrank about 1.8 percent in the third quarter, a second straight fall that economists call a technical recession (official figures are due on 16 December), and the lower house was debating the 2027 budget.
+  update_date: "2026-11-26"
   sources_extra:
+    - {label: "ABC News (AP): Argentina bans its central bank from printing money for the government", url: "https://abcnews.com/International/wireStory/argentina-bans-central-bank-printing-money-government-138472438"}
+    - {label: "Buenos Aires Herald: Senate approves Milei's political reform bill postponing primaries for 2027", url: "https://buenosairesherald.com/politics/senate-approves-mileis-political-reform-bill-postponing-primaries-for-2027"}
     - {label: "DW (AFP): La economía de Argentina entra en recesión técnica", url: "https://www.dw.com/es/la-econom%C3%ADa-de-argentina-entra-en-recesi%C3%B3n-t%C3%A9cnica-seg%C3%BAn-estiman-los-economistas/a-80042213"}
     - {label: "Infobae: Recesión técnica, qué dijo el Gobierno tras el dato", url: "https://www.infobae.com/economia/2026/11/24/recesion-tecnica-que-dijo-el-gobierno-tras-el-dato-que-dejo-a-la-economia-con-dos-trimestres-consecutivos-de-caida"}
     - {label: "La Nueva: Milei viaja a Paraguay para reunirse con el nuevo presidente Pedro Alliana", url: "https://www.lanueva.com/nota/2026-11-25-7-8-0-milei-viaja-a-paraguay-para-reunirse-con-el-nuevo-presidente-pedro-alliana"}
