@@ -94,6 +94,10 @@ MNG:
     - {date: "2026-11-17", who: "Bernama (Malaysia)", text: "Reported the resignation announcement and noted that parliament has the final say on whether to accept it.", source: "Bernama", url: "https://www.bernama.com/en/world/news.php?id=2635605"}
 
 SRB:
+  leader:
+    - {date: "2026-11-27", who: "Radomir Saičić, Student List presidential candidate", text: "On accepting the nomination: “For years, the presidential office has been used to deepen divisions, while its constitutional powers have been exceeded.” And: “As president, I will act within the limits of my powers, publicly explain my decisions and demand the same accountability from other public office holders.”", source: "bne IntelliNews", url: "https://www.intellinews.com/serbia-s-student-list-names-chemistry-professor-radomir-saicic-as-presidential-candidate-489122"}
+  press:
+    - {date: "2026-11-27", who: "Danas", text: "Profiled the students' presidential pick, the SANU academic and chemistry professor Radomir Saičić, noting his firm line on Russia and Kosovo and a more ambivalent stance on EU membership, which he says should come only after real progress at home.", source: "Danas", url: "https://www.danas.rs/vesti/politika/radomir-saicic-kandidat-za-predsednika/"}
   abroad:
     - {date: "2026-11-17", who: "Al Jazeera", text: "Covered the student-led movement entering parliament, quoting Student List representative Aleksandar Baucal: “Changing power through non-violent and democratic means is only the first step.”", source: "Al Jazeera", url: "https://www.aljazeera.com/news/2026/11/17/election-winning-student-movement-enters-serbias-new-parliament"}
 
@@ -120,3 +124,19 @@ NZL:
     - {date: "2026-11-27", who: "RNZ", text: "Led with the final count erasing the coalition's majority, leaving Luxon reliant on the Opportunity Party to avoid a return to the polls, while Labour still has no path to power.", source: "RNZ", url: "https://www.rnz.co.nz/news/politics_election-2026/2820329/election-2026-final-results-coalition-loses-majority-another-election-possible"}
   abroad:
     - {date: "2026-11-27", who: "Al Jazeera", text: "Framed the result as setting up tricky talks for the conservative incumbent, with Opportunity's seven seats positioned as kingmaker.", source: "Al Jazeera", url: "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent"}
+
+ETH:
+  leader:
+    - {date: "2026-11-26", who: "Abiy Ahmed, prime minister, addressing parliament", text: "To Eritrea: “What do we want from the Eritrean government? Two things. First, stop arming Ethiopia’s enemies, being a supply line, and cooperating with Ethiopia’s enemies. Second, let us work together for shared development in every sphere.” On the Red Sea: “we will not wage an invasion. Invasion is not needed; we want it peacefully and through dialogue.”", source: "Addis Standard", url: "https://addisstandard.com/stop-arming-ethiopias-enemies-abiy-tells-eritrea-says-addis-abeba-seeks-red-sea-access-through-dialogue/"}
+  press:
+    - {date: "2026-11-27", who: "Addis Standard", text: "Led with Asmara's rebuttal: Eritrea's foreign ministry accused Ethiopia of using maritime diplomacy to “camouflage its irredentist ambitions”, a day after Abiy told parliament he would seek Red Sea access only through dialogue.", source: "Addis Standard", url: "https://addisstandard.com/eritrea-accuses-ethiopia-of-using-maritime-diplomacy-to-camouflage-its-irredentist-ambitions/"}
+  abroad:
+    - {date: "2026-11-26", who: "bne IntelliNews", text: "Framed the speech as Abiy accusing Eritrea of arming rebels and warning of consequences as troops mass on the border, a sign of how sharply relations between the neighbours have deteriorated.", source: "bne IntelliNews", url: "https://www.intellinews.com/ethiopia-s-abiy-accuses-eritrea-of-arming-rebels-warns-of-consequences-as-border-troops-mass-488766"}
+
+MEX:
+  leader:
+    - {date: "2026-11-26", who: "Claudia Sheinbaum, president, on the DEA's new cartel tip lines", text: "“The DEA has plenty of work to do in its own country. A lot.” And: “The first thing it should do is investigate corruption in the United States linked to organized crime, or what they call terrorist groups.”", source: "AP", url: "https://apnews.com/article/mexico-dea-cartels-tip-lines-sheinbaum-d4f6be431610f3d0c678b434accbd486"}
+  press:
+    - {date: "2026-11-27", who: "La Jornada", text: "Reported that Foreign Secretary Roberto Velasco lodged a formal complaint with US ambassador Ronald Johnson over the DEA tip lines, and that Sheinbaum insisted on security cooperation without subordination.", source: "La Jornada", url: "https://www.jornada.com.mx/noticia/2026/11/27/politica/mexico-presenta-queja-formal-ante-embajador-de-eu-por-iniciativa-de-dea-de-lineas-de-denuncia"}
+  abroad:
+    - {date: "2026-11-26", who: "Bloomberg", text: "Framed Sheinbaum's rebuke of the tip line as “interference” as the latest sign of a longstanding tension: she pushes back on what she sees as US overreach even while expanding cooperation against Mexico's most-wanted criminals.", source: "Bloomberg", url: "https://www.bloomberg.com/news/articles/2026-11-26/sheinbaum-slams-dea-s-cartel-tip-line-as-interference-in-mexico"}

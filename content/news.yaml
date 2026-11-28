@@ -1,5 +1,203 @@
 # Daily news feed. See UPDATING.md for the format. Newest first.
 news:
+- date: '2026-11-28'
+  countries: [TWN, CHN]
+  category: political
+  conflict: taiwan-strait
+  headline: "Kuomintang mayor Chiang Wan-an leads the count in Taipei as Taiwan votes in local elections"
+  summary: "Taipei mayor Chiang Wan-an of the opposition Kuomintang led the DPP's Puma Shen in the vote count in Taiwan's 'nine-in-one' local elections on 28 November, putting the KMT on course to keep the capital after a close race, Reuters reported from Taiwanese media counts; neither camp had conceded. Reuters said the DPP was on track to keep Kaohsiung and Tainan and had a narrow lead in KMT-held Taichung, while the KMT looked set to keep New Taipei. Official results, and the outcome of a referendum on abandoning the 'Nuclear-Free Homeland' policy, were still pending. It matters because the vote sets the field for the early 2028 presidential race, after the KMT won 14 of 22 cities and counties to the DPP's 5 in 2022."
+  sources:
+  - {label: "Reuters via MarketScreener: Taipei mayor leads vote count in key Taiwan local elections", url: "https://www.marketscreener.com/news/taipei-mayor-leads-vote-count-in-key-taiwan-local-elections-ce7851d9d081f02d"}
+  - {label: "Taiwan News: Chiang Wan-an leads Puma Shen in tight Taipei mayoral race", url: "https://www.taiwannews.com.tw/en/news/6482043"}
+  - {label: "Taiwan News: Ho Hsin-chun leads Johnny Chiang in tight Taichung mayoral race", url: "https://www.taiwannews.com.tw/en/news/6482062"}
+  - {label: "Taipei Times: Preliminary Taipei voter turnout hits nearly 69% as polls close", url: "https://www.taipeitimes.com/News/front/archives/2026/11/28/2003868556"}
+- date: '2026-11-28'
+  countries: [RUS, UKR]
+  category: military
+  conflict: russia-ukraine-strike-war
+  headline: "Moscow says 462 Ukrainian drones flew at its region overnight, closing Vnukovo and Domodedovo airports"
+  summary: "Moscow Mayor Sergei Sobyanin said 462 drones headed toward the Moscow region between the evening of 27 November and the morning of 28 November, and that 123 were destroyed as they approached the capital. Russia's Defence Ministry said it downed 1,246 Ukrainian drones across Russia overnight, and flights were restricted at Vnukovo, Domodedovo and airports in Kaluga, Penza, Saratov and Tambov. The Bryansk governor said a drone hit a bus in Klimovo, wounding nine, and Ukraine did not immediately comment. It matters because it is one of the largest drone raids on the Russian capital of the war, coming as Putin has promised 'inevitable' retaliation for Ukraine's long-range strikes."
+  sources:
+  - {label: "Reuters via SRN News: Russia says it downed 1,246 Ukrainian drones overnight", url: "https://srnnews.com/russia-says-it-downed-1246-ukrainian-drones-overnight"}
+  - {label: "Kyiv Independent: Ukraine reportedly launches massive attack on Moscow Oblast with 460 drones", url: "https://kyivindependent.com/ukraine-reportedly-launches-massive-attack-on-moscow-oblast-with-460-drones/"}
+  - {label: "Kyiv Post: Moscow hit by major overnight drone raid, prompting airport shutdowns", url: "https://www.kyivpost.com/post/91468"}
+- date: '2026-11-28'
+  countries: [AUS]
+  category: political
+  headline: "Liberal-National Coalition wins Victoria's state election, ending 12 years of Labor rule"
+  summary: "The ABC projected that Jess Wilson's Liberal-National Coalition had won Victoria's state election, and Labor premier Ben Carroll, who lost his own seat of Niddrie, conceded and congratulated her. Wilson, 36, will become the state's 51st premier and its first elected female premier, and the anti-immigration One Nation party was on course to add several upper house seats to the single one it won in 2022. It matters because Victoria is Australia's second most populous state and a Labor heartland, and the rout piles pressure on Prime Minister Anthony Albanese, whose approval ratings have fallen with rising living costs and interest rates."
+  sources:
+  - {label: "ABC News: Jess Wilson to become 51st Victorian premier as Coalition swept to state election victory", url: "https://www.abc.net.au/news/2026-11-28/jess-wilson-victorian-liberals-form-government-state-election/107438320"}
+  - {label: "The Guardian: Coalition projected to win Victorian election, ending 12 years of Labor government", url: "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results"}
+  - {label: "Anadolu: Coalition poised for victory in Australia's Victoria state election", url: "http://aa.com.tr/en/asia-pacific/coalition-poised-for-victory-in-australias-victoria-state-election/4141309"}
+- date: '2026-11-28'
+  countries: [AFG]
+  category: humanitarian
+  headline: "Explosion beside a school in Afghanistan's Kunar province kills seven students and injures 97"
+  summary: "A blast at a house used to store mining explosives next to a middle school in Asadabad, capital of eastern Kunar province, killed at least seven students and injured 97 people on Saturday morning, provincial officials said. The Taliban interior ministry said initial findings pointed to a depot of explosives belonging to mining companies, and an investigation is under way. It matters because it is one of the deadliest incidents involving children in Afghanistan this year and highlights lax safety around the mining boom in a border province already exposed to fighting with Pakistan."
+  sources:
+  - {label: "AP via NY1: An explosion at a school in eastern Afghanistan kills 7, wounds more than 90", url: "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/28/an-explosion-at-a-middle-school-in-eastern-afghanistan-kills-or-wounds-several-students"}
+  - {label: "Pajhwok Afghan News: 7 students martyred, 97 injured in blast near school in Kunar", url: "https://pajhwok.com/2026/11/28/7-students-martyred-97-injured-in-blast-near-school-in-kunar/"}
+  - {label: "DW: Afghanistan: Several killed in blast near middle school", url: "https://www.dw.com/en/afghanistan-several-killed-in-blast-near-middle-school/a-80084227"}
+- date: '2026-11-27'
+  countries: [USA, IRN, PLW]
+  category: military
+  conflict: iran-war-2026
+  headline: "US aircraft disable a bulk carrier running the blockade from Bandar Abbas, as a Khamenei adviser says Hormuz will stay shut"
+  summary: "CENTCOM said a US aircraft fired precision munitions at the stern of the Palau-flagged bulk carrier Pacific Archer in the Gulf of Oman on 26 November after it ignored warnings on leaving Bandar Abbas, disabling its propulsion without harming the crew. It was the sixth ship disabled since the blockade resumed in July, with 158 others turned back, and the first since Iranian officials vowed last week to break the embargo. On 27 November Mohammad Mokhber, an adviser to Supreme Leader Mojtaba Khamenei, said 'Neither will the Strait of Hormuz be reopened, nor will we allow the blockade to remain in place.' It matters because both sides are now openly committed to escalation at sea, while Iran's central bank governor admits the blockade is squeezing revenue and the rial."
+  sources:
+  - {label: "Reuters: US disables ship trying to leave Iran, as Tehran vows to confront blockade", url: "https://www.reuters.com/world/middle-east/us-disables-ship-trying-leave-iran-tehran-vows-confront-blockade-2026-11-27/"}
+  - {label: "CENTCOM: U.S. Forces Disable Commercial Vessel During Blockade Enforcement Against Iran", url: "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4660484/us-forces-disable-commercial-vessel-during-blockade-enforcement-against-iran"}
+  - {label: "Iran International: US disables first ship since Iran vowed to break blockade", url: "https://www.iranintl.com/en/202611274132"}
+  - {label: "Indian Express: Iran vows to resist US blockade, says Strait of Hormuz will remain closed", url: "https://indianexpress.com/article/world/iran-us-saudi-war-live-updates-indigo-resumes-jeddah-madinah-flights-riyadh-dammam-hormuz-bangladesh-violence-10981886/"}
+- date: '2026-11-28'
+  countries: [YEM, SAU]
+  category: military
+  conflict: yemen-civil-war
+  headline: "Houthis say a Saudi strike killed 11 people in Taiz's al-Turbah, and Saudi Arabia shoots down a Houthi cruise missile aimed at Riyadh"
+  summary: "The Houthi-run health ministry said an airstrike early on 27 November hit a cinema building in al-Turbah in Taiz province, killing at least 11 people including children; the AP could not verify the toll and the coalition did not comment. The coalition said it intercepted Houthi drones heading for Riyadh and the south on 27 November and a cruise missile fired at the Riyadh region on 28 November, while extending strikes to Saada, Hodeidah, Taiz, Lahj and Sanaa. It matters because the two sides are now trading blows on each other's capitals and civilian areas,."
+  sources:
+  - {label: "AP via ABC News: Houthis report 11 killed, including children, in an airstrike", url: "https://abcnews.com/International/wireStory/houthis-report-11-killed-including-children-airstrike-mideast-138478032"}
+  - {label: "Al Jazeera: Saudi strike kills '11 civilians' in Yemen's Taiz: Houthi media", url: "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media"}
+  - {label: "Saudi Gazette: Saudi Air Defenses intercept cruise missile fired by Houthi militia toward Riyadh region", url: "https://saudigazette.com.sa/article/666588/saudi-arabia/saudi-air-defenses-intercept-cruise-missile-fired-by-houthi-militia-toward-riyadh-region"}
+  - {label: "Asharq Al-Awsat: Coalition Steps Up Strikes to Weaken Houthi Military Capabilities", url: "https://english.aawsat.com/gulf/5346437-coalition-steps-strikes-weaken-houthi-military-capabilities"}
+- date: '2026-11-27'
+  countries: [ISR]
+  category: political
+  thread: israel-after-netanyahu
+  headline: "Eisenkot vows to form a government within eight days and accuses Likud of stalling, as Netanyahu weighs offering to serve second"
+  summary: "Prime minister-designate Gadi Eisenkot said Likud had rejected offers to intensify talks after five meetings in two weeks, refusing compromise on a state inquiry into 7 October, a universal military service law and the make-up of the government, and that he would form a government before his mandate expires on 6 December. Late on Friday, Channel 13 and the Jerusalem Post reported that Netanyahu was considering offering to serve second in a rotation, which Liberman warned could be a ploy to force another election. Bennett's B'Yachad postponed its talks with Eisenkot to Sunday over the haredi draft framework, while Degel HaTorah rabbis appear ready to approve formal talks; the bloc aims to sign all deals by 1 or 2 December. It matters because the coming week decides whether Israel gets a post-Netanyahu government, a unity deal or a path back to elections."
+  sources:
+  - {label: "Times of Israel: Eisenkot vows to form government within 8 days, accuses Likud of stalling unity talks", url: "https://www.timesofisrael.com/eisenkot-vows-to-form-government-within-8-days-accuses-likud-of-stalling-unity-talks"}
+  - {label: "Times of Israel: With options limited, PM said readying to offer Eisenkot top spot in rotational gov't", url: "https://www.timesofisrael.com/with-options-limited-pm-said-readying-to-offer-eisenkot-top-spot-in-rotational-govt"}
+  - {label: "Jerusalem Post: Haredi leaders weigh greenlighting UTJ coalition talks with Gadi Eisenkot", url: "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916321"}
+- date: '2026-11-27'
+  countries: [UKR, RUS]
+  category: military
+  conflict: russia-ukraine-war
+  headline: "Russian strike on a business in Nizhyn kills seven, as attacks kill 10 across Ukraine in a day"
+  summary: "A Russian strike on an enterprise in Nizhyn, Chernihiv Oblast, on the afternoon of 27 November killed seven people and injured seven, Ukraine's State Emergency Service said after rescuers finished searching the rubble on 28 November and pulled one person out alive. Local authorities said Russian attacks killed 10 people and injured 55 nationwide over the day, including three in Sloviansk and one each in Chernihiv, Malyn and Zaporizhzhia. Russia also launched 162 drones overnight into 28 November, of which Ukraine's Air Force said 141 were intercepted. It matters because Russia is keeping up daily strikes on Ukrainian towns and energy sites as winter sets in and Zelensky warns of another mass attack."
+  sources:
+  - {label: "Ukrinform: Seven killed as rescue operation concludes after Russian attack on Nizhyn", url: "https://www.ukrinform.net/rubric-ato/4189499-seven-killed-as-rescue-operation-concludes-after-russian-attack-on-nizhyn.html"}
+  - {label: "Kyiv Independent: Russian attacks kill 10, injure 55 across Ukraine over past day", url: "https://kyivindependent.com/russian-attacks-kill-10-injure-55-across-ukraine-over-past-day-as-deadly-strike-hits-chernihiv-oblast-businesses"}
+  - {label: "Kyiv Post: 3 killed in Russian attacks on Chernihiv region, people feared trapped in Nizhyn", url: "https://www.kyivpost.com/post/91428"}
+- date: '2026-11-27'
+  countries: [UKR, USA, RUS]
+  category: diplomatic
+  conflict: russia-ukraine-war
+  headline: "Zelensky likens Trump calling Putin a friend to befriending Hitler, and the Kremlin says he is blocking peace"
+  summary: "In a BBC interview, Zelensky called Trump's description of Putin as his friend 'strange', saying of the Russian leader 'He can't be a friend' and comparing it to calling Hitler a friend during the Second World War. He said US-led talks in Abu Dhabi had made no clear progress and should resume in December, and complained that Washington was delaying Patriot interceptors while focusing on the Middle East. Kremlin spokesman Dmitry Peskov said Zelensky was 'insulting his counterpart' and showing he did not want a settlement. It matters because it is Zelensky's sharpest public rebuke of Trump since 2025, as relations with Washington sour over the peace terms and air defence."
+  sources:
+  - {label: "PBS News (AP): Zelenskyy urges the U.S. to pressure Putin, calling Trump's 'my friend' remark strange", url: "https://www.pbs.org/newshour/world/zelenskyy-urges-the-u-s-to-pressure-putin-calling-trumps-my-friend-remark-strange"}
+  - {label: "CBS News: Zelenskyy likens Trump calling Putin 'my friend' to Hitler being viewed as friend during World War II", url: "https://www.cbsnews.com/news/zelenskyy-trump-calling-putin-friend-like-hitler-viewed-friend-wwii"}
+  - {label: "Plataforma Media: Zelensky calls Trump's 'my friend' remark on Putin 'strange' and urges more US pressure", url: "https://www.plataformamedia.com/en/2026/11/27/volodymyr-zelenskyy-criticizes-donald-trump-calling-vladimir-putin-my-friend-and-urges-us-pressure"}
+- date: '2026-11-27'
+  countries: [SRB]
+  category: political
+  headline: "Serbia's student movement names chemistry professor Radomir Saicic for the 27 December presidential election"
+  summary: "A day after acting president and parliament speaker Aleksandar Cupic called an early presidential election for 27 December, the student movement that won October's parliamentary vote named Radomir Saicic, a 65-year-old Belgrade chemistry professor and academy member, as its candidate. Saicic promised to keep the presidency within its constitutional limits and to fight corruption, while Vucic's Serbian Progressive Party may sit the race out and will decide at a congress on 13 December. It matters because a win would give the movement that ended Vucic's 14-year dominance both the presidency and a parliamentary majority."
+  sources:
+  - {label: "PBS News (AP): Serbia's student movement proposes a chemistry professor for presidency ahead of Dec. 27 ballot", url: "https://www.pbs.org/newshour/world/serbias-student-movement-proposes-a-chemistry-professor-for-presidency-ahead-of-dec-27-ballot"}
+  - {label: "bne IntelliNews: Serbia's Student List names chemistry professor Radomir Saicic as presidential candidate", url: "https://www.intellinews.com/serbia-s-student-list-names-chemistry-professor-radomir-saicic-as-presidential-candidate-489122?source=serbia"}
+  - {label: "The Straits Times (Reuters): Serbia presidential election set for December 27", url: "https://www.straitstimes.com/world/europe/serbia-presidential-election-set-for-december-27"}
+- date: '2026-11-27'
+  countries: [SDN, SSD]
+  category: military
+  conflict: sudan-saf-rsf
+  headline: "Sudan's army says it has retaken Maganza near Ed Damazin, as more than 14,000 people flee Blue Nile for South Sudan"
+  summary: "Sudan's army said its 4th Infantry Division drove the RSF and its SPLM-N allies out of Khor Maganza, about 22 to 30 km south of the Blue Nile capital Ed Damazin, after the alliance claimed the area last week. The RSF did not comment. Army reinforcements, including Abu Aqla Keikel's Sudan Shield Forces, have arrived in the city, and military sources say more than 15,000 troops are now there. A civil society group said more than 14,000 people reached Renk in South Sudan in a week, and the UN-led Protection Cluster counts about 47,460 people displaced in Blue Nile since early November. It matters because Ed Damazin is the main prize in the RSF's new eastern push, and the fighting is spilling refugees into South Sudan."
+  sources:
+  - {label: "Sudan Tribune: Sudanese army retakes Khor Maganza in Blue Nile state", url: "https://sudantribune.com/article/321717"}
+  - {label: "Asharq Al-Awsat: Military sources: Sudanese army recaptures strategic town in Blue Nile", url: "https://english.aawsat.com/arab-world/5346343-military-sources-sudanese-army-recaptures-strategic-town-blue-nile"}
+  - {label: "ReliefWeb: Protection Cluster alert on Blue Nile State, 27 November 2026", url: "https://reliefweb.int/report/sudan/protection-cluster-alert-escalating-conflict-mass-displacement-and-protection-risks-blue-nile-state-27-november-2026"}
+  - {label: "Sudan Tribune: Thousands flee escalating clashes in Sudan's Blue Nile and Kordofan regions", url: "https://sudantribune.com/article/321730"}
+- date: '2026-11-27'
+  countries: [ETH, ERI]
+  category: military
+  conflict: ethiopia-eritrea-standoff
+  headline: "Ethiopian troops push to the Badme border area, as Eritrea tells UN officials an Ethiopian invasion is coming"
+  summary: "The conflict monitor ACLED says Ethiopia's army and the government-allied Tigray Peace Force took 'complete control' of Gual Gemhalo, a village a few kilometres from Badme, on 26 November after fighting overnight with Eritrean and Tigrayan forces, and are advancing toward Sembel. Residents told the BBC they fled air strikes, drones and heavy weapons fire and believed the army was fighting Tigrayan forces, and direct clashes between the two national armies have not been independently confirmed. In remarks published by the Eritrean government on 26 November, the same day Abiy Ahmed said he would not invade for sea access, information minister Yemane Gebremeskel told UN officials that 'Ethiopia is set to launch a massive war of aggression against Eritrea'. It matters because fighting has now reached the border where the two countries fought their 1998 to 2000 war, raising the risk of a direct interstate conflict."
+  sources:
+  - {label: "ACLED: Conflict in Ethiopia (alerts on Gual Gemhalo)", url: "https://acleddata.com/country/conflict-ethiopia"}
+  - {label: "DNE Africa: Badme fighting in Ethiopia's Tigray drives villagers from homes", url: "https://africa.dailynewsegypt.com/badme-fighting-tigray/"}
+  - {label: "Dawan Africa: Eritrea tells UN Ethiopia planning 'massive war' for sea access", url: "https://www.dawan.africa/news/eritrea-tells-un-ethiopia-planning-massive-war-for-sea-access-urges-pressure"}
+- date: '2026-11-27'
+  countries: [PSE, ISR]
+  category: humanitarian
+  conflict: israel-hamas-gaza
+  headline: "An Israeli strike kills two MSF guards outside a Gaza City clinic, and Hamas says its leader's son survived an assassination attempt"
+  summary: "Medecins Sans Frontieres said two of its watchmen were killed late on 27 November in a 'direct hit' on a clearly marked clinic near al-Shifa hospital whose location Israel knew, bringing its staff death toll in Gaza to 17; the Israeli military confirmed the strike and named the men as Hamas members. Gaza's civil defence said Israeli attacks killed seven people across the territory that day, and Hamas said Izz al-Din al-Hayya, son of its chief Khalil al-Hayya, survived a strike on a Gaza City flat. It matters because strikes on Hamas figures are escalating despite the October 2025 ceasefire, with more than 1,650 Palestinians killed since the truce began by an AFP tally."
+  sources:
+  - {label: "Reuters via Internazionale: Israeli strike killed two staff outside Gaza clinic, MSF says", url: "https://www.internazionale.it/ultime-notizie-reuters/2026/11/28/israeli-strike-killed-two-staff-outside-gaza-clinic-msf-says"}
+  - {label: "RTE/AFP: MSF 'devastated' after two staff killed in Israeli strike", url: "https://www.rte.ie/news/middle-east/2026/1128/1600979-israeli-strike-gaza"}
+  - {label: "The News/AFP: Israeli strikes kill seven across Gaza, Hamas says chief's son survives attack", url: "https://www.thenews.pk/story/1451212-israeli-strikes-kill-seven-across-gaza-hamas-says-chiefs-son-survives-attack"}
+- date: '2026-11-28'
+  countries: [NZL]
+  category: political
+  headline: "Luxon opens formal talks with the Opportunity Party after ruling it out during the campaign"
+  summary: "New Zealand's caretaker prime minister Christopher Luxon said formal coalition negotiations with ACT, New Zealand First and the Opportunity Party would begin at once, warning they 'may be challenging' and 'could take some time'. Opportunity leader Qiulae Wong said a coalition, a confidence and supply deal or sitting on the crossbenches were all possible if its bottom lines were met, and did not rule out a fresh election; Labour leader Chris Hipkins said Labour was not in a position to form a government. It matters because the right-wing bloc holds 65 of 130 seats, one short of a majority, so a first ever four-party arrangement or a new election are the only ways forward."
+  sources:
+  - {label: "RNZ: National needs NZ First, ACT and Opportunity to govern. Here's what to expect from coalition talks", url: "https://www.rnz.co.nz/news/politics_election-2026/2844966/national-needs-nz-first-act-and-opportunity-to-govern-here-s-what-to-expect-from-coalition-talks"}
+  - {label: "interest.co.nz: National leader Christopher Luxon says formal negotiations will begin, could be challenging", url: "https://www.interest.co.nz/public-policy/141253/national-leader-christopher-luxon-says-negotiations-will-be-challenging-and"}
+- date: '2026-11-27'
+  countries: [ZAF]
+  category: political
+  headline: "Zuma's MK party wins its first metro as the ANC helps elect Mxolisi Phakathi mayor of Durban"
+  summary: "The eThekwini (Durban) council elected Mxolisi Phakathi of the uMkhonto weSizwe (MK) party as mayor by 139 votes to 75 for the Democratic Alliance's Haniff Hoosen, ending the ANC's hold on the city since the metro was created in 2000. The ANC took the speaker and chief whip posts under a deal with MK, rejecting a last-minute DA offer of the mayoralty. MK also took the Msunduzi (Pietermaritzburg) mayoralty with ANC backing. It matters because the ANC has sided with Jacob Zuma's party against its own provincial and national coalition partners, which strains the KwaZulu-Natal unity government and the national coalition with the DA."
+  sources:
+  - {label: "eThekwini Municipality: Council elects political leadership for 2026-2031 term", url: "https://durban.gov.za/press-statement/ethekwini-council-elects-political-leadership-for-2026-2031-term"}
+  - {label: "News24: End of ANC's eThekwini reign as MK Party takes mayorship", url: "https://www.news24.com/politics/end-of-ancs-ethekwini-reign-as-mk-party-takes-mayorship-20261127-0851"}
+  - {label: "Daily Maverick: ANC deal gets MK mayor elected in eThekwini, realigning KZN politics", url: "https://www.dailymaverick.co.za/article/2026-11-27-anc-deal-gets-mk-mayor-elected-in-ethekwini-realigning-kzn-politics"}
+- date: '2026-11-27'
+  countries: [KEN]
+  category: political
+  headline: "Kenyan cult leader Paul Mackenzie is convicted of the manslaughter of 123 followers in the last Shakahola trial"
+  summary: "A Mombasa High Court judge found Paul Mackenzie and 18 others guilty of 123 counts of manslaughter for urging followers of his Good News International Church to fast to death, and convicted 10 more on 104 counts each. His wife, Rhoda Mumbua Maweu, was convicted on one count, while 60 accused were acquitted and prosecutors plan to appeal. Mackenzie is already serving a 200-year sentence for murdering children, and more than 400 bodies were found in Shakahola Forest from 2023. It matters because the verdict closes the last of the trials over one of the deadliest cult tragedies of modern times and gives survivors and families a measure of justice."
+  sources:
+  - {label: "AP: Kenya cult leader found guilty of manslaughter of over 100 followers", url: "https://apnews.com/article/kenya-cult-paul-mackenzie-manslaughter-conviction-6f37fe64e35fc34ed5117809a4dea4d3"}
+  - {label: "Al Jazeera: Kenyan cult leader guilty of manslaughter over 123 starvation deaths", url: "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths"}
+  - {label: "The Star: Shakahola massacre: Mackenzie, 29 followers found guilty of manslaughter", url: "http://the-star.co.ke/news/2026-11-27-shakahola-fast-to-death-cult-mackenzie-29-followers-convicted"}
+  good: true
+- date: '2026-11-26'
+  countries: [IRQ, IRN, SYR]
+  category: political
+  headline: "Baghdad shuts two Kurdish-run border crossings with Syria and Iran as thousands protest in Erbil"
+  summary: "Iraqi federal border forces closed the al-Waleed crossing with Syria and the Bashta crossing with Iran, both run until now by the Kurdistan Regional Government, a day after the top court backed Prime Minister Ali al-Zaidi's order to take over Kurdish-run crossings and oilfields. Thousands rallied in Erbil against the moves, while the government denied sending troops north and said Zaidi wanted to 'protect the people of Kurdistan, not threaten them'. Iraq has also shut other crossings with Iran after a US request to keep only two open. It matters because the dispute tests Baghdad-Erbil relations ahead of the 1 December national dialogue and tightens the squeeze on one of Iran's main land trade routes."
+  sources:
+  - {label: "The National: Iraqi government closes two border crossing with Iran and Syria", url: "https://www.thenationalnews.com/news/mena/2026/11/27/iraqs-government-closes-two-border-crossing-with-iran-and-syria"}
+  - {label: "i24NEWS: Iraq shuts two Kurdish-run border crossings with Syria and Iran", url: "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-iraq-shuts-two-kurdish-run-border-crossings-with-syria-and-iran"}
+  - {label: "Iran International: Iraq shuts more border crossings with Iran under US pressure to seal land routes", url: "https://www.iranintl.com/en/202611277238"}
+- date: '2026-11-26'
+  countries: [MMR]
+  category: military
+  conflict: myanmar-civil-war
+  headline: "Junta airstrike on a school and monastery in Myanmar's Magway region reportedly kills at least 18, including children"
+  confidence: reported
+  summary: "A Myanmar military airstrike hit an area between a school and a Buddhist monastery in Inyone village, Sinbaungwe township, on 26 November, killing at least 18 people including several schoolchildren, Myanmar Now reported, citing residents and the opposition National Unity Government, which controls the area. The resistance-aligned outlet m.CDM reported a far higher toll of at least 45, including more than 30 students, but the full count has not been independently confirmed because villagers fled and communications were cut. It matters because it is among the deadliest air attacks on civilians in recent months and comes a week after the World Court ruled that Myanmar committed genocide against the Rohingya."
+  sources:
+  - {label: "Myanmar Now: Myanmar junta airstrike kills at least 18, including schoolchildren, in Magway Region", url: "https://myanmar-now.org/en/news/myanmar-junta-airstrike-kills-at-least-18-including-schoolchildren-in-magway-region/"}
+  - {label: "m.CDM: Domestic News 28 November 2026", url: "https://info.radionug.org/2026/11/mcdm-domestic-news-28-november-2026.html"}
+- date: '2026-11-26'
+  countries: [VEN, USA]
+  category: political
+  headline: "Venezuela will repeal the 2024 law that threatened opposition figures with 60-year bans from office"
+  summary: "National Assembly speaker Jorge Rodriguez said parliament will begin repealing the Simon Bolivar law on 1 December, after talks between the interim government of Delcy Rodriguez and a US-backed sector of the opposition. The 2024 law provided prison terms of 25 to 30 years and bans of up to 60 years for anyone who backed foreign sanctions, though Rodriguez said it was never applied. He refused to review individual bans case by case, which keep figures such as Maria Corina Machado out of elections, and kept a reformed anti-hate law in place. It matters because it is the first repeal to come out of the US-sponsored dialogue, but leaves open whether opposition leaders will be allowed to run."
+  sources:
+  - {label: "Al Jazeera (AFP): Venezuela to repeal law that bans opposition figures from office", url: "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office"}
+  - {label: "BBC: Venezuela to scrap law that bars opposition from public office", url: "https://www.bbc.com/news/articles/c58j4pw9xjrlo"}
+  - {label: "Efecto Cocuyo: Rodriguez anuncia derogacion de Ley Simon Bolivar pero niega revision de inhabilitaciones caso por caso", url: "https://efectococuyo.com/politica/rodriguez-anuncia-derogacion-de-ley-simon-bolivar-pero-niega-revision-de-inhabilitaciones-caso-por-caso"}
+  good: true
+- date: '2026-11-27'
+  countries: [MEX, USA]
+  category: diplomatic
+  conflict: mexico-cartel-war
+  headline: "Mexico files a formal complaint with the US over a DEA tip line on cartels and corrupt Mexican officials"
+  summary: "President Claudia Sheinbaum said Foreign Minister Roberto Velasco lodged a formal complaint with US ambassador Ronald Johnson, who said he would look into it, over a DEA tip line launched this week, starting with Sinaloa, that asks for information on cartel members and officials who help them. Sheinbaum called it interference and said the relationship with the United States is one of coordination, not subordination. The row comes days after Mexican forces, backed by US intelligence, captured cartel leader 'El Chapo Isidro'. It matters because US pressure over alleged links between Mexican politicians and cartels is becoming the main strain in otherwise close security cooperation."
+  sources:
+  - {label: "La Jornada: México presenta queja formal ante embajador de EU por iniciativa de DEA de líneas de denuncia", url: "https://www.jornada.com.mx/noticia/2026/11/27/politica/mexico-presenta-queja-formal-ante-embajador-de-eu-por-iniciativa-de-dea-de-lineas-de-denuncia"}
+  - {label: "Infobae: México presentó queja a EEUU por líneas telefónicas para denunciar a narcoterroristas en Sinaloa", url: "https://www.infobae.com/mexico/2026/11/27/mexico-presento-queja-en-embajada-de-eeuu-por-apertura-de-lineas-telefonicas-para-denunciar-a-funcionarios-y-narcoterroristas-en-sinaloa"}
+  - {label: "WMBD (Reuters): Mexico files complaint with US over DEA tip line on alleged drug traffickers, corrupt officials", url: "https://wmbdradio.com/2026/11/27/mexico-files-complaint-with-us-over-dea-tip-line-on-alleged-drug-traffickers-corrupt-officials"}
+  - {label: "Los Angeles Times: Mexico files formal complaint to U.S. over DEA tip line", url: "https://www.latimes.com/world-nation/story/2026-11-27/mexico-files-formal-complaint-to-u-s-over-dea-tip-line?rand=643"}
 - date: '2026-11-27'
   countries: [NZL]
   category: political
@@ -4509,6 +4707,27 @@ news:
   - label: 'Estonian World: Ulle Madise takes office as Estonia''s president with call to rebuild trust'
     url: https://estonianworld.com/life/ulle-madise-takes-office-as-estonias-president-with-call-to-rebuild-trust/
 upcoming:
+- date: '2026-11-30'
+  countries: [GEO]
+  event: "Georgia's Constitutional Court resumes hearings on Georgian Dream's lawsuit to ban five opposition parties"
+- date: '2026-11-29'
+  countries: [ISR]
+  event: "Coalition talks between Gadi Eisenkot's Yashar and Naftali Bennett's party, postponed from 26 November"
+- date: '2026-12-01'
+  countries: [VEN]
+  event: "Venezuela's National Assembly begins repealing the 2024 Simon Bolivar law"
+- date: '2026-12-07'
+  countries: [SRB]
+  event: "Deadline for nominating candidates in Serbia's 27 December presidential election"
+- date: '2026-12-13'
+  countries: [SRB]
+  event: "Serbian Progressive Party congress decides whether to field a presidential candidate"
+- date: '2026-12-11'
+  countries: [ETH]
+  event: "Deadline for holders of Ethiopia's defaulted $1 billion Eurobond to accept a swap into new bonds, with settlement targeted for 18 December"
+- date: '2026-12-14'
+  countries: [FJI]
+  event: "Fiji's parliament sits (14 to 18 December), with a week of debate due on the Constitution (Amendment) Bill before a possible referendum"
 - date: '2026-12-02'
   countries: [USA]
   event: "NATO foreign ministers meet in Brussels"

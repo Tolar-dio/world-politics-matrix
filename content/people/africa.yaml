@@ -119,7 +119,7 @@ SWZ:
 ETH:
   eat: ["Injera with doro wat, a spicy chicken stew for holidays", "Shiro, a chickpea stew, on fasting days", "Kitfo, raw minced beef with spiced butter"]
   listen: ["Ethio-jazz, Mulatu Astatke's 1970s fusion", "Teddy Afro, the most popular singer of his generation", "Azmari singers who improvise verses in bars"]
-  argue: ["Fighting in Amhara and Oromia", "Prime Minister Abiy and his megaprojects", "Prices after the birr was floated"]
+  argue: ["The new Tigray war and the risk of war with Eritrea", "Prime Minister Abiy and his megaprojects", "Prices after the birr was floated"]
   say: {lang: am, name: Amharic, phrases: [["Selam", "Hello", "seh-LAHM"], ["Ameseginalehu", "Thank you", "ah-meh-seg-ee-NAH-leh-hoo"]]}
 
 GAB:

@@ -506,11 +506,17 @@ MEX:
   society: >-
     Mexico is the United States' largest trading partner, and its factories are deeply woven into North American supply chains. Cartels control territory, extort businesses and drive a homicide rate that has topped 30,000 a year. More than 100,000 people are officially missing. Morena's dominance and a judicial overhaul have raised concerns about checks and balances.
   update: >-
-    Guadalupe Taddei resigned as head of the National Electoral Institute on 26 October after reports of
-    irregular contracts prompted a federal audit, the first such resignation since 1990, with federal
-    elections due on 6 June 2027. Opposition pioneer Cuauhtemoc Cardenas died on 28 October aged 92.
-  update_date: 2026-10-31
+    On 20 November soldiers captured Fausto Isidro Meza Flores, 'El Chapo Isidro', one of the FBI's most
+    wanted fugitives, in Sinaloa after a deadly firefight, and Mexico says it will try him at home
+    despite a US extradition request. On 27 November Sheinbaum said Mexico had filed a formal complaint
+    after the US DEA opened a tip line for reports on cartels and the officials who help them, calling
+    it interference and saying the relationship is one of coordination, not subordination. Federal
+    midterm elections are due in June 2027.
+  update_date: 2026-11-28
   sources_extra:
+    - {label: "France 24 (AFP): Mexico captures drug cartel boss 'El Chapo Isidro' after deadly firefight", url: "https://www.france24.com/en/americas/20261121-mexico-captures-drug-cartel-boss-el-chapo-isidro-after-deadly-firefight"}
+    - {label: "Al Jazeera: Mexico to try 'El Chapo Isidro' despite US extradition request", url: "https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request"}
+    - {label: "Los Angeles Times: Mexico files formal complaint to U.S. over DEA tip line", url: "https://www.latimes.com/world-nation/story/2026-11-27/mexico-files-formal-complaint-to-u-s-over-dea-tip-line"}
     - {label: "Mexico News Daily: INE president resigns", url: "https://mexiconewsdaily.com/politics/ine-president-resigns/"}
     - {label: "La Jornada: Recibe Camara de Diputados oficio de renuncia de Guadalupe Taddei al INE", url: "https://www.jornada.com.mx/noticia/2026/10/26/politica/recibe-camara-de-diputados-oficio-de-guadalupe-taddei-de-renuncia-al-ine"}
     - {label: "Mexico News Daily: Sheinbaum pays tribute to Cuauhtemoc Cardenas", url: "https://mexiconewsdaily.com/politics/sheinbaum-tribute-cuauhtemoc-cardenas-october-29-mananera/"}

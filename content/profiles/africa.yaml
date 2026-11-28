@@ -499,16 +499,18 @@ ETH:
   society: >-
     With some 135 million people, Ethiopia is Africa's second most populous country. State-led growth built roads, industrial parks and the Grand Ethiopian Renaissance Dam on the Blue Nile, inaugurated in 2025 over Egypt's objections. The 2020 to 2022 Tigray war killed hundreds of thousands. Inflation and a 2024 currency float have squeezed households.
   update: >-
-    War returned to Tigray in late September. After the TPLF and allied armed groups attacked from about
-    22 September, federal forces and the allied Tigray Peace Force retook Mekelle in early October, then
-    Shire, Adigrat, Adwa and Axum, and reached the Eritrean border at Zalambessa. Ethiopia and Eritrea
-    cut diplomatic ties on 1 October, and Tigray is under six months of federal interim rule. The
-    government leans heavily on drones, and Fano keeps attacking supply lines in Amhara. Violence is
-    spreading elsewhere: clashes over the border town of Moyale have driven about 50,000 people into
-    Kenya, and on 5 and 6 November an attack in Benishangul-Gumuz's Assosa zone killed 52 people,
-    according to regional police, who blamed the Oromo Liberation Army.
-  update_date: 2026-11-10
+    The Tigray war has moved to the Eritrean border. After Eritrean troops retook the border town of
+    Badme in mid-November, federal forces and the allied Tigray Peace Force advanced on nearby villages
+    and, according to the conflict monitor ACLED, took Gual Gemhalo on 26 November after overnight
+    fighting with Eritrean and Tigrayan forces. Both countries are massing troops along the frontier.
+    Abiy Ahmed told parliament on 26 November that Eritrea must stop arming Ethiopia's enemies, while
+    saying Ethiopia would not invade for sea access, and Eritrea told UN officials the same day that
+    Ethiopia was preparing 'a massive war of aggression'.
+  update_date: 2026-11-28
   sources_extra:
+    - {label: "ACLED: Conflict in Ethiopia", url: "https://acleddata.com/country/conflict-ethiopia"}
+    - {label: "Addis Standard: 'Stop arming Ethiopia's enemies', Abiy tells Eritrea", url: "https://addisstandard.com/stop-arming-ethiopias-enemies-abiy-tells-eritrea-says-addis-abeba-seeks-red-sea-access-through-dialogue/"}
+    - {label: "Dawan Africa: Eritrea tells UN Ethiopia planning 'massive war' for sea access", url: "https://www.dawan.africa/news/eritrea-tells-un-ethiopia-planning-massive-war-for-sea-access-urges-pressure"}
     - {label: "Africanews (AFP): Drone strikes kill at least 25", url: "https://www.africanews.com/2026/10/31/drone-strikes-in-ethiopia-kill-at-least-25-witnesses/"}
     - {label: "Africanews: Ethiopia's federal forces retake Tigrayan capital Mekelle", url: "https://www.africanews.com/2026/10/05/ethiopias-federal-forces-retake-tigrayan-capital-mekelle/"}
     - {label: "Al Jazeera: Ethiopian troops capture Adwa without a fight", url: "https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say"}
@@ -707,9 +709,18 @@ LBY:
   society: >-
     Africa's largest proven oil reserves fund public salaries and subsidies for most Libyans, but militias, rival central bank claims and blockades disrupt income. Libya is a main departure point for migrants crossing to Italy, many held in abusive detention centres. Floods in Derna in 2023 killed thousands after dams burst.
   update: >-
-    On 2 November the eastern-based House of Representatives appointed Fawzi Abu Khazam governor of the Central Bank of Libya after accepting Naji Issa's resignation, and he formally took over on 8 November; the rival High Council of State in Tripoli had not endorsed the move. It follows October's removal of Aguila Saleh as speaker after 12 years, which analysts link to Saddam Haftar's consolidation of power in the east. The UN Security Council has extended its Libya mission to October 2027, and the UN-mediated plan for elections within two years still stands.
-  update_date: 2026-11-09
+    On 22 November sea drones sank a Russian warship docked at Benghazi's naval base and struck a
+    merchant ship offshore; Ukraine claimed the attacks, and the UN mission called for an independent
+    investigation and warned that Libya must not become a battleground for foreign conflicts. The
+    eastern-based House of Representatives then proposed a joint committee with Tripoli's High State
+    Council to unify state institutions and prepare elections, and Khalifa Haftar visited Turkey at
+    President Erdogan's invitation on 24 November, a sign of how far Ankara and Benghazi have come since
+    the 2019 to 2020 war.
+  update_date: 2026-11-28
   sources_extra:
+    - {label: "UN News: Libya, UN mission urges probe into Benghazi port attacks", url: "https://news.un.org/en/story/2026/11/1168857"}
+    - {label: "Libya Herald: HoR launches initiative to unify state institutions", url: "https://libyaherald.com/2026/11/hor-launches-initiative-to-unify-state-institutions-and-renew-political-legitimacy-calls-for-joint-hor-hsc-committee"}
+    - {label: "Agenzia Nova: Haftar forces on three fronts after Ukrainian attacks in Benghazi", url: "https://www.agenzianova.com/en/news/libia-gli-haftar-su-tre-fronti-dopo-gli-attacchi-ucraini-a-bengasi-ankara-doha-e-cairo/"}
     - {label: "Reuters: Libya's eastern parliament appoints Fawzi Abu Khazam central bank governor", url: "https://www.reuters.com/world/africa/libyas-eastern-parliament-appoints-fawzi-abu-khazam-central-bank-governor-2026-11-02"}
     - {label: "Central Bank of Libya: Final handover of the governor's responsibilities completed", url: "https://cbl.gov.ly/en/central-bank-of-libya-completes-final-handoverof-governors-responsibilities/"}
     - {label: "Al Jazeera: Libya's parliament removes speaker Aguila Saleh after 12 years", url: "https://www.aljazeera.com/news/2026/10/7/libyas-parliament-removes-speaker-aguila-saleh-after-12-years"}
@@ -725,9 +736,17 @@ MDG:
     Gen Z protests over water and power cuts brought down President Rajoelina in 2025, and an army colonel now runs a transition that promises elections.
   tags: [Gen Z protests, Military transition, Vanilla, Unique wildlife, Cyclones]
   update: >-
-    On 4 November the High Constitutional Court ruled that a constitutional referendum may be held before the next presidential election, backing Colonel Michael Randrianirina's plan to change the institutions first; he has promised elections by the end of 2027. The national consultation meant to shape the new constitution, now led by the FFKM council of churches, is running late, as Randrianirina acknowledged on 8 November.
-  update_date: 2026-11-09
+    Cracks are opening in Colonel Michael Randrianirina's coalition. In a night session on 23 to 24
+    November the National Assembly removed its speaker, Siteny Randrianasoloniaiko, a close ally of the
+    military, and deputies of Marc Ravalomanana's TIM party walked out of the vote for his successor,
+    signalling a break with the regime. Randrianirina has also scolded officials over delays to the
+    national consultation meant to shape a new constitution, and says a referendum will come first, in
+    2027, with elections within two years.
+  update_date: 2026-11-28
   sources_extra:
+    - {label: "Linfodrome: Madagascar, les députés destituent un proche des militaires au pouvoir", url: "https://www.linfodrome.com/international/128020-madagascar-en-pleine-transition-les-deputes-destituent-un-proche-des-militaires-au-pouvoir"}
+    - {label: "allAfrica (Midi Madagasikara): Assemblée nationale, le TIM boycotte le vote", url: "https://fr.allafrica.com/stories/202611260455.html"}
+    - {label: "Newsmada: Elections dans deux ans", url: "https://newsmada.com/2026/11/20/elections-dans-deux-ans-michael-randrianirina-presse-les-responsables-daccelerer-les-choses/"}
     - {label: "Le Quotidien de La Réunion: La justice valide le principe d'un référendum pour changer de système", url: "http://www.lequotidien.re/article/politique/2026/11/06/la-justice-valide-le-principe-d-un-referendum-pour-changer-de-systeme"}
     - {label: "Madagascar-Tribune: Concertation nationale, le retard inquiète le président de la Refondation", url: "https://madagascar-tribune.com/Concertation-nationale-le-retard-inquiete-le-president-de-la-Refondation-veut.html"}
   culture: >-

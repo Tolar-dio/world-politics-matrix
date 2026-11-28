@@ -35,17 +35,19 @@ IRN:
   society: >-
     Iran has a young, highly educated population, with more women than men in universities, yet faces mandatory hijab laws that sparked the 2022 "Woman, Life, Freedom" protests. Sanctions and mismanagement have driven high inflation and a collapsing currency. The Revolutionary Guard controls large parts of the economy. Ethnic Kurds, Baluch, Azeris and Arabs have their own grievances.
   update: >-
-    The war is in a tense stalemate. The US blockade of Iranian ports continues, a new US task force
-    targets Iran's land and Caspian routes, and Iran keeps Hormuz all but closed, saying it is mining
-    unauthorised routes. After limited US strikes on Qeshm Island in early November, Trump said on 9
-    November, after meeting Qatar's prime minister, that Iran was 'militarily effectively over', that
-    there was 'positive momentum' toward a deal and that new strikes were 'quite unlikely'. Tehran says
-    talks depend on seven conditions, including lifting the blockade and sanctions, releasing frozen
-    funds and ending the war on all fronts, and that Hormuz could reopen within two days if they are
-    met. France blamed the Revolutionary Guards on 9 November for cyber sabotage of supermarket fridges
-    and is seeking EU sanctions.
-  update_date: 2026-11-10
+    Hopes of a deal faded in late November. Trump said on 22 November that US strikes could resume after
+    the New Year, and the next day Iran's army chief, citing orders from Supreme Leader Mojtaba
+    Khamenei, told the navy to close the Strait of Hormuz 'further day by day' until Iran's conditions
+    are met. The Revolutionary Guards say mines have hit tankers sailing under US escort, Bahrain and
+    Kuwait accuse Iran of new strikes on their territory, and the US keeps disabling ships that try to
+    run its blockade of Iranian ports, the sixth on 26 November. Qatar and Pakistan are still relaying
+    proposals, but Tehran says talks depend on the US first lifting the blockade and sanctions.
+  update_date: 2026-11-28
   sources_extra:
+    - {label: "Euronews: Iran orders Hormuz closed 'further day by day' as Qatar seeks to revive peace talks", url: "https://www.euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks"}
+    - {label: "AFP: Bahrain says Iran struck industrial site as tankers hit in Hormuz", url: "https://www.afp.com/en/bahrain-says-iran-struck-industrial-site-tankers-hit-hormuz"}
+    - {label: "Arab News PK: Iran says Pakistan, Qatar still relaying proposals to US", url: "https://www.arabnews.pk/pakistan/iran-says-pakistan-qatar-still-relaying-proposals-to-us-as-hormuz-dispute-persists-3008212"}
+    - {label: "US News (Reuters): US disables ship trying to leave Iran, as Tehran vows to confront blockade", url: "https://www.usnews.com/news/world/articles/2026-11-27/us-disables-ship-trying-to-leave-iran-as-tehran-vows-to-confront-blockade"}
     - {label: "Al Jazeera: Iran warns of unfettered retaliation", url: "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace"}
     - {label: "Middle East Eye: Araghchi on a two-day Hormuz plan", url: "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-says-hormuz-could-be-reopened-two-days-if-conditions-met"}
     - {label: "Reuters: Iran's parliament approves Mehrdad Akhlaqi as defence minister", url: "https://www.reuters.com/world/middle-east/irans-parliament-approves-mehrdad-akhlaqi-minister-defence-state-media-2026-10-18/"}

@@ -935,22 +935,23 @@ SRB:
   society: >-
     Serbia balances between the EU, which it hopes to join, and Russia and China, which back it on Kosovo and invest in its economy. The 2024 collapse of a railway station canopy in Novi Sad, which killed 16 people, set off the biggest protest movement in decades, led by students. Media freedom has declined under Vučić.
   update: >-
-    On 25 October the Student List won Serbia's early parliamentary election, ending 14 years of
-    Progressive Party rule, and Vučić conceded. Final results published by the electoral commission on 5
-    November gave the Student List 53 percent and 140 of 250 seats, Vučić's United Serbia 39 percent and
-    103 seats, and minority lists seven. Parliament must meet within 30 days of the final results, after
-    which a government needs 126 votes within 90 days; the Student List has not named its candidate for
-    prime minister, with former central bank governor Dejan Šoškić saying he would consider the job. Ana
-    Brnabić remains acting president, and a presidential election must be held by 27 December. The new
-    parliament met for the first time on 17 November, with Vučić taking his seat as opposition leader;
-    the speaker it elects becomes acting president, and the 90-day clock to form a government has
-    started. The presidential election must be called by 27 November.
-  update_date: 2026-11-17
+    The Student List won the 25 October early election with 140 of 250 seats, ending 14 years of
+    Progressive Party rule. The new parliament met on 17 November and on 19 November elected Student
+    List MP Aleksandar Čupić as speaker, which makes him acting president. On 26 November he set the
+    presidential election for 27 December, and the next day the student movement named chemistry
+    professor Radomir Saičić as its candidate, while Vučić's party will decide at a congress on 13
+    December whether to field one. The Student List has still not named a prime minister; a government
+    must be formed by 15 February 2027.
+  update_date: 2026-11-28
   holders: >-
-    Acting President Ana Brnabić, speaker of the outgoing parliament; a caretaker government serves
-    until the Student List, which won 140 of 250 seats, forms one. It has not yet named its candidate
-    for prime minister.
+    Acting President Aleksandar Čupić, speaker of parliament, since 19 November 2026; a caretaker
+    government serves until the Student List, which won 140 of 250 seats, forms one. It has not yet
+    named its candidate for prime minister.
   sources_extra:
+    - {label: "Government of Serbia: Aleksandar Čupić voted in as Serbian parliament speaker", url: "https://www.srbija.gov.rs/vest/en/291246/aleksandar-cupic-voted-in-as-serbian-parliament-speaker.php"}
+    - {label: "AP: Serbia sets presidential election for Dec. 27", url: "https://apnews.com/article/serbia-presidential-election-students-vucic-b069d30d098006f9d4ed21e6b82731c4"}
+    - {label: "PBS News (AP): Serbia's student movement proposes a chemistry professor for presidency", url: "https://www.pbs.org/newshour/world/serbias-student-movement-proposes-a-chemistry-professor-for-presidency-ahead-of-dec-27-ballot"}
+    - {label: "The Star (Reuters): Serbia's student movement yet to name prime minister as deadlines loom", url: "https://www.thestar.com.my/news/world/2026/11/27/serbia039s-student-movement-yet-to-name-prime-minister-as-deadlines-loom"}
     - {label: "Al Jazeera: Election-winning student movement enters Serbia's new parliament", url: "https://www.aljazeera.com/news/2026/11/17/election-winning-student-movement-enters-serbias-new-parliament"}
     - {label: "Government of Serbia: RIK publishes results from all 8,392 polling stations", url: "https://www.srbija.gov.rs/vest/en/290805/rik-publishes-results-from-all-8392-polling-stations.php"}
     - {label: "Vreme: Šoškić would consider the post of prime minister", url: "https://vreme.com/en/vesti/dejan-soskic-premijer-studentska-lista-formiranje-vlade/"}
